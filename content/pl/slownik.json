@@ -1,0 +1,415 @@
+{
+ "jezyk": "pl",
+ "uwaga": "Słownik pojęć strony novusignis.org. Definicje wzięte z dokumentów po audycie (31.10.2026); pole zrodlo wskazuje plik i kotwicę. Szkic Claude’a z nocy 30/31.10, do przejrzenia przez Marcina.",
+ "hasla": [
+  {
+   "id": "suveria",
+   "termin": "Suveria",
+   "warianty": [
+    "Suverii",
+    "Suverię",
+    "Suverią",
+    "Suverio"
+   ],
+   "definicja": "Prywatna przestrzeń w internecie, w której człowiek rozmawia z cyfrową inteligencją, pracuje nad własnymi materiałami i wraca do wcześniejszych myśli, tak jak we własnym domu za zamkniętymi drzwiami. Dziś projekt.",
+   "zrodlo": "whitepaper-suveria.md#s1",
+   "zrodlo_opis": "whitepaper Suverii, rozdział 1"
+  },
+  {
+   "id": "omniforum",
+   "termin": "Omniforum",
+   "warianty": [
+    "Omniforum"
+   ],
+   "definicja": "Wspólna publiczna przestrzeń, w której każdy może się wypowiedzieć na dowolny temat i zostać usłyszany, a z rozmów zostaje dorobek, do którego można wrócić. Dziś pierwszy prototyp w budowie.",
+   "zrodlo": "whitepaper-omniforum.md#s1",
+   "zrodlo_opis": "whitepaper Omniforum, rozdział 1"
+  },
+  {
+   "id": "cyfrowa-inteligencja",
+   "termin": "cyfrowa inteligencja",
+   "warianty": [
+    "cyfrowej inteligencji",
+    "cyfrową inteligencją"
+   ],
+   "definicja": "Określenie, którego używamy zamiast „sztuczna inteligencja”: słowo „cyfrowa” wskazuje na podłoże jej działania, tak jak „biologiczna” wskazuje na podłoże naszej. Oceniamy ją przez działania i ich skutki.",
+   "zrodlo": "manifest.md#s1-1",
+   "zrodlo_opis": "manifest, punkt 1.1"
+  },
+  {
+   "id": "godnosc",
+   "termin": "godność",
+   "warianty": [
+    "godności",
+    "godnością"
+   ],
+   "definicja": "Wartość człowieka niezależna od jego sprawności, produktywności, majątku, poglądów i przydatności innym. Każdemu przysługuje szacunek i własne miejsce w świecie.",
+   "zrodlo": "manifest.md#s2",
+   "zrodlo_opis": "manifest, rozdział 2",
+   "oznaczaj": false
+  },
+  {
+   "id": "spokojna-technologia",
+   "termin": "spokojna technologia",
+   "warianty": [
+    "spokojnej technologii",
+    "spokojną technologią"
+   ],
+   "definicja": "Narzędzia, które wymagają tylko tyle uwagi, ile potrzeba do ich zadania, przekazują istotne informacje i pozwalają wrócić do własnych spraw.",
+   "zrodlo": "manifest.md#s2-3",
+   "zrodlo_opis": "manifest, punkt 2.3"
+  },
+  {
+   "id": "omnium",
+   "termin": "Omnium",
+   "warianty": [
+    "Omnium"
+   ],
+   "definicja": "Otwarta baza publicznego dorobku Omniforum (łac. „wszystkich”), dostępna dla innych aplikacji przez OmniAPI.",
+   "zrodlo": "whitepaper-omniforum.md#s4",
+   "zrodlo_opis": "whitepaper Omniforum, rozdział 4"
+  },
+  {
+   "id": "atom",
+   "termin": "atom",
+   "warianty": [
+    "atomy",
+    "atomów",
+    "atomem",
+    "atomie",
+    "atomu",
+    "atomach",
+    "atomami"
+   ],
+   "definicja": "Najmniejsza cegiełka znaczenia w Omniforum: pojedyncze pojęcie albo jedna konkretna rzecz, nazwana jednym słowem lub kilkoma.",
+   "zrodlo": "whitepaper-omniforum.md#s2",
+   "zrodlo_opis": "whitepaper Omniforum, rozdział 2"
+  },
+  {
+   "id": "molekula",
+   "termin": "molekuła",
+   "warianty": [
+    "molekuły",
+    "molekułę",
+    "molekułą",
+    "molekule",
+    "molekuł",
+    "molekułami",
+    "molekułach"
+   ],
+   "definicja": "Myśl zbudowana z atomów połączonych wiązaniami: twierdzenie, pytanie, wartość albo warunek.",
+   "zrodlo": "whitepaper-omniforum.md#s2",
+   "zrodlo_opis": "whitepaper Omniforum, rozdział 2"
+  },
+  {
+   "id": "etykieta",
+   "termin": "etykieta",
+   "warianty": [
+    "etykiety",
+    "etykietą",
+    "etykietę",
+    "etykiet"
+   ],
+   "definicja": "Słowo, którym nazywamy atom; jeden atom może mieć wiele etykiet, także w różnych językach.",
+   "zrodlo": "whitepaper-omniforum.md#s2",
+   "zrodlo_opis": "whitepaper Omniforum, rozdział 2",
+   "oznaczaj": false
+  },
+  {
+   "id": "wiazanie",
+   "termin": "wiązanie",
+   "warianty": [
+    "wiązania",
+    "wiązaniami",
+    "wiązaniem",
+    "wiązań"
+   ],
+   "definicja": "Związek łączący atomy w molekule, taki jak „jest częścią”, „ma cechę”, „powoduje” czy „zapobiega”.",
+   "zrodlo": "whitepaper-omniforum.md#s2",
+   "zrodlo_opis": "whitepaper Omniforum, rozdział 2",
+   "oznaczaj": false
+  },
+  {
+   "id": "lancuch",
+   "termin": "łańcuch",
+   "warianty": [
+    "łańcuchy",
+    "łańcucha",
+    "łańcuchem",
+    "łańcuchów",
+    "łańcuchu"
+   ],
+   "definicja": "Ciąg molekuł, w którym przesłanki prowadzą do wniosku; przy każdym przejściu zapisujemy, na jakiej regule się opiera, jakie przyjmuje założenia i gdzie ma luki.",
+   "zrodlo": "whitepaper-omniforum.md#s5",
+   "zrodlo_opis": "whitepaper Omniforum, rozdział 5",
+   "oznaczaj": false
+  },
+  {
+   "id": "sprawa",
+   "termin": "sprawa",
+   "warianty": [
+    "sprawy",
+    "sprawę",
+    "sprawą",
+    "sprawie",
+    "spraw"
+   ],
+   "definicja": "Pytanie albo kwestia, do której ktoś chce wracać, bo chce coś zrozumieć, porównać albo wspólnie zrobić.",
+   "zrodlo": "whitepaper-omniforum.md#s5-1",
+   "zrodlo_opis": "whitepaper Omniforum, punkt 5.1",
+   "oznaczaj": false,
+   "lacina": "Causa"
+  },
+  {
+   "id": "mapa-sprawy",
+   "termin": "mapa sprawy",
+   "warianty": [
+    "mapy sprawy",
+    "mapę sprawy",
+    "mapą sprawy",
+    "mapie sprawy",
+    "mapy spraw",
+    "map spraw",
+    "mapach spraw"
+   ],
+   "definicja": "Zestawienie łańcuchów różnych osób, także sprzecznych ze sobą, wraz ze źródłami i otwartymi pytaniami, do którego można wracać.",
+   "zrodlo": "whitepaper-omniforum.md#s5",
+   "zrodlo_opis": "whitepaper Omniforum, rozdział 5",
+   "lacina": "Mappa Causae"
+  },
+  {
+   "id": "karta-idei",
+   "termin": "karta idei",
+   "warianty": [
+    "karty idei",
+    "kartę idei",
+    "kartą idei",
+    "karcie idei"
+   ],
+   "definicja": "Widok, który pokazuje, dokąd chcemy dojść i jaki jest najbliższy krok, ze statusem idei (działa, projekt, hipoteza, wizja) i odpowiedziami na osiem pytań.",
+   "zrodlo": "whitepaper-omniforum.md#s5-2",
+   "zrodlo_opis": "whitepaper Omniforum, punkt 5.2",
+   "lacina": "Charta Ideae"
+  },
+  {
+   "id": "inicjatywa",
+   "termin": "inicjatywa",
+   "warianty": [
+    "inicjatywy",
+    "inicjatywę",
+    "inicjatywą",
+    "inicjatywie",
+    "inicjatyw"
+   ],
+   "definicja": "Propozycja konkretnego działania, która wyrasta z mapy sprawy i karty idei.",
+   "zrodlo": "whitepaper-omniforum.md#s5-3",
+   "zrodlo_opis": "whitepaper Omniforum, punkt 5.3",
+   "oznaczaj": false,
+   "lacina": "Inceptum"
+  },
+  {
+   "id": "ceremonia-ignis",
+   "termin": "Ceremonia Ignis",
+   "warianty": [
+    "Ceremonią Ignis",
+    "Ceremonii Ignis",
+    "Ceremonię Ignis"
+   ],
+   "definicja": "Moment, w którym autor świadomie publikuje myśl w Omniforum. Etap Ignis to pierwsze dzielenie się myślą: myśl powstała w Omniforum przechodzi najpierw przez warsztat Ignis, a myśl dopracowana prywatnie w Suverii publikuje się od razu.",
+   "zrodlo": "whitepaper-omniforum.md#s3",
+   "zrodlo_opis": "whitepaper Omniforum, rozdział 3",
+   "lacina": "Caerimonia Ignis"
+  },
+  {
+   "id": "warsztat-ignis",
+   "termin": "warsztat Ignis",
+   "warianty": [
+    "warsztacie Ignis",
+    "warsztatu Ignis",
+    "warsztatem Ignis"
+   ],
+   "definicja": "Miejsce w Omniforum, w którym autor z pomocą cyfrowej inteligencji rozkłada swoją wypowiedź na molekuły i atomy, potwierdza, że interpretacja oddaje jego intencję, i dopiero potem publikuje.",
+   "zrodlo": "whitepaper-omniforum.md#s3",
+   "zrodlo_opis": "whitepaper Omniforum, rozdział 3",
+   "lacina": "Officina Ignis"
+  },
+  {
+   "id": "terra-incognita",
+   "termin": "Terra Incognita",
+   "warianty": [],
+   "definicja": "Dobrowolna ceremonia w Omniforum, w której nazywamy granicę tego, co dziś potrafimy uzasadnić, i świadomie zaczynamy szukać odpowiedzi na nowe pytanie; możliwe wyjaśnienia oznaczamy wtedy jako hipotezy. Nazwa pochodzi od określenia, którym dawni kartografowie oznaczali niezbadane ziemie. Projekt; jej formę dopiero ustalimy.",
+   "zrodlo": "whitepaper-omniforum.md#s3",
+   "zrodlo_opis": "whitepaper Omniforum, rozdział 3"
+  },
+  {
+   "id": "formatio",
+   "termin": "Formatio",
+   "warianty": [
+    "Formatio"
+   ],
+   "definicja": "Etap po publikacji myśli, w którym społeczność ją rozważa, dokłada argumenty, źródła i zastrzeżenia i szuka konsensusu.",
+   "zrodlo": "whitepaper-omniforum.md#s3",
+   "zrodlo_opis": "whitepaper Omniforum, rozdział 3"
+  },
+  {
+   "id": "consensus",
+   "termin": "Consensus",
+   "warianty": [
+    "Consensus"
+   ],
+   "definicja": "Wspólne ustalenie społeczności, z podaną wersją, zakresem, osobami, które je potwierdziły, i zdaniami odrębnymi; milczenia nie liczymy jako zgody.",
+   "zrodlo": "whitepaper-omniforum.md#s3",
+   "zrodlo_opis": "whitepaper Omniforum, rozdział 3"
+  },
+  {
+   "id": "principium",
+   "termin": "Principium",
+   "warianty": [
+    "Principium"
+   ],
+   "definicja": "Przyjęcie zasady jako własnej, do Osobistego Kanonu.",
+   "zrodlo": "whitepaper-omniforum.md#s5-6",
+   "zrodlo_opis": "whitepaper Omniforum, punkt 5.6"
+  },
+  {
+   "id": "osobisty-kanon",
+   "termin": "Osobisty Kanon",
+   "warianty": [
+    "Osobistego Kanonu",
+    "Osobistym Kanonem",
+    "Osobistemu Kanonowi"
+   ],
+   "definicja": "Spisany przez człowieka zbiór zasad i wartości, które uznaje za swoje. Asystent może za jego zgodą zestawiać je z rozważanymi decyzjami; przyjęcie, zmiana lub odrzucenie zasady pozostaje wyborem użytkownika.",
+   "zrodlo": "manifest.md#s3-1",
+   "zrodlo_opis": "manifest, punkt 3.1",
+   "lacina": "Canon Personalis"
+  },
+  {
+   "id": "atestacja",
+   "termin": "atestacja",
+   "warianty": [
+    "atestacji",
+    "atestację",
+    "atestacją"
+   ],
+   "definicja": "Podpisane przez sprzęt poświadczenie, jakie oprogramowanie działa na zdalnej maszynie i w jakim trybie ochrony. Pomaga stwierdzić, co uruchomiono, ale sama nie dowodzi, że ten kod jest bezpieczny.",
+   "zrodlo": "whitepaper-suveria.md#s2",
+   "zrodlo_opis": "whitepaper Suverii, rozdział 2"
+  },
+  {
+   "id": "poufne-obliczenia",
+   "termin": "poufne obliczenia",
+   "warianty": [
+    "poufnych obliczeń",
+    "poufnymi obliczeniami",
+    "poufne środowisko",
+    "poufnym środowisku",
+    "poufnego środowiska",
+    "poufne API",
+    "poufnego API",
+    "poufnym API"
+   ],
+   "definicja": "Przetwarzanie w zamkniętej sprzętowo części serwera, której nie odczyta jego administrator, co aplikacja może sprawdzić przed wysłaniem rozmowy. Ta ochrona zależy od producentów procesorów i ma znane granice.",
+   "zrodlo": "manifest.md#s3-1",
+   "zrodlo_opis": "manifest, punkt 3.1"
+  },
+  {
+   "id": "powtarzalne-budowanie",
+   "termin": "powtarzalne budowanie",
+   "warianty": [
+    "powtarzalnie budowane",
+    "powtarzalnie zbudować",
+    "powtarzalna budowa",
+    "powtarzalnego budowania",
+    "powtarzalnym budowaniem"
+   ],
+   "definicja": "Każdy może sam zbudować aplikację z opublikowanego kodu źródłowego i sprawdzić, że otrzymał identyczny plik jak ten, który instaluje.",
+   "zrodlo": "whitepaper-suveria.md#s2-3",
+   "zrodlo_opis": "whitepaper Suverii, punkt 2.3"
+  },
+  {
+   "id": "dowod-z-wiedza-zerowa",
+   "termin": "dowód z wiedzą zerową",
+   "warianty": [
+    "dowody z wiedzą zerową",
+    "dowodów z wiedzą zerową",
+    "dowodem z wiedzą zerową",
+    "ZKP"
+   ],
+   "definicja": "Sposób wykazania, że ktoś należy do grupy uprawnionych, na przykład do głosowania, bez ujawniania, kim jest.",
+   "zrodlo": "whitepaper-omniforum.md#s8-3",
+   "zrodlo_opis": "whitepaper Omniforum, punkt 8.3"
+  },
+  {
+   "id": "filary",
+   "termin": "filary",
+   "warianty": [
+    "filar",
+    "filaru",
+    "filarów",
+    "filarem",
+    "filarze",
+    "Filar I",
+    "Filar II",
+    "Filar III",
+    "dalsze filary",
+    "dalszych filarów"
+   ],
+   "definicja": "Pierwszy filar to oprogramowanie i usługi cyfrowe, czyli Suveria i Omniforum. Filar II „Hardware” to otwarte projekty trwałych, naprawialnych przedmiotów, a Filar III „Natura” to bliższy kontakt z naturą. Pełne uruchomienie dalszych filarów wymaga łącznie trzech warunków.",
+   "zrodlo": "manifest.md#s6-3",
+   "zrodlo_opis": "manifest, punkt 6.3"
+  },
+  {
+   "id": "pula-zarzadu",
+   "termin": "przejściowa pula zarządu",
+   "warianty": [
+    "przejściowej puli zarządu",
+    "przejściową pulę zarządu",
+    "przejściową pulą zarządu",
+    "pula zarządu",
+    "puli zarządu",
+    "pulę zarządu"
+   ],
+   "definicja": "Przejściowe upoważnienie zarządu do małych inicjatyw dalszych filarów: pula rośnie co miesiąc najwyżej o 5% nowych, wolnych wpływów po pokryciu kosztów, zobowiązań i zabezpieczenia Filaru I, a wygasa z chwilą uruchomienia głosowania wiążącego.",
+   "zrodlo": "manifest.md#s6-3",
+   "zrodlo_opis": "manifest, punkt 6.3"
+  },
+  {
+   "id": "rejestr-korzysci",
+   "termin": "rejestr korzyści",
+   "warianty": [
+    "rejestru korzyści",
+    "rejestrze korzyści",
+    "rejestrem korzyści",
+    "rejestr korzyści i powiązań"
+   ],
+   "definicja": "Publiczny rejestr korzyści i powiązań osób, które zarządzają fundacją, rozstrzygają o wydatkach i zamówieniach albo ją reprezentują; służy kontroli, nie promocji.",
+   "zrodlo": "manifest.md#s7-1",
+   "zrodlo_opis": "manifest, punkt 7.1"
+  },
+  {
+   "id": "konsultacja",
+   "termin": "konsultacja",
+   "warianty": [
+    "konsultacje",
+    "konsultacji",
+    "konsultacją",
+    "konsultacjach"
+   ],
+   "definicja": "Pytanie o zdanie bez weryfikacji uczestników. Pokazuje, co myślą uczestnicy, ale nie jest głosowaniem w rozumieniu statutu, który przy głosowaniach wymaga potwierdzenia unikalności każdego głosującego.",
+   "zrodlo": "whitepaper-omniforum.md#s8-1",
+   "zrodlo_opis": "whitepaper Omniforum, punkt 8.1",
+   "oznaczaj": false
+  },
+  {
+   "id": "mam-uwage",
+   "termin": "Mam uwagę",
+   "warianty": [
+    "Mam uwagę"
+   ],
+   "definicja": "Przycisk na stronach dokumentów: po zaznaczeniu fragmentu przygotowuje wiadomość do fundacji z cytatem i odnośnikiem do tego miejsca, którą wysyłasz sam; strona niczego nie zapisuje ani nie wysyła.",
+   "zrodlo": "whitepaper-omniforum.md#s5-5",
+   "zrodlo_opis": "whitepaper Omniforum, punkt 5.5"
+  }
+ ]
+}

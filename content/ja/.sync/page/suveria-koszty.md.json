@@ -1,0 +1,161 @@
+{
+ "source": "content/pl/page/suveria-koszty.md",
+ "paragraphs": [
+  {
+   "h": "ac2781223a2d09d4f82ac3c74614f75cd0e4daa5",
+   "t": "# Ile kosztuje Suveria"
+  },
+  {
+   "h": "bb28ec2077872bcb046bd03293c883a4b8289a92",
+   "t": "Ta strona jest o Twoich pieniądzach: za co w Suverii ma się płacić, jak powstaje"
+  },
+  {
+   "h": "0da299a4b08f671685313ef198d6d3b1900b97f5",
+   "t": "Więcej: [whitepaper Suverii, rozdział 8](../whitepaper-suveria.md#s8)."
+  },
+  {
+   "h": "f8a4f835408764747e94365e4d7c1d2ca4fabe1a",
+   "t": "## Za co płacisz"
+  },
+  {
+   "h": "39d1953f75198196942097d9d801d14df7d6a423",
+   "t": "Zasada jest prosta: płacisz za to, czego rzeczywiście używasz, razem z uczciwie "
+  },
+  {
+   "h": "cbf764896aa57688cc4a3f1fec03b97f488c19e9",
+   "t": "Rachunek ma dwie części:"
+  },
+  {
+   "h": "1f40d0a56e4ca1fae19d9ebefb94c35799acf9df",
+   "t": "- **rzeczywiste użycie** w danym cyklu: obliczenia, pamięć, transfer danych; - *"
+  },
+  {
+   "h": "c6737d88f91623223c8c8fe5d35094abaadf8fbf",
+   "t": "Koszty wspólne chcemy dzielić według jawnej reguły wybranej w pilotażu: proporcj"
+  },
+  {
+   "h": "2fe036d5a90ab292d65d4a3a61157e695461757a",
+   "t": "Więcej: [whitepaper zasad fundacji, rozdział 3](../whitepaper-zasady-fundacji.md"
+  },
+  {
+   "h": "a34787d4ee727ee9522c11e1f856d8dea0de3025",
+   "t": "## Ile wychodzi z rachunku"
+  },
+  {
+   "h": "4abb8c02f1b65127ba9db8a83727383f79a4534b",
+   "t": "Do obliczeń przyjęliśmy przykładowego użytkownika: 20 pytań dziennie, każda odpo"
+  },
+  {
+   "h": "ad96cb02e43b6beef8d1b823142a7d37ebd85255",
+   "t": "Pierwsze wydanie najpewniej skorzysta z poufnego API (jeśli zbierzemy dość środk"
+  },
+  {
+   "h": "c676dafaa522122b0d59738c890ce17a3d16f610",
+   "t": "| Na osobę miesięcznie, gdyby z Suverii korzystało (rachunek z 29.10.2026) | 30 "
+  },
+  {
+   "h": "c9e218d290324754ad356762f6a9d5b894c69e3e",
+   "t": "To szacunek na papierze: nie zawiera pracy ludzi, przeglądów bezpieczeństwa, pła"
+  },
+  {
+   "h": "608a1acecaa53840eca24c9159eac5fbc7c34954",
+   "t": "Więcej: [whitepaper Suverii, rozdział 7](../whitepaper-suveria.md#s7) i [punkt 8"
+  },
+  {
+   "h": "8ec15e4dda1c1167740250b7f5e9f3ac2dadd92d",
+   "t": "## Od 30 osób do całej ludzkości"
+  },
+  {
+   "h": "4aa43de8d1352e591b1c7b9f3ba70fdb02c019cd",
+   "t": "Ten sam przykładowy użytkownik pozwala policzyć, ile pracy miałby model przy róż"
+  },
+  {
+   "h": "8e19351593bba3536c243a43c86962e5e86622c3",
+   "t": "| Aktywne osoby | Pytania w miesiącu | Tekst odpowiedzi w szczycie | | --- | ---"
+  },
+  {
+   "h": "dc2f2a486952eeed7fafd50afb47ddbaa868d60d",
+   "t": "Ile to sprzętu? Whitepaper przeprowadza eksperyment myślowy. Gdyby każda z 10 ml"
+  },
+  {
+   "h": "594531bd631c54acb8f0950fdd3324ace1744f13",
+   "t": "Kosztu na osobę dla milionów ludzi nie podajemy: przy takiej skali zmieniłyby si"
+  },
+  {
+   "h": "18eccb19e7fe4546c64c39a3ebd4b66eb8c24ac9",
+   "t": "Więcej: [whitepaper Suverii, rozdział 7](../whitepaper-suveria.md#s7)."
+  },
+  {
+   "h": "0e55e5502b2f11382727dfc3768b43b717a2aeeb",
+   "t": "## Dlaczego liczymy w dolarach"
+  },
+  {
+   "h": "6b3b50e8730f021e2d1f449a8191f407f57c8b98",
+   "t": "Ceny usług będziemy podawać w dolarach, bo w tej walucie kupuje się moc obliczen"
+  },
+  {
+   "h": "32b7148ee2b4125c263d5c4c31834452f25b3fdc",
+   "t": "Więcej: [whitepaper zasad fundacji, punkt 3.1](../whitepaper-zasady-fundacji.md#"
+  },
+  {
+   "h": "8dde63c1c3b8fabea6fceb74cb2da5fa19ff7f87",
+   "t": "## Przedpłata, zwrot, zaokrąglenie"
+  },
+  {
+   "h": "a47b799981cecd51c1b29ff7f3e565dbb3637f45",
+   "t": "- **Przedpłata.** Wpisujesz jedną kwotę i dokładnie tyle trafia na Twoje saldo, "
+  },
+  {
+   "h": "e221ca8b48c66f1624acf10e2938eef9bdcd40fe",
+   "t": "Rachunek pokazuje osobno opłatę za usługę i kwotę darowizny. Termin zwrotu, mini"
+  },
+  {
+   "h": "a195b683d9af2dc59b83f71f39baaa7cbc8d116a",
+   "t": "Więcej: [whitepaper zasad fundacji, punkt 3.2](../whitepaper-zasady-fundacji.md#"
+  },
+  {
+   "h": "f726ff8823c96b638e171010772562352b91a797",
+   "t": "## Jak to się ma do abonamentów"
+  },
+  {
+   "h": "c61973efe6481e1aba6f6355b26d45c3d839f2dd",
+   "t": "Cena abonamentu w komercyjnych platformach zwykle łączy w jednej kwocie koszt uż"
+  },
+  {
+   "h": "a18821bc939b1f77308409c1d2f33f87e9b67335",
+   "t": "Stan hipotezy na 29 października 2026 r.: rachunek zbliża nas do niej, ale jej n"
+  },
+  {
+   "h": "c0e0fefcd8e0fa9192d9c795b8a91769deb5fb23",
+   "t": "Więcej: [manifest, punkt 2.4](../manifest.md#s2-4); [whitepaper Suverii, punkt 8"
+  },
+  {
+   "h": "d853289898909a037c6c5f119453bc973f568f6a",
+   "t": "## Co zmieni rachunek"
+  },
+  {
+   "h": "07775abe3813d9421e1432d2b636d8a736e772c5",
+   "t": "Rachunek aktualizujemy przy każdej istotnej zmianie cen i po każdej próbie, a po"
+  },
+  {
+   "h": "385a0dcbcdd016b66b24974e25cac76f9f936fdd",
+   "t": "- czy poufność tych usług przechodzi niezależną weryfikację; - czy jakość dostęp"
+  },
+  {
+   "h": "a36ad3ee013f769504a3fe9a616a9420f60d4347",
+   "t": "Infrastrukturę chcemy rozwijać krokami: najpierw poufne API i prywatne środowisk"
+  },
+  {
+   "h": "fedcd51218005d80f0797fb2a827c77738a1a3aa",
+   "t": "Więcej: [whitepaper Suverii, punkt 8.1](../whitepaper-suveria.md#s8-1) i [punkt "
+  },
+  {
+   "h": "dbd729a4bebd65f560d1601db4be5811d62ffdc0",
+   "t": "## Przeczytaj i powiedz, co myślisz"
+  },
+  {
+   "h": "f6581cceb05df4940d1735f0b4350ed7ab33e70d",
+   "t": "Pełny rachunek z tabelą wariantów i źródłami cen znajdziesz w [whitepaperze Suve"
+  }
+ ]
+}

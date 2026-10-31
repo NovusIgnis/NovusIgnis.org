@@ -1,0 +1,515 @@
+{
+  "_opis": "Wspólny słownik nazw Novus Ignis: nazwy łacińskie (takie same w każdym języku) i stałe przekłady terminów. Źródło dla strony „Nazwy w różnych językach” i dla wszystkich tłumaczeń. Nowy język: dopisz jego kod do „jezyki” i przekład do każdego hasła. Decyzje Marcina z 31.10.2026: Claude/slowniczek-terminow-2026-10-31.md.",
+  "jezyki": [
+    "pl",
+    "en",
+    "de",
+    "fr",
+    "es",
+    "it"
+  ],
+  "nazwy": [
+    {
+      "lacina": "Novus Ignis",
+      "znaczenie": {
+        "pl": "nowy ogień; nazwa fundacji",
+        "en": "new fire; the name of the foundation"
+      }
+    },
+    {
+      "lacina": "Suveria",
+      "znaczenie": {
+        "pl": "nazwa własna prywatnej przestrzeni pracy z cyfrową inteligencją",
+        "en": "proper name of the private space for work with digital intelligence"
+      }
+    },
+    {
+      "lacina": "Omniforum",
+      "znaczenie": {
+        "pl": "forum wszystkich; wspólna przestrzeń rozmowy i decyzji",
+        "en": "forum of all; the shared space for conversation and decisions"
+      }
+    },
+    {
+      "lacina": "Omnium",
+      "znaczenie": {
+        "pl": "„wszystkich”; otwarta baza publicznego dorobku Omniforum",
+        "en": "“of all”; the open base of Omniforum's public work"
+      }
+    },
+    {
+      "lacina": "Ignis",
+      "znaczenie": {
+        "pl": "„ogień”; etap pierwszego dzielenia się myślą",
+        "en": "“fire”; the stage of first sharing a thought"
+      }
+    },
+    {
+      "lacina": "Officina Ignis",
+      "pl": "warsztat Ignis",
+      "en": "Ignis workshop",
+      "znaczenie": {
+        "pl": "„warsztat ognia”",
+        "en": "“workshop of fire”"
+      },
+      "de": "Ignis-Werkstatt",
+      "fr": "atelier Ignis",
+      "es": "taller Ignis",
+      "it": "laboratorio Ignis"
+    },
+    {
+      "lacina": "Caerimonia Ignis",
+      "pl": "Ceremonia Ignis",
+      "en": "Ignis Ceremony",
+      "znaczenie": {
+        "pl": "moment świadomej publikacji myśli",
+        "en": "the moment a thought is consciously published"
+      },
+      "de": "Ignis-Zeremonie",
+      "fr": "Cérémonie Ignis",
+      "es": "Ceremonia Ignis",
+      "it": "Cerimonia Ignis"
+    },
+    {
+      "lacina": "Formatio",
+      "znaczenie": {
+        "pl": "„kształtowanie”; etap po publikacji",
+        "en": "“shaping”; the stage after publication"
+      }
+    },
+    {
+      "lacina": "Consensus",
+      "znaczenie": {
+        "pl": "„zgoda”; wspólne ustalenie",
+        "en": "“agreement”; a shared finding"
+      }
+    },
+    {
+      "lacina": "Principium",
+      "znaczenie": {
+        "pl": "„zasada, początek”; przyjęcie zasady do Osobistego Kanonu",
+        "en": "“principle, beginning”; adopting a principle into one's Personal Canon"
+      }
+    },
+    {
+      "lacina": "Terra Incognita",
+      "znaczenie": {
+        "pl": "„ziemia nieznana”; ceremonia nazwania granicy tego, co dziś potrafimy uzasadnić",
+        "en": "“unknown land”; the ceremony of naming the limit of what we can justify today"
+      }
+    },
+    {
+      "lacina": "Causa",
+      "pl": "sprawa",
+      "en": "issue",
+      "znaczenie": {
+        "pl": "„sprawa, przyczyna”",
+        "en": "“matter, cause”"
+      },
+      "de": "Anliegen",
+      "fr": "dossier",
+      "es": "asunto",
+      "it": "questione"
+    },
+    {
+      "lacina": "Mappa Causae",
+      "pl": "mapa sprawy",
+      "en": "issue map",
+      "znaczenie": {
+        "pl": "„mapa sprawy”",
+        "en": "“map of the matter”"
+      },
+      "de": "Anliegenkarte",
+      "fr": "carte du dossier",
+      "es": "mapa del asunto",
+      "it": "mappa della questione"
+    },
+    {
+      "lacina": "Charta Ideae",
+      "pl": "karta idei",
+      "en": "idea card",
+      "znaczenie": {
+        "pl": "„karta idei”",
+        "en": "“card of the idea”"
+      },
+      "de": "Ideensteckbrief",
+      "fr": "fiche d’idée",
+      "es": "ficha de idea",
+      "it": "scheda dell'idea"
+    },
+    {
+      "lacina": "Inceptum",
+      "pl": "inicjatywa (w Omniforum)",
+      "en": "initiative (in Omniforum)",
+      "znaczenie": {
+        "pl": "„przedsięwzięcie, zamiar”",
+        "en": "“undertaking, intention”"
+      },
+      "de": "Initiative (im Omniforum)",
+      "fr": "initiative (dans Omniforum)",
+      "es": "iniciativa (en Omniforum)",
+      "it": "iniziativa (in Omniforum)"
+    },
+    {
+      "lacina": "Canon Personalis",
+      "pl": "Osobisty Kanon",
+      "en": "Personal Canon",
+      "znaczenie": {
+        "pl": "„kanon osobisty”",
+        "en": "“personal canon”"
+      },
+      "de": "Persönlicher Kanon",
+      "fr": "Canon personnel",
+      "es": "Canon Personal",
+      "it": "Canone Personale"
+    },
+    {
+      "lacina": "Telescopium Mentis",
+      "pl": "Teleskop Myśli",
+      "en": "Telescope of Thought",
+      "znaczenie": {
+        "pl": "„teleskop umysłu”",
+        "en": "“telescope of the mind”"
+      },
+      "de": "Gedankenteleskop",
+      "fr": "Télescope de la pensée",
+      "es": "Telescopio del Pensamiento",
+      "it": "Telescopio del Pensiero"
+    },
+    {
+      "lacina": "Charta Tutelae",
+      "pl": "karta ochrony",
+      "en": "protection card",
+      "znaczenie": {
+        "pl": "„karta ochrony”",
+        "en": "“card of protection”"
+      },
+      "de": "Schutzübersicht",
+      "fr": "fiche de protection",
+      "es": "ficha de protección",
+      "it": "scheda di protezione"
+    }
+  ],
+  "przeklady": [
+    {
+      "pl": "cyfrowa inteligencja",
+      "en": "digital intelligence",
+      "de": "digitale Intelligenz",
+      "fr": "intelligence numérique",
+      "es": "inteligencia digital",
+      "it": "intelligenza digitale"
+    },
+    {
+      "pl": "godność",
+      "en": "dignity",
+      "de": "Würde",
+      "fr": "dignité",
+      "es": "dignidad",
+      "it": "dignità"
+    },
+    {
+      "pl": "spokojna technologia",
+      "en": "calm technology",
+      "de": "ruhige Technologie",
+      "fr": "technologie calme",
+      "es": "tecnología calmada",
+      "it": "tecnologia calma"
+    },
+    {
+      "pl": "atom",
+      "en": "atom",
+      "de": "Atom",
+      "fr": "atome",
+      "es": "átomo",
+      "it": "atomo"
+    },
+    {
+      "pl": "molekuła",
+      "en": "molecule",
+      "de": "Molekül",
+      "fr": "molécule",
+      "es": "molécula",
+      "it": "molecola"
+    },
+    {
+      "pl": "wiązanie",
+      "en": "bond",
+      "de": "Bindung",
+      "fr": "liaison",
+      "es": "enlace",
+      "it": "legame"
+    },
+    {
+      "pl": "łańcuch",
+      "en": "chain",
+      "de": "Kette",
+      "fr": "chaîne",
+      "es": "cadena",
+      "it": "catena"
+    },
+    {
+      "pl": "etykieta",
+      "en": "label",
+      "de": "Bezeichnung",
+      "fr": "étiquette",
+      "es": "etiqueta",
+      "it": "etichetta"
+    },
+    {
+      "pl": "filary (Filar I, II, III)",
+      "en": "pillars (Pillar I, II, III)",
+      "de": "Säulen (Säule I, II, III)",
+      "fr": "piliers (Pilier I, II, III)",
+      "es": "pilares (Pilar I, II, III)",
+      "it": "pilastri (Pilastro I, II, III)"
+    },
+    {
+      "pl": "faza zwinna",
+      "en": "agile phase",
+      "de": "agile Phase",
+      "fr": "phase agile",
+      "es": "fase ágil",
+      "it": "fase agile"
+    },
+    {
+      "pl": "konsultacja",
+      "en": "consultation",
+      "de": "Konsultation",
+      "fr": "consultation",
+      "es": "consulta",
+      "it": "consultazione"
+    },
+    {
+      "pl": "głosowanie wiążące",
+      "en": "binding vote",
+      "de": "verbindliche Abstimmung",
+      "fr": "vote contraignant",
+      "es": "votación vinculante",
+      "it": "votazione vincolante"
+    },
+    {
+      "pl": "wspólnota decyzyjna",
+      "en": "decision-making community",
+      "de": "Entscheidungsgemeinschaft",
+      "fr": "communauté décisionnelle",
+      "es": "comunidad decisoria",
+      "it": "comunità decisionale"
+    },
+    {
+      "pl": "poręczenie wypowiedzi",
+      "en": "vouching for a statement",
+      "de": "Bürgschaft für eine Äußerung",
+      "fr": "parrainage d’une contribution",
+      "es": "aval de una intervención",
+      "it": "garanzia per un intervento"
+    },
+    {
+      "pl": "otwarta skrzynka",
+      "en": "open inbox",
+      "de": "offener Briefkasten",
+      "fr": "boîte aux lettres ouverte",
+      "es": "buzón abierto",
+      "it": "casella aperta"
+    },
+    {
+      "pl": "ręczna droga",
+      "en": "manual path",
+      "de": "manueller Weg",
+      "fr": "voie manuelle",
+      "es": "vía manual",
+      "it": "percorso manuale"
+    },
+    {
+      "pl": "porządek widoczności",
+      "en": "order of visibility",
+      "de": "Anzeigereihenfolge",
+      "fr": "ordre d’affichage",
+      "es": "orden de visibilidad",
+      "it": "ordine di visibilità"
+    },
+    {
+      "pl": "brama (Suverii)",
+      "en": "gateway",
+      "de": "Gateway",
+      "fr": "passerelle",
+      "es": "pasarela",
+      "it": "gateway"
+    },
+    {
+      "pl": "poufne obliczenia",
+      "en": "confidential computing",
+      "de": "Confidential Computing",
+      "fr": "informatique confidentielle",
+      "es": "computación confidencial",
+      "it": "calcolo confidenziale"
+    },
+    {
+      "pl": "poufne API",
+      "en": "confidential API",
+      "de": "vertrauliche API",
+      "fr": "API confidentielle",
+      "es": "API confidencial",
+      "it": "API confidenziale"
+    },
+    {
+      "pl": "atestacja",
+      "en": "attestation",
+      "de": "Attestierung",
+      "fr": "attestation",
+      "es": "atestación",
+      "it": "attestazione"
+    },
+    {
+      "pl": "powtarzalne budowanie",
+      "en": "reproducible builds",
+      "de": "reproduzierbare Builds",
+      "fr": "compilation reproductible",
+      "es": "compilación reproducible",
+      "it": "build riproducibili"
+    },
+    {
+      "pl": "dowód z wiedzą zerową",
+      "en": "zero-knowledge proof",
+      "de": "Zero-Knowledge-Beweis",
+      "fr": "preuve à divulgation nulle de connaissance",
+      "es": "prueba de conocimiento cero",
+      "it": "prova a conoscenza zero"
+    },
+    {
+      "pl": "europejski portfel tożsamości cyfrowej",
+      "en": "European digital identity wallet",
+      "de": "europäische Brieftasche für die Digitale Identität",
+      "fr": "portefeuille européen d’identité numérique",
+      "es": "cartera europea de identidad digital",
+      "it": "portafoglio europeo di identità digitale"
+    },
+    {
+      "pl": "dziennik wyników",
+      "en": "results log",
+      "de": "Ergebnisprotokoll",
+      "fr": "journal des résultats",
+      "es": "registro de resultados",
+      "it": "diario dei risultati"
+    },
+    {
+      "pl": "karta decyzji",
+      "en": "decision card",
+      "de": "Entscheidungsvorlage",
+      "fr": "fiche de décision",
+      "es": "ficha de decisión",
+      "it": "scheda decisionale"
+    },
+    {
+      "pl": "rejestr zmian statutu",
+      "en": "statute change register",
+      "de": "Register der Satzungsänderungen",
+      "fr": "registre des modifications des statuts",
+      "es": "registro de modificaciones de los estatutos",
+      "it": "registro delle modifiche dello statuto"
+    },
+    {
+      "pl": "rejestr wpłat i wydatków",
+      "en": "register of contributions and expenses",
+      "de": "Register der Einzahlungen und Ausgaben",
+      "fr": "registre des recettes et des dépenses",
+      "es": "registro de ingresos y gastos",
+      "it": "registro delle entrate e delle spese"
+    },
+    {
+      "pl": "rejestr korzyści",
+      "en": "register of benefits",
+      "de": "Register der Vorteile",
+      "fr": "registre des avantages",
+      "es": "registro de beneficios",
+      "it": "registro dei benefici"
+    },
+    {
+      "pl": "przejściowa pula zarządu",
+      "en": "transitional board pool",
+      "de": "Übergangsbudget des Vorstands",
+      "fr": "enveloppe transitoire du conseil d’administration",
+      "es": "fondo transitorio de la junta directiva",
+      "it": "fondo transitorio del consiglio di amministrazione"
+    },
+    {
+      "pl": "inicjatywa celowa",
+      "en": "earmarked initiative",
+      "de": "zweckgebundene Initiative",
+      "fr": "initiative à financement affecté",
+      "es": "iniciativa con financiación específica",
+      "it": "iniziativa a fondi vincolati"
+    },
+    {
+      "pl": "darowizna celowa",
+      "en": "earmarked donation",
+      "de": "zweckgebundene Spende",
+      "fr": "don affecté",
+      "es": "donación con destino específico",
+      "it": "donazione vincolata"
+    },
+    {
+      "pl": "Rada Dialogu i Współpracy",
+      "en": "Council for Dialogue and Cooperation",
+      "de": "Rat für Dialog und Zusammenarbeit",
+      "fr": "Conseil du dialogue et de la coopération",
+      "es": "Consejo de Diálogo y Cooperación",
+      "it": "Consiglio per il Dialogo e la Cooperazione"
+    },
+    {
+      "pl": "Mam uwagę (przycisk)",
+      "en": "I have a comment (button)",
+      "de": "Ich habe eine Anmerkung (Schaltfläche)",
+      "fr": "J’ai une remarque (bouton)",
+      "es": "Tengo un comentario (botón)",
+      "it": "Ho un'osservazione (pulsante)"
+    },
+    {
+      "pl": "fundacja (Fundacja Novus Ignis)",
+      "en": "foundation (Novus Ignis Foundation)",
+      "de": "Stiftung (Stiftung Novus Ignis)",
+      "fr": "fondation (Fondation Novus Ignis)",
+      "es": "fundación (Fundación Novus Ignis)",
+      "it": "fondazione (Fondazione Novus Ignis)"
+    },
+    {
+      "pl": "fundator",
+      "en": "founder",
+      "de": "Stifter",
+      "fr": "fondateur",
+      "es": "fundador",
+      "it": "fondatore"
+    },
+    {
+      "pl": "zarząd",
+      "en": "board",
+      "de": "Vorstand",
+      "fr": "conseil d’administration",
+      "es": "junta directiva",
+      "it": "consiglio di amministrazione"
+    },
+    {
+      "pl": "statut",
+      "en": "statute",
+      "de": "Satzung",
+      "fr": "statuts",
+      "es": "estatutos",
+      "it": "statuto"
+    },
+    {
+      "pl": "wypowiedź (w Omniforum)",
+      "en": "statement (in Omniforum)",
+      "de": "Äußerung",
+      "fr": "contribution",
+      "es": "intervención",
+      "it": "intervento"
+    },
+    {
+      "pl": "uczestnik",
+      "en": "participant",
+      "de": "Teilnehmende",
+      "fr": "participant",
+      "es": "participante",
+      "it": "partecipante"
+    }
+  ]
+}

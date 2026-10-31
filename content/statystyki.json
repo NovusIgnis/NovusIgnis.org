@@ -1,0 +1,4 @@
+{
+  "_opis": "Zbiorcze statystyki strony, liczone przez tools/statystyki.mjs z dzienników serwera. Same liczby, bez adresów IP i opisów przeglądarek.",
+  "miesiace": []
+}

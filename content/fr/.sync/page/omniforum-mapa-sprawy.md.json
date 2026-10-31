@@ -1,0 +1,157 @@
+{
+ "source": "content/pl/page/omniforum-mapa-sprawy.md",
+ "paragraphs": [
+  {
+   "h": "30df304da6b762a41802a2c5ede91b838df2ee45",
+   "t": "# Mapa sprawy i karta idei"
+  },
+  {
+   "h": "afbfa8b8114a676535051f54c58c157925715be6",
+   "t": "Na stronie [Jak działa rozmowa](omniforum-rozmowa.md) opisaliśmy, jak wypowiedź "
+  },
+  {
+   "h": "6898d1cbd567c4992e2d7f6f03cb3f627e5f4351",
+   "t": "Mapa sprawy to uporządkowany zbiór argumentów, doświadczeń i otwartych pytań wok"
+  },
+  {
+   "h": "6337a80929796ef2d3b4366743e561e4cead324e",
+   "t": "Prototyp Omniforum jest w budowie. Wszystko, co opisujemy niżej, jest projektem;"
+  },
+  {
+   "h": "4a99c2d5d539c0c004e54f79c59969ad4852db61",
+   "t": "Więcej: [whitepaper Omniforum, rozdział 1](../whitepaper-omniforum.md#s1)."
+  },
+  {
+   "h": "3f25d05b6acbb3eea4fc3249d5a72f4fa85b64a0",
+   "t": "## Od łańcucha myśli do mapy"
+  },
+  {
+   "h": "bd2c35e2cc67fb32d57d7b7cc41187f102e695cd",
+   "t": "Myśli łączą się relacjami: jedna uzasadnia drugą, zgłasza zastrzeżenie, stawia w"
+  },
+  {
+   "h": "b615160387ef3d4e7e6a3c1f4ea907609cb42ac0",
+   "t": "Mapa sprawy zestawia łańcuchy różnych osób, także sprzeczne ze sobą. W sprawie d"
+  },
+  {
+   "h": "a2d429ba89067564d9d18c46a060ffd2fa8b1034",
+   "t": "Sprawa to pytanie, do którego ktoś chce wracać, bo chce coś zrozumieć, porównać "
+  },
+  {
+   "h": "72d3da80c023321e30d10651f0a85649e6008cc8",
+   "t": "Więcej: [whitepaper Omniforum, rozdział 5](../whitepaper-omniforum.md#s5) i [pun"
+  },
+  {
+   "h": "5e0a900d06b71450be6e2c8ce531fee743ff9302",
+   "t": "## Jak czyta się mapę"
+  },
+  {
+   "h": "090d5d8b65780e5ac408fc9f48c986d7100fc9e2",
+   "t": "Mapa ma otwierać się spokojnie. Najpierw widzisz jeden główny wniosek z krótkim "
+  },
+  {
+   "h": "20948dcca022154cf6e67a13639e57012a4c88bf",
+   "t": "Gdy wracasz do tematu po tygodniu albo po roku, masz zobaczyć tylko to, co się z"
+  },
+  {
+   "h": "2dfe6372b89e0b94d629208cac4a68bfc447d32f",
+   "t": "Więcej: [whitepaper Omniforum, rozdział 5](../whitepaper-omniforum.md#s5) i [pun"
+  },
+  {
+   "h": "b7367e0172be25df01e49c834a11b5a62d91dd72",
+   "t": "## Jak mocny jest wniosek"
+  },
+  {
+   "h": "bb4fd71e8a09767fb2a538dafeaa802131c9938f",
+   "t": "Przy wniosku chcemy pokazywać osobno trzy rzeczy:"
+  },
+  {
+   "h": "ed670b836bf46f2e8e081fd53ba43b79c02d334d",
+   "t": "- jak mocne i niezależne są dowody; - jak dobrze uzasadniony jest sam wniosek; -"
+  },
+  {
+   "h": "3e3df075a59bf970a9374ce7e63c890dc11765d2",
+   "t": "Jedna miara nie zastępuje drugiej: pełna zgoda uczestników oparta na jednej nies"
+  },
+  {
+   "h": "b5682aa5b7da7d3fed0806badab705ded08f55df",
+   "t": "Manifest dzieli wspólny namysł na fakty (to, co da się sprawdzić), wartości (pot"
+  },
+  {
+   "h": "f7a180c8e4b558bc2bc705b37b0f70896e00fd34",
+   "t": "Więcej: [whitepaper Omniforum, rozdział 5](../whitepaper-omniforum.md#s5) i [man"
+  },
+  {
+   "h": "b2685f67b67be44431f6e78d8045edc74a299f68",
+   "t": "## Karta idei"
+  },
+  {
+   "h": "165992e1b6a091af1c001819abe49786b1cae725",
+   "t": "Śmiałe wizje łatwo zbyć jako oderwane od rzeczywistości, a ostrożne plany jako p"
+  },
+  {
+   "h": "627647deefa26b695aaa4e2afb42e312643c7519",
+   "t": "1. **Co to jest?** Definicja i oczekiwany rezultat. 2. **Po co?** Czyje potrzeby"
+  },
+  {
+   "h": "e7f138d34d4d30fa48643ddc0753abf66ad463d2",
+   "t": "Karta nie jest jedną myślą, tylko widokiem wielu powiązanych pojęć, twierdzeń, ź"
+  },
+  {
+   "h": "ea0b61b6ee0cd7363f46b814a6ec82c7ca612ba9",
+   "t": "Więcej: [whitepaper Omniforum, punkt 5.2](../whitepaper-omniforum.md#s5-2)."
+  },
+  {
+   "h": "a2c73f061cadd738de3b0e3bd8b37c3387861f8d",
+   "t": "## Od idei do inicjatywy"
+  },
+  {
+   "h": "b760336a6942e3a781a40bb87b019bcf454912ba",
+   "t": "Gdy rozmowa doprowadzi do wspólnego ustalenia, co warto zrobić, można założyć in"
+  },
+  {
+   "h": "391f894b7c4be09cbdbb8c431d4dfb5dc00d8d4b",
+   "t": "Zanim trafi do decyzji o wspólnych pieniądzach, potrzebuje tego, co manifest naz"
+  },
+  {
+   "h": "da0fa1cd47e88a00d223673c6f7c963dec71250d",
+   "t": "Więcej: [whitepaper Omniforum, punkt 5.3](../whitepaper-omniforum.md#s5-3) i [ma"
+  },
+  {
+   "h": "e5096089e30e1dd41120e4bb63746a85e9276afa",
+   "t": "## Co pokazujemy wyżej, a czego nie"
+  },
+  {
+   "h": "4bf60676856619ee73ddd6e42ec6d0406770aa60",
+   "t": "Porządek, w jakim pokazujemy treści, ma jawne reguły i można go zmienić. Chcemy "
+  },
+  {
+   "h": "28d2b94fab4b41f5174bec0dba0126823bd6b931",
+   "t": "- chronologiczny; - według pytań; - według udokumentowanego wkładu, czyli tego, "
+  },
+  {
+   "h": "ca9964754c839f0c97a582f6af8fdc8ef79ddd65",
+   "t": "W tym ostatnim argument idzie wyżej, gdy przyjmują go osoby, które w innych spra"
+  },
+  {
+   "h": "ea20f573a0d12af64f81db553574b31250fceda0",
+   "t": "Na pierwszym planie ma być treść i źródło z jego datą. Nie prowadzimy publicznyc"
+  },
+  {
+   "h": "4562d0892f482dbf98dadc0e604a09b6f965695c",
+   "t": "Więcej: [whitepaper Omniforum, rozdział 6](../whitepaper-omniforum.md#s6)."
+  },
+  {
+   "h": "dbd729a4bebd65f560d1601db4be5811d62ffdc0",
+   "t": "## Przeczytaj i powiedz, co myślisz"
+  },
+  {
+   "h": "d703a6c17abea40fed2967eb2e5708939af6c889",
+   "t": "Pełny opis map, kart i inicjatyw znajdziesz w [whitepaperze Omniforum](../whitep"
+  },
+  {
+   "h": "f7be398ad8cbbaee6f5382c726f333faec87bca6",
+   "t": "Więcej: [whitepaper Omniforum, punkt 5.5](../whitepaper-omniforum.md#s5-5)."
+  }
+ ]
+}

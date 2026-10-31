@@ -1,0 +1,106 @@
+{
+  "sourceLang": "pl",
+  "baseUrl": "https://novusignis.org/",
+  "repo": "https://github.com/NovusIgnis/novusignis.org",
+  "repoBranch": "main",
+  "languages": [
+    {
+      "code": "pl",
+      "name": "Polski",
+      "status": "oryginal"
+    },
+    {
+      "code": "en",
+      "name": "English",
+      "status": "przeklad"
+    },
+    {
+      "code": "de",
+      "name": "Deutsch",
+      "status": "przeklad"
+    },
+    {
+      "code": "fr",
+      "name": "Français",
+      "status": "przeklad"
+    },
+    {
+      "code": "es",
+      "name": "Español",
+      "status": "przeklad"
+    },
+    {
+      "code": "it",
+      "name": "Italiano",
+      "status": "przeklad"
+    },
+    {
+      "code": "pt",
+      "name": "Português (Brasil)",
+      "status": "przeklad"
+    },
+    {
+      "code": "nl",
+      "name": "Nederlands",
+      "status": "przeklad"
+    },
+    {
+      "code": "ru",
+      "name": "Русский",
+      "status": "przeklad"
+    },
+    {
+      "code": "uk",
+      "name": "Українська",
+      "status": "przeklad"
+    },
+    {
+      "code": "zh",
+      "name": "中文（简体）",
+      "status": "przeklad"
+    },
+    {
+      "code": "ja",
+      "name": "日本語",
+      "status": "przeklad"
+    }
+  ],
+  "documents": [
+    {
+      "id": "manifest",
+      "file": "manifest.md"
+    },
+    {
+      "id": "suveria",
+      "file": "whitepaper-suveria.md"
+    },
+    {
+      "id": "omniforum",
+      "file": "whitepaper-omniforum.md"
+    },
+    {
+      "id": "fundacja",
+      "file": "whitepaper-zasady-fundacji.md"
+    },
+    {
+      "id": "benchmark",
+      "file": "whitepaper-materialy-i-benchmark.md"
+    },
+    {
+      "id": "statut",
+      "file": "statut/rejestr-zmian.md"
+    },
+    {
+      "id": "statut-2026-09-28",
+      "file": "statut/statut-2026-09-28.md"
+    },
+    {
+      "id": "statut-2026-09-28-uchylony",
+      "file": "statut/statut-2026-09-28-uchylony.md"
+    },
+    {
+      "id": "statut-2026-08-04",
+      "file": "statut/statut-2026-08-04.md"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+# Tworzone przez node tools/build.mjs i tools/paczka.mjs
+/dist/
+/index.html
+/pl/
+/en/
+/de/
+/fr/
+/es/
+/it/
+/pt/
+/nl/
+/ru/
+/uk/
+/zh/
+/ja/
+/md/
+/sitemap.xml
+/robots.txt
+/llms.txt
+/llms-full.txt
+/czytaj.txt
+/js/site-config.js
+/js/slownik-*.js
+node_modules/

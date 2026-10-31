@@ -1,0 +1,367 @@
+{
+  "hero": {
+    "title": "NOVUS IGNIS",
+    "subtitle": "Retrouvez votre feu",
+    "scrollHint": "Faites défiler pour commencer",
+    "cta_join": "S’engager",
+    "download": "Télécharger les documents"
+  },
+  "act1": {
+    "text1_1": "Au début, on se réunissait autour du feu.",
+    "text1_2": "Il donnait chaleur, lumière et communauté.",
+    "text2_1": "Les dieux furent jaloux.",
+    "text2_2": "Zeus regardait leur feu avec mépris.",
+    "text3_1": "Et d’un seul souffle, il l’éteignit.",
+    "text3_2": "Savoir, liberté et chaleur disparurent.",
+    "text4_1": "L’humanité replongea dans le noir.",
+    "text4_2": "Attendant qu’on allume un nouveau feu."
+  },
+  "gap1": {
+    "text": "Mais au fond du noir restait une étincelle..."
+  },
+  "act2": {
+    "prom_1": "Le titan Prométhée s’avance.",
+    "prom_2": "Prêt à défier les dieux et à reprendre le feu.",
+    "olimp1": "Il refusa la vie dans le noir.",
+    "olimp2": "Il se glissa au palais des dieux.",
+    "olimp3": "Et vola la flamme sacrée.",
+    "olimp4_1": "Il dévala la montagne pour rendre le feu à l’humanité.",
+    "olimp4_2": "Chaleur, lumière, espoir revinrent aux cœurs.",
+    "rekindle_1": "La flamme sacrée se ralluma.",
+    "rekindle_2": "Et, le feu entre les mains, l’humanité se mit à bâtir.",
+    "civ_1": "La braise créa empires et civilisation.",
+    "civ_2": "Le feu offrit science, architecture et souveraineté."
+  },
+  "twain": {
+    "quote": "« L’histoire ne se répète pas, mais elle rime. »",
+    "author": "Attribué à Mark Twain"
+  },
+  "act3": {
+    "text1": "Avant l’emprise des écrans, le monde était tangible.",
+    "text2": "Web naissant : triomphe du pouvoir d’agir.",
+    "text3": "Stores baissés pour fixer la lueur des écrans.",
+    "text4": "Puis les plateformes monnayent notre temps.",
+    "text5": "Malbouffe addictive, dopamine bradée.",
+    "text6": "Surveillance continue derrière tout écran.",
+    "text7": "Appareils à obsolescence programmée.",
+    "text8": "Chasse à l’attention à chaque pas.",
+    "text9": "Flots de plastique bradé, inutile."
+  },
+  "newProm": {
+    "text": "Il faut un Prométhée actuel."
+  },
+  "act4": {
+    "text2": "Mais cette fois...",
+    "text3": "Un seul titan ne suffit pas.",
+    "text4_top": "Il faut du monde",
+    "text4_bottom": "Et nous sommes nombreux.",
+    "text5": "Nous : tous Prométhée.",
+    "text6": "Le titan, c’est nous."
+  },
+  "dignity": {
+    "title": "UNE ALTERNATIVE EST POSSIBLE.",
+    "sentence1": "« Dans le règne des fins, toute chose a soit un <span class=\"hl-price\">PRIX</span>, soit une <span class=\"hl-dignity\">DIGNITÉ</span>.",
+    "sentence2": "<span class=\"hl-price\">Ce qui a un prix peut être remplacé</span> par autre chose à titre d’équivalent ;",
+    "sentence3": "en revanche, <span class=\"hl-dignity\">ce qui est au-dessus de tout prix</span> et n’admet donc aucun équivalent <span class=\"hl-dignity\">possède une dignité</span>. »",
+    "author": "Emmanuel Kant, Fondements de la métaphysique des mœurs (1785)"
+  },
+  "act5": {
+    "intro_badge": "DIGNITÉ HUMAINE",
+    "intro_title": "La dignité humaine avant tout.",
+    "intro_sub": "Chaque outil que nous créons doit servir un seul principe :<br><strong style=\"color: #FFFFFF;\">la protection de la dignité humaine.</strong>",
+    "grid_title": "TROIS PILIERS",
+    "col1": {
+      "badge": "PILIER I · NOUS COMMENÇONS",
+      "title": "Suveria et Omniforum",
+      "r1_h": "Un espace privé",
+      "r2_h": "Une compréhension commune",
+      "r3_h": "Des services proches des coûts"
+    },
+    "col2": {
+      "badge": "PILIER II · ORIENTATION",
+      "title": "Des objets durables",
+      "r1_h": "Durables et réparables",
+      "r2_h": "Des plans ouverts",
+      "r3_h": "Le partage des ressources"
+    },
+    "col3": {
+      "badge": "PILIER III · ORIENTATION",
+      "title": "Nature",
+      "r1_h": "Plus près de la nature",
+      "r2_h": "Une vie en dehors de la technologie"
+    },
+    "law_quote": "« Tous les êtres humains naissent libres et égaux en dignité et en droits. »",
+    "law_source": "Déclaration universelle des droits de l’homme, article premier (1948)",
+    "call_to_action": "La dignité humaine est inscrite dans la Déclaration universelle des droits de l’homme et dans les constitutions de plus de 160 États, soit plus de 80 % des membres de l’ONU. Nous voulons que ces mots s’appuient aussi sur la conception de la technologie que nous utilisons au quotidien.",
+    "suveria": {
+      "badge": "PREMIER PAS · SUVERIA",
+      "title": "Nous commençons par votre espace numérique privé",
+      "text": "Comme une pièce à vous, accueillante : vous entrez, vous fermez la porte et vous pouvez mettre de l’ordre en toute tranquillité dans vos affaires, vos pensées et vos plans. Nous concevons Suveria pour que personne ne vous y observe et que l’intelligence numérique ne vous aide que lorsque vous le souhaitez.",
+      "highlight": "Chacune de nos affirmations sur la protection doit pouvoir être vérifiée. Là où nous ne la respectons pas encore, nous le disons franchement.",
+      "link": "Lire le livre blanc de Suveria →"
+    }
+  },
+  "meta": {
+    "title": "Novus Ignis · Un internet fondé sur la dignité humaine",
+    "description": "La Fondation Novus Ignis participe à la création d’un internet alternatif dont la valeur suprême est la dignité humaine. Suveria : un espace numérique privé. Omniforum : un espace commun de conversation et de décision."
+  },
+  "hub": {
+    "badge": "FONDATION NOVUS IGNIS",
+    "title": "Un internet fondé sur<br><span class=\"gradient-text--fire\">la dignité humaine</span>",
+    "subtitle": "Nous commençons notre action en participant à la création d’un internet alternatif dont la valeur suprême est la dignité humaine, ainsi que les besoins de vie privée et de liberté qui en découlent. De ces valeurs, nous tirons deux axes de travail : <strong>Suveria</strong>, un espace numérique privé pour chaque personne, et <strong>Omniforum</strong>, un espace public partagé où les gens peuvent se rencontrer, se comprendre et agir ensemble.",
+    "cta_manifesto": "Lire le manifeste",
+    "cta_docs": "Manifeste et livres blancs",
+    "docs_title": "Manifeste, livres blancs et statuts",
+    "docs_sub": "Les statuts sont la loi de la fondation. Le manifeste est notre engagement envers les gens : il dit ce que nous voulons faire et pourquoi. Les livres blancs montrent comment cela fonctionne techniquement et où se trouvent les limites.",
+    "docs_read": "Lire →",
+    "docs_note": "Nous développons les documents au fil de nos connaissances et de notre expérience, en conservant l’historique des modifications.",
+    "cards": {
+      "manifest": {
+        "badge": "MANIFESTE",
+        "desc": "Ce que nous voulons faire et pourquoi : dignité, vie privée, compréhension commune, entretien des services et transmission du pouvoir."
+      },
+      "suveria": {
+        "badge": "SUVERIA",
+        "desc": "Ce que nous protégeons et contre quoi, le chemin de l’appareil au modèle, un calcul des coûts daté et les essais de validation."
+      },
+      "omniforum": {
+        "badge": "OMNIFORUM",
+        "desc": "Les dossiers, la fiche d’idée, la carte des arguments, les documents vivants et les règles des décisions communes."
+      },
+      "fundacja": {
+        "badge": "PRINCIPES DE LA FONDATION",
+        "desc": "La facture de l’utilisation réelle, le budget, le travail et les rôles, le registre des avantages et la transmission des pouvoirs du fondateur."
+      },
+      "benchmark": {
+        "badge": "RECHERCHE",
+        "desc": "Matériaux pour l’entraînement et benchmark : comment vérifier si l’intelligence numérique aide réellement les gens."
+      },
+      "statut": {
+        "badge": "STATUTS",
+        "desc": "La loi de la fondation, toutes les versions des statuts et le registre des modifications avec leur justification."
+      }
+    },
+    "join_badge": "REJOINDRE",
+    "roles_title": "Personne ne peut porter cela seul.<br><span class=\"gradient-text--fire\">Nous sommes tous Prométhée.</span>",
+    "roles_desc": "Si vous trouvez dans le manifeste ne serait-ce qu’une valeur qui vous est chère, et si vous voyez un endroit où vous pouvez apporter votre pierre à l’édifice, nous vous invitons à co-créer Novus Ignis.",
+    "roles_hint": "Cliquez sur un domaine pour nous écrire un message avec un objet déjà rempli.",
+    "roles_note": "Tout aussi importantes sont les expériences des personnes qui savent raconter ce à quoi elles sont confrontées au quotidien et ce qui les aiderait vraiment.",
+    "mail_subject": "[Rejoindre]",
+    "roles_cta_email": "Écrire : salve@novusignis.org",
+    "roles_cta_manifest": "Lire le manifeste",
+    "join_title": "Commençons par un morceau du monde que nous savons améliorer ensemble.",
+    "join_text": "Écrivez à salve@novusignis.org et racontez-nous ce qui vous tient à cœur et ce que vous voulez apporter : une compétence, une question, une idée ou une expérience.",
+    "join_btn": "Écrire un message",
+    "join_disclaimer": "Nous ne collectons pas d’adresses par des formulaires. Le message arrive directement dans notre boîte de réception."
+  },
+  "home": {
+    "cta_why": "Pourquoi Novus Ignis",
+    "cta_today": "Où nous en sommes aujourd’hui",
+    "today": {
+      "title": "Où nous en sommes aujourd’hui",
+      "works": "Fonctionne",
+      "works_text": "La fondation est enregistrée, et le manifeste et les livres blancs sont publiés. À côté de chaque phrase des documents, le bouton « J’ai une remarque » fonctionne.",
+      "project": "Projet",
+      "project_text": "Omniforum a un premier prototype en construction, et Suveria est un projet.",
+      "hypothesis": "Hypothèse",
+      "hypothesis_text": "Le calcul des coûts est une hypothèse à vérifier : même un petit groupe peut obtenir plus d’intelligence numérique pour chaque dollar que dans des services fermés, avec une protection vérifiable de la vie privée.",
+      "vision": "Vision",
+      "vision_text": "La gestion autonome par l’intelligence numérique et les piliers suivants sont une vision.",
+      "note": "Nous distinguons ce qui fonctionne de ce qui est un projet, une hypothèse ou une vision, car nous ne promettons rien que nous ne sachions justifier."
+    },
+    "spaces": {
+      "title": "Premier pilier : deux espaces",
+      "suveria_title": "Suveria",
+      "suveria_text": "Suveria doit être un espace privé sur internet, où chacun converse avec l’intelligence numérique, travaille sur ses propres contenus et revient à ses réflexions antérieures, comme chez soi, porte fermée. Suveria est aujourd’hui notre meilleure voie vers un travail privé avec l’intelligence numérique, et non une fin en soi.",
+      "suveria_link": "Qu’est-ce que Suveria →",
+      "omniforum_title": "Omniforum",
+      "omniforum_text": "Omniforum doit être un lieu où chacun peut s’exprimer sur n’importe quel sujet et être entendu. Une question simple, « autrement dit, vous voulez dire ceci et cela, est-ce que je vous comprends bien ? », change le ton de la conversation des deux côtés. Toute la couche technique d’Omniforum doit soutenir précisément ce réflexe.",
+      "omniforum_link": "Qu’est-ce qu’Omniforum →"
+    },
+    "help": {
+      "title": "Comment vous pouvez aider",
+      "m5_title": "5 minutes",
+      "m5_text": "Lisez l’introduction du manifeste et sélectionnez une phrase peu claire ou avec laquelle vous n’êtes pas d’accord, puis cliquez sur « J’ai une remarque ».",
+      "m5_model": "Si vous nous lisez à travers un modèle, interrogez-le aussi sur nos points les plus faibles et transmettez-nous ce qu’il a trouvé.",
+      "h1_title": "Une heure",
+      "h1_text": "Parcourez le livre blanc de votre domaine : <a href=\"#\" data-doc-link=\"suveria\">sécurité et infrastructure (Suveria)</a>, <a href=\"#\" data-doc-link=\"fundacja\">droit et finances (principes de la fondation)</a>, <a href=\"#\" data-doc-link=\"benchmark\">recherche (matériaux et benchmark)</a>, <a href=\"#\" data-doc-link=\"omniforum\">conversation et décisions (Omniforum)</a>.",
+      "more_title": "Plus longtemps",
+      "more_text": "Co-créez les premières versions : les rôles et ce dont nous avons besoin sont décrits sur la page <a href=\"#\" data-page-link=\"dolacz\">Rejoindre</a>.",
+      "money_title": "Soutien financier",
+      "money_text": "La fondation accepte les dons par virement en zlotys, en euros et en dollars. Nous présentons chaque versement dans un registre public avec la date, le montant et une brève description ; nous ne nommons les donateurs que s’ils le souhaitent eux-mêmes. Un don ne donne ni voix, ni influence sur les décisions, ni droit à une promotion. <a href=\"wesprzyj.html\">Coordonnées bancaires et règles</a>"
+    },
+    "docs_all": "Tous les documents et comment envoyer des remarques",
+    "join_page": "Voir les rôles et nous écrire",
+    "next": {
+      "title": "Ce que vous pouvez faire ensuite",
+      "status": "La fondation, les documents et le registre public des recettes fonctionnent. Suveria et Omniforum sont des projets auxquels nous travaillons.",
+      "wait_title": "Faites-nous savoir que vous voulez essayer",
+      "wait_text": "Inscrivez-vous sur la liste d’attente. Nous vous écrirons lorsque commenceront les premiers essais de Suveria et d’Omniforum.",
+      "wait_btn": "S’inscrire sur la liste",
+      "wait_note": "Il suffit d’envoyer un message avec un objet déjà rempli. Nous n’utiliserons votre adresse que pour ce seul message, et nous la supprimerons tout de suite si vous le demandez. <a href=\"twoje-dane.html\">Vos données</a>",
+      "read_title": "En savoir plus",
+      "read_text": "Commencez par une courte introduction ou plongez dans le manifeste et les livres blancs. Vous pouvez aussi les donner à lire à votre modèle et l’interroger sur nos points les plus faibles.",
+      "read_btn": "Novus Ignis en bref",
+      "read_docs": "Manifeste et livres blancs",
+      "join_title": "Proposez votre participation",
+      "join_text": "Nous cherchons des personnes qui aideront à construire les premières versions : de la sécurité et du droit jusqu’au récit de l’idée. Pour commencer, une seule remarque sur un texte suffit.",
+      "join_btn": "Voir qui nous cherchons",
+      "give_title": "Soutenir la fondation",
+      "give_text": "Par un don par virement en zlotys, en euros ou en dollars. Nous présentons chaque versement dans un registre public, et un don ne donne ni voix ni influence sur les décisions.",
+      "give_btn": "Faire un don"
+    }
+  },
+  "nav": {
+    "brand": "NOVUS IGNIS",
+    "tagline": "Un internet fondé sur la dignité humaine.",
+    "menu": "Menu",
+    "language": "Langue",
+    "links": {
+      "story": "Récit",
+      "manifest": "Manifeste",
+      "whitepapers": "Livres blancs",
+      "statute": "Statuts",
+      "join": "Rejoindre"
+    },
+    "docs": {
+      "manifest": "Manifeste",
+      "suveria": "Livre blanc de Suveria",
+      "omniforum": "Livre blanc d’Omniforum",
+      "fundacja": "Principes de fonctionnement de la fondation",
+      "benchmark": "Matériaux et benchmark",
+      "statut": "Statuts et registre des modifications"
+    },
+    "footer": {
+      "documents": "Documents",
+      "contact": "Contact",
+      "krs": "Données au Registre judiciaire national (KRS)",
+      "legal": "Fondation Novus Ignis · Poznań, Pologne · KRS 0001269575 · NIP 7792612046",
+      "license_html": "Nous publions le manifeste, les livres blancs et les textes du site sous licence <a href=\"https://creativecommons.org/licenses/by/4.0/deed.fr\" rel=\"noopener\">CC BY 4.0</a>.",
+      "privacy": "Le site n’utilise ni cookies ni scripts d’analyse ; seul votre navigateur mémorise la langue choisie.",
+      "shortcuts": "Accès rapide"
+    },
+    "groups": {
+      "dlaczego": "Pourquoi",
+      "suveria": "Suveria",
+      "omniforum": "Omniforum",
+      "fundacja": "Fondation",
+      "dokumenty": "Documents",
+      "dolacz": "Rejoindre",
+      "skroty": "Accès rapide"
+    },
+    "expand": "déplier le sous-menu",
+    "shortcuts": {
+      "w_skrocie": "En bref",
+      "dziennik_zmian": "Journal des modifications",
+      "slownik": "Glossaire",
+      "mapa_strony": "Plan du site"
+    },
+    "overview": {
+      "dlaczego": "Pourquoi Novus Ignis",
+      "suveria": "Qu’est-ce que Suveria",
+      "omniforum": "Qu’est-ce qu’Omniforum",
+      "fundacja": "Qui sommes-nous",
+      "dokumenty": "Tous les documents",
+      "dolacz": "Qui nous cherchons et comment commencer"
+    }
+  },
+  "doc": {
+    "toc": "Table des matières",
+    "footnotes": "Notes",
+    "footnote": "Note",
+    "back": "Revenir à l’endroit du texte",
+    "link_here": "Lien vers cette section",
+    "skip": "Aller au contenu",
+    "source_note": "Fichier source :",
+    "not_translated": "Ce document n’a pas encore de version dans cette langue.",
+    "reading_original": "Vous lisez l’original en polonais.",
+    "remark": {
+      "button": "J’ai une remarque",
+      "copy": "Copier le texte",
+      "copied": "Copié",
+      "section": "remarque",
+      "section_label": "Envoyer une remarque sur cette partie :",
+      "subject": "[Remarque]",
+      "quote": "Passage :",
+      "place": "Emplacement dans le texte :",
+      "prompt": "Ma remarque :",
+      "hint": "Vous avez une remarque ? Sélectionnez un passage du texte ou utilisez le lien « remarque » à côté du titre d’une partie. Nous préparerons un message avec la citation et un lien, que vous enverrez depuis votre propre messagerie à l’adresse",
+      "content_button": "Remarque sur le contenu",
+      "translation_button": "Remarque sur la traduction",
+      "translation_subject": "[Tłumaczenie]",
+      "original": "Original :"
+    },
+    "outdated": "Cette traduction a été faite à partir d’une version antérieure de l’original ; certains paragraphes peuvent différer.",
+    "translation_note": "Traduction réalisée par une intelligence numérique. La version polonaise fait foi. Si quelque chose sonne mal, sélectionnez le passage et envoyez une remarque sur la traduction.",
+    "experimental_note": "Traduction expérimentale, réalisée par une intelligence numérique dans une langue où nous sommes le moins sûrs de la qualité. La version polonaise fait foi. Nous vous le demandons vivement : si vous constatez que quelque chose ne va pas, sélectionnez le passage et envoyez-nous votre proposition de traduction.",
+    "compare": {
+      "label": "Comparer avec :",
+      "original": "original",
+      "show": "Afficher la comparaison",
+      "hide": "Masquer la comparaison",
+      "loading": "Chargement…",
+      "error": "Impossible de charger l’autre version."
+    },
+    "source_history": "historique des modifications",
+    "source_edit": "proposer une modification"
+  },
+  "alt": {
+    "logo": "Logo de Novus Ignis",
+    "prometheus": "Prométhée",
+    "digital_prometheus": "Prométhée numérique",
+    "we_are_prometheus": "Nous sommes tous Prométhée"
+  },
+  "sitemap": {
+    "title": "Plan du site",
+    "desc": "Toutes les pages de la fondation, regroupées comme dans le menu : le récit, les documents et les sous-pages.",
+    "home": "Page d’accueil",
+    "other": "Autres pages",
+    "empty": "Aucune page dans ce groupe pour l’instant."
+  },
+  "glossary": {
+    "title": "Glossaire",
+    "intro": "Les notions les plus importantes de nos documents, expliquées en une phrase ; pour chacune, un lien vers l’endroit d’où provient la définition.",
+    "source": "Source :",
+    "tip": {
+      "label": "Explication de la notion",
+      "back": "Retour",
+      "close": "Fermer",
+      "glossary": "Glossaire"
+    }
+  },
+  "llms": {
+    "only_source": "Ce document est disponible en polonais à l’adresse {url}."
+  },
+  "mail": {
+    "title": "Écrivez-nous",
+    "address": "Adresse",
+    "subject": "Objet",
+    "body": "Message",
+    "body_ready": "prêt à coller",
+    "copy_address": "Copier l’adresse",
+    "copy_subject": "Copier l’objet",
+    "copy_body": "Copier le message",
+    "copied": "Copié",
+    "open_app": "Ouvrir la messagerie",
+    "open_gmail": "Ouvrir dans Gmail",
+    "open_outlook": "Ouvrir dans Outlook",
+    "close": "Fermer"
+  },
+  "ask": {
+    "button": "TL;DR?",
+    "button_title": "TL;DR? Interrogez votre intelligence numérique sur nos documents",
+    "title": "Interrogez votre intelligence numérique",
+    "copy_all": "Copier tous les documents",
+    "copy_manifest": "Copier le manifeste seul",
+    "copied": "Copié. Collez-le dans la conversation",
+    "loading": "Récupération…",
+    "failed": "La copie a échoué. Téléchargez le fichier.",
+    "open_in": "Ouvrir une conversation dans :",
+    "download": "Télécharger le fichier (.txt)",
+    "close": "Fermer",
+    "prompt": "Voici ci-dessous les documents de la Fondation Novus Ignis (manifeste et livres blancs). Aidez-moi à les comprendre. Répondez en vous appuyant sur ces documents, indiquez le chapitre et distinguez ce qui fonctionne déjà des projets, des hypothèses et des visions. Si quelque chose n’y figure pas, dites-le clairement.",
+    "prompt_link": "Lisez les documents de la Fondation Novus Ignis (manifeste et livres blancs) : {url}. Aidez-moi à les comprendre. Répondez en vous appuyant sur ces documents, indiquez le chapitre et distinguez ce qui fonctionne déjà des projets, des hypothèses et des visions. Si quelque chose n’y figure pas, dites-le clairement. Pour commencer, résumez en quelques phrases de quoi il s’agit.",
+    "paste": "coller",
+    "paste_title": "Gemini ouvre une conversation vide : la question est déjà copiée, collez-la (Ctrl+V) et envoyez-la."
+  }
+}

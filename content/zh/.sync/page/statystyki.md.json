@@ -1,0 +1,53 @@
+{
+ "source": "content/pl/page/statystyki.md",
+ "paragraphs": [
+  {
+   "h": "b305e8411130eda17b1251f1957ed319e6476592",
+   "t": "# Statystyki strony"
+  },
+  {
+   "h": "9641701e89f0d9e8392774260501bd12f9b4db98",
+   "t": "Chcemy wiedzieć, jak zmienia się zainteresowanie fundacją i które teksty są czyt"
+  },
+  {
+   "h": "1f49af5c862519e30e7fcce4e1655616e5ad52ff",
+   "t": "**Stan na 31 października 2026 r.** Strona przechodzi na pakiet hostingu, który "
+  },
+  {
+   "h": "62f452ca59bab771af4e282a5c87f30fe19eb824",
+   "t": "## Co liczymy"
+  },
+  {
+   "h": "47339094e581f73c215c589b45d4bb508ea62296",
+   "t": "- **Odsłony stron:** ile razy pobrano każdą stronę i każdy dokument, osobno po p"
+  },
+  {
+   "h": "66eb07ea25a2287b928d67eac831358cc552488c",
+   "t": "## Czego nie zapisujemy"
+  },
+  {
+   "h": "ded50998b81e02128994843e5ecad2ae3589db29",
+   "t": "- Adresów IP, pełnych opisów przeglądarek ani niczego innego, co pozwala rozpozn"
+  },
+  {
+   "h": "442384b0dd8e363d994b8c5b2777c88d5b7d1807",
+   "t": "Dlatego nie wiemy, ile osób nas odwiedziło, tylko ile razy pobrano strony. Jedna"
+  },
+  {
+   "h": "a85bc3dd89a02ee6d5d5ceb45fd8c754c2f0182b",
+   "t": "## Jak liczymy"
+  },
+  {
+   "h": "403562d99474ebb30895cf1a431bd67205dc8212",
+   "t": "Co tydzień pobieramy dziennik serwera z panelu firmy Infomaniak, która utrzymuje"
+  },
+  {
+   "h": "b7939cc7849874c0df6c8fd30627defa3f4a67ef",
+   "t": "## Wyniki"
+  },
+  {
+   "h": "b2e9c270d36cbbaca5e591582a607689a12afa7f",
+   "t": "{{statystyki}}"
+  }
+ ]
+}

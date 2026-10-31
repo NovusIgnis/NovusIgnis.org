@@ -1,0 +1,157 @@
+{
+ "source": "content/pl/page/fundacja-jawnosc.md",
+ "paragraphs": [
+  {
+   "h": "31d0589f475f8b3e582c35ca0fe43f5290ca34d6",
+   "t": "# Jawność w fundacji"
+  },
+  {
+   "h": "1f512d3a085aee3e1ccc55bdcd39729de817e68d",
+   "t": "Ta strona opowiada, jak chcemy pokazywać swoją pracę: co zapisujemy przy decyzja"
+  },
+  {
+   "h": "acd2732232959dfe450280b9c3b4f7ad7009fade",
+   "t": "Fundacja, która prosi ludzi o zaufanie, powinna pozwolić sprawdzić, jak podejmuj"
+  },
+  {
+   "h": "e0a5d84d815318903953ad91b6cd65fa070ddd9e",
+   "t": "**Stan na 31 października 2026 r.** Z jawnych rejestrów działa jeden: rejestr zm"
+  },
+  {
+   "h": "e780f453aeedfff20458e8e48d8330cf3a9c48a7",
+   "t": "Więcej: [whitepaper zasad fundacji, rozdział 12](../whitepaper-zasady-fundacji.m"
+  },
+  {
+   "h": "5afb510c22823d011038892ceaa8c9368f976e2e",
+   "t": "## Sześć rejestrów"
+  },
+  {
+   "h": "07df1c6dfce99186375af6ba1a34cf23ca86b0ae",
+   "t": "| Rejestr | Co zawiera | Stan | | --- | --- | --- | | Rejestr wpłat i wydatków |"
+  },
+  {
+   "h": "92e375889b40aac534e61d30b405f0e01752e34e",
+   "t": "Jawne mają być kategorie kosztów, warunki większych umów, decyzje i ich uzasadni"
+  },
+  {
+   "h": "646d855188899a731cd522bab3bdf2aab9bd94a0",
+   "t": "Więcej: [whitepaper zasad fundacji, rozdział 4](../whitepaper-zasady-fundacji.md"
+  },
+  {
+   "h": "f078bbe467b419a0c858e7ca07427efe2ae42eb4",
+   "t": "## Rejestr korzyści prostymi słowami"
+  },
+  {
+   "h": "b3e53e47a1b205a67d387d934a13ec495560200d",
+   "t": "Rejestr obejmie osoby, które zarządzają fundacją, rozstrzygają o wydatkach i zam"
+  },
+  {
+   "h": "bc794a4dc784f931121675100035bbb986bcdce5",
+   "t": "Co z darami?"
+  },
+  {
+   "h": "2de9cc5ff9f8e3397725594234a3d9f65d681609",
+   "t": "- **Drobne upominki**, jak długopis czy gadżet ze spotkania, można przyjąć osobi"
+  },
+  {
+   "h": "f5d40a9fd09ec74af3efd26c9791f37e21b6bcba",
+   "t": "Nie przyjmujemy świadczeń, których warunkiem jest promocja, rekomendacja, uprzyw"
+  },
+  {
+   "h": "b19ca0af990c9bb58a20075060161ef5d8cd6892",
+   "t": "Rejestr służy kontroli, nie promocji: wpisy mają jednakową, rzeczową formę, bez "
+  },
+  {
+   "h": "172dc05e1441631e8f1662371543959eb2724aa4",
+   "t": "Więcej: [whitepaper zasad fundacji, rozdział 7](../whitepaper-zasady-fundacji.md"
+  },
+  {
+   "h": "2db5c44a065b5eb0147cf4dd1578c788afdcff39",
+   "t": "## Każda decyzja z uzasadnieniem"
+  },
+  {
+   "h": "ef17a09757a7077fcd260962efabffa7518a1ba9",
+   "t": "Przy każdej ważnej decyzji chcemy zapisywać w dzienniku decyzji:"
+  },
+  {
+   "h": "13f81f25f049d97ead836a8f7dd1c186368d20cf",
+   "t": "- cel; - rozważone warianty i źródła; - kogo dotkną skutki; - podstawę mandatu: "
+  },
+  {
+   "h": "5653e78f38e0da9a0b3e0b3b2244bf46f8842da9",
+   "t": "Po wykonaniu dopisujemy wynik, doświadczenia osób, których decyzja dotyczyła, i "
+  },
+  {
+   "h": "8aeb3d03c28b7ae103309d6d5768deffa1e4e5df",
+   "t": "Więcej: [whitepaper zasad fundacji, punkt 12.1](../whitepaper-zasady-fundacji.md"
+  },
+  {
+   "h": "bc9c619ae008e9a5843a649973131f571ee9ea49",
+   "t": "## Historia, której nie da się po cichu zmienić"
+  },
+  {
+   "h": "3dd8f330e80c7d2fb26aced8db53d5ebd74535ce",
+   "t": "Zapisy są wiarygodne tylko wtedy, gdy nie da się ich po cichu poprawić wstecz. D"
+  },
+  {
+   "h": "3a60a8f9a443a472b5072e84faca6583b68dc574",
+   "t": "Najpierw trafią do niego odciski wydań oprogramowania, po których można sprawdzi"
+  },
+  {
+   "h": "a030e68b35e4b4c564b0a43b873cfe787c1bed35",
+   "t": "Więcej: [whitepaper zasad fundacji, punkt 12.2](../whitepaper-zasady-fundacji.md"
+  },
+  {
+   "h": "45f6e248bb59ff79c058398188bae7d299fa4dec",
+   "t": "## Błędy będziemy wpisywać"
+  },
+  {
+   "h": "0c4dc694155b6adf971a9c09098c951787b072c4",
+   "t": "Zobowiązujemy się prowadzić publiczny rejestr istotnych błędów i wniosków. Opisz"
+  },
+  {
+   "h": "d32c65f19cd1f6777f48e4f3222edf5d5506b769",
+   "t": "Więcej: [manifest, punkt 8.1](../manifest.md#s8-1) i [whitepaper zasad fundacji,"
+  },
+  {
+   "h": "52d6a2b917ef0084b10ec09de7517c59d0ae502a",
+   "t": "## Spory i zastrzeżenia"
+  },
+  {
+   "h": "eea3f8a1e4b01ef231c847919301a84751e1531c",
+   "t": "Docelowo spór o decyzję ma rozpatrywać osoba albo organ niezależny od tego, kto "
+  },
+  {
+   "h": "c093d8f30bd1a5f129f0850bb788724f3e236006",
+   "t": "Więcej: [whitepaper zasad fundacji, punkt 12.3](../whitepaper-zasady-fundacji.md"
+  },
+  {
+   "h": "0b9f1d81b38f1d06c3c832e69058663990a725a9",
+   "t": "## Jak zmieniamy dokumenty"
+  },
+  {
+   "h": "10fd072ff81b22280c5047c46948b4cc7dff2d32",
+   "t": "Manifest i whitepapery są żywymi dokumentami. Aktualna wersja przedstawia obecne"
+  },
+  {
+   "h": "0672b7e10b6079438524034d2524ed641f91d2d8",
+   "t": "Reguły organizacyjne rozwijamy jawnie: razem z propozycją zmiany pokazujemy jej "
+  },
+  {
+   "h": "2d70fb937ebb3273f043a722e8f3485f4d64673f",
+   "t": "Dziś historię zmian pokazujemy w dwóch miejscach: w [rejestrze zmian statutu](.."
+  },
+  {
+   "h": "26fc45438420883abfb70c1409d50ad485dbad20",
+   "t": "Więcej: [whitepaper zasad fundacji, punkt 12.4](../whitepaper-zasady-fundacji.md"
+  },
+  {
+   "h": "dbd729a4bebd65f560d1601db4be5811d62ffdc0",
+   "t": "## Przeczytaj i powiedz, co myślisz"
+  },
+  {
+   "h": "e4605c83914d3296c06b6df7968eb34725dc49ed",
+   "t": "Pełny opis zasad jawności znajdziesz w [whitepaperze zasad fundacji, rozdział 12"
+  }
+ ]
+}

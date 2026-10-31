@@ -1,0 +1,90 @@
+# Novus Ignis · automatyczne wgranie strony na hosting Infomaniak.
+#
+# Po każdej zmianie w gałęzi main (np. zaakceptowanej poprawce tłumaczenia) GitHub:
+#   1. buduje stronę (tools/build.mjs),
+#   2. uruchamia kontrole (tools/check.mjs, tools/paczka.mjs); przy błędzie zatrzymuje się i niczego nie wysyła,
+#   3. wysyła folder dist/ przez SFTP do folderu strony na Infomaniaku.
+# Można też uruchomić ręcznie: zakładka Actions → „Wgranie strony” → Run workflow.
+#
+# Dane dostępu są w Settings → Secrets and variables → Actions (wpisuje je Marcin, nie trafiają do repozytorium):
+#   sekrety:  SFTP_HOST, SFTP_USER, SFTP_KEY (prywatny klucz ed25519), SFTP_KNOWN_HOSTS (wynik ssh-keyscan)
+#   zmienne:  SFTP_DIR (folder strony na serwerze), SFTP_DELETE ("tak" = usuwaj z serwera pliki, których nie ma w paczce)
+# Instrukcja krok po kroku: WGRYWANIE.md.
+
+name: Wgranie strony
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: wgranie-strony
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  wgraj:
+    runs-on: ubuntu-latest
+    environment: prod
+    steps:
+      - name: Pobranie repozytorium
+        uses: actions/checkout@v4
+
+      - name: Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Budowa strony
+        run: node tools/build.mjs
+
+      - name: Kontrola stron
+        run: node tools/check.mjs
+
+      - name: Paczka i kontrola odnośników
+        run: node tools/paczka.mjs
+
+      - name: Brakujące ustawienia
+        env:
+          SFTP_HOST: ${{ secrets.SFTP_HOST }}
+          SFTP_USER: ${{ secrets.SFTP_USER }}
+          SFTP_KEY: ${{ secrets.SFTP_KEY }}
+          SFTP_KNOWN_HOSTS: ${{ secrets.SFTP_KNOWN_HOSTS }}
+          SFTP_DIR: ${{ vars.SFTP_DIR }}
+        run: |
+          for v in SFTP_HOST SFTP_USER SFTP_KEY SFTP_KNOWN_HOSTS SFTP_DIR; do
+            if [ -z "${!v}" ]; then echo "Brak ustawienia $v (zob. WGRYWANIE.md)."; exit 1; fi
+          done
+          case "$SFTP_DIR" in /|""|.) echo "SFTP_DIR nie może być korzeniem hostingu."; exit 1;; esac
+
+      - name: Klucz SSH
+        env:
+          SFTP_KEY: ${{ secrets.SFTP_KEY }}
+          SFTP_KNOWN_HOSTS: ${{ secrets.SFTP_KNOWN_HOSTS }}
+        run: |
+          install -m 700 -d ~/.ssh
+          printf '%s\n' "$SFTP_KEY" > ~/.ssh/wgranie
+          chmod 600 ~/.ssh/wgranie
+          printf '%s\n' "$SFTP_KNOWN_HOSTS" > ~/.ssh/known_hosts
+
+      - name: lftp
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq lftp
+
+      - name: Wysłanie na Infomaniak
+        env:
+          SFTP_HOST: ${{ secrets.SFTP_HOST }}
+          SFTP_USER: ${{ secrets.SFTP_USER }}
+          SFTP_DIR: ${{ vars.SFTP_DIR }}
+          SFTP_DELETE: ${{ vars.SFTP_DELETE }}
+        run: |
+          DEL=""
+          if [ "$SFTP_DELETE" = "tak" ]; then DEL="--delete"; fi
+          lftp -c "
+            set sftp:connect-program 'ssh -a -x -i $HOME/.ssh/wgranie -o UserKnownHostsFile=$HOME/.ssh/known_hosts -o StrictHostKeyChecking=yes';
+            set net:max-retries 3;
+            open -u '$SFTP_USER',x sftp://$SFTP_HOST;
+            mirror --reverse $DEL --verbose --parallel=4 --exclude-glob .ssh/ --exclude-glob .well-known/ --exclude-glob .htaccess dist/ '$SFTP_DIR';
+          "

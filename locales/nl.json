@@ -1,0 +1,367 @@
+{
+  "hero": {
+    "title": "NOVUS IGNIS",
+    "subtitle": "Herwin je vuur",
+    "scrollHint": "Scroll om te beginnen",
+    "cta_join": "Doe mee",
+    "download": "Download documenten"
+  },
+  "act1": {
+    "text1_1": "Ooit kwamen mensen samen rond het vuur.",
+    "text1_2": "Het gaf warmte, licht en verbondenheid.",
+    "text2_1": "Maar goden werden jaloers.",
+    "text2_2": "Zeus verachtte hun vuur.",
+    "text3_1": "En met één ademtocht doofde hij het.",
+    "text3_2": "Kennis, vrijheid en warmte verdwenen.",
+    "text4_1": "De mensheid zat weer in duisternis.",
+    "text4_2": "Wachtend tot iemand nieuw vuur maakt."
+  },
+  "gap1": {
+    "text": "Toch bleef in het diepste duister een vonk..."
+  },
+  "act2": {
+    "prom_1": "Titaan Prometheus treedt op.",
+    "prom_2": "Klaar om goden te tarten en het vuur te herwinnen.",
+    "olimp1": "Hij aanvaardde het duister niet.",
+    "olimp2": "Hij sloop het godenpaleis binnen.",
+    "olimp3": "En roofde de heilige vlam.",
+    "olimp4_1": "Hij rende de berg af om mensen het vuur terug te geven.",
+    "olimp4_2": "Warmte, licht en hoop terug in mensenharten.",
+    "rekindle_1": "De heilige vlam brandde weer.",
+    "rekindle_2": "Met vuur in handen begon de mensheid te bouwen.",
+    "civ_1": "Uit gloed rezen rijken en een beschaving.",
+    "civ_2": "Het vuur schonk wetenschap, bouwkunst en soevereiniteit."
+  },
+  "twain": {
+    "quote": "“De geschiedenis herhaalt zich niet, maar rijmt.”",
+    "author": "Toegedicht: Mark Twain"
+  },
+  "act3": {
+    "text1": "Voor schermen onze blik vingen, was de wereld tastbaar.",
+    "text2": "Het vroege web: een zege voor eigen regie.",
+    "text3": "Rolgordijnen dicht. Ogen op het schermlicht.",
+    "text4": "Daarna platforms die aan onze tijd verdienen.",
+    "text5": "Verslavend fastfood. Goedkope dopamine.",
+    "text6": "Altijd surveillance achter elk scherm.",
+    "text7": "Geplande veroudering in onze apparaten.",
+    "text8": "Overal jacht op aandacht.",
+    "text9": "Goedkoop, nutteloos plastic alom."
+  },
+  "newProm": {
+    "text": "Een Prometheus van nu nodig."
+  },
+  "act4": {
+    "text2": "Alleen deze keer...",
+    "text3": "Eén titaan volstaat niet.",
+    "text4_top": "Velen nodig.",
+    "text4_bottom": "En we zijn met velen.",
+    "text5": "Allemaal Prometheus.",
+    "text6": "Ditmaal zijn wij de titaan."
+  },
+  "dignity": {
+    "title": "EEN ALTERNATIEF IS MOGELIJK.",
+    "sentence1": "“In het rijk der doeleinden heeft alles óf een <span class=\"hl-price\">PRIJS</span> óf <span class=\"hl-dignity\">WAARDIGHEID</span>.",
+    "sentence2": "<span class=\"hl-price\">Wat een prijs heeft, kan worden vervangen</span> door iets anders als equivalent;",
+    "sentence3": "wat daarentegen <span class=\"hl-dignity\">boven elke prijs verheven is</span> en dus geen equivalent toelaat, <span class=\"hl-dignity\">heeft waardigheid</span>.”",
+    "author": "Immanuel Kant, Fundering voor de metafysica van de zeden (1785)"
+  },
+  "act5": {
+    "intro_badge": "MENSELIJKE WAARDIGHEID",
+    "intro_title": "Menselijke waardigheid voorop.",
+    "intro_sub": "Elke tool die we maken, moet één beginsel dienen:<br><strong style=\"color: #FFFFFF;\">de bescherming van menselijke waardigheid.</strong>",
+    "grid_title": "DRIE PIJLERS",
+    "col1": {
+      "badge": "PIJLER I · HIER BEGINNEN WE",
+      "title": "Suveria en Omniforum",
+      "r1_h": "Privéruimte",
+      "r2_h": "Gezamenlijk begrip",
+      "r3_h": "Diensten dicht bij kostprijs"
+    },
+    "col2": {
+      "badge": "PIJLER II · RICHTING",
+      "title": "Duurzame voorwerpen",
+      "r1_h": "Duurzaam en repareerbaar",
+      "r2_h": "Open ontwerpen",
+      "r3_h": "Middelen delen"
+    },
+    "col3": {
+      "badge": "PIJLER III · RICHTING",
+      "title": "Natuur",
+      "r1_h": "Dichter bij de natuur",
+      "r2_h": "Leven buiten technologie"
+    },
+    "law_quote": "„Alle mensen worden vrij en gelijk in waardigheid en rechten geboren.”",
+    "law_source": "Universele Verklaring van de Rechten van de Mens, artikel 1 (1948)",
+    "call_to_action": "Menselijke waardigheid staat in de Universele Verklaring van de Rechten van de Mens en in de grondwetten van meer dan 160 landen, oftewel meer dan 80% van de VN-leden. We willen dat deze woorden ook steun vinden in de opbouw van de technologie die we dagelijks gebruiken.",
+    "suveria": {
+      "badge": "EERSTE STAP · SUVERIA",
+      "title": "We beginnen met jouw digitale privéruimte",
+      "text": "Als een eigen, knusse kamer: je komt binnen, sluit de deur en kunt rustig je zaken, gedachten en plannen ordenen. We ontwerpen Suveria zo dat niemand er kan meekijken en digitale intelligentie alleen helpt als jij dat wilt.",
+      "highlight": "Elke toezegging over bescherming moet controleerbaar zijn. Waar we die nog niet waarmaken, zeggen we dat duidelijk.",
+      "link": "Lees de whitepaper over Suveria →"
+    }
+  },
+  "meta": {
+    "title": "Novus Ignis · Een internet gebaseerd op menselijke waardigheid",
+    "description": "Stichting Novus Ignis geeft mede vorm aan een alternatief internet met menselijke waardigheid als hoogste waarde. Suveria: een digitale privéruimte. Omniforum: een gedeelde ruimte voor gesprek en besluiten."
+  },
+  "hub": {
+    "badge": "STICHTING NOVUS IGNIS",
+    "title": "Een internet gebaseerd op<br><span class=\"gradient-text--fire\">menselijke waardigheid</span>",
+    "subtitle": "We beginnen onze activiteiten met het samen vormgeven van een alternatief internet waarin menselijke waardigheid en de daaruit voortvloeiende behoefte aan privacy en vrijheid de hoogste waarde vormen. Uit deze waarden leiden we twee werkrichtingen af: <strong>Suveria</strong>, een persoonlijke digitale privéruimte, en <strong>Omniforum</strong>, een gedeelde openbare ruimte waar mensen elkaar kunnen ontmoeten, begrijpen en samen kunnen handelen.",
+    "cta_manifesto": "Lees het manifest",
+    "cta_docs": "Manifest en whitepapers",
+    "docs_title": "Manifest, whitepapers en statuten",
+    "docs_sub": "De statuten vormen het recht van de stichting. Het manifest is onze toezegging aan mensen: wat we willen doen en waarom. De whitepapers laten zien hoe het technisch werkt en waar de grenzen liggen.",
+    "docs_read": "Lees →",
+    "docs_note": "De documenten groeien mee met kennis en ervaring, met behoud van de wijzigingsgeschiedenis.",
+    "cards": {
+      "manifest": {
+        "badge": "MANIFEST",
+        "desc": "Wat we willen doen en waarom: waardigheid, privacy, gezamenlijk begrip, instandhouding van diensten en machtsoverdracht."
+      },
+      "suveria": {
+        "badge": "SUVERIA",
+        "desc": "Wat we beschermen en waartegen, de weg van apparaat naar model, een gedateerde kostenberekening en acceptatietests."
+      },
+      "omniforum": {
+        "badge": "OMNIFORUM",
+        "desc": "Kwesties, een ideeënkaart, een argumentenoverzicht, levende documenten en regels voor gezamenlijke besluiten."
+      },
+      "fundacja": {
+        "badge": "WERKINGSREGELS VAN DE STICHTING",
+        "desc": "Betalen voor werkelijk gebruik, budget, werk en rollen, het voordelenregister en overdracht van bevoegdheden van de oprichter."
+      },
+      "benchmark": {
+        "badge": "ONDERZOEK",
+        "desc": "Materiaal voor training en een benchmark: toetsen of digitale intelligentie mensen werkelijk helpt."
+      },
+      "statut": {
+        "badge": "STATUTEN",
+        "desc": "Het recht van de stichting, alle statutenversies en een wijzigingsregister met onderbouwing."
+      }
+    },
+    "join_badge": "DOE MEE",
+    "roles_title": "Niemand kan dit alleen dragen.<br><span class=\"gradient-text--fire\">We zijn allemaal Prometheus.</span>",
+    "roles_desc": "Als je in het manifest ook maar één waarde herkent die je na aan het hart ligt en een plek ziet waar je iets kunt bijdragen, nodigen we je uit Novus Ignis mede vorm te geven.",
+    "roles_hint": "Klik op een werkgebied om ons te schrijven met een ingevulde onderwerpregel.",
+    "roles_note": "Even belangrijk zijn ervaringen van mensen die kunnen vertellen waarmee ze dagelijks te maken hebben en wat werkelijk zou helpen.",
+    "mail_subject": "[Doe mee]",
+    "roles_cta_email": "Schrijf: salve@novusignis.org",
+    "roles_cta_manifest": "Lees het manifest",
+    "join_title": "Laten we beginnen met een stukje wereld dat we samen kunnen verbeteren.",
+    "join_text": "Schrijf naar salve@novusignis.org en vertel wat je na aan het hart ligt en wat je wilt inbrengen: een vaardigheid, vraag, idee of ervaring.",
+    "join_btn": "Schrijf een bericht",
+    "join_disclaimer": "We verzamelen geen adressen via formulieren. Je bericht komt rechtstreeks in ons postvak."
+  },
+  "home": {
+    "cta_why": "Waarom Novus Ignis",
+    "cta_today": "Waar we nu staan",
+    "today": {
+      "title": "Waar we nu staan",
+      "works": "Werkt",
+      "works_text": "De stichting is geregistreerd en het manifest en de whitepapers zijn gepubliceerd. Bij elke zin van de documenten werkt de knop “Ik heb een opmerking”.",
+      "project": "Ontwerp",
+      "project_text": "Het eerste prototype van Omniforum is in aanbouw en Suveria is een ontwerp.",
+      "hypothesis": "Hypothese",
+      "hypothesis_text": "De kostenberekening is een te toetsen hypothese: al een kleine groep kan per dollar meer digitale intelligentie krijgen dan bij gesloten diensten, met controleerbare privacy.",
+      "vision": "Visie",
+      "vision_text": "Zelfstandig beheer door digitale intelligentie en de verdere pijlers zijn een visie.",
+      "note": "We onderscheiden wat werkt van een ontwerp, hypothese en visie, want we beloven niets wat we niet kunnen onderbouwen."
+    },
+    "spaces": {
+      "title": "Eerste pijler: twee ruimtes",
+      "suveria_title": "Suveria",
+      "suveria_text": "Suveria moet een privéruimte op internet worden waar iemand met digitale intelligentie praat, aan eigen materiaal werkt en naar eerdere gedachten terugkeert, zoals thuis achter een gesloten deur. Suveria is nu onze beste weg naar privéwerk met digitale intelligentie, geen doel op zich.",
+      "suveria_link": "Wat is Suveria →",
+      "omniforum_title": "Omniforum",
+      "omniforum_text": "Omniforum moet een plek worden waar iedereen zich over elk onderwerp kan uitspreken en gehoord kan worden. Een eenvoudige vraag, “dus je wilt dit en dat zeggen, begrijp ik je goed?”, verandert de gesprekstoon aan beide kanten. De hele technische laag van Omniforum moet juist die reflex ondersteunen.",
+      "omniforum_link": "Wat is Omniforum →"
+    },
+    "help": {
+      "title": "Hoe je kunt helpen",
+      "m5_title": "5 minuten",
+      "m5_text": "Lees de inleiding van het manifest, markeer een onduidelijke zin of een zin waarmee je het oneens bent en klik op “Ik heb een opmerking”.",
+      "m5_model": "Als je ons via een model leest, vraag het ook naar onze zwakste punten en stuur ons wat het vindt.",
+      "h1_title": "Een uur",
+      "h1_text": "Bekijk de whitepaper uit je eigen vakgebied: <a href=\"#\" data-doc-link=\"suveria\">beveiliging en infrastructuur (Suveria)</a>, <a href=\"#\" data-doc-link=\"fundacja\">recht en financiën (werkingsregels van de stichting)</a>, <a href=\"#\" data-doc-link=\"benchmark\">onderzoek (materiaal en benchmark)</a>, <a href=\"#\" data-doc-link=\"omniforum\">gesprek en besluiten (Omniforum)</a>.",
+      "more_title": "Meer tijd",
+      "more_text": "Help de eerste versies bouwen: de rollen en wat we nodig hebben staan op de pagina <a href=\"#\" data-page-link=\"dolacz\">Doe mee</a>.",
+      "money_title": "Financiële steun",
+      "money_text": "De stichting ontvangt donaties per overschrijving in zloty's, euro's en dollars. We tonen elke bijdrage in het openbare register met datum, bedrag en korte beschrijving; donoren noemen we alleen als ze dat zelf willen. Een donatie geeft geen stemmen, invloed op besluiten of recht op promotie. <a href=\"wesprzyj.html\">Betaalgegevens en regels</a>"
+    },
+    "docs_all": "Alle documenten en hoe je opmerkingen doorgeeft",
+    "join_page": "Bekijk de rollen en schrijf ons",
+    "next": {
+      "title": "Wat je nu kunt doen",
+      "status": "De stichting is actief, de documenten zijn beschikbaar en het openbare bijdragenregister is in gebruik. Suveria en Omniforum zijn ontwerpen waaraan we werken.",
+      "wait_title": "Laat weten dat je het wilt proberen",
+      "wait_text": "Meld je aan voor de wachtlijst. We schrijven je wanneer de eerste proeven met Suveria en Omniforum beginnen.",
+      "wait_btn": "Op de wachtlijst",
+      "wait_note": "Stuur een bericht met het onderwerp al ingevuld. We gebruiken je adres alleen voor dat ene bericht en verwijderen het direct als je daarom vraagt. <a href=\"twoje-dane.html\">Je gegevens</a>",
+      "read_title": "Lees meer",
+      "read_text": "Begin met een korte inleiding of lees het manifest en de whitepapers. Je kunt ze ook aan je eigen model geven en naar onze zwakste punten vragen.",
+      "read_btn": "Novus Ignis in het kort",
+      "read_docs": "Manifest en whitepapers",
+      "join_title": "Doe mee",
+      "join_text": "We zoeken mensen die de eerste versies helpen bouwen: van beveiliging en recht tot het vertellen over het idee. Eén opmerking bij een tekst is genoeg om te beginnen.",
+      "join_btn": "Wie we zoeken",
+      "give_title": "Steun de stichting",
+      "give_text": "Met een donatie per overschrijving in zloty's, euro's of dollars. We tonen elke bijdrage in het openbare register. Een donatie geeft geen stemmen of invloed op besluiten.",
+      "give_btn": "Doneer"
+    }
+  },
+  "nav": {
+    "brand": "NOVUS IGNIS",
+    "tagline": "Een internet gebaseerd op menselijke waardigheid.",
+    "menu": "Menu",
+    "language": "Taal",
+    "links": {
+      "story": "Het verhaal",
+      "manifest": "Manifest",
+      "whitepapers": "Whitepapers",
+      "statute": "Statuten",
+      "join": "Doe mee"
+    },
+    "docs": {
+      "manifest": "Manifest",
+      "suveria": "Whitepaper Suveria",
+      "omniforum": "Whitepaper Omniforum",
+      "fundacja": "Werkingsregels van de stichting",
+      "benchmark": "Materiaal en benchmark",
+      "statut": "Statuten en wijzigingsregister"
+    },
+    "footer": {
+      "documents": "Documenten",
+      "contact": "Contact",
+      "krs": "Gegevens in het Nationaal Gerechtsregister (KRS)",
+      "legal": "Stichting Novus Ignis · Poznań, Polen · KRS 0001269575 · NIP 7792612046",
+      "license_html": "Het manifest, de whitepapers en de websiteteksten publiceren we onder de licentie <a href=\"https://creativecommons.org/licenses/by/4.0/deed.nl\" rel=\"noopener\">CC BY 4.0</a>.",
+      "privacy": "Deze website gebruikt geen cookies of analysescripts; alleen je browser onthoudt je taalkeuze.",
+      "shortcuts": "Snel naar"
+    },
+    "groups": {
+      "dlaczego": "Waarom",
+      "suveria": "Suveria",
+      "omniforum": "Omniforum",
+      "fundacja": "Stichting",
+      "dokumenty": "Documenten",
+      "dolacz": "Doe mee",
+      "skroty": "Snel naar"
+    },
+    "expand": "submenu uitklappen",
+    "shortcuts": {
+      "w_skrocie": "In het kort",
+      "dziennik_zmian": "Wijzigingslogboek",
+      "slownik": "Begrippenlijst",
+      "mapa_strony": "Sitemap"
+    },
+    "overview": {
+      "dlaczego": "Waarom Novus Ignis",
+      "suveria": "Wat is Suveria",
+      "omniforum": "Wat is Omniforum",
+      "fundacja": "Wie we zijn",
+      "dokumenty": "Alle documenten",
+      "dolacz": "Wie we zoeken en hoe je begint"
+    }
+  },
+  "doc": {
+    "toc": "Inhoudsopgave",
+    "footnotes": "Voetnoten",
+    "footnote": "Voetnoot",
+    "back": "Terug naar de plek in de tekst",
+    "link_here": "Link naar dit onderdeel",
+    "skip": "Naar de inhoud",
+    "source_note": "Bronbestand:",
+    "not_translated": "Dit document is nog niet beschikbaar in deze taal.",
+    "reading_original": "Je leest het Poolse origineel.",
+    "remark": {
+      "button": "Ik heb een opmerking",
+      "copy": "Kopieer tekst",
+      "copied": "Gekopieerd",
+      "section": "opmerking",
+      "section_label": "Geef een opmerking bij dit deel:",
+      "subject": "[Opmerking]",
+      "quote": "Fragment:",
+      "place": "Plaats in de tekst:",
+      "prompt": "Mijn opmerking:",
+      "hint": "Heb je een opmerking? Markeer een tekstfragment of gebruik de link “opmerking” naast de titel van een onderdeel. We stellen een bericht met citaat en link op, dat je vanuit je eigen postvak verstuurt naar",
+      "content_button": "Opmerking over de inhoud",
+      "translation_button": "Opmerking over de vertaling",
+      "translation_subject": "[Vertaling]",
+      "original": "Origineel:"
+    },
+    "outdated": "Deze vertaling is gebaseerd op een eerdere versie van het origineel; sommige alinea's kunnen verschillen.",
+    "translation_note": "Vertaling gemaakt door digitale intelligentie. De Poolse versie is bindend. Klinkt iets niet goed? Markeer het fragment en stuur een opmerking over de vertaling.",
+    "experimental_note": "Experimentele vertaling, gemaakt door digitale intelligentie in een taal waarin we het minst zeker zijn van de kwaliteit. De Poolse versie is bindend. We vragen je vriendelijk: als je ziet dat iets niet klopt, markeer het fragment en stuur ons je vertaalvoorstel.",
+    "compare": {
+      "label": "Vergelijk met:",
+      "original": "origineel",
+      "show": "Toon vergelijking",
+      "hide": "Verberg vergelijking",
+      "loading": "Laden…",
+      "error": "De andere versie kon niet worden geladen."
+    },
+    "source_history": "wijzigingsgeschiedenis",
+    "source_edit": "een wijziging voorstellen"
+  },
+  "alt": {
+    "logo": "Logo van Novus Ignis",
+    "prometheus": "Prometheus",
+    "digital_prometheus": "Digitale Prometheus",
+    "we_are_prometheus": "We zijn allemaal Prometheus"
+  },
+  "sitemap": {
+    "title": "Sitemap",
+    "desc": "Alle pagina's van de stichting, ingedeeld zoals in het menu: het verhaal, documenten en subpagina's.",
+    "home": "Startpagina",
+    "other": "Andere pagina's",
+    "empty": "Deze groep heeft nog geen pagina's."
+  },
+  "glossary": {
+    "title": "Begrippenlijst",
+    "intro": "De belangrijkste begrippen uit onze documenten, elk in één zin uitgelegd, met een link naar de plaats waar de definitie vandaan komt.",
+    "source": "Bron:",
+    "tip": {
+      "label": "Uitleg van het begrip",
+      "back": "Terug",
+      "close": "Sluiten",
+      "glossary": "Begrippenlijst"
+    }
+  },
+  "llms": {
+    "only_source": "Dit document is in het Pools beschikbaar op {url}."
+  },
+  "mail": {
+    "title": "Schrijf ons",
+    "address": "Adres",
+    "subject": "Onderwerp",
+    "body": "Bericht",
+    "body_ready": "klaar om te plakken",
+    "copy_address": "Kopieer adres",
+    "copy_subject": "Kopieer onderwerp",
+    "copy_body": "Kopieer bericht",
+    "copied": "Gekopieerd",
+    "open_app": "Open mailprogramma",
+    "open_gmail": "Open in Gmail",
+    "open_outlook": "Open in Outlook",
+    "close": "Sluiten"
+  },
+  "ask": {
+    "button": "TL;DR?",
+    "button_title": "TL;DR? Vraag je digitale intelligentie naar onze documenten",
+    "title": "Vraag je digitale intelligentie",
+    "copy_all": "Kopieer alle documenten",
+    "copy_manifest": "Kopieer alleen het manifest",
+    "copied": "Gekopieerd. Plak het in het gesprek",
+    "loading": "Ophalen…",
+    "failed": "Kopiëren mislukt. Download het bestand.",
+    "open_in": "Open een gesprek in:",
+    "download": "Download bestand (.txt)",
+    "close": "Sluiten",
+    "prompt": "Hieronder staan de documenten van Stichting Novus Ignis (manifest en whitepapers). Help me ze te begrijpen. Antwoord op basis van deze documenten, vermeld het hoofdstuk en onderscheid wat al werkt van ontwerpen, hypothesen en visies. Als iets er niet in staat, zeg dat dan duidelijk.",
+    "prompt_link": "Lees de documenten van Stichting Novus Ignis (manifest en whitepapers): {url}. Help me ze te begrijpen. Antwoord op basis van deze documenten, vermeld het hoofdstuk en onderscheid wat al werkt van ontwerpen, hypothesen en visies. Als iets er niet in staat, zeg dat dan duidelijk. Vat om te beginnen in een paar zinnen samen waar het om gaat.",
+    "paste": "plakken",
+    "paste_title": "Gemini opent een leeg gesprek: de vraag is al gekopieerd, plak hem (Ctrl+V) en verstuur hem."
+  }
+}

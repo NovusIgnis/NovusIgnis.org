@@ -1,0 +1,367 @@
+{
+  "hero": {
+    "title": "NOVUS IGNIS",
+    "subtitle": "找回你的火种",
+    "scrollHint": "向下滚动，开始阅读",
+    "cta_join": "参与其中",
+    "download": "下载文档"
+  },
+  "act1": {
+    "text1_1": "起初，人们围着火相聚。",
+    "text1_2": "火带来温暖、光明与联结。",
+    "text2_1": "然而，众神心生嫉妒。",
+    "text2_2": "宙斯轻蔑地望着他们的火。",
+    "text3_1": "只一口气，便将它吹灭。",
+    "text3_2": "知识、自由与温暖随之消失。",
+    "text4_1": "人类再次陷入黑暗。",
+    "text4_2": "等待有人点燃新的火。"
+  },
+  "gap1": {
+    "text": "但在最深的黑暗中，仍留着一粒火星……"
+  },
+  "act2": {
+    "prom_1": "泰坦普罗米修斯挺身而出。",
+    "prom_2": "准备挑战众神，夺回火种。",
+    "olimp1": "他不愿在黑暗中生活。",
+    "olimp2": "他潜入众神的宫殿。",
+    "olimp3": "盗走了神圣的火焰。",
+    "olimp4_1": "他奔下山，将火还给人类。",
+    "olimp4_2": "温暖、光明与希望重回人心。",
+    "rekindle_1": "神圣的火焰再度燃起。",
+    "rekindle_2": "手握火种，人类开始创造。",
+    "civ_1": "余烬中，帝国兴起，文明生长。",
+    "civ_2": "火的馈赠，开启了科学、建筑与主权之路。"
+  },
+  "twain": {
+    "quote": "“历史不会重演，却会押韵。”",
+    "author": "据传出自马克·吐温"
+  },
+  "act3": {
+    "text1": "屏幕占据目光之前，世界触手可及。",
+    "text2": "早期互联网，是人的自主能动性的胜利。",
+    "text3": "后来，我们拉下百叶窗，凝望屏幕的光。",
+    "text4": "再后来，平台靠我们的时间赚钱。",
+    "text5": "令人上瘾的快餐，廉价的多巴胺。",
+    "text6": "每块屏幕后，监视从未停歇。",
+    "text7": "设备被预先设定了淘汰的命运。",
+    "text8": "处处都在争夺注意力。",
+    "text9": "廉价无用的塑料制品泛滥。"
+  },
+  "newProm": {
+    "text": "我们需要当代的普罗米修斯。"
+  },
+  "act4": {
+    "text2": "只是这一次……",
+    "text3": "一位泰坦已不足以承担。",
+    "text4_top": "需要我们许多人。",
+    "text4_bottom": "而我们，确有许多人。",
+    "text5": "我们都是普罗米修斯。",
+    "text6": "这一次，我们就是泰坦。"
+  },
+  "dignity": {
+    "title": "另一条路是可能的。",
+    "sentence1": "“在目的的王国中，一切要么有<span class=\"hl-price\">价格</span>，要么有<span class=\"hl-dignity\">尊严</span>。",
+    "sentence2": "<span class=\"hl-price\">凡有价格的，都可以被</span>其他等价之物替代；",
+    "sentence3": "而<span class=\"hl-dignity\">超越一切价格</span>、因而不容许任何等价之物的，便<span class=\"hl-dignity\">具有尊严</span>。”",
+    "author": "伊曼努尔·康德，《道德形而上学奠基》（1785）"
+  },
+  "act5": {
+    "intro_badge": "人的尊严",
+    "intro_title": "人的尊严高于一切。",
+    "intro_sub": "我们创造的每一件工具，都应服务于同一原则：<br><strong style=\"color: #FFFFFF;\">保护人的尊严。</strong>",
+    "grid_title": "三大支柱",
+    "col1": {
+      "badge": "支柱 I · 从这里开始",
+      "title": "Suveria 与 Omniforum",
+      "r1_h": "私密空间",
+      "r2_h": "共同理解",
+      "r3_h": "接近成本的服务"
+    },
+    "col2": {
+      "badge": "支柱 II · 未来方向",
+      "title": "耐用物品",
+      "r1_h": "耐用、可维修",
+      "r2_h": "开放设计",
+      "r3_h": "共享资源"
+    },
+    "col3": {
+      "badge": "支柱 III · 未来方向",
+      "title": "自然",
+      "r1_h": "亲近自然",
+      "r2_h": "技术之外的生活"
+    },
+    "law_quote": "“人人生而自由，在尊严和权利上一律平等。”",
+    "law_source": "《世界人权宣言》第一条（1948 年）",
+    "call_to_action": "人的尊严已写入《世界人权宣言》和 160 多个国家的宪法，覆盖联合国 80% 以上的成员国。我们希望，这些话也能在日常使用的技术构造中获得支撑。",
+    "suveria": {
+      "badge": "第一步 · SUVERIA",
+      "title": "从你的私密数字空间开始",
+      "text": "就像自己温馨的房间：走进去，关上门，便能安心整理事务、思绪和计划。我们正在设计 Suveria，让你在其中不受窥视，而数字智能只在你希望时提供帮助。",
+      "highlight": "我们关于保护的每一项保证，都必须能够核验。尚未做到的地方，我们会坦率说明。",
+      "link": "阅读 Suveria 白皮书 →"
+    }
+  },
+  "meta": {
+    "title": "Novus Ignis · 以人的尊严为基础的互联网",
+    "description": "Novus Ignis 基金会共同构建一个以人的尊严为最高价值的替代性互联网。Suveria：私密数字空间。Omniforum：共同对话与决策的空间。"
+  },
+  "hub": {
+    "badge": "NOVUS IGNIS 基金会",
+    "title": "以<br><span class=\"gradient-text--fire\">人的尊严</span>为基础的互联网",
+    "subtitle": "我们从共同构建一个替代性互联网开始工作，以人的尊严以及由此产生的隐私与自由需求为最高价值。从这些价值出发，我们确立了两个工作方向：<strong>Suveria</strong>，属于个人的私密数字空间；以及 <strong>Omniforum</strong>，一个让人们能够相遇、相互理解并共同行动的共享公共空间。",
+    "cta_manifesto": "阅读宣言",
+    "cta_docs": "宣言与白皮书",
+    "docs_title": "宣言、白皮书与章程",
+    "docs_sub": "章程是基金会的法律。宣言是我们对人的承诺，说明我们想做什么以及为什么。白皮书展示技术如何运作，以及它的边界。",
+    "docs_read": "阅读 →",
+    "docs_note": "我们随知识与经验的发展完善文档，并保留变更历史。",
+    "cards": {
+      "manifest": {
+        "badge": "宣言",
+        "desc": "我们想做什么以及为什么：尊严、隐私、共同理解、服务维护与权力移交。"
+      },
+      "suveria": {
+        "badge": "SUVERIA",
+        "desc": "我们保护什么、防范什么，从设备到模型的路径、注明日期的成本核算与验收试验。"
+      },
+      "omniforum": {
+        "badge": "OMNIFORUM",
+        "desc": "议题、理念卡片、论据地图、活文档与共同决策的原则。"
+      },
+      "fundacja": {
+        "badge": "基金会运作原则",
+        "desc": "按实际使用结算、预算、工作与角色、利益登记册以及创立人职权的移交。"
+      },
+      "benchmark": {
+        "badge": "研究",
+        "desc": "模型训练材料与基准测试：如何检验数字智能是否确实帮助了人。"
+      },
+      "statut": {
+        "badge": "章程",
+        "desc": "基金会的法律、历版章程，以及附有理由的变更登记册。"
+      }
+    },
+    "join_badge": "加入我们",
+    "roles_title": "没有人能独自承担这一切。<br><span class=\"gradient-text--fire\">我们都是普罗米修斯。</span>",
+    "roles_desc": "如果你在宣言中找到哪怕一项认同的价值，也看到自己能够出力的地方，我们邀请你共同创造 Novus Ignis。",
+    "roles_hint": "点击领域，即可用预填主题给我们写信。",
+    "roles_note": "同样重要的是人们的亲身经历：讲述日常面对的问题，以及什么才会真正带来帮助。",
+    "mail_subject": "[加入]",
+    "roles_cta_email": "写信：salve@novusignis.org",
+    "roles_cta_manifest": "阅读宣言",
+    "join_title": "从一小片我们能一起改善的世界开始。",
+    "join_text": "请写信至 salve@novusignis.org，讲讲你关心什么，以及希望带来什么：一项技能、一个问题、一个想法或一段经历。",
+    "join_btn": "写信",
+    "join_disclaimer": "我们不通过表单收集邮箱地址。邮件会直接进入我们的信箱。"
+  },
+  "home": {
+    "cta_why": "为什么是 Novus Ignis",
+    "cta_today": "我们目前的进展",
+    "today": {
+      "title": "我们目前的进展",
+      "works": "已运行",
+      "works_text": "基金会已完成注册，宣言和白皮书已发布。文档中的每一句话旁都有可用的“我有意见”按钮。",
+      "project": "设计方案",
+      "project_text": "Omniforum 的首个原型正在构建中，Suveria 处于设计方案阶段。",
+      "hypothesis": "假设",
+      "hypothesis_text": "成本核算是一项有待检验的假设：即使是一小群人，每一美元也可能比在封闭服务中获得更多数字智能，同时享有可核验的隐私保护。",
+      "vision": "愿景",
+      "vision_text": "由数字智能自主管理以及后续支柱属于愿景。",
+      "note": "我们区分已运行、设计方案、假设和愿景，因为我们不承诺无法给出理据的事。"
+    },
+    "spaces": {
+      "title": "第一支柱：两个空间",
+      "suveria_title": "Suveria",
+      "suveria_text": "Suveria 旨在成为互联网上的私密空间，让人们与数字智能交谈、处理自己的材料、重拾先前的思绪，就像在关上门的自己家中。Suveria 是我们目前通向与数字智能开展私密工作的最佳路径，而非目的本身。",
+      "suveria_link": "Suveria 是什么 →",
+      "omniforum_title": "Omniforum",
+      "omniforum_text": "Omniforum 旨在成为一个任何人都可以就任何主题发表意见并被倾听的地方。一句简单的“也就是说，你想表达的是这些，我理解得对吗？”，就能改变交谈双方的语气。Omniforum 的整个技术层面都应当支持这种反应。",
+      "omniforum_link": "Omniforum 是什么 →"
+    },
+    "help": {
+      "title": "你能如何帮助",
+      "m5_title": "5 分钟",
+      "m5_text": "阅读宣言的引言，选中一句不清楚或你不同意的话，然后点击“我有意见”。",
+      "m5_model": "如果你通过模型阅读我们的内容，也请问问它我们的薄弱之处，并把发现发给我们。",
+      "h1_title": "一小时",
+      "h1_text": "浏览你所在领域的白皮书：<a href=\"#\" data-doc-link=\"suveria\">安全与基础设施（Suveria）</a>、<a href=\"#\" data-doc-link=\"fundacja\">法律与财务（基金会运作原则）</a>、<a href=\"#\" data-doc-link=\"benchmark\">研究（材料与基准测试）</a>、<a href=\"#\" data-doc-link=\"omniforum\">对话与决策（Omniforum）</a>。",
+      "more_title": "更多时间",
+      "more_text": "参与构建首批版本：所需角色和帮助见<a href=\"#\" data-page-link=\"dolacz\">加入我们</a>页面。",
+      "money_title": "资金支持",
+      "money_text": "基金会接受以兹罗提、欧元和美元转账的捐赠。我们在公开登记册中展示每笔款项的日期、金额和简要说明；只有在捐赠者本人愿意时才公布其名称。捐赠不带来选票、决策影响力或宣传推广权。<a href=\"wesprzyj.html\">转账信息与规则</a>"
+    },
+    "docs_all": "全部文档与意见提交方式",
+    "join_page": "查看角色，给我们写信",
+    "next": {
+      "title": "你接下来可以做什么",
+      "status": "基金会、文档和公开收款登记册已在运作。Suveria 和 Omniforum 是我们正在开展的设计方案。",
+      "wait_title": "告诉我们你想试用",
+      "wait_text": "加入等候名单。Suveria 和 Omniforum 开始首轮试验时，我们会给你写信。",
+      "wait_btn": "加入等候名单",
+      "wait_note": "只需发送主题已填好的邮件。我们仅会用你的邮箱发送那一封通知；你一提出要求，我们就立即删除地址。<a href=\"twoje-dane.html\">你的数据</a>",
+      "read_title": "继续阅读",
+      "read_text": "从简短介绍开始，或直接阅读宣言与白皮书。你也可以把它们交给自己的模型，询问我们的薄弱之处。",
+      "read_btn": "Novus Ignis 概览",
+      "read_docs": "宣言与白皮书",
+      "join_title": "报名参与",
+      "join_text": "我们正在寻找愿意帮助构建首批版本的人，从安全、法律到理念传播。起步时，一条对文本的意见就已足够。",
+      "join_btn": "查看我们需要谁",
+      "give_title": "支持基金会",
+      "give_text": "通过兹罗提、欧元或美元转账捐赠。每笔款项都在公开登记册中展示，捐赠不带来选票或决策影响力。",
+      "give_btn": "捐赠"
+    }
+  },
+  "nav": {
+    "brand": "NOVUS IGNIS",
+    "tagline": "以人的尊严为基础的互联网。",
+    "menu": "菜单",
+    "language": "语言",
+    "links": {
+      "story": "故事",
+      "manifest": "宣言",
+      "whitepapers": "白皮书",
+      "statute": "章程",
+      "join": "加入我们"
+    },
+    "docs": {
+      "manifest": "宣言",
+      "suveria": "Suveria 白皮书",
+      "omniforum": "Omniforum 白皮书",
+      "fundacja": "基金会运作原则",
+      "benchmark": "模型训练材料与基准测试",
+      "statut": "章程与变更登记册"
+    },
+    "footer": {
+      "documents": "文档",
+      "contact": "联系",
+      "krs": "波兰国家法院登记册信息",
+      "legal": "Novus Ignis 基金会 · 波兰波兹南 · KRS 0001269575 · NIP 7792612046",
+      "license_html": "宣言、白皮书和本站文本以 <a href=\"https://creativecommons.org/licenses/by/4.0/deed.zh-hans\" rel=\"noopener\">CC BY 4.0</a> 许可协议发布。",
+      "privacy": "本站不使用 cookie 或分析脚本；所选语言仅由你的浏览器记住。",
+      "shortcuts": "快捷入口"
+    },
+    "groups": {
+      "dlaczego": "为什么",
+      "suveria": "Suveria",
+      "omniforum": "Omniforum",
+      "fundacja": "基金会",
+      "dokumenty": "文档",
+      "dolacz": "加入我们",
+      "skroty": "快捷入口"
+    },
+    "expand": "展开子菜单",
+    "shortcuts": {
+      "w_skrocie": "概览",
+      "dziennik_zmian": "变更日志",
+      "slownik": "词汇表",
+      "mapa_strony": "网站地图"
+    },
+    "overview": {
+      "dlaczego": "为什么是 Novus Ignis",
+      "suveria": "Suveria 是什么",
+      "omniforum": "Omniforum 是什么",
+      "fundacja": "我们是谁",
+      "dokumenty": "全部文档",
+      "dolacz": "我们需要谁，如何开始"
+    }
+  },
+  "doc": {
+    "toc": "目录",
+    "footnotes": "注释",
+    "footnote": "注释",
+    "back": "返回原文位置",
+    "link_here": "本节链接",
+    "skip": "跳至正文",
+    "source_note": "源文件：",
+    "not_translated": "本文档尚无本语言版本。",
+    "reading_original": "你正在阅读波兰语原文。",
+    "remark": {
+      "button": "我有意见",
+      "copy": "复制内容",
+      "copied": "已复制",
+      "section": "意见",
+      "section_label": "对这部分提出意见：",
+      "subject": "[意见]",
+      "quote": "段落：",
+      "place": "文中位置：",
+      "prompt": "我的意见：",
+      "hint": "有意见吗？选中一段文字，或使用章节标题旁的“意见”链接。我们会准备一封附有引文和链接的邮件，由你从自己的邮箱发送至",
+      "content_button": "对内容提意见",
+      "translation_button": "对译文提意见",
+      "translation_subject": "[翻译]",
+      "original": "原文："
+    },
+    "outdated": "本译文依据较早版本的原文翻译，部分段落可能有所不同。",
+    "translation_note": "本译文由数字智能翻译，以波兰语版本为准。如果某处表述有问题，请选中相应段落并提交翻译意见。",
+    "experimental_note": "本实验性译文由数字智能翻译，使用的是我们对翻译质量最缺乏把握的语言。以波兰语版本为准。恳请你发现不符之处时，选中相应段落，把建议译法发给我们。",
+    "compare": {
+      "label": "对照版本：",
+      "original": "原文",
+      "show": "显示对照",
+      "hide": "隐藏对照",
+      "loading": "正在加载……",
+      "error": "未能加载另一版本。"
+    },
+    "source_history": "修改历史",
+    "source_edit": "提出修改建议"
+  },
+  "alt": {
+    "logo": "Novus Ignis 标志",
+    "prometheus": "普罗米修斯",
+    "digital_prometheus": "数字普罗米修斯",
+    "we_are_prometheus": "我们都是普罗米修斯"
+  },
+  "sitemap": {
+    "title": "网站地图",
+    "desc": "基金会的全部页面，按菜单分组：故事、文档和各子页面。",
+    "home": "首页",
+    "other": "其他页面",
+    "empty": "此组暂无页面。"
+  },
+  "glossary": {
+    "title": "术语表",
+    "intro": "用一句话解释文档中最重要的术语，每项均附有定义来源的链接。",
+    "source": "来源：",
+    "tip": {
+      "label": "术语解释",
+      "back": "返回",
+      "close": "关闭",
+      "glossary": "词汇表"
+    }
+  },
+  "llms": {
+    "only_source": "本文档的波兰语版本见 {url}。"
+  },
+  "mail": {
+    "title": "给我们写信",
+    "address": "地址",
+    "subject": "主题",
+    "body": "正文",
+    "body_ready": "可直接粘贴",
+    "copy_address": "复制地址",
+    "copy_subject": "复制主题",
+    "copy_body": "复制正文",
+    "copied": "已复制",
+    "open_app": "打开邮件应用",
+    "open_gmail": "在 Gmail 中打开",
+    "open_outlook": "在 Outlook 中打开",
+    "close": "关闭"
+  },
+  "ask": {
+    "button": "TL;DR?",
+    "button_title": "TL;DR? 向你的数字智能询问我们的文档",
+    "title": "问问你的数字智能",
+    "copy_all": "复制全部文档",
+    "copy_manifest": "仅复制宣言",
+    "copied": "已复制，请粘贴到对话中",
+    "loading": "正在获取……",
+    "failed": "复制失败，请下载文件。",
+    "open_in": "打开对话：",
+    "download": "下载文件（.txt）",
+    "close": "关闭",
+    "prompt": "以下是 Novus Ignis 基金会的文档（宣言与白皮书）。请帮助我理解它们。依据这些文档回答，注明章节，并区分已经运行的内容、设计方案、假设和愿景。如果文档中没有相关内容，请直说。",
+    "prompt_link": "请阅读 Novus Ignis 基金会的文档（宣言与白皮书）：{url}。请帮助我理解它们。依据这些文档回答，注明章节，并区分已经运行的内容、设计方案、假设和愿景。如果文档中没有相关内容，请直说。首先请用几句话概括其内容。",
+    "paste": "粘贴",
+    "paste_title": "Gemini 会打开一个空白对话：问题已复制，请粘贴（Ctrl+V）后发送。"
+  }
+}

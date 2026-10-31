@@ -1,0 +1,173 @@
+{
+ "source": "content/pl/page/fundacja-pieniadze.md",
+ "paragraphs": [
+  {
+   "h": "04e1f3e376ddb864a07edfb25f72175687db2638",
+   "t": "# Pieniądze fundacji"
+  },
+  {
+   "h": "128e31dc1629b1fc8488108e6f2b9f9b682bbd2a",
+   "t": "Ta strona jest o pieniądzach fundacji: skąd mogą pochodzić, na co wolno je wydać"
+  },
+  {
+   "h": "5498b5e4f3f719fe996d028afe82903a887fd5b4",
+   "t": "Zanim przyjmiemy pierwszą przedpłatę, będziemy mieć regulamin usług sprawdzony p"
+  },
+  {
+   "h": "1178f6f81e7364cbd0e2328fa2898ef2bb8c3c49",
+   "t": "Więcej: [whitepaper zasad fundacji, rozdział 1](../whitepaper-zasady-fundacji.md"
+  },
+  {
+   "h": "e9d1c03008b5a8fd046903edb7a1f34890c61278",
+   "t": "## Skąd mogą pochodzić pieniądze"
+  },
+  {
+   "h": "fadbc51033e19a0292d696a65805ab4a11aae80c",
+   "t": "Nie pokazujemy jednej kwoty na koncie, tylko dzielimy pieniądze według tego, do "
+  },
+  {
+   "h": "c182b1409b5f2a1417a86e76bb55bf9d755f9a8e",
+   "t": "Rezerwa to odłożone pieniądze, które mają utrzymać Suverię i Omniforum, gdyby wp"
+  },
+  {
+   "h": "d9470ab75d310e70824c64b2e1f5ae3f5c33c108",
+   "t": "| Rodzaj pieniędzy | Skąd | Na co wolno | | --- | --- | --- | | Środki należne u"
+  },
+  {
+   "h": "60123ff3ad9a3f7f2c39cdbc010c6352fbaf274a",
+   "t": "Każdą kwotę przypisujemy tylko do jednej kategorii, żeby niczego nie liczyć dwa "
+  },
+  {
+   "h": "b080f1707aabf867156adfbf1ed58c4c301f9f01",
+   "t": "Osoby o mniejszych możliwościach finansowych mają móc korzystać z usług na solid"
+  },
+  {
+   "h": "76012381da6d84dd3cdf8a946d5f34473a4c58f2",
+   "t": "Więcej: [whitepaper zasad fundacji, rozdział 4](../whitepaper-zasady-fundacji.md"
+  },
+  {
+   "h": "4ee6ebba29a75ecb588cdd5704a35982c441723e",
+   "t": "## Jedna zasada: opłata nie wyższa niż koszty"
+  },
+  {
+   "h": "43296a00ea5626448d102403189885ab4b86d5d8",
+   "t": "Fundacja nie zarabia na swoich usługach. Płacisz za to, czego rzeczywiście używa"
+  },
+  {
+   "h": "450cffa238fbd8062c3223ef54dd9f2cfa70adc9",
+   "t": "Dlaczego tak? Tak stanowi § 10 pkt 4 statutu: wpłaty z odpłatnej działalności po"
+  },
+  {
+   "h": "d15ea9001292400173920251d55fcb6a5a191ead",
+   "t": "Oszczędności obniżają opłaty, a rozwój, przeglądy bezpieczeństwa i rezerwę finan"
+  },
+  {
+   "h": "718076f6f56a24e6f3831c789da4e34a47580515",
+   "t": "Więcej: [whitepaper zasad fundacji, rozdział 3](../whitepaper-zasady-fundacji.md"
+  },
+  {
+   "h": "ee5ef9718f6558ce16337a1be15629c922582035",
+   "t": "## Darowizny: osobno i dobrowolnie"
+  },
+  {
+   "h": "143175eb7c7f1e45dd4a506565529164cc7c2ea3",
+   "t": "Opłata pokrywa koszt usługi; darowizna to wszystko, co ktoś daje ponad to, zawsz"
+  },
+  {
+   "h": "b9fb73a0a5fbb19e74f15db1ab0b77d83c0ceda6",
+   "t": "- **Zaokrąglenie rachunku.** Przy zakładaniu konta pytamy, czy chcesz zaokrąglać"
+  },
+  {
+   "h": "20d233d38244621f3f9ce1d2976fcaee70cbe0a4",
+   "t": "Wysokość wpłat nie zwiększa wagi głosu ani żadnych innych praw. Osobno powstanie"
+  },
+  {
+   "h": "f4730d37b3951abe1b0961151fef7261a1475732",
+   "t": "Więcej: [whitepaper zasad fundacji, rozdział 3](../whitepaper-zasady-fundacji.md"
+  },
+  {
+   "h": "a46ba65b8536720636a6a8e527f6309ce0fd91b9",
+   "t": "## Jawność: co zobaczysz"
+  },
+  {
+   "h": "d0f85b9f490ed9919cd30a597a6e9e666a5064c9",
+   "t": "Na stronie fundacji prowadzimy jawny [rejestr wpłat i wydatków](fundacja-rejestr"
+  },
+  {
+   "h": "49e5715667e2967ea575a4463697c8ac150fc96b",
+   "t": "Pokażemy też, jaka część wydatków bezpośrednio realizuje cele statutowe, razem z"
+  },
+  {
+   "h": "15849462e19eb51be4cc32ab2495a0fd815820c0",
+   "t": "| Rejestr | Co zawiera | Stan | | --- | --- | --- | | Rejestr wpłat i wydatków |"
+  },
+  {
+   "h": "0d756cc15969b53f0028897d5b784f9f2228aa50",
+   "t": "Żaden z tych rejestrów oprócz rejestru zmian statutu jeszcze nie działa."
+  },
+  {
+   "h": "646d855188899a731cd522bab3bdf2aab9bd94a0",
+   "t": "Więcej: [whitepaper zasad fundacji, rozdział 4](../whitepaper-zasady-fundacji.md"
+  },
+  {
+   "h": "c000ea4390bbba7e516c705ac04f1a821435db8d",
+   "t": "## Dalsze filary i przejściowa pula zarządu"
+  },
+  {
+   "h": "ab8fadabc629232dca1767448f2c0d664019609c",
+   "t": "Pierwszeństwo ma Filar I. Filar II „Hardware” (otwarte rozwiązania materialne) i"
+  },
+  {
+   "h": "c22cf75ae34cba9f69c4e6a3692258d544d6c873",
+   "t": "1. działa Omniforum z głosowaniem opartym na dowodach z wiedzą zerową, w którym "
+  },
+  {
+   "h": "f091da15ef0e917410135caaa8bf3ee8c6a7b9b6",
+   "t": "Makieta głosowania, niewpłacone deklaracje ani cudze salda tych warunków nie spe"
+  },
+  {
+   "h": "646b0eb0fd18232eb4e22b4490d312ac92af37a1",
+   "t": "Wcześniej małe inicjatywy o określonym końcu mają dwie ścieżki. Przejściowa pula"
+  },
+  {
+   "h": "2cc3f0bc15dce977dd31a956592484b24d236fe4",
+   "t": "Przejściowa pula zarządu rządzi się czterema regułami:"
+  },
+  {
+   "h": "e49b16d5bbfac9d3ff2961d94767ad95c5884b6d",
+   "t": "- **Naliczanie.** Co miesiąc pula może wzrosnąć najwyżej o 5% nowych, wolnych śr"
+  },
+  {
+   "h": "04251ec748fbe8d06f8fc391c1ee6c397df15f88",
+   "t": "Każdą decyzję o wykorzystaniu puli, także odmowę, planujemy publikować z uzasadn"
+  },
+  {
+   "h": "d5529052b7f8ff8fe11d39c93a268d03a72afa3c",
+   "t": "Druga ścieżka to inicjatywa celowa: darczyńcy i sponsorzy zasilają jej osobny bu"
+  },
+  {
+   "h": "e4ebe79ca46321587875db24bcf3874a11560581",
+   "t": "Więcej: [whitepaper zasad fundacji, rozdział 8](../whitepaper-zasady-fundacji.md"
+  },
+  {
+   "h": "5182e16efcadfaa6c0233369793c6bb7c0f44dc6",
+   "t": "## Czego nie robimy z pieniędzmi"
+  },
+  {
+   "h": "4d64089c4283666c9b2ce41cc0ad7328208a65e5",
+   "t": "- Nie zarabiamy na usługach: opłata pokrywa koszty i nie więcej. - Nie tworzymy "
+  },
+  {
+   "h": "c3c93666dbf00060d0a181d9c4096cafdc31f599",
+   "t": "Więcej: [whitepaper zasad fundacji, rozdział 3](../whitepaper-zasady-fundacji.md"
+  },
+  {
+   "h": "dbd729a4bebd65f560d1601db4be5811d62ffdc0",
+   "t": "## Przeczytaj i powiedz, co myślisz"
+  },
+  {
+   "h": "d0f8ac0a7c6b96204413c08c9e8abc66fee58311",
+   "t": "Pełny opis zasad finansowych znajdziesz w [whitepaperze zasad fundacji](../white"
+  }
+ ]
+}

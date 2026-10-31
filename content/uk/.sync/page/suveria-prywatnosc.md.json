@@ -1,0 +1,169 @@
+{
+ "source": "content/pl/page/suveria-prywatnosc.md",
+ "paragraphs": [
+  {
+   "h": "c84980f6623c7350c1e8ef9b7ba77bc5af39f006",
+   "t": "# Prywatność i bezpieczeństwo Suverii"
+  },
+  {
+   "h": "bc516e65a3c685b0ce05502de5ef52a262364d3b",
+   "t": "Ta strona jest dla osób, które chcą wiedzieć, na czym ma polegać ochrona prywatn"
+  },
+  {
+   "h": "576e8757d56caa710c7e115230fd5a0cfac97cc2",
+   "t": "Jedna zasada porządkuje całość: prywatność nie może opierać się na zaufaniu do d"
+  },
+  {
+   "h": "e095ca44b74551e11c60ad1dc1d6e64736354319",
+   "t": "Suveria jest dziś projektem. Wszystko poniżej opisuje, jak ma działać; żadnej z "
+  },
+  {
+   "h": "0743200fc9abc2b797c5e2cfbb87264629a444ba",
+   "t": "Więcej: [manifest, punkt 2.2](../manifest.md#s2-2) i [punkt 3.1](../manifest.md#"
+  },
+  {
+   "h": "deeaf524d81ad1807a5b56dae17acc913aa0e303",
+   "t": "## Przed kim ma chronić, a przed kim nie"
+  },
+  {
+   "h": "b024114f01fde10ab98d7c602f1677f27e5f0819",
+   "t": "Chronimy treść rozmów i plików, historię i pamięć asystenta, klucze (czyli tajne"
+  },
+  {
+   "h": "585799db409099e9a9407886ab3a23bf763b7abb",
+   "t": "Poufne środowisko to odizolowana sprzętowo część serwera, do której nie zajrzy n"
+  },
+  {
+   "h": "8ae33c7d6deab592998b5e4dd146a70f8c8d75d6",
+   "t": "| Przed kim ma chronić | Model na Twoim urządzeniu | Poufne środowisko na serwer"
+  },
+  {
+   "h": "96b6c517dc76494524ec42878910eca2b1e9bfb4",
+   "t": "Legenda: „ma chronić” to zamierzona ochrona, „ochrona częściowa” chroni treść, a"
+  },
+  {
+   "h": "1d0ba28108b7b2d41859f4b20ba3dccdd8e5a00d",
+   "t": "Trzy granice warto znać od razu. Poufne obliczenia nie naprawiają zainfekowanego"
+  },
+  {
+   "h": "79eb02bff869cf7ecb438b33bf9679df59bb55fa",
+   "t": "Więcej: [whitepaper Suverii, rozdział 2](../whitepaper-suveria.md#s2) i [punkt 2"
+  },
+  {
+   "h": "6c859c3506045c5ca10a3b1f238735597f680d29",
+   "t": "## Jak wiadomość przechodzi przez system"
+  },
+  {
+   "h": "1896a907fb40de2f9393e2ab1b0f8264b6b8ec11",
+   "t": "Suveria ma składać się z aplikacji na Twoim urządzeniu, bramy (naszej części sys"
+  },
+  {
+   "h": "755db2adce9a0dd9a2c1a654aba17f355cda771b",
+   "t": "W wariancie docelowym jedna wiadomość ma przechodzić taką drogę:"
+  },
+  {
+   "h": "e6df2b0c6fae3ba33f82b7bf9a66f9b12e59c897",
+   "t": "1. Aplikacja pobiera opis zatwierdzonego wydania i sprawdza atestację serwera. 2"
+  },
+  {
+   "h": "6f711678ef48173998866ec5e8a037f19054259e",
+   "t": "Atestacja pomaga stwierdzić, co uruchomiono, ale sama nie dowodzi, że ten kod je"
+  },
+  {
+   "h": "2b34329639eb4ac172e617ae1d4117b0c7764523",
+   "t": "Szczególnie ostrożni jesteśmy, gdy podłączasz źródła z wiadomościami od innych l"
+  },
+  {
+   "h": "370dddba51915db7919607bb9831f03657ca42d2",
+   "t": "Wraz z uruchomieniem usługi opublikujemy spis wszystkich rodzajów danych o dział"
+  },
+  {
+   "h": "ab0728198f86700bab6ae7d7dfd7d29b5c8f5725",
+   "t": "Więcej: [whitepaper Suverii, rozdział 3](../whitepaper-suveria.md#s3)."
+  },
+  {
+   "h": "40362e0bd0fc93b6311f3579e3d422d3a1ce172b",
+   "t": "## Twoje klucze"
+  },
+  {
+   "h": "d64c7d159940497726e42f601ee1604956faf67b",
+   "t": "Klucze do prywatnych kontenerów, czyli zaszyfrowanych zbiorów danych, pozostają "
+  },
+  {
+   "h": "82fa840971edbe2f603b7d8b2ed9fbf757293f40",
+   "t": "Utrata wszystkich kopii klucza może oznaczać trwałą utratę danych. Dlatego rozwa"
+  },
+  {
+   "h": "df372988a837dcaf325cfeea28d9eb1425294d3a",
+   "t": "Więcej: [whitepaper Suverii, punkt 2.2](../whitepaper-suveria.md#s2-2)."
+  },
+  {
+   "h": "a02cc2d494147ab69d4c66a8d95f17347e68f696",
+   "t": "## Czego nie widać, a co zdradza: rytm przesyłu"
+  },
+  {
+   "h": "d6b9ccefd054cba7be04ddf322027d9fd6c6ab85",
+   "t": "Odpowiedź płynie do Ciebie w pakietach, czyli porcjach danych. Szyfrowanie ukryw"
+  },
+  {
+   "h": "ab0728198f86700bab6ae7d7dfd7d29b5c8f5725",
+   "t": "Więcej: [whitepaper Suverii, rozdział 3](../whitepaper-suveria.md#s3)."
+  },
+  {
+   "h": "c0be2dda3f2de4cbada000e2100165a1c5ee3486",
+   "t": "## Wydania, które można sprawdzić"
+  },
+  {
+   "h": "0abbdad4fefa18346dc73992beed8bf8794979a2",
+   "t": "Zaufanie do oprogramowania nie ma zależeć od jednej osoby ani od samej fundacji."
+  },
+  {
+   "h": "e4d32454061dc8d4ed4c7d2d8614b38f8d45f781",
+   "t": "Pełną ochronę projektujemy dla instalowanej aplikacji. W przeglądarce kod, który"
+  },
+  {
+   "h": "ab0728198f86700bab6ae7d7dfd7d29b5c8f5725",
+   "t": "Więcej: [whitepaper Suverii, rozdział 3](../whitepaper-suveria.md#s3)."
+  },
+  {
+   "h": "199e77fcd46d846e1f302914cdc852e36db85800",
+   "t": "## Wiele kart graficznych"
+  },
+  {
+   "h": "f294827093cbdf5f8edf480daa2f75a7fe7587f6",
+   "t": "Model, który chcemy uruchomić, nie mieści się na jednej karcie graficznej, więc "
+  },
+  {
+   "h": "9da1d51e9bec1089c01617449171a5b8e575964c",
+   "t": "Więcej: [whitepaper Suverii, rozdział 5](../whitepaper-suveria.md#s5)."
+  },
+  {
+   "h": "6e7c140c25cb1f599a92a71f224dec51176175ce",
+   "t": "## Jak sprawdzimy, czy to działa"
+  },
+  {
+   "h": "3d9550e4cf07766d6cad29ec10525c8c747cc294",
+   "t": "Najważniejsza próba: zespół z uprawnieniami operatora poza poufnym środowiskiem "
+  },
+  {
+   "h": "552ca8c0dc730595f0b00d01c30e82b8dcb66742",
+   "t": "Zanim nazwiemy jakiekolwiek wydanie poufnym, udokumentujemy między innymi popraw"
+  },
+  {
+   "h": "3d15f0c8ecf127d352b0d9da3a2b553c3923c52d",
+   "t": "Próby chcemy prowadzić otwarcie. Jeśli zajmujesz się bezpieczeństwem, kryptograf"
+  },
+  {
+   "h": "0fb46187d80e69ffb362cc750b3ae81ec8302bb3",
+   "t": "Więcej: [whitepaper Suverii, rozdział 9](../whitepaper-suveria.md#s9)."
+  },
+  {
+   "h": "dbd729a4bebd65f560d1601db4be5811d62ffdc0",
+   "t": "## Przeczytaj i powiedz, co myślisz"
+  },
+  {
+   "h": "91d122d0aa02544db4622162f70aed880d4e891c",
+   "t": "Pełne zestawienie wariantów i zagrożeń, zabezpieczenia aplikacji i listę spraw d"
+  }
+ ]
+}

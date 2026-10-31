@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="{{LANG}}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-i18n="meta.title"></title>
+  <meta name="description" data-i18n-content="meta.description" content="">
+  {{HEAD_LINKS}}
+  <meta property="og:title" data-i18n-content="meta.title" content="">
+  <meta property="og:description" data-i18n-content="meta.description" content="">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="{{BASE_URL}}IMG/Logo.webp">
+  <link rel="icon" href="IMG/Logo.webp" type="image/webp">
+
+  <!-- Czcionki z naszego serwera (bez Google Fonts) -->
+  <link rel="stylesheet" href="fonts/fonts.css">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="remark.css">
+  {{GLOSS_HEAD}}
+<style>html.ni-restoring body{opacity:0}body{transition:opacity .2s}</style><script>try{var n=((performance.getEntriesByType&&performance.getEntriesByType("navigation")[0])||{}).type;if(sessionStorage.getItem("ni-lang-keep")||(n==="reload"&&sessionStorage.getItem("ni-reload")))document.documentElement.classList.add("ni-restoring")}catch(e){}</script>
+</head>
+<body class="home-body" data-lang="{{LANG}}">
+
+  <!-- Dynamic Header / Menu (Single Source of Truth) -->
+  <header id="site-header">{{HEADER}}</header>
+
+  <!-- ========== HERO: Logo + Name + Subtitle + Sparks ========== -->
+  <section class="hero" id="hero">
+    <canvas id="sparks-canvas"></canvas>
+    
+    <div class="hero__content" id="heroContent">
+      <a href="#dolacz" class="btn btn--secondary hero__cta hero__cta--left" data-i18n="hero.cta_join">Zaangażuj się</a>
+      <img src="IMG/Logo.webp" data-i18n-alt="alt.logo" alt="" class="hero__logo" id="heroLogo" width="1200" height="1200">
+      <a href="llms-full.txt" download="novus-ignis-{{LANG}}.txt" data-ask data-base="{{BASE_URL}}" class="btn btn--secondary hero__cta hero__cta--right" data-i18n="ask.button" data-i18n-title="ask.button_title" title="TL;DR? Zapytaj swoją cyfrową inteligencję o nasze dokumenty">TL;DR?</a>
+      <h1 class="hero__title" id="heroTitle" data-i18n="hero.title">NOVUS IGNIS</h1>
+      <p class="hero__subtitle" id="heroSubtitle" data-i18n="hero.subtitle">Odzyskaj swój ogień</p>
+    </div>
+
+    <div class="hero__scroll-hint" id="scrollHint">
+      <span data-i18n="hero.scrollHint">Przewiń, aby zacząć</span>
+      <div class="hero__scroll-arrow"></div>
+    </div>
+  </section>
+
+  <!-- ========== ACT I: ZEUS SCROLLYTELLING ========== -->
+  <section class="zeus-story" id="zeusStory">
+    <div class="zeus-story__frame">
+      <img src="IMG/Zeus1.webp" alt="" class="zeus-story__img" id="zeus1">
+      <img src="IMG/Zeus2.webp" alt="" class="zeus-story__img" id="zeus2">
+      <img src="IMG/Zeus3.webp" alt="" class="zeus-story__img" id="zeus3">
+      <img src="IMG/Zeus4.webp" alt="" class="zeus-story__img" id="zeus4">
+    </div>
+    
+    <div class="zeus-story__text" id="zeusText1">
+      <p data-i18n="act1.text1_1">Na początku ludzie gromadzili się wokół ognia.</p>
+      <p class="zeus-story__text--dim" data-i18n="act1.text1_2">Dawał im ciepło, światło i wspólnotę.</p>
+    </div>
+    
+    <div class="zeus-story__text" id="zeusText2">
+      <p data-i18n="act1.text2_1">Lecz bogowie stali się zazdrośni.</p>
+      <p class="zeus-story__text--dim" data-i18n="act1.text2_2">Zeus spoglądał na ich ogień z pogardą.</p>
+    </div>
+    
+    <div class="zeus-story__text" id="zeusText3">
+      <p data-i18n="act1.text3_1">I jednym tchnieniem zgasił go.</p>
+      <p class="zeus-story__text--dim" data-i18n="act1.text3_2">Wiedza, wolność i ciepło przepadły.</p>
+    </div>
+    
+    <div class="zeus-story__text" id="zeusText4">
+      <p data-i18n="act1.text4_1">Ludzkość znów pogrążyła się w ciemności.</p>
+      <p class="zeus-story__text--dim" data-i18n="act1.text4_2">Czekając na kogoś, kto zapali nowy ogień.</p>
+    </div>
+  </section>
+
+  <!-- ========== SUSPENSE GAP (UNPINNED NATURAL SCROLL) ========== -->
+  <section class="suspense-gap" id="suspenseGap">
+    <div class="suspense-gap__content">
+      <p class="suspense-gap__text gradient-text--fire" data-i18n="gap1.text">Lecz w najgłębszym mroku pozostała iskra...</p>
+    </div>
+  </section>
+
+  <!-- ========== ACT II: PROMETHEUS, OLIMP & CIVILIZATION ========== -->
+  <section class="zeus-story" id="olimpStory">
+    <div class="zeus-story__frame" id="act2Frame">
+      <!-- Dark backdrop with aura for Prometheus -->
+      <div class="prom-aura" id="promAura"></div>
+
+      <!-- Prometheus Poses -->
+      <img src="IMG/Prom1.webp" data-i18n-alt="alt.prometheus" alt="" class="prom-story__img" id="prom1" width="527" height="893" loading="lazy" decoding="async">
+      <img src="IMG/Prom2.webp" data-i18n-alt="alt.prometheus" alt="" class="prom-story__img" id="prom2" width="527" height="893" loading="lazy" decoding="async">
+      <img src="IMG/Prom3.webp" data-i18n-alt="alt.prometheus" alt="" class="prom-story__img" id="prom3" width="527" height="893" loading="lazy" decoding="async">
+      <img src="IMG/Prom4.webp" data-i18n-alt="alt.prometheus" alt="" class="prom-story__img" id="prom4" width="527" height="893" loading="lazy" decoding="async">
+
+      <!-- Olympus Scenes, Civilization -->
+      <img src="IMG/Olimp1.webp" alt="" class="zeus-story__img" id="olimp1" loading="lazy" decoding="async">
+      <img src="IMG/Olimp2.webp" alt="" class="zeus-story__img" id="olimp2" loading="lazy" decoding="async">
+      <img src="IMG/Olimp3.webp" alt="" class="zeus-story__img" id="olimp3" loading="lazy" decoding="async">
+      <img src="IMG/Olimp4.webp" alt="" class="zeus-story__img" id="olimp4" loading="lazy" decoding="async">
+      <img src="IMG/Zeus1.webp" alt="" class="zeus-story__img" id="rekindle" loading="lazy" decoding="async">
+      <img src="IMG/Civ1.webp" alt="" class="zeus-story__img" id="civ1" loading="lazy" decoding="async">
+      <img src="IMG/Civ2.webp" alt="" class="zeus-story__img" id="civ2" loading="lazy" decoding="async">
+      <img src="IMG/Civ3.webp" alt="" class="zeus-story__img" id="civ3" loading="lazy" decoding="async">
+      <img src="IMG/Civ4.webp" alt="" class="zeus-story__img" id="civ4" loading="lazy" decoding="async">
+      <img src="IMG/Civ5.webp" alt="" class="zeus-story__img" id="civ5" loading="lazy" decoding="async">
+    </div>
+
+    <!-- Prometheus Steps Forward Overlay -->
+    <div class="prom-story__text" id="promText">
+      <p data-i18n="act2.prom_1">Tytan Prometeusz występuje naprzód.</p>
+      <p class="zeus-story__text--dim" data-i18n="act2.prom_2">Gotów rzucić wyzwanie bogom i odzyskać ogień.</p>
+    </div>
+
+    <!-- Olympus Quest Overlays (Bottom of screen) -->
+    <div class="zeus-story__text zeus-story__text--bottom" id="olimpText1">
+      <p data-i18n="act2.olimp1">Nie zgodził się na życie w ciemności.</p>
+    </div>
+
+    <div class="zeus-story__text zeus-story__text--bottom" id="olimpText2">
+      <p data-i18n="act2.olimp2">Wkradł się do pałacu bogów.</p>
+    </div>
+
+    <div class="zeus-story__text zeus-story__text--bottom" id="olimpText3">
+      <p data-i18n="act2.olimp3">I porwał święty płomień.</p>
+    </div>
+
+    <div class="zeus-story__text zeus-story__text--top" id="olimpText4">
+      <p data-i18n="act2.olimp4_1">Pędził w dół góry, by zwrócić ogień ludzkości.</p>
+      <p class="zeus-story__text--dim" data-i18n="act2.olimp4_2">Ciepło, światło i nadzieja powróciły do ludzkich serc.</p>
+    </div>
+
+    <!-- Fire Rekindled Overlay (Centered in the middle) -->
+    <div class="zeus-story__text" id="rekindleText">
+      <p data-i18n="act2.rekindle_1">Święty płomień zapłonął na nowo.</p>
+      <p class="zeus-story__text--dim" data-i18n="act2.rekindle_2">A z ogniem w dłoniach, ludzkość zaczęła budować.</p>
+    </div>
+
+    <!-- Civilization Timelapse Overlay (Top of screen) -->
+    <div class="zeus-story__text zeus-story__text--top" id="civText">
+      <p data-i18n="act2.civ_1">Z żaru powstały imperia, wzniosła się cywilizacja.</p>
+      <p class="zeus-story__text--dim" data-i18n="act2.civ_2">Dar ognia dał początek nauce, architekturze i suwerenności.</p>
+    </div>
+  </section>
+
+  <!-- ========== TWAIN INTERLUDE: NATURAL PHYSICAL SCROLL ========== -->
+  <section class="suspense-gap" id="twainSection">
+    <div class="suspense-gap__content">
+      <p class="suspense-gap__text gradient-text--fire" data-i18n="twain.quote">„Historia się nie powtarza, ale się rymuje.”</p>
+      <p class="suspense-gap__dim" data-i18n="twain.author">Słowa przypisywane Markowi Twainowi</p>
+    </div>
+  </section>
+
+  <!-- ========== ACT III: THE LIVING DESK TRANSFORMATION ========== -->
+  <section class="zeus-story" id="deskStory">
+    <div class="zeus-story__frame" id="deskFrame">
+      <!-- ACT III: THE LIVING DESK TRANSFORMATION (Change01 - Change17) -->
+      <img src="IMG/Change01.webp" alt="" class="zeus-story__img" id="ch01" loading="lazy" decoding="async">
+      <img src="IMG/Change02.webp" alt="" class="zeus-story__img" id="ch02" loading="lazy" decoding="async">
+      <img src="IMG/Change03.webp" alt="" class="zeus-story__img" id="ch03" loading="lazy" decoding="async">
+      <img src="IMG/Change04.webp" alt="" class="zeus-story__img" id="ch04" loading="lazy" decoding="async">
+      <img src="IMG/Change05.webp" alt="" class="zeus-story__img" id="ch05" loading="lazy" decoding="async">
+      <img src="IMG/Change06.webp" alt="" class="zeus-story__img" id="ch06" loading="lazy" decoding="async">
+      <img src="IMG/Change07.webp" alt="" class="zeus-story__img" id="ch07" loading="lazy" decoding="async">
+      <img src="IMG/Change08.webp" alt="" class="zeus-story__img" id="ch08" loading="lazy" decoding="async">
+      <img src="IMG/Change09.webp" alt="" class="zeus-story__img" id="ch09" loading="lazy" decoding="async">
+      <img src="IMG/Change10.webp" alt="" class="zeus-story__img" id="ch10" loading="lazy" decoding="async">
+      <img src="IMG/Change11.webp" alt="" class="zeus-story__img" id="ch11" loading="lazy" decoding="async">
+      <img src="IMG/Change12.webp" alt="" class="zeus-story__img" id="ch12" loading="lazy" decoding="async">
+      <img src="IMG/Change13.webp" alt="" class="zeus-story__img" id="ch13" loading="lazy" decoding="async">
+      <img src="IMG/Change14.webp" alt="" class="zeus-story__img" id="ch14" loading="lazy" decoding="async">
+      <img src="IMG/Change15.webp" alt="" class="zeus-story__img" id="ch15" loading="lazy" decoding="async">
+      <img src="IMG/Change16.webp" alt="" class="zeus-story__img" id="ch16" loading="lazy" decoding="async">
+      <img src="IMG/Change17.webp" alt="" class="zeus-story__img" id="ch17" loading="lazy" decoding="async">
+    </div>
+
+    <!-- ACT III: THE LIVING DESK NARRATIVE OVERLAYS (TOP ONLY FOR MAXIMUM ARTWORK VISIBILITY) -->
+    <!-- 1. Analog World (Change01 - Change02) -->
+    <div class="zeus-story__text zeus-story__text--top" id="deskText1">
+      <p data-i18n="act3.text1">Zanim ekrany zawładnęły naszym wzrokiem, świat był namacalny.</p>
+    </div>
+
+    <!-- 2. Golden Age of Digitalization (Change03 - Change06) -->
+    <div class="zeus-story__text zeus-story__text--top" id="deskText2">
+      <p data-i18n="act3.text2">Wczesny internet był triumfem ludzkiej sprawczości.</p>
+    </div>
+
+    <!-- 3. Closed Blinds / The Shift (Change07 - Change08) -->
+    <div class="zeus-story__text zeus-story__text--top" id="deskText3">
+      <p data-i18n="act3.text3">Wtedy zasłoniliśmy rolety, by wpatrywać się w blask monitorów.</p>
+    </div>
+
+    <!-- 4. The Corporate Era Begins (Change09 - Change10) -->
+    <div class="zeus-story__text zeus-story__text--top" id="deskText4">
+      <p data-i18n="act3.text4">Potem przyszły platformy, które zarabiają na naszym czasie.</p>
+    </div>
+
+    <!-- 5. Addictive Fast Food & Dopamine (Change11 - Change12) -->
+    <div class="zeus-story__text zeus-story__text--top" id="deskText5">
+      <p data-i18n="act3.text5">Uzależniający fast food i tania dopamina.</p>
+    </div>
+
+    <!-- 6. Constant Surveillance (Change13 - Change14) -->
+    <div class="zeus-story__text zeus-story__text--top" id="deskText6">
+      <p data-i18n="act3.text6">Nieustanna inwigilacja za każdym ekranem.</p>
+    </div>
+
+    <!-- 7. Planned Obsolescence (Change15) -->
+    <div class="zeus-story__text zeus-story__text--top" id="deskText7">
+      <p data-i18n="act3.text7">Planowe postarzanie wpisane w urządzenia.</p>
+    </div>
+
+    <!-- 8. Attention Hijacking (Change16) -->
+    <div class="zeus-story__text zeus-story__text--top" id="deskText8">
+      <p data-i18n="act3.text8">Polowanie na uwagę na każdym kroku.</p>
+    </div>
+
+    <!-- 9. Flood of Disposable Junk (Change17) -->
+    <div class="zeus-story__text zeus-story__text--top" id="deskText9">
+      <p data-i18n="act3.text9">Zalew taniego, bezużytecznego plastiku.</p>
+    </div>
+  </section>
+
+  <!-- ========== GAP 3: THE CALL FOR A MODERN PROMETHEUS (PHYSICAL SCROLL) ========== -->
+  <section class="suspense-gap" id="newPromGap">
+    <div class="suspense-gap__content">
+      <p class="suspense-gap__text gradient-text--fire" data-i18n="newProm.text">Potrzebujemy współczesnego Prometeusza.</p>
+    </div>
+  </section>
+
+  <!-- ========== ACT IV: THE DIGITAL PROMETHEUS & MULTIPLICATION ========== -->
+  <section class="zeus-story" id="digiPromStory">
+    <div class="zeus-story__frame" id="digiPromFrame">
+      <img src="IMG/DigiProm02.webp" data-i18n-alt="alt.digital_prometheus" alt="" class="zeus-story__img digiprom-img" id="digiProm2" loading="lazy" decoding="async">
+      <img src="IMG/DigiProm03.webp" data-i18n-alt="alt.we_are_prometheus" alt="" class="zeus-story__img digiprom-img" id="digiProm3" loading="lazy" decoding="async">
+      <img src="IMG/DigiProm04.webp" data-i18n-alt="alt.we_are_prometheus" alt="" class="zeus-story__img digiprom-img" id="digiProm4" loading="lazy" decoding="async">
+      <img src="IMG/DigiProm05.webp" data-i18n-alt="alt.we_are_prometheus" alt="" class="zeus-story__img digiprom-img" id="digiProm5" loading="lazy" decoding="async">
+      <img src="IMG/DigiProm06.webp" data-i18n-alt="alt.we_are_prometheus" alt="" class="zeus-story__img digiprom-img" id="digiProm6" loading="lazy" decoding="async">
+    </div>
+
+    <!-- 1. DigiProm02: Top only: Except this time... -->
+    <div class="zeus-story__text zeus-story__text--top" id="digiText2">
+      <p data-i18n="act4.text2">Tylko tym razem...</p>
+    </div>
+
+    <!-- 2. DigiProm03: Top only: A single titan is not enough -->
+    <div class="zeus-story__text zeus-story__text--top" id="digiText3">
+      <p data-i18n="act4.text3">Pojedynczy tytan nie wystarczy.</p>
+    </div>
+
+    <!-- 3. DigiProm04: Split layout (Top: We need numbers, Bottom: And the numbers are in us.) -->
+    <div class="zeus-story__text--split" id="digiText4">
+      <p data-i18n="act4.text4_top">Potrzeba nas wielu.</p>
+      <p class="zeus-story__text--dim" data-i18n="act4.text4_bottom">I jest nas wielu.</p>
+    </div>
+
+    <!-- 4. DigiProm05: Top only: We are Prometheus. -->
+    <div class="zeus-story__text zeus-story__text--top" id="digiText5">
+      <p class="gradient-text--fire" data-i18n="act4.text5">Wszyscy jesteśmy Prometeuszem.</p>
+    </div>
+
+    <!-- 5. DigiProm06: Center: This time we are the titan -->
+    <div class="zeus-story__text" id="digiText6">
+      <p class="gradient-text--fire" data-i18n="act4.text6">Tym razem to my jesteśmy tytanem.</p>
+    </div>
+  </section>
+
+  <!-- ========== GAP 4: THE FOUNDATIONAL AXIOM (SCROLLYTELLING) ========== -->
+  <section class="zeus-story dignity-story" id="dignityStory">
+    <div class="zeus-story__frame" id="dignityFrame">
+      <div class="dignity-ambient" id="dignityAmbient"></div>
+      
+      <div class="dignity-container" id="dignityContainer">
+        <!-- Main Claim -->
+        <h2 class="dignity-title gradient-text--fire" id="dignityTitle" data-i18n="dignity.title">ALTERNATYWA JEST MOŻLIWA.</h2>
+        
+        <!-- Kant's Step-by-Step Axiom Box -->
+        <div class="dignity-quote-wrapper" id="dignityQuoteWrapper">
+          <!-- Step 1: Axiom Statement -->
+          <p class="dignity-line" id="kantLine1" data-i18n-html="dignity.sentence1">„W państwie celów wszystko ma albo <span class="hl-price">CENĘ</span>, albo <span class="hl-dignity">GODNOŚĆ</span>.</p>
+          
+          <!-- Step 2: The Price Clause -->
+          <p class="dignity-line" id="kantLine2" data-i18n-html="dignity.sentence2"><span class="hl-price">To, co ma cenę, można zastąpić</span> czymś innym jako równoważnikiem;</p>
+          
+          <!-- Step 3: The Dignity Clause + Author -->
+          <div class="dignity-line" id="kantLine3">
+            <p class="dignity-line__text" data-i18n-html="dignity.sentence3">to natomiast, co <span class="hl-dignity">wynosi się ponad wszelką cenę</span> i nie dopuszcza żadnego równoważnika, <span class="hl-dignity">posiada godność</span>.”</p>
+            <span class="dignity-author" data-i18n="dignity.author">Immanuel Kant, Uzasadnienie metafizyki moralności (1785)</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== ACT V: THE SOVEREIGN TRIPTYCH (SCROLLYTELLING) ========== -->
+  <section class="zeus-story" id="triptychStory">
+    <div class="zeus-story__frame" id="triptychFrame">
+      <!-- Ambient Glow -->
+      <div class="triptych-ambient" id="tripAmbient"></div>
+    </div>
+
+    <!-- Phase 1: Human Dignity Intro -->
+    <div class="triptych-intro" id="tripIntro">
+      <div class="triptych-intro__badge" data-i18n="act5.intro_badge">GODNOŚĆ CZŁOWIEKA</div>
+      
+      <!-- Dynamic Constitutional / Universal Quote Card -->
+      <div class="triptych-const-card" id="tripConstCard">
+        <p class="triptych-const-card__text" data-i18n="act5.law_quote">„Przyrodzona i niezbywalna godność człowieka stanowi źródło wolności i praw człowieka i obywatela. Jest ona nienaruszalna, a jej poszanowanie i ochrona jest obowiązkiem władz publicznych.”</p>
+        <span class="triptych-const-card__source" data-i18n="act5.law_source">Konstytucja Rzeczypospolitej Polskiej, art. 30</span>
+      </div>
+
+      <p class="triptych-intro__callout" data-i18n="act5.call_to_action">Godność człowieka zapisano w Powszechnej Deklaracji Praw Człowieka i w konstytucjach ponad 160 państw, czyli ponad 80% członków ONZ. Chcemy, żeby te słowa miały oparcie także w konstrukcji technologii, z której korzystamy na co dzień.</p>
+    </div>
+
+    <!-- Phase 2: The Sovereign Triptych (3 Columns) -->
+    <div class="triptych-grid-container" id="triptychContainer">
+      <div class="triptych-grid-title" id="triptychTitle">
+        <h3 data-i18n="act5.grid_title">TRZY FILARY</h3>
+      </div>
+      <div class="triptych-grid">
+        
+        <!-- Column 1: Sovereign Software (Cyan) -->
+        <div class="triptych-col triptych-col--cyan triptych-col--main" id="tripCol1">
+          <div class="triptych-col__badge" data-i18n="act5.col1.badge">FILAR I · ZACZYNAMY</div>
+          <h4 class="triptych-col__title gradient-text--cyan" data-i18n="act5.col1.title">Suveria i Omniforum</h4>
+          
+          <div class="triptych-rule">
+            <div class="triptych-rule__head" data-i18n="act5.col1.r1_h">Prywatna przestrzeń</div>
+          </div>
+          
+          <div class="triptych-rule">
+            <div class="triptych-rule__head" data-i18n="act5.col1.r2_h">Wspólne rozumienie</div>
+          </div>
+          
+          <div class="triptych-rule">
+            <div class="triptych-rule__head" data-i18n="act5.col1.r3_h">Usługi blisko kosztów</div>
+          </div>
+        </div>
+
+        <!-- Column 2: Open Hardware (Flame) -->
+        <div class="triptych-col triptych-col--fire triptych-col--back" id="tripCol2">
+          <div class="triptych-col__badge" data-i18n="act5.col2.badge">FILAR II · KIERUNEK</div>
+          <h4 class="triptych-col__title gradient-text--fire" data-i18n="act5.col2.title">Trwałe przedmioty</h4>
+          
+          <div class="triptych-rule">
+            <div class="triptych-rule__head" data-i18n="act5.col2.r1_h">Trwałe i naprawialne</div>
+          </div>
+          
+          <div class="triptych-rule">
+            <div class="triptych-rule__head" data-i18n="act5.col2.r2_h">Otwarte projekty</div>
+          </div>
+          
+          <div class="triptych-rule">
+            <div class="triptych-rule__head" data-i18n="act5.col2.r3_h">Współdzielenie zasobów</div>
+          </div>
+        </div>
+
+        <!-- Column 3: Way of Life (Emerald) -->
+        <div class="triptych-col triptych-col--emerald triptych-col--back" id="tripCol3">
+          <div class="triptych-col__badge" data-i18n="act5.col3.badge">FILAR III · KIERUNEK</div>
+          <h4 class="triptych-col__title gradient-text--emerald" data-i18n="act5.col3.title">Natura</h4>
+          
+          <div class="triptych-rule">
+            <div class="triptych-rule__head" data-i18n="act5.col3.r1_h">Bliżej przyrody</div>
+          </div>
+          
+          <div class="triptych-rule">
+            <div class="triptych-rule__head" data-i18n="act5.col3.r2_h">Życie poza technologią</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- Phase 3: Suveria, pierwszy krok -->
+    <div class="suveria-card" id="suveriaCard">
+      <div class="suveria-card__badge" data-i18n="act5.suveria.badge">PIERWSZY KROK · SUVERIA</div>
+      <h3 class="suveria-card__title" data-i18n="act5.suveria.title">Zaczynamy od Twojej prywatnej cyfrowej przestrzeni</h3>
+      <p class="suveria-card__text" data-i18n="act5.suveria.text">Jak własny, przytulny pokój: wchodzisz, zamykasz drzwi i możesz spokojnie poukładać swoje sprawy, myśli i plany. Projektujemy Suverię tak, żeby nikt Cię w niej nie podglądał, a cyfrowa inteligencja pomagała tylko wtedy, gdy tego chcesz.</p>
+      <p class="suveria-card__highlight" data-i18n-html="act5.suveria.highlight">Każde nasze zapewnienie o ochronie musi dać się sprawdzić. Tam, gdzie jeszcze go nie spełniamy, mówimy o tym wprost.</p>
+      <div>
+        <a href="pl/whitepaper-suveria.html" data-doc-link="suveria" class="suveria-card__link" data-i18n="act5.suveria.link">Przeczytaj whitepaper Suverii →</a>
+      </div>
+    </div>
+
+  </section>
+
+  <!-- ========== CO DALEJ: jedna plansza z czterema ścieżkami ========== -->
+  <section class="hub-section" id="hubSection" data-remark-root>
+    <div class="container">
+
+      <div class="home-section next-section" id="dolacz" data-remark-section>
+        <div class="section-header">
+          <h2 class="section-title" data-i18n="home.next.title">Co możesz zrobić dalej</h2>
+          <p class="section-subtitle" data-i18n="home.next.status">Działa fundacja, dokumenty i jawny rejestr wpłat. Suveria i Omniforum są projektami, nad którymi pracujemy.</p>
+        </div>
+        <div class="help-grid next-grid">
+          <div class="help-card next-card next-card--wait">
+            <h3 class="help-card__title" data-i18n="home.next.wait_title">Daj znać, że chcesz spróbować</h3>
+            <p class="help-card__text" data-i18n="home.next.wait_text"></p>
+            <div class="next-card__actions">
+              <a href="mailto:salve@novusignis.org?subject=%5BLista%20oczekuj%C4%85cych%5D%20Suveria%20i%20Omniforum" class="btn btn--primary" data-i18n="home.next.wait_btn">Zapisz się na listę</a>
+            </div>
+            <p class="next-card__note" data-i18n-html="home.next.wait_note"></p>
+          </div>
+          <div class="help-card next-card next-card--read">
+            <h3 class="help-card__title" data-i18n="home.next.read_title">Poczytaj więcej</h3>
+            <p class="help-card__text" data-i18n="home.next.read_text"></p>
+            <div class="next-card__actions">
+              <a href="pl/w-skrocie.html" data-page-link="w-skrocie" data-page-fallback="manifest" class="btn btn--primary" data-i18n="home.next.read_btn">Novus Ignis w skrócie</a>
+              <a href="pl/dokumenty.html" data-page-link="dokumenty" data-page-optional class="btn btn--secondary" data-i18n="home.next.read_docs">Manifest i whitepapery</a>
+            </div>
+          </div>
+          <div class="help-card next-card next-card--join">
+            <h3 class="help-card__title" data-i18n="home.next.join_title">Zgłoś się do udziału</h3>
+            <p class="help-card__text" data-i18n="home.next.join_text"></p>
+            <div class="next-card__actions">
+              <a href="pl/dolacz.html" data-page-link="dolacz" data-page-optional class="btn btn--primary" data-i18n="home.next.join_btn">Zobacz, kogo szukamy</a>
+            </div>
+          </div>
+          <div class="help-card next-card next-card--give">
+            <h3 class="help-card__title" data-i18n="home.next.give_title">Wesprzyj fundację</h3>
+            <p class="help-card__text" data-i18n="home.next.give_text"></p>
+            <div class="next-card__actions">
+              <a href="pl/wesprzyj.html" data-page-link="wesprzyj" data-page-optional class="btn btn--primary" data-i18n="home.next.give_btn">Przekaż darowiznę</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Dynamic Global Footer (Single Source of Truth) -->
+  <footer id="site-footer" class="site-footer">{{FOOTER}}</footer>
+
+  <!-- GSAP + ScrollTrigger z naszego serwera (vendor/), bez zewnętrznych źródeł -->
+  <script src="vendor/gsap.min.js"></script>
+  <script src="vendor/ScrollTrigger.min.js"></script>
+  <script src="js/site-config.js"></script>
+  <script src="js/layout.js"></script>
+  <script src="js/remark.js"></script>
+  <script src="js/mail.js"></script>
+  <script src="js/ask.js"></script>
+  <script src="js/lang-keep.js"></script>
+  {{GLOSS_SCRIPTS}}
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,344 @@
+{
+  "jezyk": "en",
+  "uwaga": "Glossary for novusignis.org translated from content/pl/slownik.json (definitions from the documents after the audit of October 31, 2026); a draft by Claude, to be reviewed by Marcin.",
+  "hasla": [
+    {
+      "id": "suveria",
+      "termin": "Suveria",
+      "warianty": [
+        "Suveria"
+      ],
+      "definicja": "A private space on the internet where a person talks with digital intelligence, works on their own materials and returns to earlier thoughts, as in their own home behind closed doors. Today a project.",
+      "zrodlo": "whitepaper-suveria.md#s1",
+      "zrodlo_opis": "Suveria whitepaper, chapter 1"
+    },
+    {
+      "id": "omniforum",
+      "termin": "Omniforum",
+      "warianty": [
+        "Omniforum"
+      ],
+      "definicja": "A shared public space where anyone can speak on any topic and be heard, and where conversations leave behind a body of work one can return to. Today a first prototype under construction.",
+      "zrodlo": "whitepaper-omniforum.md#s1",
+      "zrodlo_opis": "Omniforum whitepaper, chapter 1"
+    },
+    {
+      "id": "cyfrowa-inteligencja",
+      "termin": "digital intelligence",
+      "warianty": [
+        "digital intelligence"
+      ],
+      "definicja": "The term we use instead of “artificial intelligence”: the word “digital” points to the substrate on which it operates, just as “biological” points to the substrate of ours. We judge it by its actions and their effects.",
+      "zrodlo": "manifest.md#s1-1",
+      "zrodlo_opis": "manifesto, section 1.1"
+    },
+    {
+      "id": "godnosc",
+      "termin": "dignity",
+      "warianty": [
+        "dignity"
+      ],
+      "definicja": "A person's value, independent of their abilities, productivity, wealth, views and usefulness to others. Everyone is owed respect and a place of their own in the world.",
+      "zrodlo": "manifest.md#s2",
+      "zrodlo_opis": "manifesto, chapter 2",
+      "oznaczaj": false
+    },
+    {
+      "id": "spokojna-technologia",
+      "termin": "calm technology",
+      "warianty": [
+        "calm technology"
+      ],
+      "definicja": "Tools that ask for only as much attention as their task requires, convey the information that matters and let you return to your own affairs.",
+      "zrodlo": "manifest.md#s2-3",
+      "zrodlo_opis": "manifesto, section 2.3"
+    },
+    {
+      "id": "omnium",
+      "termin": "Omnium",
+      "warianty": [
+        "Omnium"
+      ],
+      "definicja": "The open database of Omniforum's public body of work (Latin for “of all”), available to other applications through OmniAPI.",
+      "zrodlo": "whitepaper-omniforum.md#s4",
+      "zrodlo_opis": "Omniforum whitepaper, chapter 4"
+    },
+    {
+      "id": "atom",
+      "termin": "atom",
+      "warianty": [
+        "atoms"
+      ],
+      "definicja": "The smallest building block of meaning in Omniforum: a single concept or one specific thing, named with one word or a few.",
+      "zrodlo": "whitepaper-omniforum.md#s2",
+      "zrodlo_opis": "Omniforum whitepaper, chapter 2"
+    },
+    {
+      "id": "molekula",
+      "termin": "molecule",
+      "warianty": [
+        "molecules"
+      ],
+      "definicja": "A thought built from atoms joined by bonds: a claim, a question, a value or a condition.",
+      "zrodlo": "whitepaper-omniforum.md#s2",
+      "zrodlo_opis": "Omniforum whitepaper, chapter 2"
+    },
+    {
+      "id": "etykieta",
+      "termin": "label",
+      "warianty": [
+        "labels"
+      ],
+      "definicja": "A word we use to name an atom; one atom can have many labels, also in different languages.",
+      "zrodlo": "whitepaper-omniforum.md#s2",
+      "zrodlo_opis": "Omniforum whitepaper, chapter 2",
+      "oznaczaj": false
+    },
+    {
+      "id": "wiazanie",
+      "termin": "bond",
+      "warianty": [
+        "bonds"
+      ],
+      "definicja": "A relation joining atoms in a molecule, such as “is part of,” “has the feature,” “causes” or “prevents.”",
+      "zrodlo": "whitepaper-omniforum.md#s2",
+      "zrodlo_opis": "Omniforum whitepaper, chapter 2",
+      "oznaczaj": false
+    },
+    {
+      "id": "lancuch",
+      "termin": "chain",
+      "warianty": [
+        "chains"
+      ],
+      "definicja": "A sequence of molecules in which premises lead to a conclusion; at each step we record what rule it relies on, what assumptions it makes and where it has gaps.",
+      "zrodlo": "whitepaper-omniforum.md#s5",
+      "zrodlo_opis": "Omniforum whitepaper, chapter 5",
+      "oznaczaj": false
+    },
+    {
+      "id": "sprawa",
+      "termin": "issue",
+      "warianty": [
+        "issues"
+      ],
+      "definicja": "A question or matter someone wants to return to, because they want to understand, compare or do something together.",
+      "zrodlo": "whitepaper-omniforum.md#s5-1",
+      "zrodlo_opis": "Omniforum whitepaper, section 5.1",
+      "oznaczaj": false,
+      "lacina": "Causa"
+    },
+    {
+      "id": "mapa-sprawy",
+      "termin": "issue map",
+      "warianty": [
+        "issue maps"
+      ],
+      "definicja": "A compilation of the chains of different people, including ones that contradict each other, together with sources and open questions, which one can return to.",
+      "zrodlo": "whitepaper-omniforum.md#s5",
+      "zrodlo_opis": "Omniforum whitepaper, chapter 5",
+      "lacina": "Mappa Causae"
+    },
+    {
+      "id": "karta-idei",
+      "termin": "idea card",
+      "warianty": [
+        "idea cards"
+      ],
+      "definicja": "A view that shows where we want to get to and what the next step is, with the status of the idea (works, project, hypothesis, vision) and answers to eight questions.",
+      "zrodlo": "whitepaper-omniforum.md#s5-2",
+      "zrodlo_opis": "Omniforum whitepaper, section 5.2",
+      "lacina": "Charta Ideae"
+    },
+    {
+      "id": "inicjatywa",
+      "termin": "initiative",
+      "warianty": [
+        "initiatives"
+      ],
+      "definicja": "A proposal for a specific action that grows out of an issue map and an idea card.",
+      "zrodlo": "whitepaper-omniforum.md#s5-3",
+      "zrodlo_opis": "Omniforum whitepaper, section 5.3",
+      "oznaczaj": false,
+      "lacina": "Inceptum"
+    },
+    {
+      "id": "ceremonia-ignis",
+      "termin": "Ignis Ceremony",
+      "warianty": [
+        "Ignis Ceremony"
+      ],
+      "definicja": "The moment when the author consciously publishes a thought in Omniforum. The Ignis stage is the first sharing of a thought: a thought created in Omniforum first goes through the Ignis workshop, while a thought refined privately in Suveria is published right away.",
+      "zrodlo": "whitepaper-omniforum.md#s3",
+      "zrodlo_opis": "Omniforum whitepaper, chapter 3",
+      "lacina": "Caerimonia Ignis"
+    },
+    {
+      "id": "warsztat-ignis",
+      "termin": "Ignis workshop",
+      "warianty": [
+        "Ignis workshop"
+      ],
+      "definicja": "A place in Omniforum where the author, with the help of digital intelligence, breaks their statement down into molecules and atoms, confirms that the interpretation reflects their intention, and only then publishes it.",
+      "zrodlo": "whitepaper-omniforum.md#s3",
+      "zrodlo_opis": "Omniforum whitepaper, chapter 3",
+      "lacina": "Officina Ignis"
+    },
+    {
+      "id": "terra-incognita",
+      "termin": "Terra Incognita",
+      "warianty": [],
+      "definicja": "A voluntary ceremony in Omniforum in which we name the limit of what we can justify today and consciously start looking for answers to a new question; possible explanations are then marked as hypotheses. The name comes from the term old cartographers used for unexplored lands. A project; its form is yet to be decided.",
+      "zrodlo": "whitepaper-omniforum.md#s3",
+      "zrodlo_opis": "Omniforum whitepaper, chapter 3"
+    },
+    {
+      "id": "formatio",
+      "termin": "Formatio",
+      "warianty": [
+        "Formatio"
+      ],
+      "definicja": "The stage after a thought is published, in which the community considers it, adds arguments, sources and caveats, and looks for consensus.",
+      "zrodlo": "whitepaper-omniforum.md#s3",
+      "zrodlo_opis": "Omniforum whitepaper, chapter 3"
+    },
+    {
+      "id": "consensus",
+      "termin": "Consensus",
+      "warianty": [
+        "Consensus"
+      ],
+      "definicja": "A shared determination by the community, stating its version, its scope, the people who confirmed it and dissenting opinions; we do not count silence as agreement.",
+      "zrodlo": "whitepaper-omniforum.md#s3",
+      "zrodlo_opis": "Omniforum whitepaper, chapter 3"
+    },
+    {
+      "id": "principium",
+      "termin": "Principium",
+      "warianty": [
+        "Principium"
+      ],
+      "definicja": "Adopting a principle as one's own, into one's Personal Canon.",
+      "zrodlo": "whitepaper-omniforum.md#s5-6",
+      "zrodlo_opis": "Omniforum whitepaper, section 5.6"
+    },
+    {
+      "id": "osobisty-kanon",
+      "termin": "Personal Canon",
+      "warianty": [
+        "Personal Canons"
+      ],
+      "definicja": "A collection of principles and values, written down by a person, that they consider their own. With their consent, the assistant can compare these with the decisions they are considering; adopting, changing or rejecting a principle remains the user's choice.",
+      "zrodlo": "manifest.md#s3-1",
+      "zrodlo_opis": "manifesto, section 3.1",
+      "lacina": "Canon Personalis"
+    },
+    {
+      "id": "atestacja",
+      "termin": "attestation",
+      "warianty": [
+        "attestations"
+      ],
+      "definicja": "A hardware-signed confirmation of what software is running on a remote machine and in what protection mode. It helps establish what was launched, but on its own it does not prove that this code is secure.",
+      "zrodlo": "whitepaper-suveria.md#s2",
+      "zrodlo_opis": "Suveria whitepaper, chapter 2"
+    },
+    {
+      "id": "poufne-obliczenia",
+      "termin": "confidential computing",
+      "warianty": [
+        "confidential environment",
+        "confidential environments",
+        "confidential API",
+        "confidential APIs",
+        "confidential execution"
+      ],
+      "definicja": "Processing in a hardware-isolated part of a server that its administrator cannot read, which the application can check before sending a conversation. This protection depends on processor manufacturers and has known limits.",
+      "zrodlo": "manifest.md#s3-1",
+      "zrodlo_opis": "manifesto, section 3.1"
+    },
+    {
+      "id": "powtarzalne-budowanie",
+      "termin": "reproducible builds",
+      "warianty": [
+        "reproducible build",
+        "reproducibly built"
+      ],
+      "definicja": "Anyone can build the app themselves from the published source code and check that they got a file identical to the one they install.",
+      "zrodlo": "whitepaper-suveria.md#s2-3",
+      "zrodlo_opis": "Suveria whitepaper, section 2.3"
+    },
+    {
+      "id": "dowod-z-wiedza-zerowa",
+      "termin": "zero-knowledge proof",
+      "warianty": [
+        "zero-knowledge proofs",
+        "ZKP",
+        "ZKPs"
+      ],
+      "definicja": "A way of showing that someone belongs to the group of those entitled, for example to vote, without revealing who they are.",
+      "zrodlo": "whitepaper-omniforum.md#s8-3",
+      "zrodlo_opis": "Omniforum whitepaper, section 8.3"
+    },
+    {
+      "id": "filary",
+      "termin": "pillars",
+      "warianty": [
+        "pillar",
+        "Pillar I",
+        "Pillar II",
+        "Pillar III",
+        "Pillars II",
+        "first pillar",
+        "further pillars"
+      ],
+      "definicja": "The first pillar is software and digital services, that is, Suveria and Omniforum. Pillar II “Hardware” is open designs for durable, repairable objects, and Pillar III “Nature” is closer contact with nature. Fully launching the further pillars requires three conditions to be met together.",
+      "zrodlo": "manifest.md#s6-3",
+      "zrodlo_opis": "manifesto, section 6.3"
+    },
+    {
+      "id": "pula-zarzadu",
+      "termin": "transitional board pool",
+      "warianty": [
+        "board pool",
+        "board's transitional pool",
+        "transitional pool"
+      ],
+      "definicja": "A transitional authorization for the board to fund small initiatives of the further pillars: each month the pool grows by at most 5% of new, free income after covering costs, commitments and the Pillar I safeguard, and it expires as soon as binding voting is launched.",
+      "zrodlo": "manifest.md#s6-3",
+      "zrodlo_opis": "manifesto, section 6.3"
+    },
+    {
+      "id": "rejestr-korzysci",
+      "termin": "register of benefits",
+      "warianty": [
+        "benefits register",
+        "register of benefits and connections"
+      ],
+      "definicja": "A public register of the benefits and connections of the people who manage the foundation, decide on its expenses and procurement, or represent it; it serves oversight, not promotion.",
+      "zrodlo": "manifest.md#s7-1",
+      "zrodlo_opis": "manifesto, section 7.1"
+    },
+    {
+      "id": "konsultacja",
+      "termin": "consultation",
+      "warianty": [
+        "consultations"
+      ],
+      "definicja": "Asking for opinions without verifying the participants. It shows what the participants think, but it is not a vote within the meaning of the statute, which for votes requires confirming that each voter is unique.",
+      "zrodlo": "whitepaper-omniforum.md#s8-1",
+      "zrodlo_opis": "Omniforum whitepaper, section 8.1",
+      "oznaczaj": false
+    },
+    {
+      "id": "mam-uwage",
+      "termin": "I have a comment",
+      "warianty": [
+        "I have a comment"
+      ],
+      "definicja": "A button on document pages: after you highlight a passage, it prepares a message to the foundation with the quotation and a link to that spot, which you send yourself; the site does not save or send anything.",
+      "zrodlo": "whitepaper-omniforum.md#s5-5",
+      "zrodlo_opis": "Omniforum whitepaper, section 5.5"
+    }
+  ]
+}

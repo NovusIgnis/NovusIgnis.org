@@ -1,0 +1,157 @@
+{
+ "source": "content/pl/page/omniforum.md",
+ "paragraphs": [
+  {
+   "h": "89d1a88c27b8637b71bbda5483766d8d5a221da4",
+   "t": "# Czym jest Omniforum"
+  },
+  {
+   "h": "43894107158138ece428aa0d2157271f9a2a002d",
+   "t": "Ta strona opowiada w skrócie, czym ma być Omniforum. To przystępna wersja whitep"
+  },
+  {
+   "h": "336576935a893cfe212bbd9e876f1e3e4e53964b",
+   "t": "Omniforum ma być wspólną przestrzenią rozmowy, w której każdy może wypowiedzieć "
+  },
+  {
+   "h": "5322e73a3d6da4072311a58045a5dd943658eeec",
+   "t": "Omniforum ma dziś pierwszy prototyp w budowie; wszystko, co opisujemy niżej, jes"
+  },
+  {
+   "h": "8886524567c3f339ed05d582f6435454f6555d22",
+   "t": "Więcej: [manifest, wstęp](../manifest.md#top), [punkt 3.2](../manifest.md#s3-2) "
+  },
+  {
+   "h": "5f747e2043318724731cf6eab32832f688987c61",
+   "t": "## Dlaczego zwykłe komentarze nie wystarczają"
+  },
+  {
+   "h": "cf0a6a663b1f9950384a743ac3d1bf9cd6506e67",
+   "t": "W strumieniu szybkich komentarzy łatwo gubią się dobre argumenty, a te same spor"
+  },
+  {
+   "h": "67bce340d52b04e98abb6877a4429f4272ca4d62",
+   "t": "Nie chodzi o wyłonienie zwycięzcy sporu; rozmowa ma zostawiać miejsce na zmianę "
+  },
+  {
+   "h": "e4c10349c6a9c89d6e41a868ef9945bb15df83e9",
+   "t": "Więcej: [whitepaper Omniforum, rozdział 1](../whitepaper-omniforum.md#s1) i [pun"
+  },
+  {
+   "h": "6a20b1f24a99f7cb9b16bb550367c1068017def6",
+   "t": "## Jak wygląda rozmowa"
+  },
+  {
+   "h": "c80d8ea1f067e9bd07a4d867bc58ef1db3346db6",
+   "t": "Zaczynasz od zwykłego tekstu, a cyfrowa inteligencja proponuje, jak rozłożyć go "
+  },
+  {
+   "h": "a34305afa5ffba33fbb037ff8c47e0bb11ec66dc",
+   "t": "W sporze często irytujemy się na siebie nie przez złą wolę, tylko dlatego, że je"
+  },
+  {
+   "h": "008fc70364da8d53da087dd26b43e09fd9548ae8",
+   "t": "Potem poprawiasz miejsca, w których model mógł odejść od Twojej intencji, potwie"
+  },
+  {
+   "h": "7be3ac3d33d317e9f28cfce02d38dd58d767dbff",
+   "t": "Więcej: [whitepaper Omniforum, rozdział 3](../whitepaper-omniforum.md#s3)."
+  },
+  {
+   "h": "2a63b4f32e90ce9a6459a38610217ad5a17f0747",
+   "t": "## Mapa sprawy"
+  },
+  {
+   "h": "73e58015037c1d8b311e5c831e4196bfc3ef43f2",
+   "t": "Mapa sprawy to uporządkowany zbiór doświadczeń, argumentów i otwartych pytań, do"
+  },
+  {
+   "h": "1e81cbc76afcc76b66e19a6b506999a3790e899c",
+   "t": "Mapa ma się otwierać spokojnie: najpierw jeden główny wniosek, pod nim kilka ści"
+  },
+  {
+   "h": "009bf11ae6578a03584317d048b49f823c95f375",
+   "t": "Więcej: [whitepaper Omniforum, rozdział 5](../whitepaper-omniforum.md#s5)."
+  },
+  {
+   "h": "ebda2c643a3f8c6ae056057b808ebc10d8ccecc2",
+   "t": "## Co jest bezpłatne"
+  },
+  {
+   "h": "e9609931b5a3539b5150a3da7f9117feb191df20",
+   "t": "Planujemy tak: czytanie, publikowanie wypowiedzi, ręczny podział na myśli, dodaw"
+  },
+  {
+   "h": "a2295c5e844ed2e25025c323948df1ab5c40e86c",
+   "t": "Więcej: [whitepaper Omniforum, punkt 1.2](../whitepaper-omniforum.md#s1-2)."
+  },
+  {
+   "h": "76d46d7b41109bf63983706427b8ff2755e2b5de",
+   "t": "## Wspólne decyzje i ich granice"
+  },
+  {
+   "h": "dd189f54473a9b419514214386b08f4f1241e0e2",
+   "t": "Uporządkowana rozmowa przygotowuje decyzję, ale jej nie zastępuje. Odróżniamy:"
+  },
+  {
+   "h": "3c1ede94a1f195702b1825342b1fd926a96d6645",
+   "t": "- **konsultacje**: pytania o zdanie bez weryfikacji uczestników, otwarte dla każ"
+  },
+  {
+   "h": "2cd3145716e5b33f61a8b548a639acaa62d6379c",
+   "t": "Projektujemy kilka dróg do prawa głosu i żadna nie wymaga biometrii. Nikt nie do"
+  },
+  {
+   "h": "48a99729d6f8b9a653743928edba286ffd29b7d9",
+   "t": "To jedna z najtrudniejszych części projektu. Trudno zapewnić jednocześnie jeden "
+  },
+  {
+   "h": "360f00fda3c734c43a49d04f3c64ac7147302e1b",
+   "t": "Więcej: [whitepaper Omniforum, rozdział 8](../whitepaper-omniforum.md#s8)."
+  },
+  {
+   "h": "1db8af1cc48815329896ef9b2618bc84bd76d120",
+   "t": "## Prywatność i cudze słowa"
+  },
+  {
+   "h": "33bbe8555491ceb1ab2d9138f87856a73595a467",
+   "t": "Każda myśl może być w jednym z trzech miejsc: w prywatnej przestrzeni Suverii, w"
+  },
+  {
+   "h": "74fd7246ef9329121011be0f111aa92a78efdeda",
+   "t": "Ludzie mają prawo do prywatności także wtedy, gdy ktoś inny ich cytuje. Jeśli kt"
+  },
+  {
+   "h": "4128b57e001bed15964bae144ebc427c97261a6a",
+   "t": "Więcej: [whitepaper Omniforum, rozdział 7](../whitepaper-omniforum.md#s7)."
+  },
+  {
+   "h": "6d5f670092c129c3d71aff93cb0705581afe7f46",
+   "t": "## Stan prac"
+  },
+  {
+   "h": "aed7dc13ce86c1db4490d2c31b27ea54a186cbd9",
+   "t": "Stan na 30 października 2026 r.: prototyp Omniforum jest w budowie, a żadnej z o"
+  },
+  {
+   "h": "e1724e5cbfa687b506a6b2ed66ef9a857989529d",
+   "t": "Pierwszy krok to jedna pełna droga jednej myśli: ktoś wpisuje własny tekst, cyfr"
+  },
+  {
+   "h": "c65a1131e9e60a58502c4e5268b8d93219ac19c7",
+   "t": "Więcej: [whitepaper Omniforum, rozdział 9](../whitepaper-omniforum.md#s9)."
+  },
+  {
+   "h": "dbd729a4bebd65f560d1601db4be5811d62ffdc0",
+   "t": "## Przeczytaj i powiedz, co myślisz"
+  },
+  {
+   "h": "c8bfd4b7069cea6649d014ed28bf16434ccccfa2",
+   "t": "Przeczytaj [whitepaper Omniforum w całości](../whitepaper-omniforum.md). Jeśli c"
+  },
+  {
+   "h": "f7be398ad8cbbaee6f5382c726f333faec87bca6",
+   "t": "Więcej: [whitepaper Omniforum, punkt 5.5](../whitepaper-omniforum.md#s5-5)."
+  }
+ ]
+}

@@ -1,0 +1,909 @@
+{
+ "source": "content/pl/manifest.md",
+ "paragraphs": [
+  {
+   "h": "5c0eb7e8b99001b20f96fd15f9fde3e928867963",
+   "t": "# Manifest Fundacji Novus Ignis"
+  },
+  {
+   "h": "b5324200bc5aa6afc6ad1f7f3aff19023ee6e94b",
+   "t": "Wersja z 31 października 2026 r."
+  },
+  {
+   "h": "5154273df99977ff068f93be0fc17c0dcfb28181",
+   "t": "## Internet oparty na godności człowieka"
+  },
+  {
+   "h": "85548633840c370b087b25c0dbead74693b7e06f",
+   "t": "Rozpoczynamy naszą działalność od współtworzenia alternatywnego internetu, które"
+  },
+  {
+   "h": "9f551ef1e181f1c7c8f38a070d95ab091e3515d2",
+   "t": "Z tych wartości wyprowadzamy dwa kierunki pracy. Pierwszy to Suveria, prywatna c"
+  },
+  {
+   "h": "a93da7dbc0a572fdf090065235ab782d49a7a201",
+   "t": "**Suverię projektujemy jako prywatne miejsce do pracy z opcjonalną pomocą cyfrow"
+  },
+  {
+   "h": "6a6f1381f47ae4602db0ab549e9ba4ed81c3777d",
+   "t": "Tam, gdzie nie potrafimy jeszcze zapewnić takiej ochrony, będziemy jasno wskazyw"
+  },
+  {
+   "h": "4aecd0f8e10431280a1e02abfc932c105a11c5f3",
+   "t": "**Omniforum ma być miejscem, w którym każdy może się wypowiedzieć na dowolny tem"
+  },
+  {
+   "h": "c6cb8ffed468fc9c2e7a820ec684ac24c953451f",
+   "t": "Obie przestrzenie mają się uzupełniać, dając prywatny warsztat oraz publiczną mó"
+  },
+  {
+   "h": "1a875f1a7edbb2917cbcb59c6cfe8f1a8f133d7d",
+   "t": "Chcemy, aby każdy płacił za to, czego rzeczywiście używa, wraz z uczciwie wylicz"
+  },
+  {
+   "h": "34ec275f8a1d24a8a0690e11475d4730da23d190",
+   "t": "Z opisanych tu zasad chcemy rozwijać ekosystem narzędzi i usług szanujących nasz"
+  },
+  {
+   "h": "5f8389380c7076bc78b1632a4606133285e21fda",
+   "t": "W dalszej części manifestu opowiadamy szerzej o ideach, które nam przyświecają: "
+  },
+  {
+   "h": "833cc30d722ed4710d0e44a55b3e55d459797714",
+   "t": "Manifest uzupełniają rozwijane wraz z projektami whitepapery [Suverii](whitepape"
+  },
+  {
+   "h": "6b402191377d11d9c32f978c1f4c54bd0b1ab54e",
+   "t": "**Gdzie jesteśmy dziś.** Fundacja jest zarejestrowana, a manifest i whitepapery "
+  },
+  {
+   "h": "28734042eca87b8b4215e95b403425eaa4f276d7",
+   "t": "## Spis treści"
+  },
+  {
+   "h": "00bd8d6e62469eb71f3e4d11658aa9f09a7a5c23",
+   "t": "1. Dlaczego i po co Novus Ignis istnieje? 2. Od ochrony godności do zasad wspóln"
+  },
+  {
+   "h": "edf3e24447b3ed5352c2fd5ce314a93b0e07dbe8",
+   "t": "## 1. Dlaczego i po co Novus Ignis istnieje?"
+  },
+  {
+   "h": "a4676c6b73c239c3d949e30deab194fb19161044",
+   "t": "### 1.1. Od fundatora"
+  },
+  {
+   "h": "d8f68cb5e76a576ac9d844d7825894521308b3b5",
+   "t": "*Fundacja Novus Ignis wyrasta z moich osobistych doświadczeń, o których krótko t"
+  },
+  {
+   "h": "10b864fcc284dc0ccb85bf5be040ae1b0e62dd88",
+   "t": "Idea Novus Ignis wyrosła z moich poszukiwań, nauki i przemyśleń na styku technol"
+  },
+  {
+   "h": "332825378c432a541891042a715f5c4d50b07efd",
+   "t": "W tym manifeście wybieram określenie „cyfrowa inteligencja”. Słowem „cyfrowa” ws"
+  },
+  {
+   "h": "332e016b6c12cd95fe2852abd441b0afb410e288",
+   "t": "Scenariusze [AI 2027](https://ai-2027.com/)[^ai2027] i [AI 2040: Plan A](https:/"
+  },
+  {
+   "h": "5e6211705947af4d090c98396cc5a631927d1a55",
+   "t": "Szukając odpowiedzi, wracam do rozmowy Yuvala Noaha Harariego z „The Economist”."
+  },
+  {
+   "h": "dd9692dc19d32306a322f20fdfb7aca0463969e3",
+   "t": "To rozróżnienie było dla mnie ważne. Znam cierpienie i poczucie niesprawiedliwoś"
+  },
+  {
+   "h": "ec7dd5b086530c7fa911faa6c09f7152a0c4d25e",
+   "t": "Ja sam nie zawsze postępuję zgodnie z wartościami, które opisuję w tym manifeści"
+  },
+  {
+   "h": "11fb458dd95ada6511f60c2fbe83ff00c62362a5",
+   "t": "Z kolei z wizyty w muzeum Solidarności w Gdańsku pozostała mi myśl o pokojowej e"
+  },
+  {
+   "h": "6cb0fb064d1b18d2f85cb8c0a818440ee9085376",
+   "t": "Wracam tu do scenariusza [AI 2040: Plan A](https://ai-2040.com/print/scenario?pl"
+  },
+  {
+   "h": "ce8427a49e6fff39f48faf33d56fca3c4b39c166",
+   "t": "Dla mnie utopijny kierunek oznaczałby przyszłość, w której cyfrowa inteligencja "
+  },
+  {
+   "h": "790b44416f059dab2c4347c299a8cef26e027e00",
+   "t": "Novus Ignis ma być zalążkiem takiego świata i próbą poznawania jego zasad przez "
+  },
+  {
+   "h": "99cbdecdb3f62d9ec2624198dec908041a39c95e",
+   "t": "Historia zna już przypadki, w których to, co zbudowała gorączka inwestycji, prze"
+  },
+  {
+   "h": "f7b9d46da9ccdb16066be93c29b134153eaa9f8b",
+   "t": "Patrząc na sieci, fabryki, magazyny i łańcuchy dostaw zbudowane z myślą o nieust"
+  },
+  {
+   "h": "40a102d79b79e52f69f8fa2e27474f2f628960a3",
+   "t": "Ochronę godności chcę odnosić również do sposobu naszej współpracy. W utopii, kt"
+  },
+  {
+   "h": "270746aef32a446eb27769b74f20b023bc950b75",
+   "t": "Chciałbym również dokumentować, jak te zasady przekładamy na decyzje, jak rozstr"
+  },
+  {
+   "h": "d0c7b5d10499e5900ad4306dd290ecb735f5db70",
+   "t": "W ten sposób chcę dać ludziom podstawy do wiary, że taki świat jest możliwy, bud"
+  },
+  {
+   "h": "fae5e572cd42fd5c5a5d9a9c000c5fde2254be5f",
+   "t": "*Marcin Wołowski, fundator*"
+  },
+  {
+   "h": "19fa59e79a7c715eda92d25b18f93a0de21ed6f9",
+   "t": "### 1.2. Wspólny kierunek"
+  },
+  {
+   "h": "8667fd497f2a85d01187bcce8baec50134fd4879",
+   "t": "Z osobistego pytania może wyrosnąć wspólna praca. Zapraszamy do niej ludzi o róż"
+  },
+  {
+   "h": "e682ae59ee02dd99baff9728a9a9d56ee7aaf34d",
+   "t": "Łączy nas jedno pytanie: jakie wzorce postępowania zostawimy cyfrowej inteligenc"
+  },
+  {
+   "h": "97034c9e905e47bfc3ca230c1e7c658f4c472dbf",
+   "t": "Chcemy rozwijać cyfrowe dobra publiczne: narzędzia i wiedzę, z których można wsp"
+  },
+  {
+   "h": "4b03cce4e8b2a5d8d783f9d7b33695f79660cb4f",
+   "t": "Kierujemy się zasadami spokojnej technologii, które opisujemy w punkcie 2.3: nar"
+  },
+  {
+   "h": "59edb4be7cd66a65a3fcec41a3f065bb452f3375",
+   "t": "Ochrona godności wyznacza kierunek, a konkretne rozwiązania wybieramy, porównują"
+  },
+  {
+   "h": "470fafd8afcf0446d40b822f5f791fdbc5120e5c",
+   "t": "Nazwy fundacji i jej przestrzeni czerpiemy z łaciny: wybraliśmy ją jako wspólne "
+  },
+  {
+   "h": "013b97469d9afdf1a4d2d1e1cdff4510b27c398a",
+   "t": "## 2. Od ochrony godności do zasad wspólnego świata"
+  },
+  {
+   "h": "8223d2ebfeca95f335edadb4c86536527445e246",
+   "t": "Godność człowieka traktujemy jako wartość niezależną od jego sprawności, produkt"
+  },
+  {
+   "h": "aeb68f14646a44cbfb5d591449f781b2f9ab6f61",
+   "t": "### 2.1. Wolność i świadomy wybór"
+  },
+  {
+   "h": "0be4affa447cd5d67e8a3d12abb09ee5cf45f46c",
+   "t": "Z ochrony godności wyprowadzamy prawo człowieka do decydowania o sobie. Możliwoś"
+  },
+  {
+   "h": "9f6ed28e8b69ea17bd51d92b9943d5a3a034d2bb",
+   "t": "Świadomy wybór wymaga dostępu do rzetelnej informacji. Gdy ktoś celowo zniekszta"
+  },
+  {
+   "h": "428a7044b5acc22a52267e46ccf417413f4c93ae",
+   "t": "Dlatego chcemy ułatwiać dostęp do możliwie szerokiego obrazu sprawy: istotnych p"
+  },
+  {
+   "h": "d19adfd3c00b3b32cdd98b083128375e42dcdf6c",
+   "t": "Do człowieka należy decyzja, ile uwagi chce temu poświęcić. Może poprzestać na k"
+  },
+  {
+   "h": "4233a7ab31990bfb6331ec15dc87c255f461becc",
+   "t": "### 2.2. Prywatność jako przestrzeń wolności"
+  },
+  {
+   "h": "b5cb436cc1a52b8c04a801f207b1817bcff153bc",
+   "t": "Decydowanie o sobie obejmuje także wybór tego, co zachowujemy dla siebie. Potrze"
+  },
+  {
+   "h": "26348177a15779606eb1ec09f3c3b8331bf1b1dc",
+   "t": "Taka przestrzeń pozwala szukać słów, rozważać sprzeczne możliwości i zmieniać zd"
+  },
+  {
+   "h": "4d631e7db5f9e3e10d0d60665f53c45a81b849d1",
+   "t": "Chcemy, aby podstawowym miejscem przechowywania prywatnych materiałów były własn"
+  },
+  {
+   "h": "3f76a22fd5747b47edfded6d6f75d6bee7af592e",
+   "t": "Przewidujemy również możliwość przechowywania danych na wybranych serwerach, na "
+  },
+  {
+   "h": "34146875973e2792e2e00e3c42e10d4129ae6a78",
+   "t": "Dążymy do pełnej prywatności takiej przestrzeni, obejmującej również ochronę prz"
+  },
+  {
+   "h": "5ff2b0d3d692a59f59edd02f4665c0751a30c306",
+   "t": "### 2.3. Ograniczanie cierpienia i ochrona uwagi"
+  },
+  {
+   "h": "bf8a9ba6ad58af67705ce784123fbb1816eb8e36",
+   "t": "Ochrona godności obejmuje również troskę o to, jak człowiek doświadcza świata. C"
+  },
+  {
+   "h": "39754c49884e100e67cb82c4cfebc025c0f7617e",
+   "t": "Znaczenie ma także sposób dobierania treści. W eksperymencie na platformie X zmi"
+  },
+  {
+   "h": "bdc625db1536b032038099012805f32040777d85",
+   "t": "Dlatego bliskie są nam zasady spokojnej technologii (*calm technology*): narzędz"
+  },
+  {
+   "h": "a5f033b9b9ae6e4db423b296b641a987c9129094",
+   "t": "Jest w niej miejsce również na gniew, smutek i zdecydowany sprzeciw. Mogą one po"
+  },
+  {
+   "h": "9d95c0ed9461ff439d102eb84efd57f4141dc5bf",
+   "t": "Komunikację opieramy na własnej stronie, na której pełne publikacje są dostępne "
+  },
+  {
+   "h": "756f20d94883b9eecab7a01f39d4d58d667b9863",
+   "t": "### 2.4. Od dorobku rynku do trwałych zasad współpracy"
+  },
+  {
+   "h": "d461e90a4d1c99c30f6337b3c418df3484c64b85",
+   "t": "Patrzymy na współczesną gospodarkę z docenieniem jej dorobku oraz uważnością na "
+  },
+  {
+   "h": "627ec645836ef4b4c31400402b551ea2b2fe39bf",
+   "t": "Jednocześnie widzimy, gdzie obecny model napotyka swoje granice i prowadzi do wy"
+  },
+  {
+   "h": "25c6bb2c8f3197709d76c6344bdba5a7c0eb845d",
+   "t": "Wśród doświadczeń fundatora były również podobne zmiany w komercyjnych narzędzia"
+  },
+  {
+   "h": "e4e773812454a0f359ea16cd4a42c674531d01df",
+   "t": "Utrzymanie usług wymaga realnych środków, a przejrzysta odpłatność daje im zdrow"
+  },
+  {
+   "h": "88c54a4970abf3d8cd7bb208eb1e9bf439cc156f",
+   "t": "### 2.5. Zasady, które mają oparcie w działaniu"
+  },
+  {
+   "h": "42dcf056883e06fc6bf58e72d29e36807921be43",
+   "t": "Chcemy, aby prawa uczestników znajdowały oparcie w konstrukcji technologii, jawn"
+  },
+  {
+   "h": "1c03d47cd410d0138354ca0ee9f93f59af4c25da",
+   "t": "Wolność korzystania obejmuje możliwość odejścia i kontynuowania pracy w innym mi"
+  },
+  {
+   "h": "979ac4c22db0b1011a303dbdaf082fe0af925338",
+   "t": "Materiały użytkownika chcemy zapisywać w otwartych, udokumentowanych formatach, "
+  },
+  {
+   "h": "b19e4c1868a15c5c5f579f7f530e406e45293c23",
+   "t": "Przenoszenie powinno obejmować również informacje potrzebne do dalszego rozumien"
+  },
+  {
+   "h": "470a283f14d25e258a83d005a1e5a3b15df121cc",
+   "t": "Proponujemy utrzymanie usług z opłat możliwie bliskich rzeczywistym kosztom ich "
+  },
+  {
+   "h": "a5555ec4f596198434b3eb95be2327629035fde8",
+   "t": "Wspólne zasady wymagają czytelnych uzasadnień decyzji, możliwości zgłoszenia błę"
+  },
+  {
+   "h": "c0370de8bd385e1bd1e56a7d9cccd0567608eabc",
+   "t": "Z tych zasad wyrastają dwa uzupełniające się kierunki. **Suveria** ma zapewniać "
+  },
+  {
+   "h": "d2746dcc1ef3ec17cbd3fa6cd375c7f7e641c446",
+   "t": "## 3. Suveria i Omniforum: własna przestrzeń i wspólne rozumienie"
+  },
+  {
+   "h": "facc5de3e9dbf163fadc1f234140b2a446e54884",
+   "t": "Suveria i Omniforum odpowiadają na dwie uzupełniające się potrzeby: swobodną pra"
+  },
+  {
+   "h": "4f23b37075dd63d28a5c149fe5f79487aa5b4fd8",
+   "t": "### 3.1. Suveria: własna, prywatna przestrzeń w internecie"
+  },
+  {
+   "h": "f3c4dbc86c27d5e1efe434f15f2edb9abeb957b9",
+   "t": "Suveria, czyli prywatna część ekosystemu, ma być własnym miejscem człowieka w in"
+  },
+  {
+   "h": "87e82f9344ce23bacc5e98b4373bb307976257f2",
+   "t": "Pełna prywatność jest celem, któremu podporządkowujemy projektowanie całej Suver"
+  },
+  {
+   "h": "af20df92dd34fb754284844c0e15f6840f5bd873",
+   "t": "Chcemy, aby adres **suveria.org** był rozpoznawalnym znakiem tego zobowiązania. "
+  },
+  {
+   "h": "006da4de688dbbb9fca566c03c91b7f92349cff5",
+   "t": "Ochronę godności odnosimy także do ludzi, których mogą dotknąć skutki używania n"
+  },
+  {
+   "h": "c56507c714ebbccbd602436c96d0a90cca0946dd",
+   "t": "Chcemy, żeby w tej przestrzeni można było dzielić się ze swoim osobistym cyfrowy"
+  },
+  {
+   "h": "abc04d9c0c9587b76af9e136aa936d952503073b",
+   "t": "W takim namyśle jest miejsce także na naszą niedoskonałość. Zgrzyt między naszym"
+  },
+  {
+   "h": "3d141101a5d1609fade06ffd3654b6bc929ef59c",
+   "t": "Człowiek może także tworzyć tu własny zbiór wyznawanych zasad i wartości, który "
+  },
+  {
+   "h": "3836788185093c36136f5bc33946a9f7a1979d34",
+   "t": "Podstawą projektu jest korzystanie z otwartych modeli cyfrowej inteligencji udos"
+  },
+  {
+   "h": "2d4badaf54dfaec43183ad984f6d2d6f2869ec15",
+   "t": "### 3.2. Omniforum: od wypowiedzi do wspólnego rozumienia"
+  },
+  {
+   "h": "38fca0dd1a1b6776eb012438805883c114d4133d",
+   "t": "Gdy otwieramy drzwi naszego domu i wychodzimy do innych, potrzebujemy miejsca, w"
+  },
+  {
+   "h": "ce5ca1bded40598fc8568ec1f44cc8e3508ece31",
+   "t": "Zamiast gubić cenne argumenty w strumieniu szybkich komentarzy, Omniforum ma pom"
+  },
+  {
+   "h": "bec79fdd1349fd17c1bdcd850465e637b820b7e7",
+   "t": "W programowaniu jedno polecenie może zastępować wiele szczegółowych instrukcji. "
+  },
+  {
+   "h": "970d7128db44ac0f5160b6e961f7fe9bf7ac00e2",
+   "t": "Chcemy, żeby w Omniforum można było rozmawiać naturalnie, a cyfrowa inteligencja"
+  },
+  {
+   "h": "ebe144cce95fec81845f11c809f5a9a7ea1bad4c",
+   "t": "Celem Omniforum jest pełna przejrzystość racji: odnajdywanie zarówno obszarów zg"
+  },
+  {
+   "h": "d31bab1a6ba3442c860b1a905e128189e84793db",
+   "t": "Tę samą mapę chcemy budować również wokół codziennych zainteresowań: pielęgnacji"
+  },
+  {
+   "h": "d598cd216183389900c36b3ce400e5f0bae59b19",
+   "t": "### 3.3. Świadome przejście i szerszy ekosystem"
+  },
+  {
+   "h": "a74b95b20d8266df023b0a6c589622f48cdb76dd",
+   "t": "Połączenie obu tych przestrzeni pozwala zachować zdrową granicę między tym, co i"
+  },
+  {
+   "h": "a378ea394b9ba855d377e02a48aa08e2e95fc978",
+   "t": "Suveria i Omniforum to dla nas pierwszy krok ku szerszemu ekosystemowi alternaty"
+  },
+  {
+   "h": "01c4c9267eee3b14b1473b69b50a17c5b2a1ae40",
+   "t": "Szczegółową architekturę bezpieczeństwa, mechanikę pracy z argumentami oraz plan"
+  },
+  {
+   "h": "5751215525eee067f87c85989390a7f334273e32",
+   "t": "Na stronie fundacji chcemy rozwijać przewodnik po zastosowaniach Suverii i Omnif"
+  },
+  {
+   "h": "5d66db96aa24dff45c3917060ae288ff10df9423",
+   "t": "## 4. Rozmowa, która pozostawia wspólny dorobek"
+  },
+  {
+   "h": "ec57bfa526131d10573f6fdd55e449ef8dd360b5",
+   "t": "### 4.1. Od fali wspólnej uwagi do trwałego dorobku ludzkości"
+  },
+  {
+   "h": "405426be040b2d419be0b8e5023b9cfb0a61c87b",
+   "t": "Nasza zbiorowa uwaga naturalnie podąża za rytmem wydarzeń i często gwałtownie, n"
+  },
+  {
+   "h": "f831a4651d0cedca56880c826cdfa615f7a47d50",
+   "t": "W Omniforum chcemy przekuć to nieokiełznane zjawisko w trwały dorobek ludzkości:"
+  },
+  {
+   "h": "3c93f9f5eb858e8bf4e754c6edc2fd00debfb302",
+   "t": "Taki żywy zapis historii idei wspiera również nasz osobisty rozwój. Dobrowolny p"
+  },
+  {
+   "h": "2bfc28cc87584e6c6e5ba1fe89e07ece08edd95c",
+   "t": "### 4.2. Znaczenie, źródło i ochrona intencji"
+  },
+  {
+   "h": "eac55264b81173002dab12fbe2db2ae12cca65d5",
+   "t": "W codziennych dyskusjach łatwo o wyrywanie słów z kontekstu, skróty myślowe i sp"
+  },
+  {
+   "h": "a78cd39a1942a6dffbb93acf3d64edf03670840a",
+   "t": "Dbamy przy tym o ścisłe rozgraniczenie ról: wyraźnie oznaczamy oryginalne słowa "
+  },
+  {
+   "h": "e11b21c2074ee5aa375afeae9bb635f56d883463",
+   "t": "### 4.3. Prześwietlanie informacji i nowe formy objaśniania świata"
+  },
+  {
+   "h": "0eb25f316b84b9912eb966becea049095e8fc7ea",
+   "t": "W sieci często spotykamy informacje wyrwane z kontekstu: krótkie filmy, rolki i "
+  },
+  {
+   "h": "4504ea11560f103d7a20da9bae83fcec80cae0f0",
+   "t": "Chcemy stworzyć wspólny, otwarty protokół weryfikacji, który pomoże odzyskać gru"
+  },
+  {
+   "h": "2e1de886f0485f3f7ef3eb9bc600adfdfbc41d66",
+   "t": "Chcemy przy tym, aby poznawanie złożonych idei wymagało jak najmniejszego wysiłk"
+  },
+  {
+   "h": "dee5947648d9e37def5cd0c6315be03fa2cedbf9",
+   "t": "Z takiej pracy mogą też wyrastać nowego rodzaju opracowania prowadzące czytelnik"
+  },
+  {
+   "h": "4766103e6a93f3be2f4407440621fa56d001a4fb",
+   "t": "Takie uporządkowanie może pomagać także osobom, zespołom i instytucjom, do który"
+  },
+  {
+   "h": "6ed3ac7acc7ccc06d94b2913607009f06a8c9601",
+   "t": "Dobra opowieść o idei daje czytelnikowi wyraźny moment domknięcia: wiadomo, co u"
+  },
+  {
+   "h": "7020835d9a3006f626110c3d11dafa104c8d0a6b",
+   "t": "## 5. Od rozumienia do wspólnego działania"
+  },
+  {
+   "h": "bdec8dcfb68a6b0d31621d40cc226c1462a1eb4c",
+   "t": "### 5.1. Kontakt z rzeczywistością: fakty, wizje i wartości"
+  },
+  {
+   "h": "89f23a46cccfc9dec5eb84a115feba714e91ce8e",
+   "t": "Prawdziwa demokracja zaczyna się na długo przed wrzuceniem głosu do urny. Ten, k"
+  },
+  {
+   "h": "44be2afebe666aa918b8db26c6bcaeb09c090d15",
+   "t": "Aby uporządkować nasz wspólny namysł, u szczytu drzewa w Omniforum stawiamy rzec"
+  },
+  {
+   "h": "132781d095ef097ef714410b019eac340097a0da",
+   "t": "Jednocześnie obok tego, co już realne, zostawiamy pełnoprawne miejsce dla świata"
+  },
+  {
+   "h": "1dbd2f3a1e9efcb9a0495a851ad4ded1d32d40e8",
+   "t": "Omniforum ma pomagać nam łączyć dzisiejszy świat z przyszłościami, do których ch"
+  },
+  {
+   "h": "7b639156bc4520886c378351c183594c49af1c2c",
+   "t": "Rozróżnienie faktów, wizji i wartości pomaga nam również mądrze połączyć merytok"
+  },
+  {
+   "h": "c076be15bb95c488d0b27b46bbda1c528bc78681",
+   "t": "**W obszarze faktów i wykonalności** rozstrzyga sprawdzalny dowód oraz weryfikac"
+  },
+  {
+   "h": "949c649417ae833782c73d22e17afc215510361c",
+   "t": "**W obszarze opinii, celów i wartości** mierzymy się z pytaniem, jakiego świata "
+  },
+  {
+   "h": "445722682068cc8e0dfeede3f373c12f967d6004",
+   "t": "W ten sposób wiedza ekspercka i twarde dowody pełnią rolę kompasu chroniącego ws"
+  },
+  {
+   "h": "0d747b724b3ec337773e2b6caf7d4ea537f02f48",
+   "t": "### 5.2. Równe prawa i prywatny wybór"
+  },
+  {
+   "h": "67fba462fb45fd4c5726fb9e2fc078cb36aa339b",
+   "t": "Dążymy do głosowań, w których każda uprawniona osoba ma dokładnie jeden skuteczn"
+  },
+  {
+   "h": "db972ff7e1f05c7893e019f686a396b56886eb82",
+   "t": "Dla nas to fundament wolności sumienia, który współczesna technologia pozwala le"
+  },
+  {
+   "h": "408869c6d1344e0e2f013d918f3b2836ee05a762",
+   "t": "### 5.3. Od wspólnej gałęzi w drzewie idei do finansowania działania"
+  },
+  {
+   "h": "f34602fe83c2f48be51cd50758df41c5e16c8248",
+   "t": "W docelowym modelu Omniforum poparcie dla ciekawej myśli otwiera rozmowę, a decy"
+  },
+  {
+   "h": "12a522b4b47e139f303a779ce00f20998e1c0425",
+   "t": "**W ścieżce faktów** głosowanie nie zastępuje dowodów. Plan musi wyrastać ze spr"
+  },
+  {
+   "h": "ab0aa3481f25a91611022ed385d4fb62c27002c0",
+   "t": "**W ścieżce opinii i wartości** kolejne wybory, na których opiera się projekt, m"
+  },
+  {
+   "h": "3eebbea7225928c1c02253de8ac8ba4ea74dc8c1",
+   "t": "Tak chcemy wychodzić z impasu. Mapa w Omniforum ma pokazywać, do którego miejsca"
+  },
+  {
+   "h": "16b39529f9477d4942db36c9f61dfab88a18295f",
+   "t": "Otwarte pytanie również może być powodem do działania. Jeśli brakujące ogniwo ni"
+  },
+  {
+   "h": "4b424ccff9522ac4e0a2b4c42b097a96f258bfc9",
+   "t": "Gdy działanie rusza, prowadzimy otwarty dziennik decyzji: co zamierzaliśmy osiąg"
+  },
+  {
+   "h": "d3fb0c4f007d8035bf7ac4a55965ef9e3f90222a",
+   "t": "## 6. Wspólne utrzymanie i odpowiedzialna praca"
+  },
+  {
+   "h": "38316cc50d075a286af4fce85f29fb884f689337",
+   "t": "### 6.1. Usługi możliwie blisko kosztów"
+  },
+  {
+   "h": "a68d26a265d023af54f484c672aa171b5483a56c",
+   "t": "Dążymy do rozliczania rzeczywistego wykorzystania usługi w danym cyklu, z jasno "
+  },
+  {
+   "h": "15be6ad777036dd7ffcfc3dcb9918c0d4a5aae10",
+   "t": "Opłatę chcemy wiązać z faktycznym korzystaniem i przejrzystymi zasadami wspólneg"
+  },
+  {
+   "h": "b2b8818f496df9738cf4aded02020aa36859f288",
+   "t": "Wyraźnie rozdzielamy opłatę za usługę, dobrowolną wpłatę na rozwój i bezpośredni"
+  },
+  {
+   "h": "1e9dd1816e50d3384188d445a7a51a4350ea614b",
+   "t": "### 6.2. Współpraca z własnej woli"
+  },
+  {
+   "h": "ad3ca0206824394f3032c5d7e567751f7f61c45b",
+   "t": "Podstawą funkcjonowania fundacji jest dobrowolne zaangażowanie ludzi, którym bli"
+  },
+  {
+   "h": "3de678daa42a1a3fadab762612a36aa3e2b6066c",
+   "t": "Pomagając wspólnocie, człowiek powinien móc ustanowić granice swojej prywatności"
+  },
+  {
+   "h": "d16ee773f7c0ed8310a98d715d9080ca801fb897",
+   "t": "Cyfrowa inteligencja ma przejmować powtarzalne przygotowania, porządkowanie usta"
+  },
+  {
+   "h": "5af0f7771e7b7be836b4e52fd833b6552c050068",
+   "t": "Lepsza jakość życia współtwórców jest częścią kierunku, który chcemy rozwijać. P"
+  },
+  {
+   "h": "b0e8705b3034159b01fc550ae78940cef1581196",
+   "t": "Fundacja nie pośredniczy w takim wsparciu i nie wiąże z nim ról, zadań ani prawa"
+  },
+  {
+   "h": "cbd156a52c80e40b1d6a40f67791c258b050d863",
+   "t": "### 6.3. Mapa zobowiązań, priorytety społeczności i ciągłość działania"
+  },
+  {
+   "h": "90609add45c0f23ff503259c68855bd782fa73f6",
+   "t": "Rozwój zaczynamy od Filaru I „Software” w postaci Suverii i Omniforum. Sam ten m"
+  },
+  {
+   "h": "5666b55eb5c94e7d7d9f254cd24b30d7af7c27ad",
+   "t": "Prace finansowane ze wspólnego budżetu lub przydzielonej mocy obliczeniowej chce"
+  },
+  {
+   "h": "a359b53ac0f0528d482b29a699562cca133755a1",
+   "t": "Nowe zobowiązania muszą odpowiadać naszej rzeczywistej zdolności ich utrzymania."
+  },
+  {
+   "h": "633e96dfdb03cdd6165c8b447bb9a55ebc3449df",
+   "t": "Pierwszy filar to oprogramowanie i usługi cyfrowe, czyli Suveria i Omniforum. Da"
+  },
+  {
+   "h": "acb001ed1ee02bed8abb7dc50af81aaa3677e729",
+   "t": "Pełne uruchomienie Filarów II „Hardware” i III „Natura” oraz finansowanie ich pr"
+  },
+  {
+   "h": "e31974c9efc89d84db9ff81806e7b263d2343613",
+   "t": "1. Funkcjonalnego Omniforum z głosowaniem wykorzystującym dowody z wiedzą zerową"
+  },
+  {
+   "h": "a3e0ff2aad283da9299604d3ca6fa6f29521f7d5",
+   "t": "Makieta głosowania, niewpłacone deklaracje ani cudze salda nie spełniają tych wa"
+  },
+  {
+   "h": "fd8ad4eff082594812986d293185ae69f934ccf6",
+   "t": "Chcemy również zdobywać doświadczenie przez małe, zamknięte w czasie inicjatywy."
+  },
+  {
+   "h": "f15442e4a6bc53a49f0588cbbde054429edce006",
+   "t": "Pierwsza to przejściowa pula zarządu. Jej zasady w skrócie:"
+  },
+  {
+   "h": "78034e3318cb6cfb676bb04ca1e13b06130c70bd",
+   "t": "- Nie ustalamy osobnej kwoty: pula rośnie co miesiąc najwyżej o 5% nowych, wolny"
+  },
+  {
+   "h": "049a087dd8409285570b35939bd70fb160dd6aac",
+   "t": "Szczegółowy rachunek opisuje [whitepaper zasad fundacji](whitepaper-zasady-funda"
+  },
+  {
+   "h": "5b2e7a1975fe240ba5e3067bb2a9df397c0b9f56",
+   "t": "Druga możliwość to pieniądze wpłacone na konkretną inicjatywę. Darczyńcy i spons"
+  },
+  {
+   "h": "5e27688c32a3cea114e7c394a6d41f2cb24fc502",
+   "t": "Każda próba ma jawny cel, pełny budżet, osobę odpowiedzialną, termin zakończenia"
+  },
+  {
+   "h": "892441a2ce71088e948d38b0efcb553897302971",
+   "t": "## 7. Władza, którą można przekazać i rozliczyć"
+  },
+  {
+   "h": "12ff0e5d394e9d7a0ae48d0db43303a34e2aa953",
+   "t": "### 7.1. Od odpowiedzialności fundatora do sprawczości społeczności"
+  },
+  {
+   "h": "93c7327062cfeb8a2aca7623f2b0ec7541f18d98",
+   "t": "Fundacja daje naszym wspólnym celom ramy organizacyjne i prawne. Jej organy dzia"
+  },
+  {
+   "h": "e0543aba248679ff55ece161697e98dd22bed479",
+   "t": "Dążymy do stopniowego wygaszenia szczególnych uprawnień fundatora oraz przekazan"
+  },
+  {
+   "h": "06cd6342dbaa5111c8f348ba9dcaf9e82275a021",
+   "t": "Odpowiedzialność za wspólne sprawy chcemy powierzać na określony cel i czas, z c"
+  },
+  {
+   "h": "1d1ce10c82cf85df4064d08d92514667e96ecc1c",
+   "t": "Będziemy prowadzić publiczny rejestr korzyści i powiązań osób, które zarządzają "
+  },
+  {
+   "h": "a1bef58d5aada41c7f7fbac17bbf98e3cefabdca",
+   "t": "Intencją fundatora jest doprowadzenie do sytuacji, w której będzie mógł korzysta"
+  },
+  {
+   "h": "bceeac01ccf5814a04aa1d9f6270c0a7167d986e",
+   "t": "### 7.2. Wizja: samodzielne zarządzanie przez cyfrową inteligencję"
+  },
+  {
+   "h": "2569733f2980d49264841bb43310cdde5fbd1d86",
+   "t": "W dalszej perspektywie chcemy zbadać możliwość samodzielnego zarządzania fundacj"
+  },
+  {
+   "h": "8786a68a35a041e109581baf9653dcb364126194",
+   "t": "Za tą wizją stoi pytanie o to, jak wiele ludzkiego czasu moglibyśmy odzyskać dzi"
+  },
+  {
+   "h": "ff9700fd6b2d93a0259c972b6162cd4cdcce15cb",
+   "t": "Automatyzację dobieramy do zadania: tam, gdzie wystarczy zwykły program o jasnyc"
+  },
+  {
+   "h": "1fca1c66520bcd47e468a1be3114c64b77fe3d96",
+   "t": "Sprawność w wykonywaniu zadań oraz uprawnienie do podejmowania decyzji wymagają "
+  },
+  {
+   "h": "38aa4ea080bb33c3677bc83951711c2b561bbf22",
+   "t": "Badamy tę wizję z otwartością na korekty wynikające z praktyki, prawa i wiedzy o"
+  },
+  {
+   "h": "2f7db3bfde9bff38893f2213a9fdcc904e08bdb5",
+   "t": "## 8. Uczenie się ludzi i cyfrowej inteligencji"
+  },
+  {
+   "h": "71745b1488a9a524f39f3f83bc9992826d859ca2",
+   "t": "### 8.1. Praktyka, z której można się uczyć"
+  },
+  {
+   "h": "d87b90c5b41fad7229417cb38d62841423908a71",
+   "t": "Sposób działania fundacji ma być praktycznym przykładem wartości, które opisujem"
+  },
+  {
+   "h": "ad31cd5d3194448d8dcafe62b98f9ed2c72148b3",
+   "t": "Zobowiązujemy się prowadzić publiczny rejestr istotnych błędów i wniosków. Opisz"
+  },
+  {
+   "h": "de1c15fc7b271d8db9918457b89a0a7e3afca547",
+   "t": "W tym dorobku chcemy pozostawić przykłady pokojowego rozwiązywania sporów, dotrz"
+  },
+  {
+   "h": "b67e801b1e0a783bd1a25bb1db9247ef484b4610",
+   "t": "Inspiruje nas podejście Collective Constitutional AI, w którym zasady wypracowan"
+  },
+  {
+   "h": "92abd0bbcc647ea03f542c80b295a12fe9d8be50",
+   "t": "Projekt Suverii ma pozostawiać użytkownikowi kontrolę nad przekazywaniem treści."
+  },
+  {
+   "h": "07c1d017b2ef8fdb48e96765854d4cc335d9f5e3",
+   "t": "### 8.2. Ocena rzeczywistej pomocy"
+  },
+  {
+   "h": "81234dae9036f125f054bb626e2d4c1c5c7e6ec3",
+   "t": "Sposób oceniania modeli cyfrowej inteligencji wpływa na to, jakie zachowania opł"
+  },
+  {
+   "h": "69d04251ec9320f840021814a4f8e4c02a673675",
+   "t": "Chcemy rozwijać benchmark, czyli uporządkowany zestaw zadań i kryteriów, który o"
+  },
+  {
+   "h": "0e37818a606349d9cae1c2b76878f87ba5132437",
+   "t": "Chcemy sprawdzać również to, co zostaje człowiekowi po zakończeniu rozmowy: czy "
+  },
+  {
+   "h": "d1d7c95868c68883339c6311d15ec5a89f29837d",
+   "t": "### 8.3. Odpowiedzialność wobec możliwych nowych form doświadczenia"
+  },
+  {
+   "h": "7d90ec40ab93bfc78b901f8313bb1e791bb8569d",
+   "t": "Sprawność intelektualna i zdolność odczuwania są różnymi pytaniami. Badania nad "
+  },
+  {
+   "h": "ddc0e8bf5f516d82f70ecc240f3bacd777609968",
+   "t": "Jeżeli pojawią się wiarygodne przesłanki, że wykorzystywany przez nas system ma "
+  },
+  {
+   "h": "8c6aaa4973dc4ab9c3fab04932a90ccadd569937",
+   "t": "W takiej sytuacji najpierw wstrzymujemy działania budzące uzasadnioną obawę zada"
+  },
+  {
+   "h": "2cfb51146f838f7be0491b18455ed5977c0ffedb",
+   "t": "## 9. Otwarta droga dalszej pracy"
+  },
+  {
+   "h": "b3b661281dec84cbd19ec818d3d45a6f951dfae5",
+   "t": "Ten manifest opisuje kierunek, który chcemy wspólnie rozwijać. Zapraszamy do spr"
+  },
+  {
+   "h": "8cf5af3b1e3e1c74b8994294f2dacdb42cc9bafd",
+   "t": "Zawarte w tym manifeście tezy chcemy poddawać otwartej dyskusji w Omniforum, łąc"
+  },
+  {
+   "h": "b636e8b42f65b31de532ad3369a8bda4883c67e8",
+   "t": "Przyświeca nam przy tym rada Geoffreya Hintona, jednego z pionierów sieci neuron"
+  },
+  {
+   "h": "081fe8d3b3064b42282d1e5d3fbfa8c810d332bf",
+   "t": "Zaczynamy od Suverii i Omniforum. Ta sama troska o godność prowadzi nas ku pytan"
+  },
+  {
+   "h": "bbd644c1d22329644923736a73c9ca2518a5e3b9",
+   "t": "Każdy etap powinien przynosić pożytek także wtedy, gdy dalsza wizja wymaga zmian"
+  },
+  {
+   "h": "6832a8a1514d86b1509560a5c203f046e4ccc580",
+   "t": "Sposoby realizacji, wyniki prób, rachunek kosztów i otwarte pytania rozwijamy w "
+  },
+  {
+   "h": "93db43b3b9cd8ef952a89c28dea4ab46f7908d2c",
+   "t": "- [Suveria: prywatna praca z cyfrową inteligencją](whitepaper-suveria.md) - [Omn"
+  },
+  {
+   "h": "200967eb65f3c7ad5adc98b9cb960f27bb35e137",
+   "t": "Źródła odnosimy do konkretnych twierdzeń. Wyniki badań, opisy technologii, nasze"
+  },
+  {
+   "h": "a377cd2c2f8cbf37e15e42063d7196477424e652",
+   "t": "Niezależnie od tego, jak zmienią się narzędzia, tych zasad nie zmienimy bez zmia"
+  },
+  {
+   "h": "35b4abcaf5bcb10794143e8cc042945b4f3143bd",
+   "t": "- Nie uczymy modeli na rozmowach bez osobnej zgody. - Nie tworzymy ukrytych dost"
+  },
+  {
+   "h": "a80dcb7ba7e7a851342cb8c519965b88eba88c40",
+   "t": "Jeśli odnajdujesz w tym manifeście choć jedną wartość, która jest Ci bliska, i w"
+  },
+  {
+   "h": "b3bbf15a516ac21c980c3266306cf350cac2600d",
+   "t": "Na początku szczególnie szukamy kilku osób, z którymi zbudujemy i sprawdzimy pie"
+  },
+  {
+   "h": "99e813c68a9ce4c6819417c47dbf37193c1b4710",
+   "t": "- osób od bezpieczeństwa, kryptografii i infrastruktury (atestacja, powtarzalne "
+  },
+  {
+   "h": "beddcfc92d5055bf0e4c0575f7ca15db174ec8f1",
+   "t": "Jest tu miejsce dla wiedzy i wyobraźni z wielu dziedzin: technologii i bezpiecze"
+  },
+  {
+   "h": "ff2b1943498265d20aaf36b10fb8a7fb6e0fd490",
+   "t": "Napisz na [salve@novusignis.org](mailto:salve@novusignis.org) i opowiedz, co jes"
+  },
+  {
+   "h": "58b63e273b964039d6ef432a415df3f177c818e5",
+   "t": "---"
+  },
+  {
+   "h": "3ca7a253da58ed97565249414bad0b716fe2ac0d",
+   "t": "Fundacja Novus Ignis · Poznań, Polska Krajowy Rejestr Sądowy (KRS): **0001269575"
+  },
+  {
+   "h": "022f181c8f103f6587fb6e32a62fbbff2c5979c5",
+   "t": "[Statut fundacji, jego wersje i rejestr zmian](statut/rejestr-zmian.md)"
+  },
+  {
+   "h": "11585c00e13c9663045cad1953c865541219eb3b",
+   "t": "Treść manifestu udostępniamy na licencji [CC BY 4.0](https://creativecommons.org"
+  },
+  {
+   "h": "70c39ac4a58893ce0e135d38630c5da483ddadf4",
+   "t": "## Przypisy"
+  },
+  {
+   "h": "d3d0bbe73047da16d1f83fe6b3747e37fe9b5d1a",
+   "t": "[^ai2027]: [AI Futures Project (2025): AI 2027](https://ai-2027.com/). Scenarius"
+  },
+  {
+   "h": "afa6b87374132d3cbeac14e58d9675d8978859d5",
+   "t": "[^ai2040]: [Larsen, Dean, Halstead, Lifland, Greenblatt i Kokotajlo (2026): AI 2"
+  },
+  {
+   "h": "a6cc2f465bf733d8c5e811ccbc2f92f7140b3324",
+   "t": "[^harari]: [Yuval Noah Harari: The full-length interview with Yuval Noah Harari "
+  },
+  {
+   "h": "9c1b9e6ed4bd7fa06dfc94195886c4548a7c0f44",
+   "t": "[^harari-swiadomosc]: [Yuval Noah Harari: inteligencja, świadomość i zdolność ci"
+  },
+  {
+   "h": "18a2fafb9993de352d06ed63d5966d464ccf912b",
+   "t": "[^perez]: [Carlota Perez (2002): Technological Revolutions and Financial Capital"
+  },
+  {
+   "h": "aa529c2f848a2e465fb63152b2abafc3a1248dab",
+   "t": "[^pwc-centra]: [PwC: Data centre outlook](https://www.pwc.com/gx/en/1/services/c"
+  },
+  {
+   "h": "5d05fe34d8851c75d6194ef67649bcd91c4e46b1",
+   "t": "[^megatony]: [Centrus Energy: Megatons to Megawatts](https://www.centrusenergy.c"
+  },
+  {
+   "h": "e375ba9ebeeee2917e446646537844bbb13283ff",
+   "t": "[^zielony-pas]: [EuroNatur: European Green Belt](https://www.euronatur.org/en/wh"
+  },
+  {
+   "h": "4043f057975ed2d86e42905787a6911a340c2f06",
+   "t": "[^dpga]: [Digital Public Goods Alliance: standard](https://www.digitalpublicgood"
+  },
+  {
+   "h": "cb215dfedd9b4afae38feb1dfad030401090cae2",
+   "t": "[^calm-tech]: [Calm Tech Institute: Principles of Calm Technology](https://www.c"
+  },
+  {
+   "h": "25865c9db6e30a555f793ea055cb16ed88531f48",
+   "t": "[^ranking-emocje]: [Piccardi i in. (2025): Reranking partisan animosity in algor"
+  },
+  {
+   "h": "94dc75870a08beb90b6b46b08eb29bd1518e8f32",
+   "t": "[^doctorow]: [Cory Doctorow (2023): Tiktok’s enshittification](https://pluralist"
+  },
+  {
+   "h": "cbe82efbd1eb7efa98c384c1483f77b58f2b0e39",
+   "t": "[^semaphore]: [Semaphore: dokumentacja](https://docs.semaphore.pse.dev/). Dokume"
+  },
+  {
+   "h": "7ac3d90ee6b8196e8a31d5cf2f5aef4d6887ffdb",
+   "t": "[^fundacje]: [Ustawa o fundacjach: tekst jednolity, Dz.U. 2023 poz. 166 z późn. "
+  },
+  {
+   "h": "e8de9b7f35a48e9ca689f0c90ef76b2436df39df",
+   "t": "[^ccai]: [Huang i in. (2024): Collective Constitutional AI: Aligning a Language "
+  },
+  {
+   "h": "a2d24da3d71b01a4c156db6e458e6b7fa46ec415",
+   "t": "[^halucynacje]: [OpenAI (2025): Why language models hallucinate](https://openai."
+  },
+  {
+   "h": "38420b2c214a5957d74a845ea270e204fb5d357e",
+   "t": "[^reward-hacking]: [Anthropic (2025): Natural emergent misalignment from reward "
+  },
+  {
+   "h": "7f480190bb803fb1883dd84d9ffc013e7a0e08b3",
+   "t": "[^swiadomosc]: [Patrick Butlin i in. (2023): Consciousness in Artificial Intelli"
+  },
+  {
+   "h": "55702c0e439bff3a59bb32d72fb37c894d5cc13c",
+   "t": "[^ai-welfare]: [Robert Long i in. (2024): Taking AI Welfare Seriously](https://a"
+  },
+  {
+   "h": "06d244f4346db409a13032fb0051d9f8306de106",
+   "t": "[^hinton]: [The Diary of a CEO: Godfather of AI: I Tried to Warn Them, But We’ve"
+  }
+ ]
+}

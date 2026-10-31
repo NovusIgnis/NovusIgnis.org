@@ -1,0 +1,157 @@
+{
+ "source": "content/pl/page/omniforum-rozmowa.md",
+ "paragraphs": [
+  {
+   "h": "cf9d2253b2b493f26eece9d18df5f79af969c729",
+   "t": "# Jak działa rozmowa w Omniforum"
+  },
+  {
+   "h": "a1e505f4f93341c34466dc03e9cca171e08b3f4a",
+   "t": "Ta strona jest dla osób, które przeczytały już stronę [Czym jest Omniforum](omni"
+  },
+  {
+   "h": "d9f7267ca23447716339a804a09d6cf221e9b6b8",
+   "t": "Dziś nie możesz jeszcze z tego korzystać: opisujemy plan i zbieramy uwagi."
+  },
+  {
+   "h": "1eb8f84d6d0ceb67012a718f60a8f9ddb32696b6",
+   "t": "Prototyp Omniforum jest w budowie. Wszystko, co opisujemy niżej, jest projektem,"
+  },
+  {
+   "h": "4a99c2d5d539c0c004e54f79c59969ad4852db61",
+   "t": "Więcej: [whitepaper Omniforum, rozdział 1](../whitepaper-omniforum.md#s1)."
+  },
+  {
+   "h": "18bfb3a09f7ad30e83a10e6774cc2445a0d43daf",
+   "t": "## Jedno zdanie, wiele myśli"
+  },
+  {
+   "h": "b8e1c335cdef156cb352133f1713273d4b501b53",
+   "t": "Jednym zdaniem przekazujemy wiele założeń, wartości i oczekiwań, a w sporze każd"
+  },
+  {
+   "h": "e49c381271317191f27d3bde14ecf6c80b41f8f5",
+   "t": "Weźmy zdanie „Warto posadzić drzewa na naszej ulicy, jeśli wybierzemy gatunki od"
+  },
+  {
+   "h": "5e64ea476771317afb2a111b72b14c87e149c5c7",
+   "t": "Tego zdania nie wolno skrócić do bezwarunkowego „warto posadzić drzewa na naszej"
+  },
+  {
+   "h": "c6782a121d698b5446c052b9ec93583cc68bb835",
+   "t": "Więcej: [whitepaper Omniforum, rozdział 2](../whitepaper-omniforum.md#s2), [rozd"
+  },
+  {
+   "h": "cf811348f6fffb5dd82e21f8297152e069a9bcc9",
+   "t": "## Krok po kroku"
+  },
+  {
+   "h": "1f5ac640957450daa3f0f93db7d7344e54932ee7",
+   "t": "Tak ma wyglądać droga myśli, która powstaje w Omniforum:"
+  },
+  {
+   "h": "bedc850cd117cfd6d1125f7d942f0ab5735778d9",
+   "t": "1. **Piszesz.** Zaczynasz od zwykłego tekstu albo fragmentu i określasz cel: zro"
+  },
+  {
+   "h": "011b9dd72f7dc262db43b1ac44c71039033c24c9",
+   "t": "Rozważamy też drugą, dobrowolną ceremonię: chwilę, w której nazywamy granicę teg"
+  },
+  {
+   "h": "7be3ac3d33d317e9f28cfce02d38dd58d767dbff",
+   "t": "Więcej: [whitepaper Omniforum, rozdział 3](../whitepaper-omniforum.md#s3)."
+  },
+  {
+   "h": "d34b076c0bb10a87e056d2dc327c630f4a3e0ea2",
+   "t": "## Co potwierdzasz, a czego nie"
+  },
+  {
+   "h": "2926be6400af1dbd5685fec1cfa05f7b140862d1",
+   "t": "Potwierdzenie mówi tylko tyle, że rozpoznajesz w rozkładzie swoją myśl. Nie dowo"
+  },
+  {
+   "h": "0edcc4576cbaef4cd82c2ba1be59f40ed105ec64",
+   "t": "Czytelnicy mogą rozłożyć Twoją wypowiedź po swojemu, nie czekając na Ciebie; tak"
+  },
+  {
+   "h": "dc8b2efdde65ad3e4a78ae0eb9c4bd3007ff916d",
+   "t": "Rozmowa ma zostawiać miejsce na zmianę zdania bez upokorzenia: można przyznać si"
+  },
+  {
+   "h": "615f270be6c2863e2846aa7ea1ac2a82238f584e",
+   "t": "Więcej: [whitepaper Omniforum, rozdział 2](../whitepaper-omniforum.md#s2) i [roz"
+  },
+  {
+   "h": "05c837491d663f13a7ac0b32a7338384e2c8a5df",
+   "t": "## Model pomaga, ale nie rządzi"
+  },
+  {
+   "h": "b35b56db1bd8915117ba7d924a02ed14084e4b37",
+   "t": "Model (program cyfrowej inteligencji, który proponuje rozkład) ma własne nawyki."
+  },
+  {
+   "h": "0ab82b13b201daa921fc568e0fe647239919e8a8",
+   "t": "Przy każdym rozkładzie zapisujemy, kto go przygotował i kiedy, a jeśli pomagał m"
+  },
+  {
+   "h": "2d874468156878d73683eb06f9fbc7f59821ee8b",
+   "t": "Więcej: [whitepaper Omniforum, rozdział 3](../whitepaper-omniforum.md#s3) i [roz"
+  },
+  {
+   "h": "801e5d3255ef8867f6dd38aa69d01cc99232436f",
+   "t": "## Myśl z Suverii"
+  },
+  {
+   "h": "55f2c89a3555bc25149df4a561ebd5932a3552c0",
+   "t": "Myśl może też przyjść z Suverii, prywatnej przestrzeni do pracy z cyfrową inteli"
+  },
+  {
+   "h": "7be3ac3d33d317e9f28cfce02d38dd58d767dbff",
+   "t": "Więcej: [whitepaper Omniforum, rozdział 3](../whitepaper-omniforum.md#s3)."
+  },
+  {
+   "h": "1dd6ef5fa9ef12516f687ade03ba10ecafccbc31",
+   "t": "## Skąd wiadomo, co kto powiedział"
+  },
+  {
+   "h": "6763c29a2fcdb42e731f1a3acff4bfba1803d11c",
+   "t": "Przy każdej myśli i każdym użyciu pojęcia zapisujemy, skąd pochodzą: z jakiego t"
+  },
+  {
+   "h": "bf70a156870db5fdb85b7b97730af827e9eab999",
+   "t": "Atom to znaczenie, a nie słowo. Słowa, którymi go nazywamy, są jego etykietami, "
+  },
+  {
+   "h": "2561387856b9bbe24af10d529ccb7d31eedb7403",
+   "t": "Więcej: [whitepaper Omniforum, rozdział 2](../whitepaper-omniforum.md#s2)."
+  },
+  {
+   "h": "97a2727f831af897b2753beac68a8e46d5899df7",
+   "t": "## Co sprawdzimy w pierwszej próbie"
+  },
+  {
+   "h": "490a9565786ef948ca1070bdd6c5f56d722704f9",
+   "t": "Pierwszy krok prób to jedna pełna droga jednej myśli: ktoś wpisuje własny tekst,"
+  },
+  {
+   "h": "f5504055a9543c361a13ee855cc1722c5b99294f",
+   "t": "Sprawdzamy, czy po drodze nic się nie zgubiło: brzmienie oryginału, jego znaczen"
+  },
+  {
+   "h": "c65a1131e9e60a58502c4e5268b8d93219ac19c7",
+   "t": "Więcej: [whitepaper Omniforum, rozdział 9](../whitepaper-omniforum.md#s9)."
+  },
+  {
+   "h": "dbd729a4bebd65f560d1601db4be5811d62ffdc0",
+   "t": "## Przeczytaj i powiedz, co myślisz"
+  },
+  {
+   "h": "22cd963528d335918b2f7a47116329eebfffabdd",
+   "t": "Pełny opis tej drogi znajdziesz w [whitepaperze Omniforum](../whitepaper-omnifor"
+  },
+  {
+   "h": "f7be398ad8cbbaee6f5382c726f333faec87bca6",
+   "t": "Więcej: [whitepaper Omniforum, punkt 5.5](../whitepaper-omniforum.md#s5-5)."
+  }
+ ]
+}

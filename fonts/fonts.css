@@ -1,0 +1,16 @@
+/* Czcionki ładowane z naszego serwera, bez zapytań do zewnętrznych usług.
+   Inter: tekst. Poppins: nagłówki (zastępuje Outfit).
+   Powrót do Outfit: wgraj plik outfit-variable.woff2 (licencja OFL) do tego
+   folderu i dopisz tu regułę @font-face dla 'Outfit', jak dla Poppins poniżej. */
+
+@font-face { font-family: 'Inter'; font-weight: 300; font-style: normal; font-display: swap; src: url('inter-light.woff') format('woff'); }
+@font-face { font-family: 'Inter'; font-weight: 400; font-style: normal; font-display: swap; src: url('inter-regular.woff') format('woff'); }
+@font-face { font-family: 'Inter'; font-weight: 500; font-style: normal; font-display: swap; src: url('inter-medium.woff') format('woff'); }
+@font-face { font-family: 'Inter'; font-weight: 600; font-style: normal; font-display: swap; src: url('inter-semibold.woff') format('woff'); }
+@font-face { font-family: 'Inter'; font-weight: 700 900; font-style: normal; font-display: swap; src: url('inter-bold.woff') format('woff'); }
+@font-face { font-family: 'Inter'; font-weight: 400; font-style: italic; font-display: swap; src: url('inter-italic.woff') format('woff'); }
+
+@font-face { font-family: 'Poppins'; font-weight: 300; font-display: swap; src: url('poppins-light.woff') format('woff'); }
+@font-face { font-family: 'Poppins'; font-weight: 400; font-display: swap; src: url('poppins-regular.woff') format('woff'); }
+@font-face { font-family: 'Poppins'; font-weight: 500 600; font-display: swap; src: url('poppins-medium.woff') format('woff'); }
+@font-face { font-family: 'Poppins'; font-weight: 700 900; font-display: swap; src: url('poppins-bold.woff') format('woff'); }

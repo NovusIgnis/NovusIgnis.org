@@ -1,0 +1,6 @@
+{
+  "_opis": "Numery rachunków fundacji do strony Wesprzyj fundację. Wklej numery z bankowości (przycisk „Kopiuj numer”), ze spacjami albo bez; generator dopisze PL, ułoży cyfry w grupy po 4 i sprawdzi sumę kontrolną IBAN. Puste pole: strona pokaże, że numer podamy wkrótce.",
+  "pln": "70 1600 1462 1787 8338 3000 0001",
+  "eur": "86 1600 1462 1787 8338 3000 0004",
+  "usd": "59 1600 1462 1787 8338 3000 0005"
+}

@@ -1,0 +1,145 @@
+{
+ "source": "content/pl/page/suveria.md",
+ "paragraphs": [
+  {
+   "h": "51a797dee61a98cb7708f57a03a1b7f36d73d153",
+   "t": "# Czym jest Suveria"
+  },
+  {
+   "h": "a9b969369a60ed7534e10f54714711fefd6abdbe",
+   "t": "Ta strona wyjaśnia w skrócie, czym ma być Suveria, dla kogo powstaje i na jakim "
+  },
+  {
+   "h": "3ef5f63108529c42d15b9c5d0e5a9627732ca85f",
+   "t": "Suveria ma być prywatną przestrzenią w internecie, w której człowiek rozmawia z "
+  },
+  {
+   "h": "f2f532ff383944dda27c40c2b050e004747a66d3",
+   "t": "Suveria jest dziś projektem. Powstaje po to, żeby można było rozmawiać z cyfrową"
+  },
+  {
+   "h": "e8bcfc10ffbef1b694b764aae14e4b5c4ec0d4d6",
+   "t": "Więcej: [whitepaper Suverii, rozdział 1](../whitepaper-suveria.md#s1)."
+  },
+  {
+   "h": "c6a29648ab8f1b4a1276212d6e949a256206d355",
+   "t": "## Co chcemy, żeby było możliwe"
+  },
+  {
+   "h": "3c163f1eefabd5d3740c64a0d735cda0039a3566",
+   "t": "W Suverii chcemy, żeby można było:"
+  },
+  {
+   "h": "804ac946403ed98e609ec023c3ccebd2a8509fa0",
+   "t": "- rozmawiać o sprawach osobistych i zawodowych, widząc, gdzie przetwarzana jest "
+  },
+  {
+   "h": "334b290841ddf7c6e149ea6c973233c4b67429a9",
+   "t": "Już pierwszy dzień ma dawać spokojne poczucie bycia u siebie. Chcemy też umożliw"
+  },
+  {
+   "h": "e8bcfc10ffbef1b694b764aae14e4b5c4ec0d4d6",
+   "t": "Więcej: [whitepaper Suverii, rozdział 1](../whitepaper-suveria.md#s1)."
+  },
+  {
+   "h": "569efcc34843510853c41a9bc078e6b8871c1a62",
+   "t": "## Przed czym chroni i czego jeszcze nie ma"
+  },
+  {
+   "h": "61d1c5ab7cb962ad5d5afc9c0ee861666a9c54e7",
+   "t": "Ochrona ma opierać się na zabezpieczeniach, które można niezależnie sprawdzić, a"
+  },
+  {
+   "h": "d8e4cdf7d13e2ad5039edd1ee950c914ca6b129b",
+   "t": "Porównujemy kilka sposobów pracy, bo każdy chroni przed czym innym:"
+  },
+  {
+   "h": "e117d6dde5f6be621a0fcf349e9884540c9bf163",
+   "t": "- **Model na Twoim urządzeniu.** Rozmowa nie opuszcza telefonu ani komputera, ch"
+  },
+  {
+   "h": "e3d535430bd4ae82a8936a6a819436e757586a8a",
+   "t": "Poufne obliczenia nie naprawiają zainfekowanego komputera i nie chronią przed ka"
+  },
+  {
+   "h": "a0cb20bf4374123c238700bee21df0a3c5fc563f",
+   "t": "Więcej: [whitepaper Suverii, rozdział 2](../whitepaper-suveria.md#s2) i [punkt 2"
+  },
+  {
+   "h": "da4c9effafdffdf61808643f622fdbc225650c3d",
+   "t": "## Modele"
+  },
+  {
+   "h": "2c29102469a57fc3874e01f03d0334a39555faf2",
+   "t": "Podstawą projektu są otwarte modele, które można uruchomić samodzielnie. Wybiera"
+  },
+  {
+   "h": "0d3102bb0965823717462ae676184dda9059d8fe",
+   "t": "Zmianę albo wycofanie modelu zapowiadamy z wyprzedzeniem, a historia rozmów zost"
+  },
+  {
+   "h": "7aaccf8e9f2004a1160bada85c242f3b8811ed94",
+   "t": "Więcej: [whitepaper Suverii, rozdział 6](../whitepaper-suveria.md#s6)."
+  },
+  {
+   "h": "4b466690f1822b8e25323b239bc6107b91a30be3",
+   "t": "## Ile to kosztuje"
+  },
+  {
+   "h": "c94a36a9f720b04ad3f811af287ff14d36ab7ca4",
+   "t": "Manifest stawia hipotezę, że wspólna infrastruktura może dać więcej mocy oblicze"
+  },
+  {
+   "h": "ca6b2127699a0ef0c5d8835297d920097eaa54a3",
+   "t": "To szacunek na papierze, a nie cennik Suverii: rachunek nie zawiera pracy ludzi,"
+  },
+  {
+   "h": "21960033e2b26b24d55671e2becd7b7e1d4f9874",
+   "t": "Więcej: [whitepaper Suverii, rozdział 8](../whitepaper-suveria.md#s8). Zobacz te"
+  },
+  {
+   "h": "6d5f670092c129c3d71aff93cb0705581afe7f46",
+   "t": "## Stan prac"
+  },
+  {
+   "h": "f165ac50b6821f37b35426fc1702b4519b472dda",
+   "t": "Whitepaper prowadzi dziennik wyników. Jego stan na 29 października 2026 r.: nie "
+  },
+  {
+   "h": "bb3866d5950fd9ba960a9ca13b31014b30b57e3c",
+   "t": "Najważniejsza próba: zespół z uprawnieniami operatora próbuje odczytać rozmowy k"
+  },
+  {
+   "h": "3d15f0c8ecf127d352b0d9da3a2b553c3923c52d",
+   "t": "Próby chcemy prowadzić otwarcie. Jeśli zajmujesz się bezpieczeństwem, kryptograf"
+  },
+  {
+   "h": "a0acc091dac8275cf854f78681d836249e02e2c8",
+   "t": "Więcej: [whitepaper Suverii, rozdział 9](../whitepaper-suveria.md#s9) i [punkt 8"
+  },
+  {
+   "h": "d350cf2bec146b0434ed73ff95c23125ab3c6035",
+   "t": "## Dlaczego Suveria to droga, a nie cel"
+  },
+  {
+   "h": "86a435a957e8be1b426fda0849b510655a71208b",
+   "t": "Manifest mówi o tym wprost:"
+  },
+  {
+   "h": "b9e48b9e9d37d193e73a6b2c42722ec7a0c15450",
+   "t": "> Suveria jest dziś naszą najlepszą drogą do prywatnej pracy z cyfrową inteligen"
+  },
+  {
+   "h": "cb3e56e28313b34f84c7aa4d44b5d0898b7deea4",
+   "t": "Więcej: [manifest, punkt 3.1](../manifest.md#s3-1)."
+  },
+  {
+   "h": "dbd729a4bebd65f560d1601db4be5811d62ffdc0",
+   "t": "## Przeczytaj i powiedz, co myślisz"
+  },
+  {
+   "h": "62d8f6759f394ba512757ec67fae1505842e0ca0",
+   "t": "Pełny opis, z tabelą wariantów ochrony, rachunkiem kosztów i listą spraw do rozs"
+  }
+ ]
+}
