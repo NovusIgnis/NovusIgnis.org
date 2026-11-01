@@ -7,7 +7,7 @@ menu: Your data
 ---
 # Your data
 
-This page explains what personal data of yours reaches the foundation when you use the novusignis.org website, and what you can do about it. Suveria and Omniforum are projects today; data in those services is covered in their whitepapers.
+This page explains what personal data of yours reaches the foundation when you use the novusignis.org website, and what you can do about it. Suveria and Omniforum are at the design stage today; data in those services is covered in their whitepapers.
 
 ## Who is responsible for your data
 
@@ -31,7 +31,7 @@ You send the message from your own mailbox, even when the "I have a comment" but
 
 ## Donations
 
-With a bank transfer, the bank gives us the sender's data: name, account number and transfer title. We keep this data because accounting and tax regulations require it (Article 6(1)(c) GDPR), for the period those regulations specify. In the [public register of contributions and expenses](fundacja-rejestr.md) we name donors only if they themselves wish it, and we do not publish transfer titles.
+With a bank transfer, the bank gives us the sender's data: name, account number and payment reference. We keep this data because accounting and tax regulations require it (Article 6(1)(c) GDPR), for the period those regulations specify. In the [public register of contributions and expenses](fundacja-rejestr.md) we name donors only if they themselves wish it, and we do not publish payment references.
 
 ## Who else may have access
 

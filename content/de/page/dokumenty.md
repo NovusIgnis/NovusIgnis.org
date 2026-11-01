@@ -39,6 +39,10 @@ Alle Dokumente sind auf Polnisch und Englisch verfügbar (die englische Satzung 
 
 Das Manifest und die vier Whitepaper stehen auch in einer einzigen Textdatei, die du in deinen Chat mit digitaler Intelligenz einfügen kannst, um nach dem zu fragen, was dich interessiert: [auf Deutsch](llms-full.txt) oder [auf Polnisch](../llms-full.txt).
 
+## Wie diese Texte entstanden sind
+
+Das Manifest, die Whitepaper und die Unterseiten sind in Zusammenarbeit des Stifters mit digitaler Intelligenz (Claude, Codex, Gemini) entstanden. Die polnische Fassung wurde vom Stifter gelesen und genehmigt; der Stifter trägt die Verantwortung für ihren Inhalt, und sie ist maßgeblich. Die Übersetzungen in andere Sprachen wurden durch digitale Intelligenz erstellt und von einem anderen Modell geprüft als dem, das sie übersetzt hat. Bisher wurde keine Übersetzung von einem Menschen geprüft, der die jeweilige Sprache beherrscht. Wenn etwas nicht richtig klingt, markiere die Passage und schicke eine Anmerkung: Wir nehmen Korrekturen offen und mit Begründung vor.
+
 ## Wie man eine Anmerkung schickt
 
 Bei jedem Dokument und jeder Unterseite funktioniert die Schaltfläche „Ich habe eine Anmerkung“. Markiere eine Textstelle, und die Seite bereitet eine E-Mail mit dem Zitat und einem Link zu dieser Stelle vor; du sendest sie aus deinem eigenen Postfach an [salve@novusignis.org](mailto:salve@novusignis.org). Die Nachricht geht nur an die Stiftung, und daraus entsteht kein öffentliches Gespräch.
@@ -49,7 +53,7 @@ Anmerkungen, die zu Änderungen führen, werden wir im [Änderungsprotokoll der 
 
 ## Lizenz und Quellen
 
-Das Manifest, die Whitepaper und die Texte dieser Website, auch die Übersetzungen, stellen wir unter der Lizenz CC BY 4.0 bereit, die Nutzung und Bearbeitung des Textes mit Quellenangabe erlaubt. Den Code der Website werden wir unter der Lizenz AGPLv3 bereitstellen. Mehr: [Manifest, Schluss (direkt vor den Anmerkungen)](../manifest.md#s9) und [Whitepaper zu den Arbeitsgrundsätzen der Stiftung, Abschnitt 11.3](../whitepaper-zasady-fundacji.md#s11-3).
+Das Manifest, die Whitepaper und die Texte dieser Website, auch die Übersetzungen, stellen wir unter der Lizenz CC BY 4.0 bereit, die Nutzung und Bearbeitung des Textes mit Quellenangabe erlaubt. Den Code der Website stellen wir in einem [öffentlichen Repository](https://github.com/NovusIgnis/NovusIgnis.org) unter der Lizenz AGPLv3 bereit, mit der Historie aller Änderungen. Mehr: [Manifest, Schluss (direkt vor den Anmerkungen)](../manifest.md#s9) und [Whitepaper zu den Arbeitsgrundsätzen der Stiftung, Abschnitt 11.3](../whitepaper-zasady-fundacji.md#s11-3).
 
 Jedes Dokument ist auch als Markdown-Quelldatei verfügbar, also als gewöhnlicher Text, den man herunterladen, vergleichen und zitieren kann. Wenn du uns über ein Modell liest, findest du das Textverzeichnis in der Datei [llms.txt](../llms.txt) und das Manifest mit den vier Whitepapern in einer einzigen Datei [llms-full.txt](llms-full.txt).
 

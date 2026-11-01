@@ -1,0 +1,368 @@
+{
+  "hero": {
+    "title": "NOVUS IGNIS",
+    "subtitle": "Raih kembali apimu",
+    "scrollHint": "Gulir untuk memulai",
+    "cta_join": "Ikut berperan",
+    "download": "Unduh dokumen"
+  },
+  "act1": {
+    "text1_1": "Awalnya, manusia berkumpul di sekitar api.",
+    "text1_2": "Memberi kehangatan, cahaya, kebersamaan.",
+    "text2_1": "Namun, para dewa jadi iri.",
+    "text2_2": "Zeus memandang api mereka dengan hina.",
+    "text3_1": "Satu embusan napasnya memadamkan api.",
+    "text3_2": "Ilmu, kebebasan, kehangatan lenyap.",
+    "text4_1": "Manusia tenggelam lagi dalam gelap.",
+    "text4_2": "Menanti seseorang menyalakan api baru."
+  },
+  "gap1": {
+    "text": "Namun, di gelap terdalam, percikan tersisa..."
+  },
+  "act2": {
+    "prom_1": "Titan Prometheus maju.",
+    "prom_2": "Siap menantang dewa dan merebut api kembali.",
+    "olimp1": "Ia menolak hidup dalam gelap.",
+    "olimp2": "Ia menyusup ke istana para dewa.",
+    "olimp3": "Ia merebut nyala suci.",
+    "olimp4_1": "Ia berlari turun gunung, mengembalikan api ke manusia.",
+    "olimp4_2": "Kehangatan, cahaya, harapan kembali ke hati.",
+    "rekindle_1": "Nyala suci berkobar lagi.",
+    "rekindle_2": "Dengan api di tangan, manusia mulai membangun.",
+    "civ_1": "Dari bara lahir imperium dan peradaban.",
+    "civ_2": "Anugerah api memulai sains, arsitektur, kedaulatan."
+  },
+  "twain": {
+    "quote": "“Sejarah tak berulang, tetapi berima.”",
+    "author": "Dinisbatkan: Mark Twain"
+  },
+  "act3": {
+    "text1": "Sebelum layar menguasai pandang, dunia terasa nyata.",
+    "text2": "Internet awal: jayanya daya bertindak kita.",
+    "text3": "Lalu kita tutup tirai demi menatap kilau layar.",
+    "text4": "Lalu platform mendapat laba dari waktu kita.",
+    "text5": "Fast food adiktif dan dopamin murah.",
+    "text6": "Pengintaian terus di balik tiap layar.",
+    "text7": "Keusangan terencana tertanam di perangkat.",
+    "text8": "Perhatian diburu di tiap langkah.",
+    "text9": "Banjir plastik murah tak berguna."
+  },
+  "newProm": {
+    "text": "Perlu Prometheus masa kini."
+  },
+  "act4": {
+    "text2": "Namun, kali ini...",
+    "text3": "Satu titan tak cukup.",
+    "text4_top": "Perlu banyak.",
+    "text4_bottom": "Dan jumlah kita banyak.",
+    "text5": "Kita semua Prometheus.",
+    "text6": "Kali ini kitalah titannya."
+  },
+  "dignity": {
+    "title": "ALTERNATIF ITU MUNGKIN.",
+    "sentence1": "“Di kerajaan tujuan, segala sesuatu memiliki <span class=\"hl-price\">HARGA</span> atau <span class=\"hl-dignity\">MARTABAT</span>.",
+    "sentence2": "<span class=\"hl-price\">Yang memiliki harga dapat digantikan</span> dengan sesuatu yang lain sebagai padanannya;",
+    "sentence3": "sedangkan yang <span class=\"hl-dignity\">melampaui segala harga</span> dan karenanya tidak mengizinkan padanan apa pun, <span class=\"hl-dignity\">memiliki martabat</span>.”",
+    "author": "Immanuel Kant, Dasar-dasar Metafisika Moral (1785)"
+  },
+  "act5": {
+    "intro_badge": "MARTABAT MANUSIA",
+    "intro_title": "Martabat manusia di atas segalanya.",
+    "intro_sub": "Setiap alat yang kami buat dimaksudkan melayani satu prinsip:<br><strong style=\"color: #FFFFFF;\">melindungi martabat manusia.</strong>",
+    "grid_title": "TIGA PILAR",
+    "col1": {
+      "badge": "PILAR I · KAMI MULAI",
+      "title": "Suveria dan Omniforum",
+      "r1_h": "Ruang pribadi",
+      "r2_h": "Pemahaman bersama",
+      "r3_h": "Layanan mendekati biaya"
+    },
+    "col2": {
+      "badge": "PILAR II · ARAH",
+      "title": "Benda yang tahan lama",
+      "r1_h": "Tahan lama dan dapat diperbaiki",
+      "r2_h": "Rancangan terbuka",
+      "r3_h": "Berbagi sumber daya"
+    },
+    "col3": {
+      "badge": "PILAR III · ARAH",
+      "title": "Alam",
+      "r1_h": "Lebih dekat dengan alam",
+      "r2_h": "Kehidupan di luar teknologi"
+    },
+    "law_quote": "“Semua orang dilahirkan merdeka dan mempunyai martabat dan hak-hak yang sama.”",
+    "law_source": "Pernyataan Umum tentang Hak-Hak Asasi Manusia, Pasal 1 (1948)",
+    "call_to_action": "Martabat manusia tercantum dalam Pernyataan Umum tentang Hak-Hak Asasi Manusia dan konstitusi lebih dari 160 negara, yaitu lebih dari 80% anggota PBB. Kami ingin kata-kata itu juga didukung rancangan teknologi yang kami gunakan sehari-hari.",
+    "suveria": {
+      "badge": "LANGKAH PERTAMA · SUVERIA",
+      "title": "Kami mulai dari ruang digital pribadi Anda",
+      "text": "Seperti kamar sendiri yang nyaman: Anda masuk, menutup pintu, dan dapat menata urusan, pikiran, serta rencana dengan tenang. Kami merancang Suveria agar tak ada yang mengintip Anda di dalamnya, dan kecerdasan digital membantu hanya saat Anda menginginkannya.",
+      "highlight": "Setiap pernyataan perlindungan yang kami sampaikan harus dapat diperiksa. Jika kami belum memenuhinya, kami mengatakannya terus terang.",
+      "link": "Baca whitepaper Suveria →"
+    }
+  },
+  "meta": {
+    "title": "Novus Ignis · Internet yang berlandaskan martabat manusia",
+    "description": "Yayasan Novus Ignis ikut membangun internet alternatif dengan martabat manusia sebagai nilai tertinggi. Suveria: ruang digital pribadi. Omniforum: ruang bersama untuk percakapan dan keputusan."
+  },
+  "hub": {
+    "badge": "YAYASAN NOVUS IGNIS",
+    "title": "Internet yang berlandaskan<br><span class=\"gradient-text--fire\">martabat manusia</span>",
+    "subtitle": "Kami memulai kegiatan dengan ikut membangun internet alternatif yang menempatkan martabat manusia sebagai nilai tertinggi, beserta kebutuhan privasi dan kebebasan yang mengikutinya. Dari nilai-nilai ini, kami menetapkan dua arah kerja: <strong>Suveria</strong>, ruang digital pribadi bagi manusia, dan <strong>Omniforum</strong>, ruang publik bersama tempat orang dapat bertemu, saling memahami, dan bertindak bersama.",
+    "cta_manifesto": "Baca manifesto",
+    "cta_docs": "Manifesto dan whitepaper",
+    "docs_title": "Manifesto, whitepaper, dan anggaran dasar",
+    "docs_sub": "Anggaran dasar adalah hukum yayasan. Manifesto merupakan komitmen kami kepada manusia: apa yang ingin kami lakukan dan mengapa. Whitepaper memperlihatkan cara kerjanya secara teknis dan batas-batasnya.",
+    "docs_read": "Baca →",
+    "docs_note": "Dokumen kami kembangkan seiring pengetahuan dan pengalaman, dengan mempertahankan riwayat perubahan.",
+    "cards": {
+      "manifest": {
+        "badge": "MANIFESTO",
+        "desc": "Apa yang ingin kami lakukan dan mengapa: martabat, privasi, pemahaman bersama, pemeliharaan layanan, dan penyerahan kekuasaan."
+      },
+      "suveria": {
+        "badge": "SUVERIA",
+        "desc": "Apa yang kami lindungi dan dari apa, jalur dari perangkat ke model, perhitungan biaya bertanggal, dan pengujian penerimaan."
+      },
+      "omniforum": {
+        "badge": "OMNIFORUM",
+        "desc": "Isu, kartu ide, peta argumen, dokumen hidup, dan aturan keputusan bersama."
+      },
+      "fundacja": {
+        "badge": "PRINSIP YAYASAN",
+        "desc": "Tagihan penggunaan nyata, anggaran, pekerjaan dan peran, daftar manfaat, serta penyerahan kewenangan pendiri."
+      },
+      "benchmark": {
+        "badge": "PENELITIAN",
+        "desc": "Materi pelatihan dan tolok ukur: cara memeriksa apakah kecerdasan digital benar-benar membantu manusia."
+      },
+      "statut": {
+        "badge": "ANGGARAN DASAR",
+        "desc": "Hukum yayasan, semua versi anggaran dasar, dan daftar perubahan beserta alasannya."
+      }
+    },
+    "join_badge": "BERGABUNG",
+    "roles_title": "Tak seorang pun dapat menanggungnya sendiri.<br><span class=\"gradient-text--fire\">Kita semua Prometheus.</span>",
+    "roles_desc": "Jika Anda menemukan setidaknya satu nilai dalam manifesto yang dekat dengan diri Anda, dan melihat tempat untuk berkontribusi, kami mengundang Anda ikut membangun Novus Ignis.",
+    "roles_hint": "Klik bidang untuk menulis pesan kepada kami dengan subjek yang sudah disiapkan.",
+    "roles_note": "Pengalaman orang yang mampu menceritakan tantangan sehari-hari dan apa yang benar-benar dapat membantu mereka sama pentingnya.",
+    "mail_subject": "[Bergabung]",
+    "roles_cta_email": "Tulis: salve@novusignis.org",
+    "roles_cta_manifest": "Baca manifesto",
+    "join_title": "Mari mulai dari bagian dunia yang dapat kita perbaiki bersama.",
+    "join_text": "Tulis ke salve@novusignis.org dan ceritakan apa yang dekat dengan diri Anda serta apa yang ingin Anda sumbangkan: keterampilan, pertanyaan, ide, atau pengalaman.",
+    "join_btn": "Tulis pesan",
+    "join_disclaimer": "Kami tidak mengumpulkan alamat melalui formulir. Pesan langsung masuk ke kotak masuk kami."
+  },
+  "home": {
+    "cta_why": "Mengapa Novus Ignis",
+    "cta_today": "Posisi kami saat ini",
+    "today": {
+      "title": "Posisi kami saat ini",
+      "works": "Berfungsi",
+      "works_text": "Yayasan terdaftar, sedangkan manifesto dan whitepaper telah dipublikasikan. Pada setiap kalimat dokumen tersedia tombol “Saya punya masukan” yang berfungsi.",
+      "project": "Rancangan",
+      "project_text": "Prototipe pertama Omniforum sedang dibangun, sedangkan Suveria merupakan rancangan.",
+      "hypothesis": "Hipotesis",
+      "hypothesis_text": "Perhitungan biaya merupakan hipotesis yang harus diuji: bahkan kelompok kecil mungkin memperoleh lebih banyak kecerdasan digital untuk setiap dolar daripada dalam layanan tertutup, dengan privasi yang dapat diperiksa.",
+      "vision": "Visi",
+      "vision_text": "Pengelolaan mandiri oleh kecerdasan digital serta pilar-pilar selanjutnya merupakan visi.",
+      "note": "Kami membedakan apa yang berfungsi dari rancangan, hipotesis, dan visi karena kami tidak menjanjikan apa pun yang tidak dapat kami beri dasar."
+    },
+    "spaces": {
+      "title": "Pilar pertama: dua ruang",
+      "suveria_title": "Suveria",
+      "suveria_text": "Suveria dimaksudkan menjadi ruang pribadi di internet, tempat seseorang berbicara dengan kecerdasan digital, mengerjakan materi sendiri, dan kembali ke pemikiran terdahulu, seperti di rumah sendiri di balik pintu yang tertutup. Saat ini Suveria merupakan jalan terbaik kami menuju pekerjaan pribadi dengan kecerdasan digital, bukan tujuan itu sendiri.",
+      "suveria_link": "Apa itu Suveria →",
+      "omniforum_title": "Omniforum",
+      "omniforum_text": "Omniforum dimaksudkan menjadi tempat siapa pun dapat menyampaikan pendapat tentang topik apa pun dan didengar. Pertanyaan sederhana, “jadi, maksud Anda begini dan begitu, apakah saya memahaminya dengan benar?”, mengubah nada percakapan di kedua pihak. Seluruh lapisan teknis Omniforum dimaksudkan mendukung dorongan itu.",
+      "omniforum_link": "Apa itu Omniforum →"
+    },
+    "help": {
+      "title": "Cara Anda membantu",
+      "m5_title": "5 menit",
+      "m5_text": "Baca pengantar manifesto dan tandai kalimat yang tidak jelas atau tidak Anda setujui, lalu klik “Saya punya masukan”.",
+      "m5_model": "Jika membaca tentang kami melalui model, tanyakan juga kelemahan terbesar kami dan kirimkan temuannya kepada kami.",
+      "h1_title": "Satu jam",
+      "h1_text": "Tinjau whitepaper bidang Anda: <a href=\"#\" data-doc-link=\"suveria\">keamanan dan infrastruktur (Suveria)</a>, <a href=\"#\" data-doc-link=\"fundacja\">hukum dan keuangan (prinsip yayasan)</a>, <a href=\"#\" data-doc-link=\"benchmark\">penelitian (materi dan tolok ukur)</a>, <a href=\"#\" data-doc-link=\"omniforum\">percakapan dan keputusan (Omniforum)</a>.",
+      "more_title": "Lebih lama",
+      "more_text": "Ikut membangun versi pertama: peran dan kebutuhan kami diuraikan pada halaman <a href=\"#\" data-page-link=\"dolacz\">Bergabung</a>.",
+      "money_title": "Dukungan finansial",
+      "money_text": "Yayasan menerima donasi melalui transfer bank dalam zloty, euro, dan dolar. Setiap setoran kami tampilkan dalam daftar yang dipublikasikan dengan tanggal, jumlah, dan uraian singkat; nama donor hanya disebut jika mereka sendiri menginginkannya. Donasi tidak memberikan suara, pengaruh atas keputusan, atau hak promosi. <a href=\"wesprzyj.html\">Detail transfer dan aturan</a>"
+    },
+    "docs_all": "Semua dokumen dan cara menyampaikan masukan",
+    "join_page": "Lihat peran dan tulis kepada kami",
+    "next": {
+      "title": "Langkah Anda selanjutnya",
+      "status": "Yayasan, dokumen, dan daftar setoran yang dipublikasikan telah berfungsi. Suveria dan Omniforum merupakan rancangan yang sedang kami kerjakan.",
+      "wait_title": "Beri tahu jika ingin mencoba",
+      "wait_text": "Bergabunglah dalam daftar tunggu. Kami akan menghubungi Anda ketika pengujian pertama Suveria dan Omniforum dimulai.",
+      "wait_btn": "Masuk daftar tunggu",
+      "wait_note": "Cukup kirim pesan dengan subjek yang sudah disiapkan. Alamat Anda hanya akan kami gunakan untuk satu pesan itu, dan akan langsung kami hapus atas permintaan Anda. <a href=\"twoje-dane.html\">Data Anda</a>",
+      "read_title": "Baca lebih lanjut",
+      "read_text": "Mulai dari pengantar singkat atau baca manifesto dan whitepaper. Anda juga dapat memberikannya kepada model Anda untuk dibaca dan menanyakan kelemahan terbesar kami.",
+      "read_btn": "Novus Ignis secara singkat",
+      "read_docs": "Manifesto dan whitepaper",
+      "join_title": "Ajukan diri untuk ikut serta",
+      "join_text": "Kami mencari orang yang membantu membangun versi pertama: dari keamanan dan hukum sampai menceritakan gagasan. Sebagai awal, satu masukan pada teks sudah cukup.",
+      "join_btn": "Lihat siapa yang kami cari",
+      "give_title": "Dukung yayasan",
+      "give_text": "Dengan donasi melalui transfer bank dalam zloty, euro, atau dolar. Setiap setoran kami tampilkan dalam daftar yang dipublikasikan, sedangkan donasi tidak memberikan suara atau pengaruh atas keputusan.",
+      "give_btn": "Beri donasi"
+    }
+  },
+  "nav": {
+    "brand": "NOVUS IGNIS",
+    "tagline": "Internet yang berlandaskan martabat manusia.",
+    "menu": "Menu",
+    "language": "Bahasa",
+    "links": {
+      "story": "Kisah",
+      "manifest": "Manifesto",
+      "whitepapers": "Whitepaper",
+      "statute": "Anggaran dasar",
+      "join": "Bergabung"
+    },
+    "docs": {
+      "manifest": "Manifesto",
+      "suveria": "Whitepaper Suveria",
+      "omniforum": "Whitepaper Omniforum",
+      "fundacja": "Prinsip operasional yayasan",
+      "benchmark": "Materi dan tolok ukur",
+      "statut": "Anggaran dasar dan daftar perubahan"
+    },
+    "footer": {
+      "documents": "Dokumen",
+      "contact": "Kontak",
+      "krs": "Data dalam Krajowy Rejestr Sądowy",
+      "legal": "Yayasan Novus Ignis · Poznań, Polandia · KRS 0001269575 · NIP 7792612046",
+      "license_html": "Manifesto, whitepaper, dan teks situs kami sediakan dengan lisensi <a href=\"https://creativecommons.org/licenses/by/4.0/deed.id\" rel=\"noopener\">CC BY 4.0</a>.",
+      "privacy": "Situs ini tidak menggunakan cookie atau skrip analitik; hanya peramban Anda yang mengingat bahasa pilihan Anda.",
+      "shortcuts": "Tautan cepat",
+      "ai_note": "Teks-teks ini dibuat melalui kerja sama antara pendiri dan kecerdasan digital. Versi bahasa Polandia yang disetujui pendiri menjadi acuan yang mengikat."
+    },
+    "groups": {
+      "dlaczego": "Mengapa",
+      "suveria": "Suveria",
+      "omniforum": "Omniforum",
+      "fundacja": "Yayasan",
+      "dokumenty": "Dokumen",
+      "dolacz": "Bergabung",
+      "skroty": "Tautan cepat"
+    },
+    "expand": "buka submenu",
+    "shortcuts": {
+      "w_skrocie": "Secara singkat",
+      "dziennik_zmian": "Catatan perubahan",
+      "slownik": "Glosarium",
+      "mapa_strony": "Peta situs"
+    },
+    "overview": {
+      "dlaczego": "Mengapa Novus Ignis",
+      "suveria": "Apa itu Suveria",
+      "omniforum": "Apa itu Omniforum",
+      "fundacja": "Siapa kami",
+      "dokumenty": "Semua dokumen",
+      "dolacz": "Siapa yang kami cari dan cara memulai"
+    }
+  },
+  "doc": {
+    "toc": "Daftar isi",
+    "footnotes": "Catatan kaki",
+    "footnote": "Catatan kaki",
+    "back": "Kembali ke bagian teks",
+    "link_here": "Tautan ke bagian ini",
+    "skip": "Langsung ke isi",
+    "source_note": "Berkas sumber:",
+    "not_translated": "Dokumen ini belum memiliki versi dalam bahasa ini.",
+    "reading_original": "Anda membaca naskah asli berbahasa Polandia.",
+    "remark": {
+      "button": "Saya punya masukan",
+      "copy": "Salin isi",
+      "copied": "Disalin",
+      "section": "masukan",
+      "section_label": "Sampaikan masukan untuk bagian ini:",
+      "subject": "[Masukan]",
+      "quote": "Kutipan:",
+      "place": "Posisi dalam teks:",
+      "prompt": "Masukan saya:",
+      "hint": "Punya masukan? Pilih bagian teks atau gunakan tautan “masukan” di samping judul bagian. Kami akan menyiapkan pesan dengan kutipan dan tautan, yang Anda kirim dari akun surel Anda sendiri ke alamat",
+      "content_button": "Masukan tentang isi",
+      "translation_button": "Masukan terjemahan",
+      "translation_subject": "[Terjemahan]",
+      "original": "Naskah asli:"
+    },
+    "outdated": "Terjemahan dibuat dari versi naskah asli yang lebih lama; sebagian paragraf mungkin berbeda.",
+    "translation_note": "Terjemahan ini dibuat oleh kecerdasan digital. Naskah berbahasa Polandia yang berlaku. Jika ada bagian yang terdengar kurang tepat, tandai dan kirimkan masukan tentang terjemahan.",
+    "experimental_note": "Terjemahan eksperimental yang dibuat oleh kecerdasan digital dalam bahasa yang kualitas terjemahannya paling tidak kami yakini. Naskah berbahasa Polandia yang berlaku. Kami sangat memohon: jika Anda melihat ketidaksesuaian, tandai bagian itu dan kirimkan usulan terjemahan Anda kepada kami.",
+    "compare": {
+      "label": "Bandingkan dengan:",
+      "original": "naskah asli",
+      "show": "Tampilkan perbandingan",
+      "hide": "Sembunyikan perbandingan",
+      "loading": "Memuat…",
+      "error": "Versi lain gagal dimuat."
+    },
+    "source_history": "riwayat perubahan",
+    "source_edit": "usulkan perubahan"
+  },
+  "alt": {
+    "logo": "Logo Novus Ignis",
+    "prometheus": "Prometheus",
+    "digital_prometheus": "Prometheus digital",
+    "we_are_prometheus": "Kita semua Prometheus"
+  },
+  "sitemap": {
+    "title": "Peta situs",
+    "desc": "Semua halaman yayasan dikelompokkan seperti dalam menu: kisah, dokumen, dan subhalaman.",
+    "home": "Halaman utama",
+    "other": "Halaman lain",
+    "empty": "Belum ada halaman dalam kelompok ini."
+  },
+  "glossary": {
+    "title": "Glosarium istilah",
+    "intro": "Istilah utama dalam dokumen kami, masing-masing dijelaskan dalam satu kalimat, dengan tautan ke tempat asal definisinya.",
+    "source": "Sumber:",
+    "tip": {
+      "label": "Penjelasan istilah",
+      "back": "Kembali",
+      "close": "Tutup",
+      "glossary": "Glosarium"
+    }
+  },
+  "llms": {
+    "only_source": "Dokumen ini tersedia dalam bahasa Polandia di {url}."
+  },
+  "mail": {
+    "title": "Tulis kepada kami",
+    "address": "Alamat",
+    "subject": "Subjek",
+    "body": "Isi",
+    "body_ready": "siap ditempel",
+    "copy_address": "Salin alamat",
+    "copy_subject": "Salin subjek",
+    "copy_body": "Salin isi",
+    "copied": "Disalin",
+    "open_app": "Buka aplikasi surel",
+    "open_gmail": "Buka di Gmail",
+    "open_outlook": "Buka di Outlook",
+    "close": "Tutup"
+  },
+  "ask": {
+    "button": "TL;DR?",
+    "button_title": "TL;DR? Tanyakan kepada kecerdasan digital Anda tentang dokumen kami",
+    "title": "Tanya kecerdasan digital Anda",
+    "copy_all": "Salin semua dokumen",
+    "copy_manifest": "Salin manifesto saja",
+    "copied": "Disalin. Tempel dalam percakapan",
+    "loading": "Mengunduh…",
+    "failed": "Gagal menyalin. Gunakan unduhan berkas.",
+    "open_in": "Buka percakapan di:",
+    "download": "Unduh berkas (.txt)",
+    "close": "Tutup",
+    "prompt": "Berikut dokumen Yayasan Novus Ignis (manifesto dan whitepaper). Bantu saya memahaminya. Jawablah berdasarkan dokumen ini, sebutkan babnya, dan bedakan apa yang sudah berfungsi dari rancangan, hipotesis, dan visi. Jika sesuatu tidak ada di dalamnya, katakan terus terang.",
+    "prompt_link": "Baca dokumen Yayasan Novus Ignis (manifesto dan whitepaper): {url}. Bantu saya memahaminya. Jawablah berdasarkan dokumen ini, sebutkan babnya, dan bedakan apa yang sudah berfungsi dari rancangan, hipotesis, dan visi. Jika sesuatu tidak ada di dalamnya, katakan terus terang. Sebagai awal, ringkas maksudnya dalam beberapa kalimat.",
+    "paste": "tempel",
+    "paste_title": "Gemini membuka percakapan kosong: pertanyaan sudah disalin, tempelkan (Ctrl+V) lalu kirim."
+  }
+}

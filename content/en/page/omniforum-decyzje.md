@@ -9,7 +9,7 @@ menu: Shared decisions
 
 This page goes deeper into what the [What is Omniforum](omniforum.md) page says briefly about shared decisions: how a consultation differs from a vote, how we want to grant the right to vote without biometrics, which principles always apply and why the results of votes are to bind the foundation only gradually.
 
-No vote or consultation is taking place today. The Omniforum prototype is under construction, and everything we describe below is a project.
+No vote or consultation is taking place today. The Omniforum prototype is under construction, and everything we describe below is at the design stage.
 
 This is one of the most difficult parts of the whole undertaking, so we write openly about what is within reach and what we will have to work on for a long time.
 

@@ -39,13 +39,13 @@
   "act3": {
     "text1": "Before screens claimed our sight, the world was tangible.",
     "text2": "The early web was a triumph of human agency.",
-    "text3": "Then we drew the blinds to see the glow of screens.",
+    "text3": "We shut the blinds to stare at the glow of screens.",
     "text4": "Then came platforms that profit from our time.",
     "text5": "Addictive fast food and cheap dopamine.",
     "text6": "Constant surveillance behind every screen.",
     "text7": "Planned obsolescence built into our devices.",
     "text8": "Attention hijacking at every corner.",
-    "text9": "A flood of cheap, disposable junk."
+    "text9": "A flood of cheap, useless plastic."
   },
   "newProm": {
     "text": "We need a modern Prometheus."
@@ -53,7 +53,7 @@
   "act4": {
     "text2": "Except this time...",
     "text3": "A single titan is not enough.",
-    "text4_top": "It takes many of us.",
+    "text4_top": "It takes many.",
     "text4_bottom": "And there are many of us.",
     "text5": "We are all Prometheus.",
     "text6": "This time we are the titan."
@@ -162,12 +162,12 @@
       "works": "It works",
       "works_text": "The foundation is registered, and the manifesto and whitepapers are published. Every sentence in the documents has a working “I have a comment” button.",
       "project": "Design",
-      "project_text": "Omniforum has a first prototype under construction, and Suveria is a project.",
+      "project_text": "Omniforum has a first prototype under construction, and Suveria is at the design stage.",
       "hypothesis": "Hypothesis",
       "hypothesis_text": "The cost calculation is a hypothesis to be tested: even a small group may get more digital intelligence for every dollar than from closed services, with privacy that can be checked.",
       "vision": "Vision",
       "vision_text": "Independent management by digital intelligence and the further pillars are a vision.",
-      "note": "We tell apart what works from a project, a hypothesis and a vision, because we promise nothing we cannot justify."
+      "note": "We distinguish what works from designs, hypotheses and visions, because we promise nothing we cannot justify."
     },
     "spaces": {
       "title": "First pillar: two spaces",
@@ -194,7 +194,7 @@
     "join_page": "See the roles and write to us",
     "next": {
       "title": "What you can do next",
-      "status": "The foundation, the documents and the public register of contributions are in place. Suveria and Omniforum are projects we are working on.",
+      "status": "The foundation, the documents and the public register of contributions are in place. Suveria and Omniforum are designs we are working on.",
       "wait_title": "Let us know you would like to try it",
       "wait_text": "Join the waiting list. We will write to you when the first trials of Suveria and Omniforum begin.",
       "wait_btn": "Join the waiting list",
@@ -229,7 +229,7 @@
       "omniforum": "Omniforum whitepaper",
       "fundacja": "Foundation rules",
       "benchmark": "Materials and benchmark",
-      "statut": "Statute and changes"
+      "statut": "Statute and change register"
     },
     "footer": {
       "documents": "Documents",
@@ -238,7 +238,8 @@
       "legal": "Novus Ignis Foundation · Poznań, Poland · KRS 0001269575 · NIP 7792612046",
       "license_html": "The manifesto, whitepapers and texts of this website are published under the <a href=\"https://creativecommons.org/licenses/by/4.0/\" rel=\"noopener\">CC BY 4.0</a> license.",
       "privacy": "This site uses no cookies and no analytics scripts; only your browser remembers the language you chose.",
-      "shortcuts": "Quick links"
+      "shortcuts": "Quick links",
+      "ai_note": "These texts were written by the founder together with digital intelligence. The Polish version, approved by the founder, is binding."
     },
     "groups": {
       "dlaczego": "Why",
@@ -269,7 +270,7 @@
     "toc": "Contents",
     "footnotes": "Notes",
     "footnote": "Note",
-    "back": "Back to the text",
+    "back": "Back to your place in the text",
     "link_here": "Link to this section",
     "skip": "Skip to content",
     "source_note": "Source file:",
@@ -285,7 +286,7 @@
       "quote": "Passage:",
       "place": "Location:",
       "prompt": "My comment:",
-      "hint": "Have a comment? Select a passage or use the “comment” link next to a section title. We will prepare a message with the quote and a link, which you send yourself to",
+      "hint": "Have a comment? Select a passage or use the “comment” link next to a section title. We will prepare a message with the quote and a link, which you send from your own email account to",
       "content_button": "Comment on the content",
       "translation_button": "Comment on the translation",
       "translation_subject": "[Tłumaczenie]",
@@ -320,7 +321,7 @@
   },
   "glossary": {
     "title": "Glossary",
-    "intro": "The key terms from our documents, each explained in a sentence or two, with a link to the place the definition comes from.",
+    "intro": "The key terms from our documents, each explained in one sentence, with a link to the place the definition comes from.",
     "source": "Source:",
     "tip": {
       "label": "Term explanation",
@@ -362,6 +363,6 @@
     "prompt": "Below are the documents of the Novus Ignis Foundation (manifesto and whitepapers). Help me understand them. Answer based on these documents, cite the chapter, and distinguish what already works from designs, hypotheses and visions. If something is not in them, say so plainly.",
     "prompt_link": "Read the documents of the Novus Ignis Foundation (manifesto and whitepapers): {url}. Help me understand them. Answer based on these documents, cite the chapter, and distinguish what already works from designs, hypotheses and visions. If something is not in them, say so plainly. To start, summarise in a few sentences what this is about.",
     "paste": "paste",
-    "paste_title": "Gemini opens an empty conversation: the question is already copied, paste it (Ctrl+V) and send."
+    "paste_title": "Gemini will open an empty conversation: the question is already on the clipboard. Paste it (Ctrl+V) and send it."
   }
 }

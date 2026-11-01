@@ -7,56 +7,56 @@
     "download": "Scarica i documenti"
   },
   "act1": {
-    "text1_1": "In principio, le persone si riunivano attorno al fuoco.",
+    "text1_1": "All'inizio ci si riuniva attorno al fuoco.",
     "text1_2": "Dava loro calore, luce e comunità.",
-    "text2_1": "Ma gli dèi divennero gelosi.",
+    "text2_1": "Ma gli dèi s'ingelosirono.",
     "text2_2": "Zeus guardava il loro fuoco con disprezzo.",
     "text3_1": "E con un solo soffio lo spense.",
     "text3_2": "Conoscenza, libertà e calore svanirono.",
     "text4_1": "L'umanità ripiombò nell'oscurità.",
-    "text4_2": "In attesa di qualcuno che accendesse un nuovo fuoco."
+    "text4_2": "Attendendo chi accenda un nuovo fuoco."
   },
   "gap1": {
     "text": "Ma nel buio più profondo restò una scintilla..."
   },
   "act2": {
-    "prom_1": "Il titano Prometeo si fa avanti.",
+    "prom_1": "Il titano Prometeo avanza.",
     "prom_2": "Pronto a sfidare gli dèi e a riprendersi il fuoco.",
-    "olimp1": "Non accettò di vivere nell'oscurità.",
+    "olimp1": "Rifiutò di vivere al buio.",
     "olimp2": "Si introdusse nel palazzo degli dèi.",
     "olimp3": "E rapì la fiamma sacra.",
     "olimp4_1": "Corse giù dal monte per restituire il fuoco all'umanità.",
-    "olimp4_2": "Calore, luce e speranza tornarono nei cuori umani.",
-    "rekindle_1": "La fiamma sacra tornò ad ardere.",
-    "rekindle_2": "E con il fuoco tra le mani, l'umanità cominciò a costruire.",
-    "civ_1": "Dalle braci nacquero imperi, sorse la civiltà.",
-    "civ_2": "Il dono del fuoco diede vita alla scienza, all'architettura e alla sovranità."
+    "olimp4_2": "Calore, luce e speranza tornarono ai cuori umani.",
+    "rekindle_1": "La fiamma sacra si riaccese.",
+    "rekindle_2": "Col fuoco in mano, l'umanità iniziò a costruire.",
+    "civ_1": "Dalle braci sorsero imperi e civiltà.",
+    "civ_2": "Il dono del fuoco generò scienza, architettura e sovranità."
   },
   "twain": {
     "quote": "«La storia non si ripete, ma fa rima.»",
-    "author": "Parole attribuite a Mark Twain"
+    "author": "Attribuito a Mark Twain"
   },
   "act3": {
-    "text1": "Prima che gli schermi si impadronissero del nostro sguardo, il mondo era tangibile.",
-    "text2": "Il primo internet fu un trionfo della capacità umana di agire.",
-    "text3": "Poi abbassammo le tapparelle per fissare il bagliore dei monitor.",
-    "text4": "Poi arrivarono piattaforme che guadagnano sul nostro tempo.",
-    "text5": "Fast food che crea dipendenza e dopamina a buon mercato.",
-    "text6": "Sorveglianza incessante dietro ogni schermo.",
-    "text7": "Obsolescenza programmata scritta nei dispositivi.",
+    "text1": "Un mondo tangibile, poi gli schermi rapirono lo sguardo.",
+    "text2": "Il primo internet: trionfo del nostro agire.",
+    "text3": "Giù le tapparelle: fissammo la luce dei monitor.",
+    "text4": "Poi le piattaforme: guadagni sul nostro tempo.",
+    "text5": "Fastfood: dipendenza; dopamina low cost",
+    "text6": "Sorveglianza continua dietro ogni schermo.",
+    "text7": "Obsolescenza programmata nei dispositivi.",
     "text8": "Caccia all'attenzione a ogni passo.",
-    "text9": "Un'invasione di plastica economica e inutile."
+    "text9": "Marea: plastica inutile, da poco."
   },
   "newProm": {
-    "text": "Ci serve un Prometeo moderno."
+    "text": "Serve un Prometeo moderno."
   },
   "act4": {
-    "text2": "Solo che questa volta...",
+    "text2": "Solo stavolta...",
     "text3": "Un solo titano non basta.",
-    "text4_top": "Bisogna essere in tanti.",
+    "text4_top": "Servono in molti",
     "text4_bottom": "E siamo in tanti.",
     "text5": "Siamo tutti Prometeo.",
-    "text6": "Questa volta il titano siamo noi."
+    "text6": "Ora il titano siamo noi."
   },
   "dignity": {
     "title": "UN'ALTERNATIVA È POSSIBILE.",
@@ -238,7 +238,8 @@
       "legal": "Fondazione Novus Ignis · Poznań, Polonia · KRS 0001269575 · NIP 7792612046",
       "license_html": "Il manifesto, i whitepaper e i testi del sito sono resi disponibili con licenza <a href=\"https://creativecommons.org/licenses/by/4.0/deed.it\" rel=\"noopener\">CC BY 4.0</a>.",
       "privacy": "Il sito non usa cookie né script di analisi; la lingua scelta la ricorda solo il tuo browser.",
-      "shortcuts": "Accesso rapido"
+      "shortcuts": "Accesso rapido",
+      "ai_note": "I testi sono nati dalla collaborazione tra il fondatore e l’intelligenza digitale. Fa fede la versione polacca, approvata dal fondatore."
     },
     "groups": {
       "dlaczego": "Perché",
@@ -293,7 +294,7 @@
     },
     "outdated": "La traduzione è stata fatta su una versione precedente dell'originale; alcuni paragrafi possono essere diversi.",
     "translation_note": "Traduzione eseguita dall'intelligenza digitale. Fa fede la versione polacca. Se qualcosa suona male, seleziona il passo e invia un'osservazione sulla traduzione.",
-    "experimental_note": "Traduzione sperimentale, eseguita dall'intelligenza digitale in una lingua in cui siamo meno sicuri della qualità. Fa fede la versione polacca. Ti chiediamo un favore: se vedi che qualcosa non torna, seleziona il passo e inviaci la tua proposta di traduzione.",
+    "experimental_note": "Traduzione sperimentale, eseguita dall'intelligenza digitale nella lingua in cui abbiamo più dubbi sulla qualità. Fa fede la versione polacca. Ti chiediamo un favore: se vedi che qualcosa non torna, seleziona il passo e inviaci la tua proposta di traduzione.",
     "compare": {
       "label": "Confronta con:",
       "original": "originale",

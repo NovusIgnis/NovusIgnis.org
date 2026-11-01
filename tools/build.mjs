@@ -774,7 +774,7 @@ function pageDocument(o) {
     : `\n<p class="doc-meta">${esc(t.doc.source_note)} <code>${esc(srcPath)}</code></p>`;
   const outdated = o.outdated ? `<p class="doc-notice container doc-notice--outdated" role="note">${esc(t.doc.outdated)}</p>\n` : '';
   return `<!DOCTYPE html>
-<html lang="${lang}">
+<html lang="${lang}"${dirAttr(lang)}>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -823,6 +823,10 @@ function markdownAlternate(entry, lang) {
   if (entry.kind !== 'doc' || !entry.langs.includes(lang)) return '';
   return '<link rel="alternate" type="text/markdown" href="' + BASE_URL + 'md/' + lang + '/' + entry.file + '">' + String.fromCharCode(10);
 }
+
+// Języki pisane od prawej do lewej: atrybut dir na <html>, resztę układu odwraca przeglądarka i CSS (logiczne właściwości).
+const RTL = new Set(['ar', 'he', 'fa', 'ur']);
+function dirAttr(lang) { return RTL.has(lang) ? ' dir="rtl"' : ''; }
 
 function writeFile(rel, content) {
   const out = path.join(ROOT, rel);
@@ -991,7 +995,7 @@ function renderHome(lang) {
   const footer = NILayout.footer({ t, lang, base, site: siteData, page: 'home', kind: 'home' });
   const cards = NILayout.docCards({ t, lang, site: siteData, base });
   const headLinks = '<link rel="canonical" href="' + homeUrl(lang) + '">\n  ' + alternatesFor(homeEntry);
-  h = h.split('{{LANG}}').join(lang).split('{{BASE_URL}}').join(BASE_URL)
+  h = h.split('{{DIR}}').join(dirAttr(lang)).split('{{LANG}}').join(lang).split('{{BASE_URL}}').join(BASE_URL)
     .replace('{{GLOSS_HEAD}}', () => ga.head).replace('{{GLOSS_SCRIPTS}}', () => ga.scripts).replace('{{HEAD_LINKS}}', () => headLinks).replace('{{HEADER}}', () => header).replace('{{FOOTER}}', () => footer).replace('{{CARDS}}', () => cards);
   const left = h.match(/\{\{[A-Z_]+\}\}/); if (left) warn(where + ': nieuzupełniony znacznik ' + left[0]);
   writeFile(pagePath, h);
@@ -1052,6 +1056,42 @@ for (const lang of LANGS) renderHome(lang);
   }
   // md/<język>/<plik>: czysty Markdown dokumentów (content/ nie trafia na serwer)
   for (const d of docs) for (const lg of d.langs) writeFile('md/' + lg + '/' + d.file, stripComments(normalizeNewlines(readContent(lg, d.file))).trim() + '\n');
+}
+
+// ---------------------------------------------------------------- Rozdzielacz języka dla domen projektów
+// go/<slug>.html: przenosi na podstronę w języku przeglądarki (domyślnie angielski). Na ten adres kierują
+// przekierowania 302 z suveria.org i omniforum.org, dopóki projekty nie mają własnych stron.
+for (const slug of ['suveria', 'omniforum']) {
+  const p = pages.find(x => x.slug === slug);
+  if (!p) continue;
+  const avail = p.langs;
+  const fallback = avail.includes('en') ? 'en' : SRC;
+  const links = avail.map(l => '<li><a href="../' + l + '/' + slug + '.html" hreflang="' + l + '" lang="' + l + '">' + esc(cfg.languages.find(x => x.code === l).name) + '</a></li>').join('');
+  writeFile('go/' + slug + '.html', `<!DOCTYPE html>
+<html lang="${fallback}">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<title>${esc(p.title[fallback] || slug)} · Novus Ignis</title>
+<link rel="canonical" href="${BASE_URL}${fallback}/${slug}.html">
+<noscript><meta http-equiv="refresh" content="0; url=../${fallback}/${slug}.html"></noscript>
+<script>
+(function () {
+  var avail = ${JSON.stringify(avail)}, pick = ${JSON.stringify(fallback)};
+  var prefs = navigator.languages && navigator.languages.length ? navigator.languages : [navigator.language || ''];
+  for (var i = 0; i < prefs.length; i++) { var c = String(prefs[i]).toLowerCase().split('-')[0]; if (avail.indexOf(c) >= 0) { pick = c; break; } }
+  location.replace('/' + pick + '/${slug}.html' + location.search + location.hash);
+})();
+</script>
+<style>body{background:#0a0a10;color:#ddd;font-family:system-ui,sans-serif;padding:2rem}a{color:#ff8c28}</style>
+</head>
+<body>
+<p>Novus Ignis · ${esc(slug.charAt(0).toUpperCase() + slug.slice(1))}</p>
+<ul>${links}</ul>
+</body>
+</html>
+`);
 }
 
 // ---------------------------------------------------------------- Podsumowanie

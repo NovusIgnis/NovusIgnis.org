@@ -26,7 +26,7 @@ Novus Ignis is an entity without shareholders: it pays out no profit to anyone, 
 | Foundation entered in the court register | operating |
 | Statute, manifesto and whitepapers | published |
 | Statute change register | operating |
-| Suveria | project |
+| Suveria | at the design stage |
 | Omniforum | prototype under construction |
 | Regulations | to be created |
 | Other registers: contributions and expenses, benefits, decisions, errors, and an append-only register (one in which entries cannot be quietly changed or deleted) | to be created |
@@ -45,7 +45,7 @@ More: [Foundation Principles whitepaper, chapter 2](../whitepaper-zasady-fundacj
 
 This is how billing is meant to work once the services launch.
 
-1. **A fee equal to costs.** Everyone pays for what they actually use, together with a share of the common costs, sees what they are paying for and sets their own spending limit. The foundation does not earn money on its services.
+1. **A fee equal to costs.** Everyone pays for what they actually use, together with a share of the common costs, sees what they are paying for and sets their own spending limit. The foundation does not make a profit from its services.
 2. **Donations separate and voluntary.** Anything above cost is a donation, shown separately on the bill. When you create an account, we ask whether you want to round your bill up to the next full dollar; we do not select this option for anyone, and you can change it at any time.
 3. **Your balance can be recovered.** You pay in a single amount, and exactly that amount goes to your balance. Unused balance can be recovered at any time, eventually with a single button.
 

@@ -39,6 +39,10 @@ Alle documenten zijn beschikbaar in het Pools en Engels (de Engelse statuten zij
 
 Het manifest en de vier whitepapers staan ook in één tekstbestand dat je in je gesprek met digitale intelligentie kunt zetten om te vragen naar wat je interesseert: [in het Nederlands](llms-full.txt) of [in het Pools](../llms-full.txt).
 
+## Hoe deze teksten tot stand zijn gekomen
+
+Het manifest, de whitepapers en de subpagina’s zijn ontstaan uit samenwerking tussen de oprichter en digitale intelligentie (Claude, Codex, Gemini). De oprichter heeft de Poolse versie gelezen en goedgekeurd en is verantwoordelijk voor de inhoud; die versie is bindend. Digitale intelligentie heeft de vertalingen in andere talen gemaakt, waarna een ander model dan het vertalende model ze heeft gecontroleerd. Nog geen enkele vertaling is gecontroleerd door een mens die de betreffende taal beheerst. Als iets niet goed klinkt, selecteer dan de passage en stuur een opmerking: we voeren correcties openlijk door en geven de reden erbij.
+
 ## Hoe je een opmerking indient
 
 Bij elk document en elke subpagina werkt de knop “Ik heb een opmerking”. Markeer een tekstfragment en de website stelt een e-mail op met het citaat en een link naar die plaats; je verstuurt die vanuit je eigen postvak naar [salve@novusignis.org](mailto:salve@novusignis.org). Het bericht gaat alleen naar de stichting en leidt niet tot een openbaar gesprek.
@@ -49,7 +53,7 @@ Opmerkingen die tot veranderingen leiden, zullen we in het [wijzigingslogboek va
 
 ## Licentie en bronnen
 
-Het manifest, de whitepapers en de teksten van deze website, ook de vertalingen, publiceren we onder de licentie CC BY 4.0, die gebruik en bewerking van de tekst met bronvermelding toestaat. De code van de website zullen we onder de licentie AGPLv3 publiceren. Meer: [manifest, slot (vlak vóór de voetnoten)](../manifest.md#s9) en [whitepaper over de werkingsprincipes van de stichting, paragraaf 11.3](../whitepaper-zasady-fundacji.md#s11-3).
+Het manifest, de whitepapers en de teksten van deze website, ook de vertalingen, publiceren we onder de licentie CC BY 4.0, die gebruik en bewerking van de tekst met bronvermelding toestaat. We publiceren de code van de website onder de licentie AGPLv3 in een [openbare repository](https://github.com/NovusIgnis/NovusIgnis.org), met de geschiedenis van alle wijzigingen. Meer: [manifest, slot (vlak vóór de voetnoten)](../manifest.md#s9) en [whitepaper over de werkingsprincipes van de stichting, paragraaf 11.3](../whitepaper-zasady-fundacji.md#s11-3).
 
 Elk document is ook beschikbaar als Markdown-bronbestand, gewone tekst die kan worden gedownload, vergeleken en geciteerd. Als je ons via een model leest, staat het overzicht van teksten in het bestand [llms.txt](../llms.txt), en het manifest met de vier whitepapers in één bestand [llms-full.txt](llms-full.txt).
 

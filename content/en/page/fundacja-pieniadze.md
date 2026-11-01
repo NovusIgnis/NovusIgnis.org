@@ -35,7 +35,7 @@ More: [Foundation Principles whitepaper, chapter 4](../whitepaper-zasady-fundacj
 
 ## One rule: a fee no higher than costs
 
-The foundation does not earn money on its services. You pay for what you actually use, together with a fairly calculated share of the shared costs, you see what you are paying for, and you set the limit on your own spending.
+The foundation does not make a profit from its services. You pay for what you actually use, together with a fairly calculated share of the shared costs, you see what you are paying for, and you set the limit on your own spending.
 
 Why? This is what § 10(4) of the statute provides: payments from paid public benefit activity cover only its costs. The same follows from the Act on Public Benefit Activity and Volunteering: a fee higher than costs would turn this activity into business activity, which the foundation does not conduct. Before introducing fees, we will check this in a legal and tax opinion.
 
@@ -101,7 +101,7 @@ More: [Foundation Principles whitepaper, chapter 8](../whitepaper-zasady-fundacj
 
 ## What we do not do with money
 
-- We do not earn money on our services: the fee covers costs and nothing more.
+- We do not make a profit from our services: the fee covers costs and nothing more.
 - We do not create cryptocurrencies in order to sell them and do not earn money from trading them.
 - A contribution does not give additional votes, management powers, access to users' data or a right to promotion in our services. We appoint people to the board for their competence, never for a contribution.
 - We do not accept benefits conditional on promotion, a recommendation or a concession in decisions.

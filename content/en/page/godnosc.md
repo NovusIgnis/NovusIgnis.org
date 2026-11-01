@@ -13,7 +13,7 @@ This page explains what “dignity” means in the Novus Ignis manifesto and wha
 
 We treat human dignity as a value independent of a person's abilities, productivity, wealth, views and usefulness to others. Everyone is owed respect and a place of their own in the world, also in a future in which digital intelligence might surpass us in ethical reasoning. Ethical conduct remains a direction for working on ourselves, not an exam that entitles us to respect.
 
-The manifesto calls care for dignity love, though everyone can describe it in their own language. The founder writes about it in the first person: it is an ethics he calls, “in short, love: care for the dignity of each of us.” We want to translate it into everyday life and cooperation, starting with the digital world.
+The manifesto calls care for dignity love, though everyone can describe it in their own language. Writing in the first person, the founder describes this ethic as “in short, love: care for the dignity of each of us.” We want to translate it into everyday life and cooperation, starting with the digital world.
 
 More: [manifesto, chapter 2](../manifest.md#s2) and [section 1.1](../manifest.md#s1-1).
 
@@ -39,7 +39,7 @@ In technology, this is meant to look as follows:
 
 We are working toward full privacy for such a space, including from the service operator, based on safeguards that can be independently verified. For every solution, we will clearly describe the scope of protection, its assumptions and its known limitations.
 
-Today Suveria, which is meant to make this space a reality, is a project.
+Today Suveria, which is meant to make this space a reality, is at the design stage.
 
 More: [manifesto, section 2.2](../manifest.md#s2-2).
 
@@ -75,7 +75,7 @@ More: [manifesto, section 2.5](../manifest.md#s2-5).
 
 ## What this means for Suveria and Omniforum
 
-These principles give rise to two complementary directions: Suveria is to be a private space for thinking, creating and planning with the help of digital intelligence, and Omniforum a shared space for presenting one's reasons and getting to know other perspectives. Today Suveria is a project, and Omniforum has a first prototype under construction. Each person is to choose for themselves what they keep to themselves and what they share with others. See: [What is Suveria](suveria.md) and [What is Omniforum](omniforum.md).
+These principles give rise to two complementary directions: Suveria is to be a private space for thinking, creating and planning with the help of digital intelligence, and Omniforum a shared space for presenting one's reasons and getting to know other perspectives. Today Suveria is at the design stage, and Omniforum has a first prototype under construction. Each person is to choose for themselves what they keep to themselves and what they share with others. See: [What is Suveria](suveria.md) and [What is Omniforum](omniforum.md).
 
 More: [manifesto, “Where we are today”](../manifest.md#top).
 

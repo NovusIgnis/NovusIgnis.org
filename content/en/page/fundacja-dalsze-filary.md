@@ -7,7 +7,7 @@ menu: Further pillars
 ---
 # Further pillars
 
-This page describes where the foundation wants to go beyond software and how it makes sure not to set out too early. Today we work only in Pillar I: Suveria is a project, and Omniforum has a prototype under construction. Pillars II and III are a vision, not work in progress.
+This page describes where the foundation wants to go beyond software and how it makes sure not to set out too early. Today we work only in Pillar I: Suveria is at the design stage, and Omniforum has a prototype under construction. Pillars II and III are a vision, not work in progress.
 
 ## The three pillars at a glance
 

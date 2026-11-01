@@ -1,0 +1,93 @@
+{
+ "source": "content/pl/page/dokumenty.md",
+ "paragraphs": [
+  {
+   "h": "2d41bb1e2778b93d5c48cece83a8dd8e6faac3a1",
+   "t": "# Dokumenty"
+  },
+  {
+   "h": "5e4efaa81b94db8652b2b8d2b4ca63b077a238bc",
+   "t": "Tu są wszystkie teksty, które opisują fundację: od statutu po whitepapery. Ta st"
+  },
+  {
+   "h": "359d279f5ee75393fda9d66280c15bdeb3577907",
+   "t": "## Jak dokumenty się układają"
+  },
+  {
+   "h": "326a2dc661cb954e9ec595c60da3a57de7d6f880",
+   "t": "Nasze zobowiązania mają kilka poziomów. Statut to podstawowy dokument fundacji, "
+  },
+  {
+   "h": "7176ba81886d47362f6a6df1cd03e2352326f9d4",
+   "t": "Niższy dokument nie może przeczyć wyższemu: manifest nie obiecuje niczego, czego"
+  },
+  {
+   "h": "ade8ef6778bc38ce0103f3382beabbb9d7435435",
+   "t": "## Lista dokumentów"
+  },
+  {
+   "h": "d58e4fa6ab39ee4b59e11c2aa80c34e2b2b98a71",
+   "t": "Suveria jest projektem, a Omniforum ma prototyp w budowie, więc whitepapery opis"
+  },
+  {
+   "h": "190972ebc8625e2bef532571e5d5351e41978e60",
+   "t": "| Dokument | Co w nim jest | Wersja | Czas czytania | Język | |---|---|---|---|-"
+  },
+  {
+   "h": "2c441010d76c359fe44f1958f4846f2475da7c06",
+   "t": "Wszystkie dokumenty są po polsku i angielsku (angielski statut tylko informacyjn"
+  },
+  {
+   "h": "89e890841978d95b776c19b9c7b268dd4a99caf1",
+   "t": "## Jak czytać"
+  },
+  {
+   "h": "524fd435333e02ea34486994a5648d0b68757444",
+   "t": "- Masz 5 minut: przeczytaj stronę [W skrócie](w-skrocie.md) albo [wstęp manifest"
+  },
+  {
+   "h": "bfc5406dfe212fb5ac6ba749889a57f436992a95",
+   "t": "Manifest i cztery whitepapery są też w jednym pliku tekstowym, który możesz wrzu"
+  },
+  {
+   "h": "40819ebd0e01b30b189da5453c62e9d1f3a79f01",
+   "t": "## Jak powstały te teksty"
+  },
+  {
+   "h": "1ecfb3bc497c498b019ee11c586704389abba29c",
+   "t": "Manifest, whitepapery i podstrony powstały we współpracy fundatora z cyfrową int"
+  },
+  {
+   "h": "b3883ce95a1ffbef2338ce456387ad87245adadf",
+   "t": "## Jak zgłosić uwagę"
+  },
+  {
+   "h": "180e0fba7f5d8856936fe3ee167f02fbf160f864",
+   "t": "Przy każdym dokumencie i podstronie działa przycisk „Mam uwagę”. Zaznacz fragmen"
+  },
+  {
+   "h": "1e8ae810603087a41437f145f7c2eb2f9e9436c9",
+   "t": "Strona niczego nie zapisuje: wiadomość powstaje w Twoim programie pocztowym, a t"
+  },
+  {
+   "h": "ad8421693aa73e330c26277415a1d9fbc04ba008",
+   "t": "Uwagi, które doprowadzą do zmian, będziemy odnotowywać w [dzienniku zmian strony"
+  },
+  {
+   "h": "69017f6402f90735e0fdece0ac83a461489276ac",
+   "t": "## Licencja i źródła"
+  },
+  {
+   "h": "8402cecb085e6593fa1443e50748216b1b47d2c1",
+   "t": "Manifest, whitepapery i teksty tej strony, także tłumaczenia, udostępniamy na li"
+  },
+  {
+   "h": "5d1dac2625aca8776bf83053ff7472c4ebee15c3",
+   "t": "Każdy dokument jest też dostępny jako plik źródłowy Markdown, czyli zwykły tekst"
+  },
+  {
+   "h": "39bea5a35ba79996332dafc9e8edf163b5afa1d1",
+   "t": "Dokumenty rozwijamy wraz z wiedzą i doświadczeniem, zachowując historię zmian: a"
+  }
+ ]
+}

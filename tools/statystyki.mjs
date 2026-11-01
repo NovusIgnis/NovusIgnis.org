@@ -33,7 +33,8 @@ const BOTS = [
   ['inne', /bot\b|bot\/|crawl|spider|slurp|curl|wget|python|httpclient|headless|scrapy|go-http-client|java\/|libwww|okhttp|axios|node-fetch|^-?$/i],
 ];
 const MONTHS = { Jan: '01', Feb: '02', Mar: '03', Apr: '04', May: '05', Jun: '06', Jul: '07', Aug: '08', Sep: '09', Oct: '10', Nov: '11', Dec: '12' };
-const LINE = /^\S+ \S+ \S+ \[(\d{2})\/(\w{3})\/(\d{4}):[^\]]*\] "(\S+) (\S+)[^"]*" (\d{3}) \S+(?: "[^"]*" "([^"]*)")?/;
+// Format „combined”; Infomaniak dopisuje na początku nazwę domeny („vhost_combined”), więc jest opcjonalna.
+const LINE = /^(?:[a-z0-9.-]+\.[a-z]{2,} )?\S+ \S+ \S+ \[(\d{2})\/(\w{3})\/(\d{4}):[^\]]*\] "(\S+) (\S+)[^"]*" (\d{3}) \S+(?: "[^"]*" "([^"]*)")?/;
 
 function kind(p) {
   if (p === '/' || p.endsWith('/') || p.endsWith('.html')) return 'strona';

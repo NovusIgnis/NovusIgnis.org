@@ -1,0 +1,368 @@
+{
+  "hero": {
+    "title": "NOVUS IGNIS",
+    "subtitle": "당신의 불꽃을 되찾으세요",
+    "scrollHint": "스크롤하여 시작하세요",
+    "cta_join": "참여하기",
+    "download": "문서 내려받기"
+  },
+  "act1": {
+    "text1_1": "처음에 사람들은 불가에 모였습니다.",
+    "text1_2": "불은 온기와 빛을 주고 사람들을 하나로 모았습니다.",
+    "text2_1": "하지만 신들은 질투했습니다.",
+    "text2_2": "Zeus는 그들의 불을 업신여겼습니다.",
+    "text3_1": "그리고 한 번의 숨결로 불을 껐습니다.",
+    "text3_2": "지식과 자유, 온기가 사라졌습니다.",
+    "text4_1": "인류는 다시 어둠에 잠겼습니다.",
+    "text4_2": "새 불을 밝힐 누군가를 기다리며."
+  },
+  "gap1": {
+    "text": "그러나 가장 깊은 어둠 속에도 불씨는 남았습니다..."
+  },
+  "act2": {
+    "prom_1": "티탄 Prometeusz가 나섭니다.",
+    "prom_2": "신들에게 도전해 불을 되찾을 준비가 되어 있습니다.",
+    "olimp1": "어둠 속의 삶을 거부했습니다.",
+    "olimp2": "신들의 궁전에 몰래 들어갔습니다.",
+    "olimp3": "그리고 신성한 불꽃을 낚아챘습니다.",
+    "olimp4_1": "인류에게 불을 돌려주려 산을 달려 내려갔습니다.",
+    "olimp4_2": "온기와 빛, 희망이 사람들의 마음에 돌아왔습니다.",
+    "rekindle_1": "신성한 불꽃이 다시 타올랐습니다.",
+    "rekindle_2": "손에 불을 쥔 인류는 건설을 시작했습니다.",
+    "civ_1": "잉걸불에서 제국이 생겨나고 문명이 솟았습니다.",
+    "civ_2": "불의 선물에서 과학과 건축, 주권이 시작됐습니다."
+  },
+  "twain": {
+    "quote": "“역사는 반복되지 않지만 운율을 맞춥니다.”",
+    "author": "Mark Twain의 말로 전해집니다"
+  },
+  "act3": {
+    "text1": "화면이 우리의 시선을 차지하기 전, 세상은 손에 잡혔습니다.",
+    "text2": "초기 인터넷은 인간의 주체성이 거둔 승리였습니다.",
+    "text3": "그러다 모니터의 빛을 응시하려 블라인드를 내렸습니다.",
+    "text4": "그다음엔 우리의 시간으로 돈을 버는 플랫폼이 왔습니다.",
+    "text5": "중독적인 패스트푸드와 값싼 도파민.",
+    "text6": "모든 화면 뒤의 끊임없는 감시.",
+    "text7": "기기에 내장된 계획적 노후화.",
+    "text8": "곳곳에서 벌어지는 주의력 사냥.",
+    "text9": "값싸고 쓸모없는 플라스틱의 홍수."
+  },
+  "newProm": {
+    "text": "현대의 Prometeusz가 필요합니다."
+  },
+  "act4": {
+    "text2": "다만 이번에는...",
+    "text3": "티탄 한 명으로는 부족합니다.",
+    "text4_top": "우리 여럿이 필요합니다.",
+    "text4_bottom": "그리고 우리는 많습니다.",
+    "text5": "우리는 모두 Prometeusz입니다.",
+    "text6": "이번에는 우리가 티탄입니다."
+  },
+  "dignity": {
+    "title": "다른 길도 가능합니다.",
+    "sentence1": "“목적의 나라에서 모든 것은 <span class=\"hl-price\">가격</span>이나 <span class=\"hl-dignity\">존엄성</span>을 지닌다.",
+    "sentence2": "등가물인 다른 것으로 <span class=\"hl-price\">가격이 있는 것은 대체될 수 있다</span>;",
+    "sentence3": "반면 <span class=\"hl-dignity\">모든 가격을 초월하여</span> 어떤 등가물도 허용하지 않는 것은 <span class=\"hl-dignity\">존엄성을 가진다</span>.”",
+    "author": "Immanuel Kant, 윤리형이상학 정초 (1785)"
+  },
+  "act5": {
+    "intro_badge": "인간의 존엄성",
+    "intro_title": "무엇보다 인간의 존엄성.",
+    "intro_sub": "우리가 만드는 모든 도구는 한 가지 원칙에 이바지하기 위한 것입니다:<br><strong style=\"color: #FFFFFF;\">인간의 존엄성 보호.</strong>",
+    "grid_title": "세 기둥",
+    "col1": {
+      "badge": "기둥 I · 여기서 시작합니다",
+      "title": "Suveria와 Omniforum",
+      "r1_h": "사적인 공간",
+      "r2_h": "공동의 이해",
+      "r3_h": "원가에 가까운 서비스 요금"
+    },
+    "col2": {
+      "badge": "기둥 II · 방향",
+      "title": "오래 쓰는 물건",
+      "r1_h": "오래가고 수리 가능한",
+      "r2_h": "개방형 설계",
+      "r3_h": "자원 공유"
+    },
+    "col3": {
+      "badge": "기둥 III · 방향",
+      "title": "자연",
+      "r1_h": "자연과 더 가까이",
+      "r2_h": "기술 밖에서의 삶"
+    },
+    "law_quote": "“모든 인간은 태어날 때부터 자유로우며 그 존엄과 권리에 있어 동등하다.”",
+    "law_source": "세계인권선언, 제1조(1948)",
+    "call_to_action": "인간의 존엄성은 세계인권선언과 160개가 넘는 나라의 헌법, 즉 유엔 회원국의 80%가 넘는 나라의 헌법에 명시되어 있습니다. 우리는 이 말이 일상에서 쓰는 기술의 구조로도 뒷받침되기를 원합니다.",
+    "suveria": {
+      "badge": "첫걸음 · SUVERIA",
+      "title": "당신의 사적인 디지털 공간에서 시작합니다",
+      "text": "자신만의 아늑한 방처럼, 들어가 문을 닫고 자신의 일과 생각, 계획을 차분히 정리할 수 있게 하려 합니다. 아무도 그 안을 들여다보지 않고 디지털 지능이 당신이 원할 때만 돕도록 Suveria를 설계하고 있습니다.",
+      "highlight": "보호에 관해 우리가 확언하는 내용은 모두 확인할 수 있어야 합니다. 아직 충족하지 못하는 부분은 분명히 밝힙니다.",
+      "link": "Suveria 백서 읽기 →"
+    }
+  },
+  "meta": {
+    "title": "Novus Ignis · 인간의 존엄성에 기반한 인터넷",
+    "description": "Novus Ignis 재단은 인간의 존엄성을 최우선 가치로 삼는 대안 인터넷을 함께 만들고 있습니다. Suveria: 사적인 디지털 공간. Omniforum: 공동의 대화·결정 공간."
+  },
+  "hub": {
+    "badge": "NOVUS IGNIS 재단",
+    "title": "인터넷,<br><span class=\"gradient-text--fire\">인간의 존엄성</span>을 바탕으로",
+    "subtitle": "인간의 존엄성과 거기서 비롯되는 사생활과 자유에 대한 필요를 최우선 가치로 삼는 대안 인터넷을 함께 만드는 일로 활동을 시작합니다. 이 가치를 바탕으로 두 가지 작업 방향을 이끌어냅니다. 사람을 위한 사적인 디지털 공간 <strong>Suveria</strong>와, 사람들이 만나 서로 이해하고 함께 행동할 수 있는 공동의 공개 공간 <strong>Omniforum</strong>입니다.",
+    "cta_manifesto": "선언문 읽기",
+    "cta_docs": "선언문과 백서",
+    "docs_title": "선언문, 백서와 정관",
+    "docs_sub": "정관은 재단의 법입니다. 선언문은 사람들에게 하는 우리의 약속으로, 무엇을 왜 하려는지 말합니다. 백서는 기술적 작동 방식과 한계를 보여 줍니다.",
+    "docs_read": "읽기 →",
+    "docs_note": "지식과 경험이 쌓임에 따라 문서를 발전시키며 변경 이력을 보존합니다.",
+    "cards": {
+      "manifest": {
+        "badge": "선언문",
+        "desc": "무엇을 왜 하려는지: 존엄성, 사생활, 공동의 이해, 서비스 유지와 권한 이양."
+      },
+      "suveria": {
+        "badge": "SUVERIA",
+        "desc": "무엇을 무엇으로부터 보호하는지, 기기에서 모델까지의 경로, 날짜를 밝힌 비용 계산과 인수 시험."
+      },
+      "omniforum": {
+        "badge": "OMNIFORUM",
+        "desc": "사안, 아이디어 카드, 논거 지도, 살아 있는 문서와 공동 결정 원칙."
+      },
+      "fundacja": {
+        "badge": "재단 운영 원칙",
+        "desc": "실제 사용량에 따른 청구, 예산, 일과 역할, 혜택 기록부, 설립자 권한 이양."
+      },
+      "benchmark": {
+        "badge": "연구",
+        "desc": "모델 학습 자료와 벤치마크: 디지털 지능이 실제로 사람들을 돕는지 확인하는 방법."
+      },
+      "statut": {
+        "badge": "정관",
+        "desc": "재단의 법, 모든 정관 버전과 근거를 담은 변경 기록부."
+      }
+    },
+    "join_badge": "참여",
+    "roles_title": "혼자서는 누구도 감당할 수 없습니다.<br><span class=\"gradient-text--fire\">우리는 모두 Prometeusz입니다.</span>",
+    "roles_desc": "선언문에서 마음에 와닿는 가치를 하나라도 찾고 기여할 수 있는 자리가 보인다면 Novus Ignis를 함께 만들어 가는 데 초대합니다.",
+    "roles_hint": "분야를 누르면 미리 준비된 제목으로 보낼 메시지를 작성할 수 있습니다.",
+    "roles_note": "매일 어떤 일을 겪고 무엇이 실제로 도움이 될지 말해 줄 수 있는 사람들의 경험도 똑같이 중요합니다.",
+    "mail_subject": "[참여]",
+    "roles_cta_email": "메일: salve@novusignis.org",
+    "roles_cta_manifest": "선언문 읽기",
+    "join_title": "함께 더 낫게 만들 수 있는 세상의 한 부분부터 시작합시다.",
+    "join_text": "salve@novusignis.org로 무엇을 소중히 여기며 어떤 역량, 질문, 아이디어나 경험을 보태고 싶은지 알려 주세요.",
+    "join_btn": "메시지 작성",
+    "join_disclaimer": "양식으로 주소를 수집하지 않습니다. 메시지는 우리 수신함으로 직접 전달됩니다."
+  },
+  "home": {
+    "cta_why": "Novus Ignis가 필요한 이유",
+    "cta_today": "현재 진행 상황",
+    "today": {
+      "title": "현재 진행 상황",
+      "works": "작동 중",
+      "works_text": "재단은 등록되었고 선언문과 백서는 공개되었습니다. 문서의 각 문장에 있는 “의견이 있습니다” 버튼도 작동합니다.",
+      "project": "설계 단계",
+      "project_text": "Omniforum은 첫 시제품을 제작 중이며 Suveria는 설계 단계입니다.",
+      "hypothesis": "가설",
+      "hypothesis_text": "비용 계산은 검증해야 할 가설입니다. 소규모 그룹도 사생활 보호를 검증할 수 있는 조건에서 같은 1달러로 폐쇄형 서비스보다 디지털 지능을 더 많이 이용할 수도 있습니다.",
+      "vision": "비전",
+      "vision_text": "디지털 지능이 독립적으로 운영을 맡는 것과 후속 기둥은 비전입니다.",
+      "note": "근거를 제시할 수 없는 것은 약속하지 않기 때문에 작동 중인 것과 설계 단계, 가설, 비전을 구분합니다."
+    },
+    "spaces": {
+      "title": "첫 번째 기둥: 두 공간",
+      "suveria_title": "Suveria",
+      "suveria_text": "Suveria는 집에서 문을 닫고 지내듯 디지털 지능과 대화하고 자신의 자료로 작업하며 이전 생각으로 돌아올 수 있는 사적인 인터넷 공간이 되도록 하려 합니다. 오늘의 Suveria는 디지털 지능과 사적으로 작업하는 데 이르는 우리의 가장 좋은 경로이며 그 자체가 목적은 아닙니다.",
+      "suveria_link": "Suveria란 무엇인가 →",
+      "omniforum_title": "Omniforum",
+      "omniforum_text": "Omniforum은 누구나 어떤 주제든 말할 수 있고 다른 이들이 그 말에 귀를 기울이는 곳이 되도록 하려 합니다. “그러니까 이런 뜻인가요? 제가 제대로 이해했나요?”라는 단순한 질문이 양쪽의 대화 어조를 바꿉니다. Omniforum의 모든 기술 계층은 바로 이 반응을 뒷받침하도록 하려 합니다.",
+      "omniforum_link": "Omniforum이란 무엇인가 →"
+    },
+    "help": {
+      "title": "도울 수 있는 방법",
+      "m5_title": "5분",
+      "m5_text": "선언문 서두를 읽고 불분명하거나 동의하지 않는 문장을 표시한 다음 “의견이 있습니다”를 누르세요.",
+      "m5_model": "모델을 통해 우리 글을 읽는다면 가장 취약한 부분도 물어보고 찾아낸 내용을 보내 주세요.",
+      "h1_title": "한 시간",
+      "h1_text": "자신의 분야에 해당하는 백서를 살펴보세요: <a href=\"#\" data-doc-link=\"suveria\">보안과 인프라(Suveria)</a>, <a href=\"#\" data-doc-link=\"fundacja\">법과 재정(재단 운영 원칙)</a>, <a href=\"#\" data-doc-link=\"benchmark\">연구(학습 자료와 벤치마크)</a>, <a href=\"#\" data-doc-link=\"omniforum\">대화와 결정(Omniforum)</a>.",
+      "more_title": "더 오래",
+      "more_text": "첫 버전을 함께 만들어 주세요. 역할과 필요한 일은 <a href=\"#\" data-page-link=\"dolacz\">참여하기</a> 페이지에서 설명합니다.",
+      "money_title": "재정 지원",
+      "money_text": "재단은 즈워티, 유로, 달러로 계좌이체 기부금을 받습니다. 모든 납입을 날짜, 금액, 짧은 설명과 함께 공개 기록부에 표시하며 기부자가 원할 때만 이름을 밝힙니다. 기부는 표, 결정에 대한 영향력, 홍보 권리를 주지 않습니다. <a href=\"wesprzyj.html\">이체 정보와 원칙</a>"
+    },
+    "docs_all": "전체 문서와 의견 보내는 방법",
+    "join_page": "역할을 보고 연락하기",
+    "next": {
+      "title": "다음에 할 수 있는 일",
+      "status": "재단은 운영 중이며 문서와 공개 납입 기록부도 이용할 수 있습니다. Suveria와 Omniforum은 우리가 작업 중인 설계안입니다.",
+      "wait_title": "시험해 보고 싶다고 알려 주세요",
+      "wait_text": "대기 명단에 등록하세요. Suveria와 Omniforum의 첫 시험을 시작하면 연락드리겠습니다.",
+      "wait_btn": "대기 명단 등록",
+      "wait_note": "미리 준비된 제목으로 메시지를 보내면 됩니다. 이메일 주소는 그 한 번의 메시지에만 사용하며 요청하면 즉시 삭제하겠습니다. <a href=\"twoje-dane.html\">개인정보</a>",
+      "read_title": "더 읽기",
+      "read_text": "짧은 소개부터 읽거나 선언문과 백서를 살펴보세요. 자신의 모델에게 읽히고 우리의 가장 취약한 부분을 물어볼 수도 있습니다.",
+      "read_btn": "Novus Ignis 한눈에 보기",
+      "read_docs": "선언문과 백서",
+      "join_title": "참여 신청",
+      "join_text": "보안과 법부터 아이디어를 알리는 일까지 첫 버전을 만드는 데 도움을 줄 분을 찾습니다. 처음에는 글에 의견 하나를 남기는 것만으로 충분합니다.",
+      "join_btn": "찾는 역할 보기",
+      "give_title": "재단 후원",
+      "give_text": "즈워티, 유로 또는 달러 계좌이체로 기부할 수 있습니다. 모든 납입을 공개 기록부에 표시하며 기부는 표나 결정에 대한 영향력을 주지 않습니다.",
+      "give_btn": "기부하기"
+    }
+  },
+  "nav": {
+    "brand": "NOVUS IGNIS",
+    "tagline": "인간의 존엄성에 기반한 인터넷.",
+    "menu": "메뉴",
+    "language": "언어",
+    "links": {
+      "story": "이야기",
+      "manifest": "선언문",
+      "whitepapers": "백서",
+      "statute": "정관",
+      "join": "참여하기"
+    },
+    "docs": {
+      "manifest": "선언문",
+      "suveria": "Suveria 백서",
+      "omniforum": "Omniforum 백서",
+      "fundacja": "재단 운영 원칙",
+      "benchmark": "학습 자료와 벤치마크",
+      "statut": "정관과 변경 기록부"
+    },
+    "footer": {
+      "documents": "문서",
+      "contact": "연락처",
+      "krs": "Krajowy Rejestr Sądowy 등록 정보",
+      "legal": "Novus Ignis 재단 · Poznań, Polska · KRS 0001269575 · NIP 7792612046",
+      "license_html": "선언문, 백서와 웹사이트 본문을 <a href=\"https://creativecommons.org/licenses/by/4.0/deed.ko\" rel=\"noopener\">CC BY 4.0</a> 라이선스로 제공합니다.",
+      "privacy": "이 사이트는 쿠키나 분석 스크립트를 사용하지 않으며 선택한 언어는 브라우저만 기억합니다.",
+      "shortcuts": "바로가기",
+      "ai_note": "이 글들은 설립자와 디지털 지능의 협업으로 작성되었습니다. 설립자가 승인한 폴란드어판이 구속력을 갖습니다."
+    },
+    "groups": {
+      "dlaczego": "필요한 이유",
+      "suveria": "Suveria",
+      "omniforum": "Omniforum",
+      "fundacja": "재단",
+      "dokumenty": "문서",
+      "dolacz": "참여하기",
+      "skroty": "바로가기"
+    },
+    "expand": "하위 메뉴 펼치기",
+    "shortcuts": {
+      "w_skrocie": "한눈에 보기",
+      "dziennik_zmian": "변경 기록",
+      "slownik": "용어집",
+      "mapa_strony": "사이트맵"
+    },
+    "overview": {
+      "dlaczego": "Novus Ignis가 필요한 이유",
+      "suveria": "Suveria란",
+      "omniforum": "Omniforum이란",
+      "fundacja": "우리는 누구인가",
+      "dokumenty": "모든 문서",
+      "dolacz": "찾는 역할과 시작 방법"
+    }
+  },
+  "doc": {
+    "toc": "목차",
+    "footnotes": "주석",
+    "footnote": "주석",
+    "back": "본문의 이전 위치로 돌아가기",
+    "link_here": "이 절의 링크",
+    "skip": "본문으로 이동",
+    "source_note": "출처 파일:",
+    "not_translated": "이 문서는 아직 이 언어로 번역되지 않았습니다.",
+    "reading_original": "폴란드어 원문을 읽고 계십니다.",
+    "remark": {
+      "button": "의견이 있습니다",
+      "copy": "내용 복사",
+      "copied": "복사했습니다",
+      "section": "의견",
+      "section_label": "이 부분에 의견을 보내 주세요:",
+      "subject": "[의견]",
+      "quote": "발췌문:",
+      "place": "본문 위치:",
+      "prompt": "내 의견:",
+      "hint": "의견이 있나요? 본문 일부를 선택하거나 절 제목 옆의 “의견” 링크를 사용하세요. 인용문과 링크가 담긴 메시지를 준비해 드립니다. 자신의 메일 계정에서 다음 주소로 보내세요:",
+      "content_button": "내용에 대한 의견",
+      "translation_button": "번역에 대한 의견",
+      "translation_subject": "[번역]",
+      "original": "원문:"
+    },
+    "outdated": "이 번역은 원문의 이전 버전을 바탕으로 작성되어 일부 문단이 다를 수 있습니다.",
+    "translation_note": "디지털 지능이 작성한 번역입니다. 폴란드어본이 우선합니다. 어색한 부분이 있으면 표시하고 번역 의견을 보내 주세요.",
+    "experimental_note": "품질에 대한 우리의 확신이 가장 낮은 언어로 디지털 지능이 작성한 실험적 번역입니다. 폴란드어본이 우선합니다. 간곡히 부탁드립니다. 잘못된 부분을 발견하면 표시하고 번역 제안을 보내 주세요.",
+    "compare": {
+      "label": "비교 대상:",
+      "original": "원문",
+      "show": "비교 보기",
+      "hide": "비교 숨기기",
+      "loading": "불러오는 중…",
+      "error": "다른 버전을 불러오지 못했습니다."
+    },
+    "source_history": "변경 기록",
+    "source_edit": "변경 제안하기"
+  },
+  "alt": {
+    "logo": "Novus Ignis 로고",
+    "prometheus": "Prometeusz",
+    "digital_prometheus": "디지털 Prometeusz",
+    "we_are_prometheus": "우리는 모두 Prometeusz입니다"
+  },
+  "sitemap": {
+    "title": "사이트맵",
+    "desc": "메뉴의 구성에 맞춰 재단의 모든 페이지를 이야기, 문서, 하위 페이지로 분류했습니다.",
+    "home": "홈",
+    "other": "기타 페이지",
+    "empty": "아직 이 그룹에는 페이지가 없습니다."
+  },
+  "glossary": {
+    "title": "용어집",
+    "intro": "문서의 핵심 개념을 한 문장씩 설명하고 각 정의가 있는 곳의 링크를 덧붙였습니다.",
+    "source": "출처:",
+    "tip": {
+      "label": "용어 설명",
+      "back": "뒤로",
+      "close": "닫기",
+      "glossary": "용어집"
+    }
+  },
+  "llms": {
+    "only_source": "이 문서는 {url}에서 폴란드어로 제공됩니다."
+  },
+  "mail": {
+    "title": "메일 작성",
+    "address": "이메일 주소",
+    "subject": "제목",
+    "body": "내용",
+    "body_ready": "붙여넣기 준비 완료",
+    "copy_address": "주소 복사",
+    "copy_subject": "제목 복사",
+    "copy_body": "내용 복사",
+    "copied": "복사했습니다",
+    "open_app": "메일 앱 열기",
+    "open_gmail": "Gmail에서 열기",
+    "open_outlook": "Outlook에서 열기",
+    "close": "닫기"
+  },
+  "ask": {
+    "button": "TL;DR?",
+    "button_title": "TL;DR? 자신의 디지털 지능에게 우리 문서에 관해 물어보세요",
+    "title": "자신의 디지털 지능에게 물어보세요",
+    "copy_all": "모든 문서 복사",
+    "copy_manifest": "선언문만 복사",
+    "copied": "복사했습니다. 대화에 붙여넣으세요",
+    "loading": "내려받는 중…",
+    "failed": "복사하지 못했습니다. 파일 내려받기를 이용하세요.",
+    "open_in": "다음에서 대화 열기:",
+    "download": "파일 내려받기(.txt)",
+    "close": "닫기",
+    "prompt": "아래는 Novus Ignis 재단의 문서(선언문과 백서)입니다. 이해할 수 있도록 도와주세요. 이 문서들을 바탕으로 답하고 해당 장을 밝히며 이미 작동하는 것과 설계 단계에 있는 것, 가설, 비전을 구분해 주세요. 문서에 어떤 내용이 없으면 그 점을 분명히 말해 주세요.",
+    "prompt_link": "Novus Ignis 재단의 문서(선언문과 백서)를 읽어 주세요: {url}. 이해할 수 있도록 도와주세요. 이 문서들을 바탕으로 답하고 해당 장을 밝히며 이미 작동하는 것과 설계 단계에 있는 것, 가설, 비전을 구분해 주세요. 문서에 어떤 내용이 없으면 그 점을 분명히 말해 주세요. 먼저 몇 문장으로 무슨 내용인지 요약해 주세요.",
+    "paste": "붙여넣기",
+    "paste_title": "Gemini는 빈 대화를 엽니다. 질문은 이미 복사되었으니 붙여넣고(Ctrl+V) 보내세요."
+  }
+}

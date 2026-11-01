@@ -11,7 +11,7 @@ On the [How a conversation works](omniforum-rozmowa.md) page we described how a 
 
 An issue map is an organized collection of arguments, experiences and open questions around one question. An idea card is a description of an idea: where it leads and what the next step is.
 
-The Omniforum prototype is under construction. Everything we describe below is a project, and we have not yet completed any trial.
+The Omniforum prototype is under construction. Everything we describe below is at the design stage, and we have not yet completed any trial.
 
 More: [Omniforum whitepaper, chapter 1](../whitepaper-omniforum.md#s1).
 
@@ -41,7 +41,7 @@ With a conclusion we want to show three things separately:
 - how well justified the conclusion itself is;
 - how broadly people have agreed with it.
 
-One measure does not replace another: full agreement among participants that rests on a single unverified relation is still a weak conclusion. We have yet to work out the scale for these assessments, and we do not add apparent uncertainty to well-established facts.
+One measure does not replace another: full agreement among participants that rests on a single unverified account is still a weak conclusion. We have yet to work out the scale for these assessments, and we do not add apparent uncertainty to well-established facts.
 
 The manifesto divides shared deliberation into facts (what can be checked), values (needs and convictions about what is right) and hypotheses, that is, bold ideas with a marked condition, “what would have to become possible for this to work.” Facts are settled by sources, not by the number of votes; in matters of values every person is an equal point of reference. In Omniforum every thought is to receive such a marking.
 
@@ -49,7 +49,7 @@ More: [Omniforum whitepaper, chapter 5](../whitepaper-omniforum.md#s5) and [mani
 
 ## Idea card
 
-Bold visions are easily dismissed as detached from reality, and cautious plans as lacking a goal. The idea card connects the two: it shows where we want to get to and what the next step is. It gives the idea's status (working, project, hypothesis or vision) and answers eight questions:
+Bold visions are easily dismissed as detached from reality, and cautious plans as lacking a goal. The idea card connects the two: it shows where we want to get to and what the next step is. It gives the idea's status (working, design, hypothesis or vision) and answers eight questions:
 
 1. **What is it?** A definition and the expected result.
 2. **What for?** Whose needs it meets and what an ordinary day looks like for a person who uses it.

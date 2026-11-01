@@ -1704,7 +1704,7 @@ body {
 .lang-dropdown__menu {
   position: absolute;
   top: calc(100% + 8px);
-  right: 0;
+  inset-inline-end: 0;
   min-width: 155px;
   background: rgba(14, 14, 22, 0.98);
   backdrop-filter: blur(24px);
@@ -2831,10 +2831,11 @@ body {
    WERSJA 31.10.2026: nawigacja mobilna, Dołącz, dostępność
    ============================================ */
 .skip-link {
-  position: absolute; left: -9999px; top: 8px; z-index: 300;
+  /* ukryty poza ekranem bez przesuwania w lewo: w języku od prawej do lewej poszerzałby stronę */
+  position: absolute; inset-inline-start: 16px; top: 8px; z-index: 300; transform: translateY(-200%);
   background: var(--ni-flame-main); color: #000; padding: 8px 14px; border-radius: 6px; font-weight: 600;
 }
-.skip-link:focus { left: 16px; }
+.skip-link:focus { transform: none; }
 
 a:focus-visible, button:focus-visible, summary:focus-visible {
   outline: 2px solid var(--ni-amber);

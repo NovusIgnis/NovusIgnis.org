@@ -39,6 +39,10 @@ Wszystkie dokumenty są po polsku i angielsku (angielski statut tylko informacyj
 
 Manifest i cztery whitepapery są też w jednym pliku tekstowym, który możesz wrzucić do swojego czatu z cyfrową inteligencją i zapytać o to, co Cię interesuje: [po polsku](../llms-full.txt) albo [po angielsku](../en/llms-full.txt).
 
+## Jak powstały te teksty
+
+Manifest, whitepapery i podstrony powstały we współpracy fundatora z cyfrową inteligencją (Claude, Codex, Gemini). Polska wersja została przeczytana i zatwierdzona przez fundatora, który odpowiada za jej treść; to ona jest wiążąca. Przekłady na inne języki wykonała cyfrowa inteligencja, a sprawdził je inny model niż ten, który tłumaczył. Żadnego przekładu nie sprawdził jeszcze człowiek władający danym językiem. Jeśli coś brzmi źle, zaznacz fragment i wyślij uwagę: poprawki wprowadzamy jawnie, z uzasadnieniem.
+
 ## Jak zgłosić uwagę
 
 Przy każdym dokumencie i podstronie działa przycisk „Mam uwagę”. Zaznacz fragment tekstu, a strona przygotuje wiadomość e-mail z cytatem i odnośnikiem do tego miejsca; wysyłasz ją z własnej poczty na adres [salve@novusignis.org](mailto:salve@novusignis.org). Wiadomość trafia tylko do fundacji i nie powstaje z niej publiczna rozmowa.
@@ -49,7 +53,7 @@ Uwagi, które doprowadzą do zmian, będziemy odnotowywać w [dzienniku zmian st
 
 ## Licencja i źródła
 
-Manifest, whitepapery i teksty tej strony, także tłumaczenia, udostępniamy na licencji CC BY 4.0, która pozwala korzystać z tekstu i go przerabiać z podaniem źródła. Kod strony udostępnimy na licencji AGPLv3. Więcej: [manifest, zakończenie (tuż przed przypisami)](../manifest.md#s9) i [whitepaper zasad fundacji, punkt 11.3](../whitepaper-zasady-fundacji.md#s11-3).
+Manifest, whitepapery i teksty tej strony, także tłumaczenia, udostępniamy na licencji CC BY 4.0, która pozwala korzystać z tekstu i go przerabiać z podaniem źródła. Kod strony udostępniamy na licencji AGPLv3 w [publicznym repozytorium](https://github.com/NovusIgnis/NovusIgnis.org), z historią wszystkich zmian. Więcej: [manifest, zakończenie (tuż przed przypisami)](../manifest.md#s9) i [whitepaper zasad fundacji, punkt 11.3](../whitepaper-zasady-fundacji.md#s11-3).
 
 Każdy dokument jest też dostępny jako plik źródłowy Markdown, czyli zwykły tekst, który można pobrać, porównać i cytować. Jeśli czytasz nas przez model, spis tekstów jest w pliku [llms.txt](../llms.txt), a manifest i cztery whitepapery w jednym pliku [llms-full.txt](../llms-full.txt).
 

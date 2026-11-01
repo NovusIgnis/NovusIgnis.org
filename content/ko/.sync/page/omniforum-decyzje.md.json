@@ -1,0 +1,173 @@
+{
+ "source": "content/pl/page/omniforum-decyzje.md",
+ "paragraphs": [
+  {
+   "h": "347f619259f5171744cf1c0d0d8de163f1380f9c",
+   "t": "# Wspólne decyzje w Omniforum"
+  },
+  {
+   "h": "63a90daf8e2218baafc1e7fbd4481c10da7f5c0c",
+   "t": "Ta strona pogłębia to, co strona [Czym jest Omniforum](omniforum.md) mówi w skró"
+  },
+  {
+   "h": "26a0785043443f555693c8a2b4eaf82e1b06eaca",
+   "t": "Dziś nie odbywa się żadne głosowanie ani konsultacja. Prototyp Omniforum jest w "
+  },
+  {
+   "h": "cbe274a210b4b67ddebfcaec36cdc68278c27e56",
+   "t": "To jedna z najtrudniejszych części całego przedsięwzięcia, dlatego piszemy otwar"
+  },
+  {
+   "h": "360f00fda3c734c43a49d04f3c64ac7147302e1b",
+   "t": "Więcej: [whitepaper Omniforum, rozdział 8](../whitepaper-omniforum.md#s8)."
+  },
+  {
+   "h": "37efaacbf365cfcd2ea972d9d8caad8bcd51329c",
+   "t": "## Fakty, wartości, hipotezy"
+  },
+  {
+   "h": "f0f2fee061f23f2ec921bb2297be8f085a647b1c",
+   "t": "Nie wszystko rozstrzyga się głosem. Manifest rozróżnia:"
+  },
+  {
+   "h": "eab21f9e26ea7827a7bd5068315a159a0022263d",
+   "t": "- **fakty i wykonalność**: rozstrzyga sprawdzalny dowód, nie głosowanie; jedna o"
+  },
+  {
+   "h": "2e7fc2cde4b49873910913dc9378fe377dc69e89",
+   "t": "Obok ogólnego wyniku chcemy pokazywać, jak sprawę oceniają badacze i praktycy da"
+  },
+  {
+   "h": "21dc37bce4321243b149974941f63997b5f1131f",
+   "t": "Więcej: [manifest, punkt 5.1](../manifest.md#s5-1)."
+  },
+  {
+   "h": "6fad8bfc82b5d75a058fc869309c8e2f5551806d",
+   "t": "## Konsultacja a głosowanie"
+  },
+  {
+   "h": "1c1a669bbed0cfe5f2e9b49798cd25874ff92eb1",
+   "t": "Statut fundacji dopuszcza głosowania i konsultacje w sprawach kierunku rozwoju p"
+  },
+  {
+   "h": "f5f2697faadc291280907b9ef023e2a7514a49e8",
+   "t": "- **Konsultacja** to pytanie o zdanie bez weryfikacji uczestników, otwarte dla k"
+  },
+  {
+   "h": "49bc093dd3537ffd55c689c1980df3ca5cad1a82",
+   "t": "Dopóki próba nie potwierdza, że każdy głosujący jest inną osobą, nazywamy ją kon"
+  },
+  {
+   "h": "ec8ed2a570432e64d60c68abebfd308bbd2b1a78",
+   "t": "Więcej: [statut, § 8](../statut/statut-2026-09-28.md#par-8), [whitepaper Omnifor"
+  },
+  {
+   "h": "31015441256a6f82fa3579db69f5f9e9e0d95b3b",
+   "t": "## Jak uzyskać prawo głosu"
+  },
+  {
+   "h": "a74b08b51e8818c00f4c7448b7282deee56bd530",
+   "t": "Projektujemy kilka dróg do prawa głosu. Żadna nie wymaga biometrii. Wszystko, cz"
+  },
+  {
+   "h": "291addd4a413232f9932d392636b01c0771f7691",
+   "t": "Pierwszą oficjalną drogą ma być europejski portfel tożsamości cyfrowej, bo pozwa"
+  },
+  {
+   "h": "31a5c7d4e78c16862b0aa5ed4a8eef8f10ce3b8e",
+   "t": "Drogi, które chcemy zbadać:"
+  },
+  {
+   "h": "6ddbf9947c5237887d7af79c9a725665720d5500",
+   "t": "- **Dokument państwowy z chipem albo cyfrowy portfel tożsamości**, o ile wybrany"
+  },
+  {
+   "h": "ceca536381456a7d0ae2de425edc5d465c212ddd",
+   "t": "Każde uprawnienie ma dostać unikalny znacznik, żeby nowy dowód tej samej osoby n"
+  },
+  {
+   "h": "7aa78ee57e2d1caa24453e324d1f73ba821476b9",
+   "t": "Łączenie dróg zostawia ryzyko, że ta sama osoba zdobędzie dodatkowe uprawnienia."
+  },
+  {
+   "h": "ee5ad46f8db4bbc9c6749e9b7a0e1006ab016369",
+   "t": "Więcej: [whitepaper Omniforum, punkt 8.3](../whitepaper-omniforum.md#s8-3) i [ma"
+  },
+  {
+   "h": "a6a86e72e7efa50b9e4b8de32f21a0eabb2f99c2",
+   "t": "## Zasady, które obowiązują zawsze"
+  },
+  {
+   "h": "de1814b4c31d28bf3c5f34cb77539534504aded7",
+   "t": "To zasady projektu, które zapiszemy w regulaminie głosowań."
+  },
+  {
+   "h": "e0c442887c7e06775bd647da9e9bf6b5337b4188",
+   "t": "- Rozmowa przygotowuje decyzję, ale jej nie zastępuje: publikacja myśli, poparci"
+  },
+  {
+   "h": "9ccd1eec89378957c0ffffa76ad8153f95ce80c3",
+   "t": "Więcej: [whitepaper Omniforum, rozdział 8](../whitepaper-omniforum.md#s8), [punk"
+  },
+  {
+   "h": "1d83b263859be3fc3f9c061622821e976779f2ae",
+   "t": "## Trudne sprawy: trzy kroki"
+  },
+  {
+   "h": "030f6a465c0758d5c3827d3596c2cc0633329708",
+   "t": "1. **Otwarta mapa sprawy** w Omniforum, w której może wziąć udział każdy. 2. **L"
+  },
+  {
+   "h": "d2a17e555e036773700b99f95759c15347821f07",
+   "t": "Więcej: [whitepaper Omniforum, punkt 8.4](../whitepaper-omniforum.md#s8-4)."
+  },
+  {
+   "h": "18b7806ce4b5e3288f1fb7718609a6a8bde80659",
+   "t": "## Stopniowo i ostrożnie"
+  },
+  {
+   "h": "24a84fe537734118202f091897180863a28dd9a0",
+   "t": "Głosowanie będzie zyskiwać moc wiążącą stopniowo: najpierw próby bez skutków fin"
+  },
+  {
+   "h": "b0ee7e8544c8fcbf9f578f91d565713726bb1544",
+   "t": "Do tego czasu fundacja działa w fazie zwinnej: zarząd podejmuje bieżące decyzje,"
+  },
+  {
+   "h": "bfed1b11bc99af1eea884f80a3dd487a42e018b2",
+   "t": "Pełne uruchomienie dalszych filarów (otwarte projekty trwałych przedmiotów i kon"
+  },
+  {
+   "h": "2f8d244e85a545ab73a8278ab4fd340a3ae1c209",
+   "t": "Więcej: [whitepaper Omniforum, punkt 8.5](../whitepaper-omniforum.md#s8-5), [whi"
+  },
+  {
+   "h": "741deee718f557e0903415a85de1260c4be913d2",
+   "t": "## Czego to nie zapewni"
+  },
+  {
+   "h": "73f7e7d291f5bc22849edd29c801d2721d900a9b",
+   "t": "- Dowód z wiedzą zerową potwierdza przynależność do uprawnionych, a w protokołac"
+  },
+  {
+   "h": "490ce7534eb34e28ba5965add34219a7a6f21d6c",
+   "t": "Jak w pełni pogodzić jeden głos na osobę bez centralnej bazy tożsamości, tajność"
+  },
+  {
+   "h": "f3e07e203891b5eb5ee0a2e3859059ba3f0f0929",
+   "t": "Więcej: [whitepaper Omniforum, punkt 8.2](../whitepaper-omniforum.md#s8-2), [pun"
+  },
+  {
+   "h": "dbd729a4bebd65f560d1601db4be5811d62ffdc0",
+   "t": "## Przeczytaj i powiedz, co myślisz"
+  },
+  {
+   "h": "622e79ac32ba0f265183f39e72fd5f63769f3168",
+   "t": "Pełny opis znajdziesz w [whitepaperze Omniforum](../whitepaper-omniforum.md), ro"
+  },
+  {
+   "h": "f7be398ad8cbbaee6f5382c726f333faec87bca6",
+   "t": "Więcej: [whitepaper Omniforum, punkt 5.5](../whitepaper-omniforum.md#s5-5)."
+  }
+ ]
+}

@@ -222,6 +222,7 @@
       '</div>' +
       '<div class="container footer-bottom">' +
         '<p>' + esc(F.legal || '') + '</p>' +
+        (F.ai_note ? '<p>' + esc(F.ai_note) + '</p>' : '') +
         '<p>' + (F.license_html || '') + ' ' + esc(F.privacy || '') + '</p>' +
       '</div>';
   }

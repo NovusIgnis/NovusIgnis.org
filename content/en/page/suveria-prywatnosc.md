@@ -11,7 +11,7 @@ This page is for people who want to know what privacy protection in Suveria is m
 
 One principle organizes the whole: privacy cannot rest on trust in the good intentions of the foundation or of server administrators, but only on safeguards whose operation can be independently verified. The manifesto puts it this way: “Every security promise must have proof in code and silicon, not only in our words.” Your own devices are to be the primary place where conversations are stored, and we do not create hidden access to private content.
 
-Today Suveria is a project. Everything below describes how it is meant to work; we have not yet carried out any of the trials that are to confirm it.
+Today Suveria is at the design stage. Everything below describes how it is meant to work; we have not yet carried out any of the trials that are to confirm it.
 
 More: [manifesto, section 2.2](../manifest.md#s2-2) and [section 3.1](../manifest.md#s3-1).
 

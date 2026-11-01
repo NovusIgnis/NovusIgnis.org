@@ -63,6 +63,36 @@
       "code": "ja",
       "name": "日本語",
       "status": "przeklad"
+    },
+    {
+      "code": "ar",
+      "name": "العربية",
+      "status": "eksperymentalny"
+    },
+    {
+      "code": "hi",
+      "name": "हिन्दी",
+      "status": "eksperymentalny"
+    },
+    {
+      "code": "id",
+      "name": "Bahasa Indonesia",
+      "status": "eksperymentalny"
+    },
+    {
+      "code": "ko",
+      "name": "한국어",
+      "status": "eksperymentalny"
+    },
+    {
+      "code": "tr",
+      "name": "Türkçe",
+      "status": "eksperymentalny"
+    },
+    {
+      "code": "vi",
+      "name": "Tiếng Việt",
+      "status": "eksperymentalny"
     }
   ],
   "documents": [

@@ -37,9 +37,9 @@ More: [manifesto, chapter 2](../manifest.md#s2), [section 2.1](../manifest.md#s2
 
 These principles give rise to two directions of work.
 
-**Suveria** is to be a private digital space for each person: a place to work with optional help from digital intelligence, where you can develop ideas, ask personal questions and make plans. We want its privacy to depend not on trust in the foundation or in the people running the service, but on safeguards whose operation can be independently verified. Today Suveria is a project. See: [What is Suveria](suveria.md).
+**Suveria** is to be a private digital space for each person: a place to work with optional help from digital intelligence, where you can develop ideas, ask personal questions and make plans. We want its privacy to depend not on trust in the foundation or in the people running the service, but on safeguards whose operation can be independently verified. Today Suveria is at the design stage. See: [What is Suveria](suveria.md).
 
-**Omniforum** is to be a shared public space where anyone can speak and be heard. With the help of digital intelligence, always under the author's control and with the author's consent, it will be possible to break complex statements down into individual thoughts, so that two people with seemingly opposing views can see what they have in common and where their reasoning diverges. A first prototype of Omniforum is under construction. See: [What is Omniforum](omniforum.md).
+**Omniforum** is to be a shared public space where anyone can speak and be heard. With the help of digital intelligence, always under the author's control and with the author's consent, complex statements are intended to be broken down into individual thoughts, so that two people with seemingly opposing views can see what they have in common and where their reasoning diverges. A first prototype of Omniforum is under construction. See: [What is Omniforum](omniforum.md).
 
 The two spaces are meant to complement each other as a private workshop and a public podium. Each person decides which thoughts to keep to themselves and which to bring into shared work.
 
@@ -49,7 +49,7 @@ More: [manifesto, introduction](../manifest.md#top), [section 3.1](../manifest.m
 
 The manifesto says it plainly:
 
-> The foundation is registered, and the manifesto and whitepapers are published. Omniforum has a first prototype under construction, and Suveria is a project. The cost calculation in section 2.4 is a hypothesis to be tested, while autonomous management by digital intelligence (section 7.2) and further pillars (chapter 9) are a vision.
+> The foundation is registered, and the manifesto and whitepapers are published. Omniforum has a first prototype under construction, and Suveria is at the design stage. The cost calculation in section 2.4 is a hypothesis to be tested, while autonomous management by digital intelligence (section 7.2) and further pillars (chapter 9) are a vision.
 
 The whitepapers are documents that develop along with the projects: they describe the technical and organizational ways of putting these ideas into practice, the reasoning behind them and their known limitations.
 

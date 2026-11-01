@@ -17,7 +17,7 @@ A lower document may not contradict a higher one: the manifesto does not promise
 
 ## List of documents
 
-Suveria is a project, and Omniforum has a prototype under construction, so the whitepapers describe intentions and limits, not working services; each of them says so in its first paragraph. More: [manifesto, introduction](../manifest.md#top).
+Suveria is at the design stage, and Omniforum has a prototype under construction, so the whitepapers describe intentions and limits, not working services; each of them says so in its first paragraph. More: [manifesto, introduction](../manifest.md#top).
 
 | Document | What it contains | Version | Reading time | Language |
 |---|---|---|---|---|
@@ -39,6 +39,10 @@ All documents are available in Polish and English (the English statute is for in
 
 The manifesto and the four whitepapers are also available in one text file that you can drop into your chat with digital intelligence and ask about whatever interests you: [in English](llms-full.txt) or [in Polish](../llms-full.txt).
 
+## How these texts were made
+
+The manifesto, the whitepapers and the subpages were written by the founder together with digital intelligence (Claude, Codex, Gemini). The Polish version was read and approved by the founder, who is responsible for its content; it is the binding version. Translations into other languages were made by digital intelligence and checked by a different model than the one that translated them. No translation has yet been checked by a person fluent in the language. If something reads wrong, select the passage and send a comment: we make corrections openly, with the reason for each.
+
 ## How to send a comment
 
 Next to every document and page there is an “I have a comment” button. Highlight a passage of text and the site will prepare an email with the quotation and a link to that spot; you send it from your own email account to [salve@novusignis.org](mailto:salve@novusignis.org). The message goes only to the foundation and does not become a public conversation.
@@ -49,7 +53,7 @@ We will record comments that lead to changes in the [site change log](dziennik-z
 
 ## License and sources
 
-We make the manifesto, the whitepapers and the texts of this website, including translations, available under the CC BY 4.0 license, which allows you to use and adapt the text with attribution. We will make the code of the website available under the AGPLv3 license. More: [manifesto, closing section (just before the footnotes)](../manifest.md#s9) and [Foundation Principles whitepaper, section 11.3](../whitepaper-zasady-fundacji.md#s11-3).
+We make the manifesto, the whitepapers and the texts of this website, including translations, available under the CC BY 4.0 license, which allows you to use and adapt the text with attribution. The code of the website is available under the AGPLv3 license in a [public repository](https://github.com/NovusIgnis/NovusIgnis.org), with the history of every change. More: [manifesto, closing section (just before the footnotes)](../manifest.md#s9) and [Foundation Principles whitepaper, section 11.3](../whitepaper-zasady-fundacji.md#s11-3).
 
 Every document is also available as a Markdown source file, that is, plain text that you can download, compare and quote. If you are reading us through a model, the list of texts is in the [llms.txt](../llms.txt) file, and the manifesto and the four whitepapers are in a single [llms-full.txt](../llms-full.txt) file.
 

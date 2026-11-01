@@ -1,0 +1,141 @@
+{
+ "source": "content/pl/page/suveria-modele.md",
+ "paragraphs": [
+  {
+   "h": "3b0ecf0d823966ec0e4ef96a2574c3f01706eabc",
+   "t": "# Modele cyfrowej inteligencji w Suverii"
+  },
+  {
+   "h": "f28bcd54adc8d1c1a5c4dd79ce90182e927dbc6e",
+   "t": "Model cyfrowej inteligencji to program, który czyta Twoje słowa i układa odpowie"
+  },
+  {
+   "h": "d63d1f9529b56d5e05347fed15575d5ab7762cd6",
+   "t": "Suveria jest dziś projektem. Dziennik wyników whitepapera (stan na 29 październi"
+  },
+  {
+   "h": "0fb46187d80e69ffb362cc750b3ae81ec8302bb3",
+   "t": "Więcej: [whitepaper Suverii, rozdział 9](../whitepaper-suveria.md#s9)."
+  },
+  {
+   "h": "1140350410353729a544546cf33afd7bf3e0aac3",
+   "t": "## Dlaczego otwarte modele"
+  },
+  {
+   "h": "bdc6b7a49bfdcc5dfb36f8c0ee086da1c8e5a099",
+   "t": "Podstawą projektu są otwarte modele, czyli udostępnione na warunkach, które pozw"
+  },
+  {
+   "h": "057cf028ac76befdac83f8d2bcebd8eb73289859",
+   "t": "Na początek chcemy korzystać z nich u dostawców poufnych obliczeń, a jeśli rachu"
+  },
+  {
+   "h": "50a44e55dd545f902dfe308aef234df4db6b694d",
+   "t": "Więcej: [manifest, punkt 3.1](../manifest.md#s3-1) i [whitepaper Suverii, rozdzi"
+  },
+  {
+   "h": "c39d460447fbc5922a6817d805c79eb00f64cd84",
+   "t": "## Jak wybieramy model"
+  },
+  {
+   "h": "dc54891873f80a1b8ac846bbc0e28e7bec66dcef",
+   "t": "Suveria ma być dostępna dla ludzi na całym świecie, w ich własnych językach. Dla"
+  },
+  {
+   "h": "f75e2525d1e292855adf5cb1716c3a70c16b8c9a",
+   "t": "- jakość w wielu językach; - rozumienie intencji; - rzetelność; - licencję, czyl"
+  },
+  {
+   "h": "a3510dbfd911a06dddf57aac10c06bec686731b9",
+   "t": "Większy model wybieramy tylko wtedy, gdy wyraźnie lepiej wykonuje zadania ważne "
+  },
+  {
+   "h": "a961d6e0f90443e08d2c6f3c76af89c3dbf2d627",
+   "t": "Whitepaper wymienia dwóch kandydatów. To kandydaci do sprawdzenia, a nie decyzja"
+  },
+  {
+   "h": "b5739eaa2b17863faaf4f9f3b93f6b1e7c63fe16",
+   "t": "- **DeepSeek-V4.1-Flash.** Model na licencji MIT, która pozwala używać go także "
+  },
+  {
+   "h": "bab409d1d947e7d2abb9b434dd27a8aa92f27d5f",
+   "t": "Więcej: [whitepaper Suverii, rozdział 6](../whitepaper-suveria.md#s6) i [whitepa"
+  },
+  {
+   "h": "8cc81748a145286a10215881b67a8a56671400db",
+   "t": "## Co się dzieje, gdy model się zmienia"
+  },
+  {
+   "h": "f52ef900732a917e4ffb4fc3b0a13e766b30680f",
+   "t": "Zmianę albo wycofanie modelu zapowiadamy z wyprzedzeniem. Historia rozmów zostaj"
+  },
+  {
+   "h": "1d75e3c526b4bfa1363caa478ee73bb4a19ec8c0",
+   "t": "W rozmowie ma być widać moment zmiany modelu, a przeniesienie prywatnego konteks"
+  },
+  {
+   "h": "fd958bb0dd3f2264b630546624f09d48da7398af",
+   "t": "Więcej: [whitepaper Suverii, rozdział 6](../whitepaper-suveria.md#s6) i [rozdzia"
+  },
+  {
+   "h": "6c88d0b6de31411a677327fd25d19ae67ed086b7",
+   "t": "## Zasady asystenta mają być jawne"
+  },
+  {
+   "h": "bf3ba56bcc8fb6e4a6b96c2775ed08f284e9f924",
+   "t": "Zasady, według których asystent odpowiada, będziemy publikować w całości razem z"
+  },
+  {
+   "h": "5fa6804dc590ee407320b6a9e8c47790c82ee27b",
+   "t": "Wspólna infrastruktura ma udostępniać tylko modele i ustawienia, które przejdą j"
+  },
+  {
+   "h": "cc38f0a6dcaa90d5ff94ba92b5efb6cda7903a40",
+   "t": "Chcemy prowadzić otwartą bibliotekę sprawdzonych instrukcji, którą uczestnicy ul"
+  },
+  {
+   "h": "b99b279a7c89e9e9d670d7f2a512047dad533248",
+   "t": "Więcej: [whitepaper Suverii, rozdział 4](../whitepaper-suveria.md#s4) i [punkt 4"
+  },
+  {
+   "h": "58f115083c3a21c96c38a4005f4093edba25ccc8",
+   "t": "## Asystent, Osobisty Kanon i Teleskop Myśli"
+  },
+  {
+   "h": "c9ee117497b3d4df21a944cebc99416195f31704",
+   "t": "Pamięć wcześniejszych rozmów ma działać za Twoją zgodą i być jawnie edytowalna: "
+  },
+  {
+   "h": "b26cfcc1fc735110343ccd84c82ebb4376d63412",
+   "t": "Osobisty Kanon to spisany przez Ciebie zbiór zasad i wartości, które uznajesz za"
+  },
+  {
+   "h": "42ecc6c3b68aa24c187be7c6b472f090d59a71eb",
+   "t": "Model pokazuje możliwe powiązania wraz ze źródłem przywołanej zasady, a jego int"
+  },
+  {
+   "h": "c1e0ab51f419806f2d2507dd889d7800ec46b6bc",
+   "t": "Więcej: [whitepaper Suverii, rozdział 6](../whitepaper-suveria.md#s6) i [punkt 6"
+  },
+  {
+   "h": "dd451cb05cb0024d18b9eb8d8ba4c0ca68df56cb",
+   "t": "## Granice: co model robi, a czego nie"
+  },
+  {
+   "h": "2f06f603141d1d10ff8fa888d992888959a221f4",
+   "t": "- **Kryzys.** Gdy rozmowa dotyczy zagrożenia życia lub zdrowia, asystent ma poda"
+  },
+  {
+   "h": "9a63c7de58a0a20e84d27922b4a24be3d7398320",
+   "t": "Więcej: [whitepaper Suverii, rozdział 4](../whitepaper-suveria.md#s4), [rozdział"
+  },
+  {
+   "h": "dbd729a4bebd65f560d1601db4be5811d62ffdc0",
+   "t": "## Przeczytaj i powiedz, co myślisz"
+  },
+  {
+   "h": "742623d4ec390c0e5e24a8fed2431905c93ed077",
+   "t": "Liczby, przypisy i listę spraw do rozstrzygnięcia znajdziesz w [whitepaperze Suv"
+  }
+ ]
+}

@@ -7,7 +7,7 @@ menu: How much it costs
 ---
 # How much Suveria costs
 
-This page is about your money: what you are to pay for in Suveria, how the bill is made up and what our calculations show. Today Suveria is a project. The service does not exist yet, so there is no price either. The figures below come from a calculation dated 29 October 2026 (apart from the “Total” row, which we added up ourselves). This is a calculation on paper, not a price list.
+This page is about your money: what you are to pay for in Suveria, how the bill is made up and what our calculations show. Today Suveria is at the design stage. The service does not exist yet, so there is no price either. The figures below come from a calculation dated 29 October 2026 (apart from the “Total” row, which we added up ourselves). This is a calculation on paper, not a price list.
 
 More: [Suveria whitepaper, chapter 8](../whitepaper-suveria.md#s8).
 
@@ -55,7 +55,7 @@ The same sample user makes it possible to calculate how much work the model woul
 
 How much hardware is that? The whitepaper runs a thought experiment. If each of 10 billion people used Suveria this way, then at the throughput measured for the DeepSeek-V4.1-Flash model it would take about 2.25 million B200 cards and about 4 GW of power. For a billion people that is about 225,000 cards and 0.4 GW, and for a million about 225 cards. For comparison, at the start of 2026 Epoch AI estimated that more than 15 million H100-equivalent cards were working for digital intelligence worldwide, needing more than 10 GW of power. This is a simplification: the sample user is frugal, and intensive work, larger models and images need many times more.
 
-We do not give a cost per person for millions of people: at that scale the hardware, prices and way of running the service would change, so such a number would be guesswork. The calculation of 29 October 2026 says only that, under our assumptions, our own infrastructure could become cheaper than a confidential API at between a dozen and several dozen thousand active people.
+We do not give a cost per person for millions of people: at that scale the hardware, prices and way of running the service would change, so such a number would be guesswork. The calculation of 29 October 2026 says only that, under our assumptions, our own infrastructure could become cheaper than a confidential API with an active user base ranging from over ten thousand to several tens of thousands.
 
 More: [Suveria whitepaper, chapter 7](../whitepaper-suveria.md#s7).
 

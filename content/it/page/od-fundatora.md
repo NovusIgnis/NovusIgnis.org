@@ -23,7 +23,7 @@ In questa pagina abbiamo raccolto alcuni passi della parte personale del manifes
 
 ## Sulla propria incoerenza
 
-> Io stesso non sempre agisco in coerenza con i valori che descrivo in questo manifesto. Capita che io sappia che cosa ritengo giusto e tuttavia scelga diversamente. Voglio ammettere apertamente questa discrepanza e lavorarci sopra. Credo che, nonostante la mia incoerenza, io possa partecipare alla ricerca di soluzioni migliori e alla conversazione su come dovremmo agire. Considero quindi il lavoro nella fondazione anche un impegno personale a lavorare su me stesso.
+> Io personalmente non sempre agisco in coerenza con i valori che descrivo in questo manifesto. Capita che io sappia che cosa ritengo giusto e tuttavia scelga diversamente. Voglio ammettere apertamente questa discrepanza e lavorarci sopra. Credo che, nonostante la mia incoerenza, io possa partecipare alla ricerca di soluzioni migliori e alla conversazione su come dovremmo agire. Considero quindi il lavoro nella fondazione anche un impegno personale a lavorare su di me.
 
 ## Evoluzione pacifica
 

@@ -2,7 +2,7 @@
 
 Version of 31 October 2026. This document develops the principles of the manifesto that concern Omniforum: how we want to help people understand one another, leave a lasting body of work after a conversation and make decisions together. It describes the direction in which the prototype is to develop. Each capability described requires a separate acceptance trial, and a description of the intended experience does not mean that it is available today. We add the results of the trials in chapter 9.
 
-*English translation of the Polish original of 31 October 2026. Where the versions differ, the Polish text prevails.*
+*Translated into English by digital intelligence from the Polish original of 31 October 2026. Where the versions differ, the Polish text prevails.*
 
 ## 1. What Omniforum is and why it is being created
 
@@ -65,7 +65,7 @@ The most important names used in this document, explained in more detail in the 
 - **Ignis:** the stage of first sharing a thought; the manifesto calls the moment of publication itself the Ignis Ceremony (*Caerimonia Ignis*; chapter 3).
 - **Formatio:** the stage after publication in which the community considers the thought, adds arguments, sources and caveats, and looks for consensus (chapter 3).
 - **Consensus:** a shared agreement of the community, stated with its version, its scope, the people who confirmed it and dissenting opinions (chapter 3).
-- **Terra Incognita:** a voluntary ceremony in which we name the limit of what we can justify today and consciously begin looking for an answer to a new question (project, chapter 3).
+- **Terra Incognita:** a voluntary ceremony in which we name the limit of what we can justify today and consciously begin looking for an answer to a new question (at the design stage, chapter 3).
 - **Principium:** adopting a principle as one's own, into one's Personal Canon (*Canon Personalis*; section 5.6).
 
 ## 2. Atoms, molecules and their origin
@@ -140,11 +140,11 @@ The map lets you quickly see what the conversation is about and get to the origi
 
 An issue map opens calmly: first one main conclusion with a short description of its strength, and below it a few paths of justification to choose from. You can expand the one that matches your own doubt, go back or finish; the rest of the map stays at hand.
 
-With a conclusion we show separately how strong and independent the evidence is, how well justified the conclusion itself is and how broadly people have agreed with it. Full agreement among participants that rests on a single unverified relation is still a weak conclusion. We have yet to work out the scale for these assessments and test it in a benchmark; we do not add apparent uncertainty to well-established facts.
+With a conclusion we show separately how strong and independent the evidence is, how well justified the conclusion itself is and how broadly people have agreed with it. Full agreement among participants based on a single unverified account still leaves the conclusion weak. We have yet to work out the scale for these assessments and test it in a benchmark; we do not add apparent uncertainty to well-established facts.
 
-The manifesto (section 5.1) divides shared deliberation into facts, values and hypotheses. In Omniforum this corresponds to how a molecule is marked: whether it speaks of something verifiable, of a need or a value, or of a hypothesis. The idea card gathers these markings in its status (working, project, hypothesis, vision).
+The manifesto (section 5.1) divides shared deliberation into facts, values and hypotheses. In Omniforum this corresponds to how a molecule is marked: whether it speaks of something verifiable, of a need or a value, or of a hypothesis. The idea card gathers these markings in its status (working, design, hypothesis, vision).
 
-A story of an idea can grow out of a map: an accessible guide that leads the reader step by step through what the question is about, what has already been agreed together, where the differences are, what they rest on and what could change the assessment. A good story gives a moment of closure: it is clear what has been established and where the dispute is still going on. When a new source appears, an important condition changes or an error comes to light, the conversation can be clearly reopened.
+A story of an idea can grow out of a map: an accessible guide that leads the reader step by step through what the question is about, what has already been established together, where the differences are, what they rest on and what could change the assessment. A good story gives a moment of closure: it is clear what has been established and where the dispute is still going on. When a new source appears, an important condition changes or an error comes to light, the conversation can be clearly reopened.
 
 Every change remains in the history. Merging, splitting and withdrawing molecules and atoms preserves references and earlier versions, so it is possible to reconstruct how the current form of the map came about. When a source changes, we mark the analyses that rest on it as requiring review, instead of quietly changing their meaning.
 
@@ -160,7 +160,7 @@ Recording a question is not yet a decision to act. When someone takes on a task,
 
 ### 5.2. Idea card: from a picture of the future to a first trial
 
-Bold visions are easily dismissed as detached from reality, and cautious plans as lacking a goal. The idea card connects the two: it shows where we want to get to and what the next step is. It gives the idea's status (“working,” “project,” “hypothesis” or “vision”) and answers eight questions:
+Bold visions are easily dismissed as detached from reality, and cautious plans as lacking a goal. The idea card connects the two: it shows where we want to get to and what the next step is. It gives the idea's status (“working,” “design,” “hypothesis” or “vision”) and answers eight questions:
 
 1. **What is it?** A definition, the boundaries of the concept and a way of recognizing the expected result.
 2. **What for?** Whose needs it meets, how it protects dignity and what an ordinary day looks like for a person who uses it.
@@ -263,7 +263,7 @@ A conversation open to everyone needs transparent rules. In the first period Omn
 
 Anyone will be able to report unlawful content. Every restriction, for example hiding or removal, has an author of the decision, a justification and a route of appeal, in line with the EU Digital Services Act. The justification is recorded and visible to the author of the statement and in a public log, and an appeal is considered by a person not involved in the matter, other than the one who imposed the restriction. Automatic detection can only flag suspicious content, and a person makes the decision. We also hide unlawful content in the version history, leaving a visible trace that it was hidden and why.
 
-Before services are publicly launched, we will check and fulfill the operator's obligations: a data protection impact assessment, a way of reporting content and a point of contact under the Digital Services Act, informing people that they are talking with a system and labeling content prepared by a model under the AI Act, terms of service with the right of withdrawal, and VAT settlement. We publish the results in the decision log.
+Before services are publicly launched, we will check and fulfill the operator's obligations: a data protection impact assessment, a way of reporting content and a point of contact under the Digital Services Act, informing people that they are talking with a system and labeling content prepared by a model under the Artificial Intelligence Act, terms of service with the right of withdrawal, and VAT settlement. We publish the results in the decision log.
 
 ## 8. Shared decisions and voting
 
@@ -289,7 +289,7 @@ The question put to a vote grows out of an initiative (5.3): it is proposed by t
 
 In Omniforum anyone can speak, contribute arguments and describe how a decision will affect their life, even if they have no connection with the foundation. A new, good argument can move a conversation regardless of who brought it. Anyone can also take part in consultations, that is, requests for opinions without verifying participants. A consultation shows what participants think, but it is not a vote within the meaning of the foundation's statute, which for votes requires confirmation of the uniqueness of each voter (§ 8(2)). Without verification its result can be distorted by someone having several accounts, so we treat it as a voice in the conversation, not a measurement. Anyone who wants to vote bindingly on shared resources joins the decision-making community voluntarily and free of charge according to transparent criteria: they state that they want to participate and obtain a voting credential through a chosen verification path.
 
-Anyone can read, without an account. There are three ways to speak in a conversation. From an account: the statement then has an author, and the account has a public rate limit. Without an account, through vouching for a statement: a participant with an account brings in another person's statement, is visible next to it as the one who brought it in and is responsible for it as for their own; the author remains without an account and can be signed with a first name or not at all. Without an account, through the open inbox: the statement goes to the “without vouching” layer, visible to anyone who chooses it, and in the order of visibility it is shown after statements with vouching; any participant with an account can vouch for it with a single action and move it into the conversation. The open inbox has a rate limit, and when it is flooded with automated spam, it can be temporarily closed, which we announce with the date and the reason. We do not use CAPTCHAs and do not approve statements before publication. None of the paths without an account gives the right to vote in a ballot. In the first period, when Omniforum is available by invitation (section 7.4), one can speak without an account through vouching for a statement; we will launch the open inbox when we open Omniforum more widely. Both paths without an account are a project that we will test in the first trial.
+Anyone can read, without an account. There are three ways to speak in a conversation. From an account: the statement then has an author, and the account has a public rate limit. Without an account, through vouching for a statement: a participant with an account brings in another person's statement, is visible next to it as the one who brought it in and is responsible for it as for their own; the author remains without an account and can be signed with a first name or not at all. Without an account, through the open inbox: the statement goes to the “without vouching” layer, visible to anyone who chooses it, and in the order of visibility it is shown after statements with vouching; any participant with an account can vouch for it with a single action and move it into the conversation. The open inbox has a rate limit, and when it is flooded with automated spam, it can be temporarily closed, which we announce with the date and the reason. We do not use CAPTCHAs and do not approve statements before publication. None of the paths without an account gives the right to vote in a ballot. In the first period, when Omniforum is available by invitation (section 7.4), one can speak without an account through vouching for a statement; we will launch the open inbox when we open Omniforum more widely. Both paths without an account are a design that we will test in the first trial.
 
 An account can be created in several ways, from completely private (a key on one's own device, without an email address) to convenient (signing in through an external provider). For each way, before the choice is made, we show who outside the foundation learns that the account has been created and what data they see, and what happens if that provider disappears. The way an account is created does not affect a participant's rights; the right to vote is a separate certificate added to the account.
 
@@ -343,7 +343,7 @@ In the decision log we record the options considered, the reasons for the choice
 
 ## 9. How we will check whether Omniforum helps
 
-Everything we have described above is a project. Before we build the whole, we want to check in small steps whether Omniforum really helps people understand one another better. We are starting with the simplest use, and we add further ones only when the previous one has passed the test.
+Everything we have described above is at the design stage. Before we build the whole, we want to check in small steps whether Omniforum really helps people understand one another better. We are starting with the simplest use, and we add further ones only when the previous one has passed the test.
 
 The first step is one complete path of a single thought. Someone enters their own text, digital intelligence proposes how to break it down into molecules and atoms, the author corrects what was misunderstood and saves the result together with its source. Later they return, open the record and use it in another conversation. We check whether anything was lost along the way: the exact wording of the original, its meaning, successive versions and who has access to what. In this trial we also check for interpretation errors that the model did not flag itself, and we compare the result with the text alone and with an ordinary summary. Reopening a record should not require a new, paid analysis just to recover an earlier result.
 

@@ -1,0 +1,41 @@
+{
+ "source": "content/pl/page/terminologia.md",
+ "paragraphs": [
+  {
+   "h": "8780e88e0b33032d54aafa8ae2c78e095fb8bec2",
+   "t": "# Nazwy w różnych językach"
+  },
+  {
+   "h": "c438c1f664bf2a4ff8bab8ee128736d75c8e0a66",
+   "t": "Pojęcia, które są własne dla Novus Ignis, mają jedną łacińską nazwę, taką samą w"
+  },
+  {
+   "h": "7c4c66bdbdbd73b59d727a7627be1cc3227d53c1",
+   "t": "Pozostałe terminy mają jeden ustalony przekład w każdym języku, żeby wszystkie t"
+  },
+  {
+   "h": "461e2fdd90fcbafca78c86e9fdc77c02292a7ddd",
+   "t": "**Stan na 31 października 2026 r.** To słownik w budowie: dopisujemy do niego ko"
+  },
+  {
+   "h": "ecf585629cf93995214fdb9d3cb756c2f7ff8e8d",
+   "t": "## Nazwy łacińskie"
+  },
+  {
+   "h": "777a6568db9e9c489773c6fed9a71f6089ee8375",
+   "t": "{{terminologia:nazwy}}"
+  },
+  {
+   "h": "c976af132a3f3042e5101f2ced06c39ab7439174",
+   "t": "## Stałe przekłady"
+  },
+  {
+   "h": "a8fed9652b8f82959acd017b4aa83c58c9a180dd",
+   "t": "{{terminologia:przeklady}}"
+  },
+  {
+   "h": "6776e8f09d9a9e5fcbb70f96b000ce3da2bc2680",
+   "t": "Definicje pojęć Omniforum są w [whitepaperze Omniforum, punkt 1.3](../whitepaper"
+  }
+ ]
+}

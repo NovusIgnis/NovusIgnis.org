@@ -11,7 +11,7 @@ This page briefly explains what Suveria is meant to be, who it is being created 
 
 Suveria is to be a private space on the internet where a person talks with digital intelligence, works on their own materials and returns to earlier thoughts, as in a home of their own behind a closed door. The Novus Ignis Foundation is designing it with people from every part of the world in mind.
 
-Today Suveria is a project. It is being created so that people can talk with digital intelligence about health, relationships, work, money and life plans without fear that such close insight into a person will one day be monetized or used to influence them. We are aiming the first release at people for whom verifiable privacy is the reason for their choice.
+Today Suveria is at the design stage. It is being created so that people can talk with digital intelligence about health, relationships, work, money and life plans without fear that such close insight into a person will one day be monetized or used to influence them. We are aiming the first release at people for whom verifiable privacy is the reason for their choice.
 
 More: [Suveria whitepaper, chapter 1](../whitepaper-suveria.md#s1).
 

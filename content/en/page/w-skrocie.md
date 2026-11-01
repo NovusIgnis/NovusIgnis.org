@@ -20,7 +20,7 @@ We want to co-create an alternative internet whose highest value is human dignit
 ## Where we are today
 
 - **Working:** the foundation is registered, and the manifesto and whitepapers are published. The foundation accepts donations by bank transfer and shows every payment in the [public register of contributions and expenses](fundacja-rejestr.md); the first one was the founding fund.
-- **Project:** Suveria is a project, and Omniforum has a first prototype under construction.
+- **Design:** Suveria is at the design stage, and Omniforum has a first prototype under construction.
 - **Hypothesis:** we assume that shared servers paid for by actual use may deliver more digital intelligence for every dollar than closed services; we have not tested this yet (manifesto, section 2.4).
 - **Vision:** autonomous management by digital intelligence and further pillars. The full launch of further pillars is a distant direction; before that, only small initiatives with a defined end are possible. Today the foundation is run by people.
 

@@ -39,6 +39,10 @@ Todos los documentos están en polaco e inglés (los estatutos en inglés tienen
 
 El manifiesto y los cuatro whitepapers están también en un solo archivo de texto que puedes añadir a tu chat con la inteligencia digital y preguntar por lo que te interese: [en español](llms-full.txt) o [en polaco](../llms-full.txt).
 
+## Cómo se elaboraron estos textos
+
+El manifiesto, los whitepapers y las subpáginas se elaboraron en colaboración entre el fundador y la inteligencia digital (Claude, Codex, Gemini). El fundador leyó y aprobó la versión polaca y responde de su contenido; esa es la versión vinculante. La inteligencia digital realizó las traducciones a otros idiomas, y las revisó un modelo distinto del que las tradujo. Ninguna traducción ha sido revisada todavía por una persona que domine el idioma correspondiente. Si algo no suena bien, selecciona el fragmento y envía un comentario: introducimos las correcciones de forma pública y explicamos los motivos.
+
 ## Cómo enviar un comentario
 
 Junto a cada documento y subpágina funciona el botón «Tengo un comentario». Selecciona un fragmento de texto y la página preparará un correo con la cita y un enlace a ese lugar; lo envías desde tu propia cuenta de correo a [salve@novusignis.org](mailto:salve@novusignis.org). El mensaje llega solo a la fundación y no se convierte en una conversación pública.
@@ -49,7 +53,7 @@ Registraremos los comentarios que den lugar a cambios en el [registro de cambios
 
 ## Licencia y fuentes
 
-Publicamos el manifiesto, los whitepapers y los textos de este sitio, también las traducciones, bajo la licencia CC BY 4.0, que permite usar el texto y adaptarlo indicando la fuente. Publicaremos el código del sitio bajo la licencia AGPLv3. Más información: [manifiesto, cierre (justo antes de las notas al pie)](../manifest.md#s9) y [whitepaper de los principios de la fundación, apartado 11.3](../whitepaper-zasady-fundacji.md#s11-3).
+Publicamos el manifiesto, los whitepapers y los textos de este sitio, también las traducciones, bajo la licencia CC BY 4.0, que permite usar el texto y adaptarlo indicando la fuente. Publicamos el código del sitio bajo la licencia AGPLv3 en un [repositorio público](https://github.com/NovusIgnis/NovusIgnis.org), con el historial de todos los cambios. Más información: [manifiesto, cierre (justo antes de las notas al pie)](../manifest.md#s9) y [whitepaper de los principios de la fundación, apartado 11.3](../whitepaper-zasady-fundacji.md#s11-3).
 
 Cada documento está también disponible como archivo fuente Markdown, es decir, texto plano que puedes descargar, comparar y citar. Si nos lees a través de un modelo, el índice de textos está en el archivo [llms.txt](../llms.txt), y el manifiesto y los cuatro whitepapers, en un solo archivo [llms-full.txt](llms-full.txt).
 

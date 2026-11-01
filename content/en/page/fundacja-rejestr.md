@@ -22,7 +22,7 @@ Dates are given by the day of the transfer or payment. When someone pays an expe
 ## How to read this register
 
 - We name donors only if they themselves wish it; other payments are described in general terms, for example "donation from a private person".
-- We do not publish transfer titles verbatim, because they often contain personal data; we write the description of each entry ourselves.
+- We do not publish payment references verbatim, because they often contain personal data; we write the description of each entry ourselves.
 - The register lets anyone follow the foundation's finances, but it does not replace the accounting books or the financial statements. We correct a wrong entry openly.
 - Costs from before the foundation's account was opened, such as domains, were covered privately by the founder, so they are neither contributions nor expenses of the foundation.
 - For now the founder keeps the accounts free of charge, which is why the register shows no expenses for an accounting office.

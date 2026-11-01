@@ -1,6 +1,6 @@
 ---
 tytul: From the founder
-opis: Excerpts from the personal part of the manifesto, in which Marcin Wołowski tells where the foundation came from and what kind of world he would like to learn through it
+opis: Excerpts from the personal part of the manifesto, in which Marcin Wołowski describes the foundation's origins and the kind of world the founder would like to learn about through it
 grupa: dlaczego
 kolejnosc: 2
 menu: From the founder

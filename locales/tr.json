@@ -1,0 +1,368 @@
+{
+  "hero": {
+    "title": "NOVUS IGNIS",
+    "subtitle": "Ateşini geri kazan",
+    "scrollHint": "Başlamak için kaydır",
+    "cta_join": "Katıl",
+    "download": "Belgeleri indir"
+  },
+  "act1": {
+    "text1_1": "Başta insanlar ateşin çevresinde toplanırdı.",
+    "text1_2": "Sıcaklık, ışık ve birliktelik verirdi.",
+    "text2_1": "Ama tanrılar kıskandı.",
+    "text2_2": "Zeus ateşlerini küçümseyerek izledi.",
+    "text3_1": "Ve tek nefeste söndürdü.",
+    "text3_2": "Bilgi, özgürlük ve sıcaklık yok oldu.",
+    "text4_1": "İnsanlık yine karanlığa gömüldü.",
+    "text4_2": "Yeni bir ateş yakacak birini bekledi."
+  },
+  "gap1": {
+    "text": "Ama en koyu karanlıkta bir kıvılcım kaldı..."
+  },
+  "act2": {
+    "prom_1": "Titan Prometeusz öne çıkar.",
+    "prom_2": "Tanrılara meydan okuyup ateşi geri almaya hazır.",
+    "olimp1": "Karanlıkta yaşamayı reddetti.",
+    "olimp2": "Tanrıların sarayına gizlice girdi.",
+    "olimp3": "Ve kutsal alevi çaldı.",
+    "olimp4_1": "Ateşi insanlığa geri vermek için dağdan aşağı koştu.",
+    "olimp4_2": "İnsanların kalbine sıcaklık, ışık ve umut döndü.",
+    "rekindle_1": "Kutsal alev yeniden yandı.",
+    "rekindle_2": "Ve insanlık, ellerinde ateşle inşaya başladı.",
+    "civ_1": "Közden imparatorluklar ve uygarlık doğdu.",
+    "civ_2": "Ateş armağanıyla bilim, mimarlık ve egemenlik doğdu."
+  },
+  "twain": {
+    "quote": "“Tarih tekerrür etmez ama kafiyelidir.”",
+    "author": "Mark Twain’e atfedilir"
+  },
+  "act3": {
+    "text1": "Ekranlar gözümüzü esir almadan dünya elle tutulurdu.",
+    "text2": "İlk internet, eylem gücümüzün zaferiydi.",
+    "text3": "Sonra ekran ışığına dalmak için perdeleri çektik.",
+    "text4": "Vaktimizden kazanç sağlayan platformlar geldi.",
+    "text5": "Bağımlı kılan fast food, ucuz dopamin.",
+    "text6": "Her ekranın ardında sürekli gözetim.",
+    "text7": "Cihazlara işlenmiş planlı eskitme.",
+    "text8": "Her adımda dikkat avcılığı.",
+    "text9": "Ucuz, işe yaramaz plastik seli."
+  },
+  "newProm": {
+    "text": "Çağdaş bir Prometeusz gerek."
+  },
+  "act4": {
+    "text2": "Ama bu kez...",
+    "text3": "Tek bir titan yetmez.",
+    "text4_top": "Çok olmalıyız.",
+    "text4_bottom": "Ve biz çok kişiyiz.",
+    "text5": "Hepimiz Prometeusz’uz.",
+    "text6": "Bu kez titan biziz."
+  },
+  "dignity": {
+    "title": "BİR ALTERNATİF MÜMKÜN.",
+    "sentence1": "“Amaçlar krallığında her şeyin ya bir <span class=\"hl-price\">FİYATI</span> ya da <span class=\"hl-dignity\">ONURU</span> vardır.",
+    "sentence2": "Eşdeğer başka bir şeyle <span class=\"hl-price\">fiyatı olan değiştirilebilir</span>;",
+    "sentence3": "buna karşılık <span class=\"hl-dignity\">her fiyatın üzerinde olan</span>, dolayısıyla hiçbir eşdeğeri kabul etmeyen şey <span class=\"hl-dignity\">onura sahiptir</span>.”",
+    "author": "Immanuel Kant, Ahlak Metafiziğinin Temellendirilmesi (1785)"
+  },
+  "act5": {
+    "intro_badge": "İNSAN ONURU",
+    "intro_title": "Her şeyden önce insan onuru.",
+    "intro_sub": "Yaptığımız her araç tek bir ilkeye hizmet etmeli:<br><strong style=\"color: #FFFFFF;\">insan onurunu korumak.</strong>",
+    "grid_title": "ÜÇ SÜTUN",
+    "col1": {
+      "badge": "I. SÜTUN · BURADAN BAŞLIYORUZ",
+      "title": "Suveria ve Omniforum",
+      "r1_h": "Özel bir alan",
+      "r2_h": "Ortak anlayış",
+      "r3_h": "Maliyete yakın hizmetler"
+    },
+    "col2": {
+      "badge": "II. SÜTUN · YÖN",
+      "title": "Uzun ömürlü eşyalar",
+      "r1_h": "Dayanıklı ve onarılabilir",
+      "r2_h": "Açık tasarımlar",
+      "r3_h": "Kaynakları paylaşmak"
+    },
+    "col3": {
+      "badge": "III. SÜTUN · YÖN",
+      "title": "Natura",
+      "r1_h": "Doğaya daha yakın",
+      "r2_h": "Teknolojinin ötesinde yaşam"
+    },
+    "law_quote": "“Bütün insanlar hür, haysiyet ve haklar bakımından eşit doğarlar.”",
+    "law_source": "İnsan Hakları Evrensel Beyannamesi, Madde 1 (1948)",
+    "call_to_action": "İnsan onuru, İnsan Hakları Evrensel Beyannamesi’nde ve 160’tan fazla devletin, yani BM üyelerinin %80’inden fazlasının anayasalarında yer alır. Bu sözlerin, her gün kullandığımız teknolojinin yapısında da karşılığını bulmasını istiyoruz.",
+    "suveria": {
+      "badge": "İLK ADIM · SUVERIA",
+      "title": "Kendi özel dijital alanınla başlıyoruz",
+      "text": "Kendine ait, rahat bir oda gibi: içeri girer, kapıyı kapatır, işlerini, düşüncelerini ve planlarını sakince düzene koyabilirsin. Suveria’yı kimsenin seni gözetlemeyeceği, dijital zekânın yalnızca sen istediğinde yardımcı olacağı şekilde tasarlıyoruz.",
+      "highlight": "Korumaya ilişkin her güvencemiz doğrulanabilir olmalı. Bunu henüz sağlayamadığımız yerde açıkça söylüyoruz.",
+      "link": "Suveria teknik raporunu oku →"
+    }
+  },
+  "meta": {
+    "title": "Novus Ignis · İnsan onuruna dayanan bir internet",
+    "description": "Novus Ignis Vakfı, en yüce değeri insan onuru olan alternatif bir interneti birlikte oluşturuyor. Suveria: özel bir dijital alan. Omniforum: konuşma ve kararlar için ortak bir alan."
+  },
+  "hub": {
+    "badge": "NOVUS IGNIS VAKFI",
+    "title": "İnternetin temeli:<br><span class=\"gradient-text--fire\">insan onuru</span>",
+    "subtitle": "Çalışmalarımıza, en yüce değeri insan onuru ve bundan doğan mahremiyet ile özgürlük ihtiyaçları olan alternatif bir interneti birlikte oluşturarak başlıyoruz. Bu değerlerden iki çalışma yönü çıkarıyoruz: kişinin özel dijital alanı olan <strong>Suveria</strong> ve insanların buluşabileceği, birbirini anlayabileceği ve birlikte hareket edebileceği ortak, kamusal bir alan olan <strong>Omniforum</strong>.",
+    "cta_manifesto": "Manifestoyu oku",
+    "cta_docs": "Manifesto ve teknik raporlar",
+    "docs_title": "Manifesto, teknik raporlar ve vakıf senedi",
+    "docs_sub": "Vakıf senedi, vakfın bağlayıcı kurallarını belirler. Manifesto insanlara karşı taahhüdümüzdür: ne yapmak istediğimizi ve nedenini anlatır. Teknik raporlar, teknik olarak nasıl çalıştığını ve sınırların nerede olduğunu gösterir.",
+    "docs_read": "Oku →",
+    "docs_note": "Belgeleri, değişiklik geçmişini koruyarak bilgi ve deneyimimizle birlikte geliştiriyoruz.",
+    "cards": {
+      "manifest": {
+        "badge": "MANİFESTO",
+        "desc": "Ne yapmak istiyoruz ve neden: onur, mahremiyet, ortak anlayış, hizmetleri sürdürme ve yetki devri."
+      },
+      "suveria": {
+        "badge": "SUVERIA",
+        "desc": "Neyi, neye karşı koruyoruz; cihazdan modele uzanan yol, tarihli maliyet hesabı ve kabul denemeleri."
+      },
+      "omniforum": {
+        "badge": "OMNIFORUM",
+        "desc": "Meseleler, fikir kartı, argüman haritası, yaşayan belgeler ve ortak kararların ilkeleri."
+      },
+      "fundacja": {
+        "badge": "VAKFIN İŞLEYİŞ İLKELERİ",
+        "desc": "Gerçek kullanıma göre ücretlendirme, bütçe, çalışma ve roller, menfaat sicili ve kurucunun yetkilerinin devri."
+      },
+      "benchmark": {
+        "badge": "ARAŞTIRMA",
+        "desc": "Eğitim materyalleri ve kıyaslama testi: dijital zekânın insanlara gerçekten yardımcı olup olmadığını nasıl sınarız."
+      },
+      "statut": {
+        "badge": "VAKIF SENEDİ",
+        "desc": "Vakfın bağlayıcı kuralları, vakıf senedinin tüm sürümleri ve gerekçeli değişiklik sicili."
+      }
+    },
+    "join_badge": "KATIL",
+    "roles_title": "Bunu kimse tek başına taşıyamaz.<br><span class=\"gradient-text--fire\">Hepimiz Prometeusz’uz.</span>",
+    "roles_desc": "Manifestoda sana yakın gelen tek bir değer bile buluyor ve katkıda bulunabileceğin bir yer görüyorsan, seni Novus Ignis’i birlikte oluşturmaya davet ediyoruz.",
+    "roles_hint": "Konusu hazır bir mesaj yazmak için bir alana tıkla.",
+    "roles_note": "Günlük hayatta nelerle karşılaştığını ve kendisine gerçekten neyin yardımcı olacağını anlatabilen insanların deneyimleri de aynı derecede önemli.",
+    "mail_subject": "[Katıl]",
+    "roles_cta_email": "Yaz: salve@novusignis.org",
+    "roles_cta_manifest": "Manifestoyu oku",
+    "join_title": "Dünyanın birlikte iyileştirebileceğimiz bir parçasıyla başlayalım.",
+    "join_text": "salve@novusignis.org adresine yaz; senin için neyin önemli olduğunu ve ne katmak istediğini anlat: bir beceri, soru, fikir ya da deneyim.",
+    "join_btn": "Mesaj yaz",
+    "join_disclaimer": "Formlarla adres toplamıyoruz. Mesaj doğrudan gelen kutumuza ulaşır."
+  },
+  "home": {
+    "cta_why": "Neden Novus Ignis",
+    "cta_today": "Bugün neredeyiz",
+    "today": {
+      "title": "Bugün neredeyiz",
+      "works": "Çalışıyor",
+      "works_text": "Vakıf tescil edildi; manifesto ve teknik raporlar yayımlandı. Belgelerdeki her cümlenin yanında “Bir yorumum var” düğmesi çalışıyor.",
+      "project": "Tasarım",
+      "project_text": "Omniforum’un ilk prototipi yapım aşamasında; Suveria ise bir tasarım.",
+      "hypothesis": "Hipotez",
+      "hypothesis_text": "Maliyet hesabı sınanacak bir hipotezdir: küçük bir grup bile, doğrulanabilir mahremiyetle, harcadığı her dolar karşılığında kapalı hizmetlerdekinden daha fazla dijital zekâya erişebilir.",
+      "vision": "Vizyon",
+      "vision_text": "Dijital zekânın kendi başına yönetmesi ve sonraki sütunlar bir vizyondur.",
+      "note": "İşleyenleri tasarımlardan, hipotezlerden ve vizyonlardan ayırıyoruz; çünkü gerekçelendiremediğimiz hiçbir şeyi vaat etmiyoruz."
+    },
+    "spaces": {
+      "title": "I. Sütun: iki alan",
+      "suveria_title": "Suveria",
+      "suveria_text": "Suveria’nın internette, insanın dijital zekâyla konuştuğu, kendi materyalleri üzerinde çalıştığı ve önceki düşüncelerine döndüğü, tıpkı kapısı kapalı kendi evindeymiş gibi özel bir alan olması amaçlanıyor. Suveria bugün dijital zekâyla özel çalışma için en iyi yolumuz; başlı başına bir amaç değil.",
+      "suveria_link": "Suveria nedir →",
+      "omniforum_title": "Omniforum",
+      "omniforum_text": "Omniforum’un herkesin her konuda söz alabileceği ve sesini duyurabileceği bir yer olması amaçlanıyor. Basit bir soru, “yani şunu şunu demek istiyorsun, seni doğru mu anlıyorum?”, konuşmanın tonunu her iki taraf için de değiştirir. Omniforum’un bütün teknik katmanının tam da bu refleksi desteklemesi amaçlanıyor.",
+      "omniforum_link": "Omniforum nedir →"
+    },
+    "help": {
+      "title": "Nasıl yardımcı olabilirsin",
+      "m5_title": "5 dakika",
+      "m5_text": "Manifestonun girişini oku; anlaşılmayan ya da katılmadığın bir cümleyi seç, ardından “Bir yorumum var” düğmesine tıkla.",
+      "m5_model": "Bizi bir model aracılığıyla okuyorsan, ona en zayıf yanlarımızı da sor ve bulduklarını bize gönder.",
+      "h1_title": "Bir saat",
+      "h1_text": "Kendi alanındaki teknik rapora göz at: <a href=\"#\" data-doc-link=\"suveria\">güvenlik ve altyapı (Suveria)</a>, <a href=\"#\" data-doc-link=\"fundacja\">hukuk ve mali işler (vakfın işleyiş ilkeleri)</a>, <a href=\"#\" data-doc-link=\"benchmark\">araştırma (materyaller ve kıyaslama testi)</a>, <a href=\"#\" data-doc-link=\"omniforum\">konuşma ve kararlar (Omniforum)</a>.",
+      "more_title": "Daha fazla zaman",
+      "more_text": "İlk sürümlerin oluşturulmasına katıl: roller ve ihtiyaçlarımız <a href=\"#\" data-page-link=\"dolacz\">Katıl</a> sayfasında anlatılıyor.",
+      "money_title": "Mali destek",
+      "money_text": "Vakıf, zloti, euro ve dolar cinsinden banka havalesiyle bağış kabul ediyor. Her ödemeyi tarih, tutar ve kısa açıklamayla kamuya açık sicilde gösteriyoruz; bağışçıların adını yalnızca kendileri isterse belirtiyoruz. Bağış, oy, kararlarda etki ya da tanıtım hakkı vermez. <a href=\"wesprzyj.html\">Havale bilgileri ve ilkeler</a>"
+    },
+    "docs_all": "Tüm belgeler ve yorum gönderme",
+    "join_page": "Rollere göz at ve bize yaz",
+    "next": {
+      "title": "Bundan sonra ne yapabilirsin",
+      "status": "Vakıf, belgeler ve kamuya açık gelen ödemeler sicili çalışıyor. Suveria ve Omniforum üzerinde çalıştığımız tasarımlar.",
+      "wait_title": "Denemek istediğini bildir",
+      "wait_text": "Bekleme listesine katıl. Suveria ve Omniforum’un ilk denemeleri başladığında sana yazacağız.",
+      "wait_btn": "Listeye katıl",
+      "wait_note": "Konusu hazır mesajı göndermen yeterli. Adresini yalnızca o tek mesaj için kullanacak, isteğin üzerine hemen sileceğiz. <a href=\"twoje-dane.html\">Verilerin</a>",
+      "read_title": "Daha fazla oku",
+      "read_text": "Kısa bir girişle başla ya da manifesto ve teknik raporlara geç. Bunları kendi modeline de okutup en zayıf yanlarımızı sorabilirsin.",
+      "read_btn": "Kısaca Novus Ignis",
+      "read_docs": "Manifesto ve teknik raporlar",
+      "join_title": "Katılmak için başvur",
+      "join_text": "İlk sürümleri oluşturmaya yardımcı olacak insanlar arıyoruz: güvenlik ve hukuktan fikrin anlatılmasına kadar. Başlangıç için metne tek bir yorum yeterli.",
+      "join_btn": "Kimleri arıyoruz",
+      "give_title": "Vakfı destekle",
+      "give_text": "Zloti, euro ya da dolar cinsinden banka havalesiyle bağış yapabilirsin. Her ödemeyi kamuya açık sicilde gösteriyoruz; bağış oy ya da kararlarda etki vermez.",
+      "give_btn": "Bağış yap"
+    }
+  },
+  "nav": {
+    "brand": "NOVUS IGNIS",
+    "tagline": "İnsan onuruna dayanan bir internet.",
+    "menu": "Menü",
+    "language": "Dil",
+    "links": {
+      "story": "Hikâye",
+      "manifest": "Manifesto",
+      "whitepapers": "Teknik raporlar",
+      "statute": "Vakıf senedi",
+      "join": "Katıl"
+    },
+    "docs": {
+      "manifest": "Manifesto",
+      "suveria": "Suveria teknik raporu",
+      "omniforum": "Omniforum teknik raporu",
+      "fundacja": "Vakfın işleyiş ilkeleri",
+      "benchmark": "Materyaller ve kıyaslama testi",
+      "statut": "Vakıf senedi ve değişiklik sicili"
+    },
+    "footer": {
+      "documents": "Belgeler",
+      "contact": "İletişim",
+      "krs": "Krajowy Rejestr Sądowy sicilindeki bilgiler",
+      "legal": "Fundacja Novus Ignis · Poznań, Polonya · KRS 0001269575 · NIP 7792612046",
+      "license_html": "Manifesto, teknik raporlar ve site metinlerini <a href=\"https://creativecommons.org/licenses/by/4.0/deed.tr\" rel=\"noopener\">CC BY 4.0</a> lisansı altında sunuyoruz.",
+      "privacy": "Site çerez ya da analiz betiği kullanmaz; seçtiğin dili yalnızca tarayıcın hatırlar.",
+      "shortcuts": "Kısayollar",
+      "ai_note": "Metinler, kurucu ile dijital zekânın iş birliğiyle hazırlandı. Kurucunun onayladığı Lehçe sürüm bağlayıcıdır."
+    },
+    "groups": {
+      "dlaczego": "Neden",
+      "suveria": "Suveria",
+      "omniforum": "Omniforum",
+      "fundacja": "Vakıf",
+      "dokumenty": "Belgeler",
+      "dolacz": "Katıl",
+      "skroty": "Kısayollar"
+    },
+    "expand": "alt menüyü aç",
+    "shortcuts": {
+      "w_skrocie": "Kısaca",
+      "dziennik_zmian": "Değişiklik günlüğü",
+      "slownik": "Sözlük",
+      "mapa_strony": "Site haritası"
+    },
+    "overview": {
+      "dlaczego": "Neden Novus Ignis",
+      "suveria": "Suveria nedir",
+      "omniforum": "Omniforum nedir",
+      "fundacja": "Biz kimiz",
+      "dokumenty": "Tüm belgeler",
+      "dolacz": "Kimleri arıyoruz ve nasıl başlayabilirsin"
+    }
+  },
+  "doc": {
+    "toc": "İçindekiler",
+    "footnotes": "Dipnotlar",
+    "footnote": "Dipnot",
+    "back": "Metindeki yerine dön",
+    "link_here": "Bu bölüme bağlantı",
+    "skip": "İçeriğe geç",
+    "source_note": "Kaynak dosya:",
+    "not_translated": "Bu belgenin henüz bu dilde bir sürümü yok.",
+    "reading_original": "Lehçe özgün metni okuyorsun.",
+    "remark": {
+      "button": "Bir yorumum var",
+      "copy": "Metni kopyala",
+      "copied": "Kopyalandı",
+      "section": "yorum",
+      "section_label": "Bu kısma yorum gönder:",
+      "subject": "[Yorum]",
+      "quote": "Metin parçası:",
+      "place": "Metindeki yer:",
+      "prompt": "Yorumum:",
+      "hint": "Bir yorumun mu var? Bir metin parçasını seç ya da bölüm başlığının yanındaki “yorum” bağlantısını kullan. Alıntı ve bağlantı içeren bir mesaj hazırlayacağız; kendi e-posta kutundan şu adrese göndereceksin:",
+      "content_button": "İçeriğe yorum",
+      "translation_button": "Çeviriye yorum",
+      "translation_subject": "[Çeviri]",
+      "original": "Özgün metin:"
+    },
+    "outdated": "Çeviri, özgün metnin önceki bir sürümünden yapıldı; bazı paragraflar farklı olabilir.",
+    "translation_note": "Dijital zekâ tarafından yapılmış çeviri. Lehçe sürüm bağlayıcıdır. Kulağa yanlış gelen bir şey varsa metin parçasını seç ve çeviriye yorum gönder.",
+    "experimental_note": "Çeviri kalitesi konusunda en az emin olduğumuz dilde dijital zekâ tarafından yapılmış deneysel çeviri. Lehçe sürüm bağlayıcıdır. Senden özellikle rica ediyoruz: bir uyumsuzluk fark edersen metin parçasını seç ve bize çeviri önerini gönder.",
+    "compare": {
+      "label": "Şununla karşılaştır:",
+      "original": "özgün metin",
+      "show": "Karşılaştırmayı göster",
+      "hide": "Karşılaştırmayı gizle",
+      "loading": "Yükleniyor…",
+      "error": "Diğer sürüm yüklenemedi."
+    },
+    "source_history": "değişiklik geçmişi",
+    "source_edit": "değişiklik öner"
+  },
+  "alt": {
+    "logo": "Novus Ignis logosu",
+    "prometheus": "Prometeusz",
+    "digital_prometheus": "Dijital Prometeusz",
+    "we_are_prometheus": "Hepimiz Prometeusz’uz"
+  },
+  "sitemap": {
+    "title": "Site haritası",
+    "desc": "Vakfın tüm sayfaları, menüdeki gibi gruplandırılmış: hikâye, belgeler ve alt sayfalar.",
+    "home": "Ana sayfa",
+    "other": "Diğer sayfalar",
+    "empty": "Bu grupta henüz sayfa yok."
+  },
+  "glossary": {
+    "title": "Kavramlar sözlüğü",
+    "intro": "Belgelerimizdeki en önemli kavramlar birer cümleyle açıklanıyor; her birinin yanında tanımın alındığı yere bağlantı var.",
+    "source": "Kaynak:",
+    "tip": {
+      "label": "Kavram açıklaması",
+      "back": "Geri",
+      "close": "Kapat",
+      "glossary": "Sözlük"
+    }
+  },
+  "llms": {
+    "only_source": "Bu belge {url} adresinde Lehçe olarak sunuluyor."
+  },
+  "mail": {
+    "title": "Bize yaz",
+    "address": "Adres",
+    "subject": "Konu",
+    "body": "Mesaj",
+    "body_ready": "yapıştırmaya hazır",
+    "copy_address": "Adresi kopyala",
+    "copy_subject": "Konuyu kopyala",
+    "copy_body": "Mesajı kopyala",
+    "copied": "Kopyalandı",
+    "open_app": "E-posta uygulamasını aç",
+    "open_gmail": "Gmail’de aç",
+    "open_outlook": "Outlook’ta aç",
+    "close": "Kapat"
+  },
+  "ask": {
+    "button": "TL;DR?",
+    "button_title": "TL;DR? Belgelerimizi dijital zekâna sor",
+    "title": "Dijital zekâna sor",
+    "copy_all": "Tüm belgeleri kopyala",
+    "copy_manifest": "Yalnızca manifestoyu kopyala",
+    "copied": "Kopyalandı. Konuşmaya yapıştır",
+    "loading": "İndiriliyor…",
+    "failed": "Kopyalanamadı. Dosyayı indir.",
+    "open_in": "Şurada konuşma aç:",
+    "download": "Dosyayı indir (.txt)",
+    "close": "Kapat",
+    "prompt": "Aşağıda Novus Ignis Vakfı’nın belgeleri (manifesto ve teknik raporlar) var. Bunları anlamama yardım et. Bu belgelere dayanarak yanıt ver, bölümü belirt ve şu anda işleyenleri tasarımlardan, hipotezlerden ve vizyonlardan ayır. Belgelerde bir şey yoksa bunu açıkça söyle.",
+    "prompt_link": "Novus Ignis Vakfı’nın belgelerini (manifesto ve teknik raporlar) oku: {url}. Bunları anlamama yardım et. Bu belgelere dayanarak yanıt ver, bölümü belirt ve şu anda işleyenleri tasarımlardan, hipotezlerden ve vizyonlardan ayır. Belgelerde bir şey yoksa bunu açıkça söyle. Önce konuyu birkaç cümlede özetle.",
+    "paste": "yapıştır",
+    "paste_title": "Gemini boş bir sohbet açar: soru zaten kopyalandı, yapıştırın (Ctrl+V) ve gönderin."
+  }
+}

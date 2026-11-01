@@ -1,0 +1,368 @@
+{
+  "hero": {
+    "title": "NOVUS IGNIS",
+    "subtitle": "Lấy lại ngọn lửa của bạn",
+    "scrollHint": "Cuộn để bắt đầu",
+    "cta_join": "Tham gia",
+    "download": "Tải tài liệu"
+  },
+  "act1": {
+    "text1_1": "Ban đầu, con người quây quần bên lửa.",
+    "text1_2": "Lửa cho hơi ấm, ánh sáng và cộng đồng.",
+    "text2_1": "Nhưng các vị thần đố kỵ.",
+    "text2_2": "Zeus nhìn lửa ấy đầy khinh bỉ.",
+    "text3_1": "Và Zeus thổi một hơi, dập tắt lửa.",
+    "text3_2": "Tri thức, tự do, hơi ấm tan biến.",
+    "text4_1": "Loài người lại chìm vào bóng tối.",
+    "text4_2": "Chờ ai đó thắp ngọn lửa mới."
+  },
+  "gap1": {
+    "text": "Nhưng nơi tối tăm nhất, vẫn còn tia lửa..."
+  },
+  "act2": {
+    "prom_1": "Titan Prometeusz bước ra.",
+    "prom_2": "Sẵn sàng thách thức các vị thần, giành lại lửa.",
+    "olimp1": "Không chịu sống trong bóng tối.",
+    "olimp2": "Lẻn vào cung điện các thần.",
+    "olimp3": "Và giành lấy ngọn lửa thiêng.",
+    "olimp4_1": "Lao xuống núi, trả lửa cho loài người.",
+    "olimp4_2": "Hơi ấm, ánh sáng, hy vọng trở lại lòng người.",
+    "rekindle_1": "Ngọn lửa thiêng lại bùng cháy.",
+    "rekindle_2": "Có lửa trong tay, loài người bắt đầu dựng xây.",
+    "civ_1": "Từ than hồng, đế chế, văn minh ra đời.",
+    "civ_2": "Món quà lửa khai sinh khoa học, kiến trúc, chủ quyền."
+  },
+  "twain": {
+    "quote": "“Lịch sử không lặp lại, mà gieo vần.”",
+    "author": "Được gán cho Mark Twain"
+  },
+  "act3": {
+    "text1": "Trước khi màn hình hút mắt ta, thế giới còn hữu hình.",
+    "text2": "Mạng sơ khai: khả năng chủ động thắng thế.",
+    "text3": "Rồi ta kéo rèm, ngắm ánh sáng màn hình.",
+    "text4": "Rồi đến nền tảng kiếm tiền từ thời gian ta.",
+    "text5": "Đồ ăn nhanh gây nghiện, dopamine rẻ.",
+    "text6": "Giám sát không ngừng sau mỗi màn hình.",
+    "text7": "Thiết bị được thiết kế để sớm lỗi thời.",
+    "text8": "Săn sự chú ý ở mọi bước.",
+    "text9": "Tràn ngập nhựa rẻ, vô dụng."
+  },
+  "newProm": {
+    "text": "Ta cần Prometeusz thời nay."
+  },
+  "act4": {
+    "text2": "Chỉ lần này...",
+    "text3": "Một Titan là chưa đủ.",
+    "text4_top": "Cần nhiều người.",
+    "text4_bottom": "Và chúng ta đông đảo.",
+    "text5": "Ta đều là Prometeusz.",
+    "text6": "Lần này, chúng ta là Titan."
+  },
+  "dignity": {
+    "title": "CÓ THỂ CÓ LỰA CHỌN KHÁC.",
+    "sentence1": "“Trong vương quốc các mục đích, mọi thứ đều có hoặc <span class=\"hl-price\">GIÁ CẢ</span>, hoặc <span class=\"hl-dignity\">PHẨM GIÁ</span>.",
+    "sentence2": "<span class=\"hl-price\">Cái có giá cả có thể được thay thế</span> bằng thứ khác tương đương;",
+    "sentence3": "còn cái <span class=\"hl-dignity\">vượt trên mọi mức giá</span>, do đó không cho phép thứ tương đương nào, thì <span class=\"hl-dignity\">có phẩm giá</span>.”",
+    "author": "Immanuel Kant, Đặt cơ sở cho siêu hình học về đức lý (1785)"
+  },
+  "act5": {
+    "intro_badge": "PHẨM GIÁ CON NGƯỜI",
+    "intro_title": "Phẩm giá con người trên hết.",
+    "intro_sub": "Mỗi công cụ chúng tôi tạo ra đều nhằm phục vụ một nguyên tắc:<br><strong style=\"color: #FFFFFF;\">bảo vệ phẩm giá con người.</strong>",
+    "grid_title": "BA TRỤ CỘT",
+    "col1": {
+      "badge": "TRỤ CỘT I · BẮT ĐẦU",
+      "title": "Suveria và Omniforum",
+      "r1_h": "Không gian riêng tư",
+      "r2_h": "Cùng thấu hiểu",
+      "r3_h": "Dịch vụ gần mức chi phí"
+    },
+    "col2": {
+      "badge": "TRỤ CỘT II · HƯỚNG ĐI",
+      "title": "Đồ vật bền lâu",
+      "r1_h": "Bền và sửa được",
+      "r2_h": "Thiết kế mở",
+      "r3_h": "Chia sẻ nguồn lực"
+    },
+    "col3": {
+      "badge": "TRỤ CỘT III · HƯỚNG ĐI",
+      "title": "Natura",
+      "r1_h": "Gần thiên nhiên hơn",
+      "r2_h": "Cuộc sống ngoài công nghệ"
+    },
+    "law_quote": "“Tất cả mọi người sinh ra đều được tự do và bình đẳng về nhân phẩm và quyền.”",
+    "law_source": "Tuyên ngôn toàn thế giới về nhân quyền, Điều 1 (1948)",
+    "call_to_action": "Phẩm giá con người được ghi trong Tuyên ngôn Quốc tế Nhân quyền và hiến pháp của hơn 160 quốc gia, tức hơn 80% thành viên Liên Hợp Quốc. Chúng tôi muốn những lời ấy cũng có chỗ dựa trong thiết kế công nghệ được dùng hằng ngày.",
+    "suveria": {
+      "badge": "BƯỚC ĐẦU · SUVERIA",
+      "title": "Bắt đầu từ không gian số riêng tư của bạn",
+      "text": "Như căn phòng ấm cúng của riêng bạn: bước vào, đóng cửa và bình tâm sắp xếp những việc riêng, suy nghĩ và kế hoạch của mình. Chúng tôi thiết kế Suveria để không ai nhìn trộm bạn ở đó, và trí tuệ số chỉ trợ giúp khi bạn muốn.",
+      "highlight": "Mọi cam kết bảo vệ của chúng tôi phải có thể được kiểm chứng. Ở đâu chưa đáp ứng, chúng tôi nói rõ.",
+      "link": "Đọc sách trắng Suveria →"
+    }
+  },
+  "meta": {
+    "title": "Novus Ignis · Internet dựa trên phẩm giá con người",
+    "description": "Quỹ Novus Ignis cùng xây dựng một internet khác, lấy phẩm giá con người làm giá trị cao nhất. Suveria: không gian số riêng tư. Omniforum: không gian chung để trò chuyện và ra quyết định."
+  },
+  "hub": {
+    "badge": "QUỸ NOVUS IGNIS",
+    "title": "Internet dựa trên<br><span class=\"gradient-text--fire\">phẩm giá con người</span>",
+    "subtitle": "Chúng tôi khởi đầu bằng việc cùng xây dựng một internet khác, lấy phẩm giá con người làm giá trị cao nhất, cùng nhu cầu riêng tư và tự do bắt nguồn từ đó. Từ những giá trị này, chúng tôi xác lập hai hướng làm việc: <strong>Suveria</strong>, không gian số riêng tư cho con người, và <strong>Omniforum</strong>, không gian công khai chung nơi mọi người có thể gặp gỡ, thấu hiểu và cùng hành động.",
+    "cta_manifesto": "Đọc tuyên ngôn",
+    "cta_docs": "Tuyên ngôn và sách trắng",
+    "docs_title": "Tuyên ngôn, sách trắng và điều lệ",
+    "docs_sub": "Điều lệ là luật của Quỹ. Tuyên ngôn là cam kết của chúng tôi với con người: muốn làm gì và vì sao. Sách trắng trình bày cách hoạt động về kỹ thuật cùng những giới hạn.",
+    "docs_read": "Đọc →",
+    "docs_note": "Chúng tôi phát triển tài liệu theo kiến thức và kinh nghiệm, giữ lại lịch sử thay đổi.",
+    "cards": {
+      "manifest": {
+        "badge": "TUYÊN NGÔN",
+        "desc": "Chúng tôi muốn làm gì và vì sao: phẩm giá, quyền riêng tư, cùng thấu hiểu, duy trì dịch vụ và chuyển giao quyền lực."
+      },
+      "suveria": {
+        "badge": "SUVERIA",
+        "desc": "Bảo vệ điều gì, khỏi điều gì, đường từ thiết bị đến mô hình, phép tính chi phí có ngày tháng và thử nghiệm nghiệm thu."
+      },
+      "omniforum": {
+        "badge": "OMNIFORUM",
+        "desc": "Vấn đề, phiếu ý tưởng, bản đồ lập luận, tài liệu sống và nguyên tắc quyết định chung."
+      },
+      "fundacja": {
+        "badge": "NGUYÊN TẮC CỦA QUỸ",
+        "desc": "Tính phí sử dụng thực tế, ngân sách, công việc và vai trò, sổ ghi nhận lợi ích và chuyển giao quyền hạn người sáng lập."
+      },
+      "benchmark": {
+        "badge": "NGHIÊN CỨU",
+        "desc": "Tài liệu huấn luyện và bộ chuẩn đánh giá: cách kiểm tra trí tuệ số có thực sự giúp con người hay không."
+      },
+      "statut": {
+        "badge": "ĐIỀU LỆ",
+        "desc": "Luật của Quỹ, mọi phiên bản điều lệ và sổ ghi thay đổi có lý do."
+      }
+    },
+    "join_badge": "THAM GIA",
+    "roles_title": "Không ai có thể gánh việc này một mình.<br><span class=\"gradient-text--fire\">Ta đều là Prometeusz.</span>",
+    "roles_desc": "Nếu bạn tìm thấy dù chỉ một giá trị gần gũi trong tuyên ngôn và thấy chỗ mình có thể góp sức, chúng tôi mời bạn cùng xây dựng Novus Ignis.",
+    "roles_hint": "Chọn một lĩnh vực để viết thư cho chúng tôi với tiêu đề có sẵn.",
+    "roles_note": "Trải nghiệm của những người có thể kể về khó khăn hằng ngày và điều gì thực sự có thể giúp họ cũng quan trọng như vậy.",
+    "mail_subject": "[Tham gia]",
+    "roles_cta_email": "Viết thư: salve@novusignis.org",
+    "roles_cta_manifest": "Đọc tuyên ngôn",
+    "join_title": "Bắt đầu từ một phần thế giới mà ta có thể cùng cải thiện.",
+    "join_text": "Hãy viết đến salve@novusignis.org, kể điều gần gũi với bạn và điều bạn muốn đóng góp: kỹ năng, câu hỏi, ý tưởng hoặc trải nghiệm.",
+    "join_btn": "Viết thư",
+    "join_disclaimer": "Chúng tôi không thu địa chỉ qua biểu mẫu. Thư đi thẳng vào hộp thư của chúng tôi."
+  },
+  "home": {
+    "cta_why": "Vì sao Novus Ignis",
+    "cta_today": "Hiện chúng tôi ở đâu",
+    "today": {
+      "title": "Hiện chúng tôi ở đâu",
+      "works": "Đang hoạt động",
+      "works_text": "Quỹ đã được đăng ký, tuyên ngôn và sách trắng đã được công bố. Mỗi câu trong tài liệu đều có nút “Tôi có ý kiến” đang hoạt động.",
+      "project": "Bản thiết kế",
+      "project_text": "Omniforum có nguyên mẫu đầu tiên đang được xây dựng, còn Suveria ở giai đoạn bản thiết kế.",
+      "hypothesis": "Giả thuyết",
+      "hypothesis_text": "Phép tính chi phí là giả thuyết cần kiểm tra: ngay cả một nhóm nhỏ cũng có thể nhận được nhiều trí tuệ số hơn cho mỗi đô la so với dịch vụ đóng, cùng quyền riêng tư có thể kiểm chứng.",
+      "vision": "Tầm nhìn",
+      "vision_text": "Trí tuệ số tự quản lý Quỹ Novus Ignis là tầm nhìn; các trụ cột tiếp theo cũng vậy.",
+      "note": "Chúng tôi phân biệt điều đang hoạt động với bản thiết kế, giả thuyết và tầm nhìn, vì không hứa điều mình không thể lý giải."
+    },
+    "spaces": {
+      "title": "Trụ cột đầu: hai không gian",
+      "suveria_title": "Suveria",
+      "suveria_text": "Suveria được dự kiến là không gian riêng tư trên internet, nơi con người trò chuyện với trí tuệ số, làm việc trên tài liệu của mình và trở lại những suy nghĩ trước đó, như ở nhà riêng sau cánh cửa đóng kín. Hiện Suveria là con đường tốt nhất của chúng tôi đến công việc riêng tư với trí tuệ số, thay vì mục đích tự thân.",
+      "suveria_link": "Suveria là gì →",
+      "omniforum_title": "Omniforum",
+      "omniforum_text": "Omniforum được dự kiến là nơi bất kỳ ai cũng có thể phát biểu về bất kỳ chủ đề nào và được lắng nghe. Câu hỏi đơn giản “ý bạn là thế này, tôi hiểu bạn đúng chứ?” thay đổi sắc thái cuộc trò chuyện ở cả hai phía. Toàn bộ phần kỹ thuật của Omniforum nhằm hỗ trợ chính phản xạ ấy.",
+      "omniforum_link": "Omniforum là gì →"
+    },
+    "help": {
+      "title": "Bạn có thể giúp thế nào",
+      "m5_title": "5 phút",
+      "m5_text": "Đọc phần mở đầu tuyên ngôn, chọn câu chưa rõ hoặc bạn không đồng ý, rồi chọn “Tôi có ý kiến”.",
+      "m5_model": "Nếu đọc về chúng tôi qua mô hình, hãy hỏi nó cả những điểm yếu nhất của chúng tôi và gửi điều nó tìm được.",
+      "h1_title": "Một giờ",
+      "h1_text": "Xem sách trắng thuộc lĩnh vực của bạn: <a href=\"#\" data-doc-link=\"suveria\">an toàn và hạ tầng (Suveria)</a>, <a href=\"#\" data-doc-link=\"fundacja\">pháp luật và tài chính (nguyên tắc của Quỹ)</a>, <a href=\"#\" data-doc-link=\"benchmark\">nghiên cứu (tài liệu và bộ chuẩn đánh giá)</a>, <a href=\"#\" data-doc-link=\"omniforum\">trò chuyện và quyết định (Omniforum)</a>.",
+      "more_title": "Lâu hơn",
+      "more_text": "Cùng xây dựng những phiên bản đầu: trang <a href=\"#\" data-page-link=\"dolacz\">Tham gia</a> mô tả vai trò và những điều chúng tôi cần.",
+      "money_title": "Hỗ trợ tài chính",
+      "money_text": "Quỹ nhận các khoản hiến tặng bằng chuyển khoản với đồng złoty, euro và đô la. Mỗi khoản đóng góp được hiển thị trong sổ công khai với ngày, số tiền và mô tả ngắn; chỉ nêu tên người hiến tặng nếu chính họ muốn. Hiến tặng không đem lại phiếu bầu, ảnh hưởng đến quyết định hay quyền được quảng bá. <a href=\"wesprzyj.html\">Thông tin chuyển khoản và nguyên tắc</a>"
+    },
+    "docs_all": "Mọi tài liệu và cách gửi ý kiến",
+    "join_page": "Xem vai trò và gửi thư",
+    "next": {
+      "title": "Bạn có thể làm gì tiếp",
+      "status": "Quỹ, tài liệu và sổ ghi công khai các khoản đóng góp đang hoạt động. Suveria và Omniforum là các bản thiết kế chúng tôi đang phát triển.",
+      "wait_title": "Cho biết bạn muốn thử",
+      "wait_text": "Tham gia danh sách chờ. Chúng tôi sẽ viết cho bạn khi bắt đầu những lần thử đầu tiên của Suveria và Omniforum.",
+      "wait_btn": "Vào danh sách chờ",
+      "wait_note": "Chỉ cần gửi thư với tiêu đề có sẵn. Địa chỉ của bạn chỉ được dùng cho một thư đó và sẽ được xóa ngay khi bạn yêu cầu. <a href=\"twoje-dane.html\">Dữ liệu của bạn</a>",
+      "read_title": "Đọc thêm",
+      "read_text": "Bắt đầu từ phần giới thiệu ngắn hoặc đọc tuyên ngôn và sách trắng. Bạn cũng có thể đưa chúng cho mô hình của mình đọc và hỏi về những điểm yếu nhất của chúng tôi.",
+      "read_btn": "Novus Ignis tóm lược",
+      "read_docs": "Tuyên ngôn và sách trắng",
+      "join_title": "Đăng ký tham gia",
+      "join_text": "Chúng tôi tìm người giúp xây dựng các phiên bản đầu: từ an toàn, pháp luật đến kể về ý tưởng. Ban đầu, chỉ một ý kiến về văn bản là đủ.",
+      "join_btn": "Xem người chúng tôi tìm",
+      "give_title": "Ủng hộ Quỹ",
+      "give_text": "Bằng khoản hiến tặng chuyển khoản với đồng złoty, euro hoặc đô la. Mỗi khoản đóng góp được hiển thị trong sổ công khai; hiến tặng không đem lại phiếu bầu hay ảnh hưởng đến quyết định.",
+      "give_btn": "Gửi khoản hiến tặng"
+    }
+  },
+  "nav": {
+    "brand": "NOVUS IGNIS",
+    "tagline": "Internet dựa trên phẩm giá con người.",
+    "menu": "Trình đơn",
+    "language": "Ngôn ngữ",
+    "links": {
+      "story": "Câu chuyện",
+      "manifest": "Tuyên ngôn",
+      "whitepapers": "Sách trắng",
+      "statute": "Điều lệ",
+      "join": "Tham gia"
+    },
+    "docs": {
+      "manifest": "Tuyên ngôn",
+      "suveria": "Sách trắng Suveria",
+      "omniforum": "Sách trắng Omniforum",
+      "fundacja": "Nguyên tắc hoạt động của Quỹ",
+      "benchmark": "Tài liệu và bộ chuẩn đánh giá",
+      "statut": "Điều lệ và sổ ghi thay đổi"
+    },
+    "footer": {
+      "documents": "Tài liệu",
+      "contact": "Liên hệ",
+      "krs": "Thông tin trong Sổ đăng ký Tòa án Quốc gia",
+      "legal": "Quỹ Novus Ignis · Poznań, Ba Lan · KRS 0001269575 · NIP 7792612046",
+      "license_html": "Tuyên ngôn, sách trắng và văn bản của trang này được cung cấp theo giấy phép <a href=\"https://creativecommons.org/licenses/by/4.0/deed.vi\" rel=\"noopener\">CC BY 4.0</a>.",
+      "privacy": "Trang này không dùng cookie hay mã phân tích; chỉ trình duyệt của bạn ghi nhớ ngôn ngữ đã chọn.",
+      "shortcuts": "Liên kết nhanh",
+      "ai_note": "Các văn bản được tạo ra qua sự hợp tác giữa người sáng lập và trí tuệ số. Bản tiếng Ba Lan đã được người sáng lập phê duyệt là bản có giá trị ràng buộc."
+    },
+    "groups": {
+      "dlaczego": "Vì sao",
+      "suveria": "Suveria",
+      "omniforum": "Omniforum",
+      "fundacja": "Quỹ",
+      "dokumenty": "Tài liệu",
+      "dolacz": "Tham gia",
+      "skroty": "Liên kết nhanh"
+    },
+    "expand": "mở trình đơn con",
+    "shortcuts": {
+      "w_skrocie": "Tóm lược",
+      "dziennik_zmian": "Nhật ký thay đổi",
+      "slownik": "Từ điển",
+      "mapa_strony": "Sơ đồ trang"
+    },
+    "overview": {
+      "dlaczego": "Vì sao Novus Ignis",
+      "suveria": "Suveria là gì",
+      "omniforum": "Omniforum là gì",
+      "fundacja": "Chúng tôi là ai",
+      "dokumenty": "Mọi tài liệu",
+      "dolacz": "Chúng tôi tìm ai và bắt đầu thế nào"
+    }
+  },
+  "doc": {
+    "toc": "Mục lục",
+    "footnotes": "Chú thích",
+    "footnote": "Chú thích",
+    "back": "Về lại vị trí trong văn bản",
+    "link_here": "Liên kết đến phần này",
+    "skip": "Đến nội dung",
+    "source_note": "Tệp nguồn:",
+    "not_translated": "Tài liệu này chưa có bản bằng ngôn ngữ này.",
+    "reading_original": "Bạn đang đọc bản gốc tiếng Ba Lan.",
+    "remark": {
+      "button": "Tôi có ý kiến",
+      "copy": "Sao chép nội dung",
+      "copied": "Đã sao chép",
+      "section": "ý kiến",
+      "section_label": "Gửi ý kiến về phần này:",
+      "subject": "[Ý kiến]",
+      "quote": "Đoạn trích:",
+      "place": "Vị trí trong văn bản:",
+      "prompt": "Ý kiến của tôi:",
+      "hint": "Bạn có ý kiến? Hãy chọn đoạn văn bản hoặc dùng liên kết “ý kiến” cạnh tiêu đề phần. Chúng tôi sẽ chuẩn bị thư có đoạn trích và liên kết để bạn tự gửi từ hộp thư của mình đến",
+      "content_button": "Ý kiến về nội dung",
+      "translation_button": "Ý kiến về bản dịch",
+      "translation_subject": "[Bản dịch]",
+      "original": "Bản gốc:"
+    },
+    "outdated": "Bản dịch được thực hiện từ phiên bản cũ hơn của bản gốc; một số đoạn có thể khác.",
+    "translation_note": "Bản dịch do trí tuệ số thực hiện. Bản tiếng Ba Lan có giá trị ràng buộc. Nếu có chỗ chưa ổn, hãy chọn đoạn và gửi ý kiến về bản dịch.",
+    "experimental_note": "Bản dịch thử nghiệm do trí tuệ số thực hiện bằng ngôn ngữ mà chúng tôi ít chắc chắn nhất về chất lượng bản dịch. Bản tiếng Ba Lan có giá trị ràng buộc. Rất mong bạn: khi thấy có điểm không khớp, hãy chọn đoạn và gửi đề xuất dịch của bạn cho chúng tôi.",
+    "compare": {
+      "label": "So sánh với:",
+      "original": "bản gốc",
+      "show": "Hiện so sánh",
+      "hide": "Ẩn so sánh",
+      "loading": "Đang tải…",
+      "error": "Không tải được phiên bản thứ hai."
+    },
+    "source_history": "lịch sử thay đổi",
+    "source_edit": "đề xuất thay đổi"
+  },
+  "alt": {
+    "logo": "Logo Novus Ignis",
+    "prometheus": "Prometeusz",
+    "digital_prometheus": "Prometeusz kỹ thuật số",
+    "we_are_prometheus": "Ta đều là Prometeusz"
+  },
+  "sitemap": {
+    "title": "Sơ đồ trang",
+    "desc": "Mọi trang của Quỹ được nhóm như trong trình đơn: câu chuyện, tài liệu và các trang con.",
+    "home": "Trang chủ",
+    "other": "Trang khác",
+    "empty": "Hiện chưa có trang trong nhóm này."
+  },
+  "glossary": {
+    "title": "Từ điển khái niệm",
+    "intro": "Những khái niệm chính trong tài liệu được giải thích bằng một câu; mỗi khái niệm có liên kết đến nơi chứa định nghĩa.",
+    "source": "Nguồn:",
+    "tip": {
+      "label": "Giải thích khái niệm",
+      "back": "Quay lại",
+      "close": "Đóng",
+      "glossary": "Từ điển"
+    }
+  },
+  "llms": {
+    "only_source": "Tài liệu này có bản tiếng Ba Lan tại {url}."
+  },
+  "mail": {
+    "title": "Viết cho chúng tôi",
+    "address": "Địa chỉ",
+    "subject": "Tiêu đề",
+    "body": "Nội dung",
+    "body_ready": "sẵn để dán",
+    "copy_address": "Sao chép địa chỉ",
+    "copy_subject": "Sao chép tiêu đề",
+    "copy_body": "Sao chép nội dung",
+    "copied": "Đã sao chép",
+    "open_app": "Mở ứng dụng thư",
+    "open_gmail": "Mở trong Gmail",
+    "open_outlook": "Mở trong Outlook",
+    "close": "Đóng"
+  },
+  "ask": {
+    "button": "TL;DR?",
+    "button_title": "TL;DR? Hỏi trí tuệ số của bạn về tài liệu của chúng tôi",
+    "title": "Hỏi trí tuệ số của bạn",
+    "copy_all": "Sao chép mọi tài liệu",
+    "copy_manifest": "Chỉ sao chép tuyên ngôn",
+    "copied": "Đã sao chép. Hãy dán vào cuộc trò chuyện",
+    "loading": "Đang tải…",
+    "failed": "Không sao chép được. Hãy tải tệp.",
+    "open_in": "Mở cuộc trò chuyện trong:",
+    "download": "Tải tệp (.txt)",
+    "close": "Đóng",
+    "prompt": "Dưới đây là tài liệu của Quỹ Novus Ignis (tuyên ngôn và sách trắng). Hãy giúp tôi hiểu chúng. Trả lời dựa trên các tài liệu này, nêu chương và phân biệt những gì đang hoạt động với các bản thiết kế, giả thuyết và tầm nhìn. Nếu một thông tin không có trong tài liệu, hãy nói rõ.",
+    "prompt_link": "Đọc tài liệu của Quỹ Novus Ignis (tuyên ngôn và sách trắng): {url}. Hãy giúp tôi hiểu chúng. Trả lời dựa trên các tài liệu này, nêu chương và phân biệt những gì đang hoạt động với các bản thiết kế, giả thuyết và tầm nhìn. Nếu một thông tin không có trong tài liệu, hãy nói rõ. Trước hết, hãy tóm tắt trong vài câu nội dung chính.",
+    "paste": "dán",
+    "paste_title": "Gemini mở một cuộc trò chuyện trống: câu hỏi đã được sao chép, hãy dán (Ctrl+V) rồi gửi."
+  }
+}

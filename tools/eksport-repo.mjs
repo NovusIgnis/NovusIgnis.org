@@ -25,7 +25,7 @@ const cfg = JSON.parse(fs.readFileSync(path.join(ROOT, 'site.config.json'), 'utf
 const LANGS = cfg.languages.map(l => l.code);
 // Pliki tworzone przez tools/build.mjs (i paczka dist/): nie należą do źródeł.
 const GENERATED = ['/dist/', '/index.html', ...LANGS.map(l => '/' + l + '/'), '/md/', '/sitemap.xml', '/robots.txt',
-  '/llms.txt', '/llms-full.txt', '/czytaj.txt', '/js/site-config.js', '/js/slownik-*.js'];
+  '/llms.txt', '/llms-full.txt', '/czytaj.txt', '/go/', '/js/site-config.js', '/js/slownik-*.js'];
 const isGenerated = rel => {
   const r = '/' + rel.split(path.sep).join('/');
   return GENERATED.some(g => g.endsWith('/') ? r.startsWith(g) : g.includes('*')

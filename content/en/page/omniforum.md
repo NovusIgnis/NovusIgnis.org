@@ -11,7 +11,7 @@ This page briefly describes what Omniforum is meant to be. It is an accessible v
 
 Omniforum is to be a shared space for conversation where anyone can speak on any topic and be heard. In it, digital intelligence helps, always under the author's control, to break a statement down into individual thoughts and to connect them with sources and with other people's thoughts. The conversations that participants choose to share leave behind a body of work you can return to. It is to be made available to people from every part of the world as a digital public good with open source code.
 
-Today Omniforum has a first prototype under construction; everything we describe below is a project.
+Today Omniforum has a first prototype under construction; everything we describe below is at the design stage.
 
 More: [manifesto, introduction](../manifest.md#top), [section 3.2](../manifest.md#s3-2) and [Omniforum whitepaper, chapter 1](../whitepaper-omniforum.md#s1).
 

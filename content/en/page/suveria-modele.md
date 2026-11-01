@@ -9,7 +9,7 @@ menu: Models
 
 A digital intelligence model is a program that reads your words and composes a response; the assistant in Suveria is to run on such a model. This page explains where we get models, how we choose them, what happens when a model changes and what principles the assistant is to follow openly.
 
-Today Suveria is a project. The whitepaper's results log (status as of 29 October 2026) states plainly: we have not yet run any model in Suveria or carried out any of the trials described. Everything below is intentions and candidates, not a working service.
+Today Suveria is at the design stage. The whitepaper's results log (status as of 29 October 2026) states plainly: we have not yet run any model in Suveria or carried out any of the trials described. Everything below is intentions and candidates, not a working service.
 
 More: [Suveria whitepaper, chapter 9](../whitepaper-suveria.md#s9).
 

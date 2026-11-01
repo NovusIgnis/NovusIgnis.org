@@ -1,6 +1,6 @@
 # Statute of the Novus Ignis Foundation: versions and change register
 
-*English translation of the Polish original (entries up to 30 October 2026). Where the versions differ, the Polish text prevails.*
+*Translated into English by digital intelligence from the Polish original (entries up to 30 October 2026). Where the versions differ, the Polish text prevails.*
 
 The statute is the foundation's law. It binds the foundation formally, and changes to it are approved by the registry court. The manifesto is our commitment to people: it says what we want to do and why. Detailed procedures are described in regulations adopted by the board (§ 14(2) of the statute), and the whitepapers show how things work technically.
 
@@ -55,7 +55,7 @@ The wording in this section consists of drafts for decision by the board and the
 
 ### Z2. Work, commissions and reimbursement of costs (§ 12)
 
-- **Currently:** all work, including the creation of software, is based on the unpaid work of volunteers. Only services of outside professional entities, for example accounting, may be commissioned for payment. A board member may receive only reimbursement of documented, necessary costs (§ 13(5)).
+- **Currently:** all work, including the creation of software, is based on the unpaid work of volunteers. Only services of external professional service providers, for example accounting, may be commissioned for payment. A board member may receive only reimbursement of documented, necessary costs (§ 13(5)).
 - **Draft wording:**
   > 2. The activity of the Foundation is based primarily on the work of volunteers. The Foundation covers the costs owed to volunteers under the provisions on volunteering and may reimburse them for other documented, necessary costs incurred in performing services for it.
   > 3. Members of the Foundation's bodies do not receive remuneration for performing their functions.

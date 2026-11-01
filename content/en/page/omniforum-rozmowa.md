@@ -11,7 +11,7 @@ This page is for people who have already read the [What is Omniforum](omniforum.
 
 You cannot use this yet: we are describing a plan and collecting comments.
 
-The Omniforum prototype is under construction. Everything we describe below is a project, and we have not yet completed any trial.
+The Omniforum prototype is under construction. Everything we describe below is at the design stage, and we have not yet completed any trial.
 
 More: [Omniforum whitepaper, chapter 1](../whitepaper-omniforum.md#s1).
 

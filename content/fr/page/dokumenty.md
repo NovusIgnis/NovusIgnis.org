@@ -39,6 +39,10 @@ Tous les documents sont disponibles en polonais et en anglais (les statuts en an
 
 Le manifeste et les quatre livres blancs sont aussi réunis dans un seul fichier texte, que vous pouvez ajouter à votre conversation avec une intelligence numérique pour l’interroger sur ce qui vous intéresse : [en français](llms-full.txt) ou [en polonais](../llms-full.txt).
 
+## Comment ces textes ont été élaborés
+
+Le manifeste, les livres blancs et les sous-pages sont le fruit d’une collaboration entre le fondateur et l’intelligence numérique (Claude, Codex, Gemini). La version polonaise a été lue et approuvée par le fondateur, qui en assume la responsabilité ; c’est elle qui fait foi. Les traductions dans les autres langues ont été réalisées par l’intelligence numérique et vérifiées par un autre modèle que celui qui les a traduites. Aucune traduction n’a encore été vérifiée par une personne maîtrisant la langue concernée. Si une formulation vous semble incorrecte, sélectionnez le passage et envoyez une remarque : nous apportons les corrections ouvertement, en les justifiant.
+
 ## Comment faire une remarque
 
 Le bouton « J’ai une remarque » fonctionne pour chaque document et chaque sous-page. Sélectionnez un passage du texte, et la page préparera un courriel avec la citation et un lien vers cet endroit ; vous l’envoyez depuis votre propre messagerie à [salve@novusignis.org](mailto:salve@novusignis.org). Le message arrive uniquement à la fondation et ne crée pas de conversation publique.
@@ -49,7 +53,7 @@ Nous consignerons les remarques qui conduisent à des modifications dans le [jou
 
 ## Licence et sources
 
-Nous mettons le manifeste, les livres blancs et les textes de ce site, traductions comprises, à disposition sous licence CC BY 4.0, qui permet d’utiliser et d’adapter le texte en indiquant la source. Nous publierons le code du site sous licence AGPLv3. Pour en savoir plus : [manifeste, conclusion (juste avant les notes)](../manifest.md#s9) et [livre blanc sur les principes de la fondation, point 11.3](../whitepaper-zasady-fundacji.md#s11-3).
+Nous mettons le manifeste, les livres blancs et les textes de ce site, traductions comprises, à disposition sous licence CC BY 4.0, qui permet d’utiliser et d’adapter le texte en indiquant la source. Nous publions le code du site sous licence AGPLv3 dans un [dépôt public](https://github.com/NovusIgnis/NovusIgnis.org), avec l’historique de toutes les modifications. Pour en savoir plus : [manifeste, conclusion (juste avant les notes)](../manifest.md#s9) et [livre blanc sur les principes de la fondation, point 11.3](../whitepaper-zasady-fundacji.md#s11-3).
 
 Chaque document est aussi disponible sous forme de fichier source Markdown, c’est-à-dire de texte simple que l’on peut télécharger, comparer et citer. Si vous nous lisez par l’intermédiaire d’un modèle, la liste des textes se trouve dans [llms.txt](../llms.txt), et le manifeste et les quatre livres blancs sont réunis dans [llms-full.txt](llms-full.txt).
 

@@ -44,7 +44,7 @@ Au début, nous cherchons en particulier quelques personnes avec qui nous constr
 - des spécialistes de la sécurité, de la cryptographie et de l’infrastructure ;
 - des programmeurs et des concepteurs d’interfaces ;
 - des juristes spécialisés dans le droit des fondations, la protection des données et les services numériques ;
-- des donateurs prêts à financer un budget public de phase pilote, sans influence sur les décisions ni droit à une promotion.
+- des donateurs prêts à financer un budget de phase pilote rendu public, sans influence sur les décisions ni droit à une promotion.
 
 Pour en savoir plus : [manifeste, chapitre 9](../manifest.md#s9), [Rejoindre](dolacz.md) et [livre blanc sur les principes de la fondation, point 8.3](../whitepaper-zasady-fundacji.md#s8-3).
 

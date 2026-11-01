@@ -7,7 +7,7 @@ menu: Join us
 ---
 # Join us
 
-This page explains how you can help the Novus Ignis Foundation today. The foundation is already operating, the manifesto and whitepapers are published, and you can send a remark on every document. There are no services or contributions yet, and we have not yet tested Suveria's safeguards in any trial: Suveria, a private space for working with digital intelligence, is a project, and Omniforum, a shared space for conversation, understanding and decisions, has a first prototype under construction.
+This page explains how you can help the Novus Ignis Foundation today. The foundation is already operating, the manifesto and whitepapers are published, and you can send a remark on every document. There are no services or contributions yet, and we have not yet tested Suveria's safeguards in any trial: Suveria, a private space for working with digital intelligence, is at the design stage, and Omniforum, a shared space for conversation, understanding and decisions, has a first prototype under construction.
 
 Work at the foundation is based on volunteering. No one is paid for holding a position, there will be no salaried jobs, and the foundation reimburses documented, necessary costs of tasks, for example a ticket to a working meeting. Helping should fit into everyday life: you choose a task, contribute as much as you can, and return to your own affairs.
 
@@ -37,7 +37,7 @@ More: [manifesto, chapter 9](../manifest.md#s9), [Suveria whitepaper, chapter 9]
 
 ## Financial support
 
-Since 31 October 2026 we accept donations by bank transfer in zlotys, euros and dollars: transfer details and rules are on the [Support the foundation](wesprzyj.md) page. The first payment is the founding fund from the founder, shown in the [register of contributions and expenses](fundacja-rejestr.md).
+Since 31 October 2026, we have accepted donations by bank transfer in zlotys, euros and dollars: transfer details and rules are on the [Support the foundation](wesprzyj.md) page. The first payment is the founding fund from the founder, shown in the [register of contributions and expenses](fundacja-rejestr.md).
 
 Anyone who wants to fund infrastructure at the start will be able to do so only as an earmarked initiative: covering the full cost, with public accounting, with no influence on decisions and no right to promotion. Before we accept the first one, we will announce the terms of the fundraiser and the maximum value of the initiative. In this way we want first to cover the fixed cost of the pilot and of the Suveria protection trial. A contribution does not grant votes or privileges.
 
