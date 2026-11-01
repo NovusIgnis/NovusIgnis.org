@@ -1,6 +1,6 @@
 ---
 tytul: Wat is Suveria
-opis: De digitale privéwerkruimte die de stichting ontwerpt: wat mogelijk moet worden, waartegen ze moet beschermen en waar ze nu staat
+opis: De privéruimte om met digitale intelligentie te werken die de stichting ontwerpt: wat mogelijk moet worden, waartegen ze moet beschermen en waar ze nu staat
 grupa: suveria
 kolejnosc: 1
 menu: Wat is Suveria

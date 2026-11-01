@@ -40,7 +40,7 @@ Wir beginnen die Entwicklung mit Säule I und werden die ersten Mittel aus dem g
 2. **Reserve.** Tatsächlich gesammelte Mittel für mindestens sechs Monate Unterhalt von Suveria und Omniforum, die nach dem Zurücklegen des vollständigen Budgets für das neue Projekt unangetastet bleiben. Erfüllt, wenn auf einem gesonderten Konto das Sechsfache der durchschnittlichen monatlichen Betriebskosten der letzten drei Monate liegt und wir den Betrag jeden Monat im Register zeigen.
 3. **Entscheidung der Gemeinschaft.** Eine Abstimmung, die der gesamten berechtigten Gemeinschaft zu gleichen Bedingungen offensteht. Erfüllt, wenn die Gemeinschaft einen konkreten Vorschlag mit Budget, Auswirkungen auf die Reserve und Abbruchkriterium beschließt.
 
-Nicht eingezahlte Zusagen, den Nutzenden zustehende Guthaben und zweckgebundene Mittel bilden keine Reserve; ein Abstimmungsmodell erfüllt die erste Bedingung nicht. Wenn die Abstimmung nicht mehr funktioniert oder die Reserve unter sechs Monate fällt, setzen wir neue Verpflichtungen der weiteren Säulen aus und stellen zuerst die Bedingungen wieder her.
+Nicht eingezahlte Zusagen, den Nutzenden zustehende Guthaben und zweckgebundene Mittel bilden keine Reserve; ein Mock-up des Abstimmungssystems erfüllt die erste Bedingung nicht. Wenn die Abstimmung nicht mehr funktioniert oder die Reserve unter sechs Monate fällt, setzen wir neue Verpflichtungen der weiteren Säulen aus und stellen zuerst die Bedingungen wieder her.
 
 Mehr: [Manifest, Abschnitt 6.3](../manifest.md#s6-3) und [Whitepaper zu den Arbeitsgrundsätzen der Stiftung, Abschnitt 8.1](../whitepaper-zasady-fundacji.md#s8-1).
 

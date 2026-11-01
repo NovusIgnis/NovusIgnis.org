@@ -22,7 +22,7 @@ Suveria ist ein Entwurf, und für das Omniforum entsteht ein Prototyp, daher bes
 | Dokument | Inhalt | Fassung | Lesezeit | Sprache |
 |---|---|---|---|---|
 | [Manifest](../manifest.md) | Was wir tun wollen und warum: Würde, Privatsphäre, gemeinsames Verständnis, Unterhalt der Dienste und Übergabe der Macht. | 31.10.2026 | ca. 60 Minuten | Polnisch und Englisch |
-| [Suveria: privates Arbeiten mit digitaler Intelligenz](../whitepaper-suveria.md) | Was wir schützen und wovor, der Weg vom Gerät zum Modell, eine datierte Kostenrechnung und Abnahmetests. | 31.10.2026 | ca. 50 Minuten | Polnisch und Englisch |
+| [Suveria: private Arbeit mit digitaler Intelligenz](../whitepaper-suveria.md) | Was wir schützen und wovor, der Weg vom Gerät zum Modell, eine datierte Kostenrechnung und Abnahmetests. | 31.10.2026 | ca. 50 Minuten | Polnisch und Englisch |
 | [Omniforum: gemeinsames Verständnis, Gespräch und Entscheidungen](../whitepaper-omniforum.md) | Anliegen, Ideensteckbrief, Argumentkarte, lebendige Dokumente und Regeln für gemeinsame Entscheidungen. | 31.10.2026 | ca. 50 Minuten | Polnisch und Englisch |
 | [Arbeitsgrundsätze der Stiftung](../whitepaper-zasady-fundacji.md) | Abrechnung nach tatsächlicher Nutzung, Budget, Arbeit und Rollen, das Register der Vorteile und die Übergabe der Befugnisse des Stifters. | 31.10.2026 | ca. 50 Minuten | Polnisch und Englisch |
 | [Trainingsmaterialien und Benchmark für Modelle](../whitepaper-materialy-i-benchmark.md) | Wie sich prüfen lässt, ob digitale Intelligenz Menschen tatsächlich hilft; ein Forschungsprogramm, bisher ohne Ergebnisse. | 31.10.2026 | ca. 25 Minuten | Polnisch und Englisch |

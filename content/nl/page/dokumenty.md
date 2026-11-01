@@ -22,8 +22,8 @@ Suveria is een ontwerp en Omniforum heeft een prototype in aanbouw; de whitepape
 | Document | Inhoud | Versie | Leestijd | Taal |
 |---|---|---|---|---|
 | [Manifest](../manifest.md) | Wat we willen doen en waarom: waardigheid, privacy, gezamenlijk begrip, instandhouding van diensten en machtsoverdracht. | 31-10-2026 | ca. 60 minuten | Pools en Engels |
-| [Suveria: privéwerk met digitale intelligentie](../whitepaper-suveria.md) | Wat we beschermen en waartegen, de weg van apparaat naar model, een gedateerde kostenberekening en acceptatietests. | 31-10-2026 | ca. 50 minuten | Pools en Engels |
-| [Omniforum: gedeeld begrip, gesprek en besluiten](../whitepaper-omniforum.md) | Kwesties, een ideeënkaart, een argumentenoverzicht, levende documenten en regels voor gezamenlijke besluiten. | 31-10-2026 | ca. 50 minuten | Pools en Engels |
+| [Suveria: privé werken met digitale intelligentie](../whitepaper-suveria.md) | Wat we beschermen en waartegen, de weg van apparaat naar model, een gedateerde kostenberekening en acceptatietests. | 31-10-2026 | ca. 50 minuten | Pools en Engels |
+| [Omniforum: gezamenlijk begrip, gesprek en besluiten](../whitepaper-omniforum.md) | Kwesties, een ideeënkaart, een argumentenoverzicht, levende documenten en regels voor gezamenlijke besluiten. | 31-10-2026 | ca. 50 minuten | Pools en Engels |
 | [Werkingsprincipes van de stichting](../whitepaper-zasady-fundacji.md) | Betalen voor werkelijk gebruik, budget, werk en rollen, het voordelenregister en overdracht van bevoegdheden van de oprichter. | 31-10-2026 | ca. 50 minuten | Pools en Engels |
 | [Materiaal voor het trainen en benchmarken van modellen](../whitepaper-materialy-i-benchmark.md) | Hoe we toetsen of digitale intelligentie mensen werkelijk helpt; een onderzoeksprogramma, vooralsnog zonder resultaten. | 31-10-2026 | ca. 25 minuten | Pools en Engels |
 | [Statuten: versies en wijzigingsregister](../statut/rejestr-zmian.md) | Alle statutenversies en doorgevoerde en geplande wijzigingen, met onderbouwing. | vermeldingen tot 30-10-2026 | ca. 10 minuten | Pools en Engels |

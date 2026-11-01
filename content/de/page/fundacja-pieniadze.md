@@ -68,7 +68,7 @@ Wir werden auch zeigen, welcher Anteil der Ausgaben unmittelbar die Satzungszwec
 | Entscheidungsprotokoll | Wichtige Entscheidungen: Ziel, Varianten, Grundlage, Budget und Ergebnis | wird entstehen |
 | Register der Fehler und Erkenntnisse | Wesentliche Fehler, ihre Folgen und Erkenntnisse | wird entstehen |
 | Register der Satzungsänderungen | Fassungen der Satzung und geplante Änderungen mit Begründung | funktioniert |
-| Register nur zum Anfügen | Prüfsummen der übrigen Register, mit denen sich jede unbemerkte Änderung erkennen lässt | wird entstehen |
+| Register nur zum Anfügen | Prüfsummen der übrigen Register, mit denen sich eine unbemerkte Änderung erkennen lässt | wird entstehen |
 
 Keines dieser Register außer dem Register der Satzungsänderungen funktioniert bisher.
 
@@ -82,7 +82,7 @@ Säule I hat Vorrang. Säule II „Hardware“ (offene materielle Lösungen) und
 2. auf einem gesonderten Konto liegen tatsächlich gesammelte Mittel für mindestens sechs Monate Unterhalt von Suveria und Omniforum, die auch nach dem Zurücklegen des vollständigen Budgets für das neue Projekt unangetastet bleiben;
 3. die Gemeinschaft hat das Projekt und seine Finanzierung in einer Abstimmung genehmigt, die allen Berechtigten zu gleichen Bedingungen offensteht.
 
-Ein Abstimmungsmodell, nicht eingezahlte Zusagen und fremde Guthaben erfüllen diese Bedingungen nicht.
+Ein Mock-up des Abstimmungssystems, nicht eingezahlte Zusagen und fremde Guthaben erfüllen diese Bedingungen nicht.
 
 Davor gibt es für kleine Initiativen mit einem festgelegten Ende zwei Wege. Das Übergangsbudget des Vorstands ist ein kleiner, vorübergehender Betrag, den der Vorstand für kurze Initiativen der weiteren Säulen einsetzen kann, solange die verbindliche Abstimmung der Gemeinschaft noch nicht funktioniert. Eine zweckgebundene Initiative ist ein Projekt, das aus eigens dafür bestimmten Einzahlungen bezahlt wird.
 

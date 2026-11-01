@@ -397,7 +397,7 @@ Elke fase moet nut hebben, ook als de verdere visie moet veranderen. Een privéw
 
 Manieren van uitvoering, testresultaten, kostenberekeningen en open vragen werken we uit in verbonden documenten:
 
-- [Suveria: privéwerk met digitale intelligentie](whitepaper-suveria.md)
+- [Suveria: privé werken met digitale intelligentie](whitepaper-suveria.md)
 - [Omniforum: gedeeld begrip, gesprek en besluiten](whitepaper-omniforum.md)
 - [Werkingsprincipes van de stichting: instandhouding, samenwerking en machtsoverdracht](whitepaper-zasady-fundacji.md)
 - [Materiaal voor het trainen en benchmarken van modellen](whitepaper-materialy-i-benchmark.md)

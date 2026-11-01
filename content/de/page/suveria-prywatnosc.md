@@ -30,7 +30,7 @@ Eine vertrauliche Umgebung ist ein hardwareseitig abgeschotteter Teil eines Serv
 
 Legende: „soll schützen“ bezeichnet den beabsichtigten Schutz, „teilweiser Schutz“ schützt die Inhalte, aber nicht alles darum herum, „schützt nicht“ benennt ausdrücklich eine Grenze, und „Deklaration des Anbieters, zu überprüfen“ bedeutet, dass wir den Schutz bis zur eigenen Verifizierung nicht bestätigen. Die Administration des Anbieters verwaltet die Server, auf denen das Modell läuft; Netzwerkbeobachtende sehen den Datenverkehr zwischen deinem Gerät und dem Server, aber die Inhalte sind unterwegs verschlüsselt; eine Person mit physischem Zugang kann das Servergehäuse öffnen; die Stiftung sind wir als Betreiber des Dienstes.
 
-Drei Grenzen sollte man von Anfang an kennen. Confidential Computing repariert keinen infizierten Computer und schützt nicht vor allen, die physischen Zugang zum Server haben: 2025 bauten Forschende für weniger als tausend Dollar ein Gerät, mit dem sich bei physischem Zugang zum Server ein Hardwarenachweis fälschen lässt. Der Schutz auf Servern beruht auch auf den Schlüsseln des Prozessorherstellers, der redlich handeln muss.
+Drei Grenzen sollte man von Anfang an kennen. Confidential Computing repariert weder ein infiziertes Telefon noch einen infizierten Computer und schützt nicht vor allen, die physischen Zugang zum Server haben: 2025 bauten Forschende für weniger als tausend Dollar ein Gerät, mit dem sich bei physischem Zugang zum Server ein Hardwarenachweis fälschen lässt. Der Schutz auf Servern beruht auch auf den Schlüsseln des Prozessorherstellers, der redlich handeln muss.
 
 Mehr: [Whitepaper zu Suveria, Kapitel 2](../whitepaper-suveria.md#s2) und [Abschnitt 2.3](../whitepaper-suveria.md#s2-3).
 
