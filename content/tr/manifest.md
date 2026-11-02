@@ -1,6 +1,6 @@
 # Novus Ignis Vakfı Manifestosu
 
-31 Ekim 2026 tarihli sürüm
+3 Kasım 2026 tarihli sürüm
 
 *Bu çeviri, 31 Ekim 2026 tarihli Lehçe asıl metin temel alınarak dijital zekâ tarafından hazırlanmıştır. Farklılık olması hâlinde Lehçe metin esas alınır.*
 
@@ -358,6 +358,8 @@ Bu vizyonu, uygulamadan, hukuktan ve sistemlerin kendileri hakkındaki bilgiden 
 ### 8.1. Öğrenilebilecek bir uygulama
 
 Vakfın işleyiş biçimi, anlattığımız değerlerin uygulamadaki örneği olmayı amaçlıyor. Başkalarının yolumuzu anlayabilmesi, değerlendirebilmesi ve başlatılan çalışmayı sürdürebilmesi için kararları, anlaşmazlıkları, ele alınan olanakları ve sonraki sonuçları belgelemek istiyoruz. Ortak çalışmaların açıklığını, bunların ilgili olduğu kişilerin mahremiyetini korumakla birleştiriyoruz.
+
+Bu ilkeye dürüst örnekle yetiştirme (*Alignment by Honest Example*) adını veriyoruz. Bu ilke, dijital zekâ modellerinin yalnızca onlara bildirdiğimiz ilkelerden değil, oluşturuldukları verilerde insanların gerçekte nasıl davrandığından da öğrendiği hipotezinden hareket ediyor. Çocuklarda da benzer bir durum görülebilir: yetişkinlerin onlara söylediklerinden çok, yetişkinlerde gördüklerini yaparlar. Bu yüzden vakfı, dijital zekânın bir gün kendisine emanet edilen meseleleri yönetmesini isteyeceğimiz biçimde (7.2. madde) yönetmeye çalışıyoruz: açık bir biçimde, kararlarımızın gerekçelerini açıklayarak ve hatalarımızı kabul ederek. Böyle bir örneğin modellere gerçekten yardımcı olup olmadığı, varsayılan bir sonuç değil, bir araştırma sorusudur.
 
 Önemli hatalar ve çıkarılan dersler için kamuya açık bir sicil tutmayı taahhüt ediyoruz. Ne olduğunu, sonuçlarını, nedenler hakkında bildiklerimizi ve hâlâ açıklığa kavuşturulması gerekenleri anlatacağız. Düzeltme yolunu, sonraki eylemlerin sorumluluğunu ve etkinliklerini denetleme tarihini belirteceğiz. Ayrı görüşleri ve sorundan etkilenen kişilerin anlatılarını, değerlendirmemize itiraz etme olanağıyla birlikte koruyacağız. Hatayı kabul etmenin, düzeltmeye ve öğrenmeye yol açması amaçlanıyor.
 

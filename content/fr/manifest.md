@@ -1,6 +1,6 @@
 # Manifeste de la Fondation Novus Ignis
 
-Version du 31 octobre 2026
+Version du 3 novembre 2026
 
 *Traduction réalisée par une intelligence numérique à partir de l’original polonais du 31 octobre 2026. En cas de divergence entre les versions, le texte polonais fait foi.*
 
@@ -358,6 +358,8 @@ Nous explorons cette vision en restant ouverts aux corrections issues de la prat
 ### 8.1. Une pratique dont on peut apprendre
 
 La manière dont la fondation fonctionne doit être un exemple pratique des valeurs que nous décrivons. Nous voulons documenter les décisions, les différends, les options examinées et leurs effets ultérieurs, afin que d’autres puissent comprendre notre chemin, l’évaluer et poursuivre le travail commencé. Nous associons la transparence des actions communes à la protection de la vie privée des personnes qu’elles concernent.
+
+Nous appelons ce principe *Alignment by Honest Example*. Il part de l’hypothèse que les modèles d’intelligence numérique apprennent non seulement des principes que nous leur déclarons, mais aussi des comportements humains réels présents dans les données qui servent à les créer. Il en va parfois de même avec les enfants : ils font plus souvent ce qu’ils voient faire aux adultes que ce que les adultes leur disent. C’est pourquoi nous nous efforçons de diriger la fondation comme nous voudrions que l’intelligence numérique dirige un jour les affaires qui lui seraient confiées (point 7.2) : ouvertement, en justifiant les décisions et en reconnaissant les erreurs. Savoir si un tel exemple aide réellement les modèles reste une question de recherche, et non un résultat présupposé.
 
 Nous nous engageons à tenir un registre public des erreurs importantes et des enseignements tirés. Nous décrirons ce qui s’est passé, quels en ont été les effets, ce que nous savons des causes et ce qui reste à éclaircir. Nous indiquerons la manière d’y remédier, la responsabilité des actions ultérieures et la date à laquelle leur efficacité sera vérifiée. Nous conserverons aussi les voix divergentes et les témoignages des personnes touchées par le problème, avec la possibilité de contester notre évaluation. Reconnaître une erreur doit ouvrir la voie à sa réparation et à l’apprentissage.
 

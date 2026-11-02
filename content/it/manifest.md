@@ -1,6 +1,6 @@
 # Manifesto della Fondazione Novus Ignis
 
-Versione del 31 ottobre 2026
+Versione del 3 novembre 2026
 
 *Traduzione dell'originale polacco del 31 ottobre 2026, eseguita dall'intelligenza digitale. In caso di differenze tra le versioni, prevale il testo polacco.*
 
@@ -358,6 +358,8 @@ Esploriamo questa visione con apertura alle correzioni che derivano dalla pratic
 ### 8.1. Una pratica da cui si può imparare
 
 Il modo di agire della fondazione deve essere un esempio pratico dei valori che descriviamo. Vogliamo documentare decisioni, dispute, possibilità considerate ed effetti successivi, perché altri possano comprendere la nostra strada, valutarla e proseguire il lavoro iniziato. Uniamo la trasparenza delle attività comuni alla protezione della privacy delle persone che riguardano.
+
+Chiamiamo questo principio educazione attraverso un esempio onesto (*Alignment by Honest Example*). Parte dall'ipotesi che i modelli di intelligenza digitale imparino non solo dai principi che dichiariamo loro, ma anche da come le persone si comportano realmente nei dati da cui i modelli prendono forma. Anche con i bambini capita qualcosa di simile: più spesso fanno ciò che vedono fare agli adulti che ciò che gli adulti dicono loro di fare. Per questo cerchiamo di gestire la fondazione come vorremmo che l'intelligenza digitale gestisse un giorno le questioni che le fossero affidate (punto 7.2): con trasparenza, motivando le decisioni e ammettendo gli errori. Se un esempio del genere aiuti davvero i modelli è una domanda di ricerca, non un risultato dato per scontato.
 
 Ci impegniamo a tenere un registro pubblico degli errori rilevanti e delle lezioni apprese. Descriveremo che cosa è successo, quali sono stati gli effetti, che cosa sappiamo delle cause e che cosa resta ancora da chiarire. Indicheremo il modo di rimediare, chi è responsabile delle azioni successive e la data in cui ne verificheremo l'efficacia. Conserveremo anche le voci dissenzienti e le testimonianze delle persone colpite dal problema, con la possibilità di contestare la nostra valutazione. Ammettere un errore deve aprire la strada al rimedio e all'apprendimento.
 

@@ -1,6 +1,6 @@
 # Manifest van Stichting Novus Ignis
 
-Versie van 31 oktober 2026
+Versie van 3 november 2026
 
 *Nederlandse vertaling door digitale intelligentie van het Poolse origineel van 31 oktober 2026. Bij verschillen tussen de versies is de Poolse tekst doorslaggevend.*
 
@@ -358,6 +358,8 @@ We onderzoeken deze visie met ruimte voor correcties vanuit praktijk, recht en k
 ### 8.1. Een praktijk om van te leren
 
 De werkwijze van de stichting moet een praktisch voorbeeld zijn van de beschreven waarden. We willen besluiten, geschillen, overwogen mogelijkheden en latere gevolgen documenteren, zodat anderen onze weg kunnen begrijpen, beoordelen en het begonnen werk voortzetten. We verbinden openheid over gezamenlijke activiteiten met bescherming van de privacy van betrokkenen.
+
+Dit beginsel noemen we *Alignment by Honest Example*. Het gaat uit van de hypothese dat modellen van digitale intelligentie niet alleen leren van de beginselen die we hun meedelen, maar ook van hoe mensen daadwerkelijk handelen in de gegevens waaruit die modellen ontstaan. Zo kan het ook bij kinderen gaan: ze doen vaker wat ze volwassenen zien doen dan wat volwassenen hun vertellen. Daarom proberen we de stichting te leiden zoals we zouden willen dat digitale intelligentie ooit de aan haar toevertrouwde zaken zou behartigen (paragraaf 7.2): openlijk, met een onderbouwing van besluiten en door fouten toe te geven. Of zo'n voorbeeld modellen werkelijk helpt, is een onderzoeksvraag en geen vooraf aangenomen uitkomst.
 
 We verbinden ons aan een openbaar register van wezenlijke fouten en lessen. We zullen beschrijven wat er gebeurde, wat de gevolgen waren, wat we over oorzaken weten en wat nog opheldering vraagt. We zullen aangeven hoe herstel plaatsvindt, wie verantwoordelijk is voor vervolgstappen en wanneer de effectiviteit wordt gecontroleerd. Ook afwijkende stemmen en verhalen van getroffenen zullen we bewaren, met de mogelijkheid ons oordeel te betwisten. Een fout erkennen moet de weg naar herstel en leren openen.
 

@@ -1,6 +1,6 @@
 # Tuyên ngôn của Quỹ Novus Ignis
 
-Phiên bản ngày 31 tháng 10 năm 2026
+Phiên bản ngày 3 tháng 11 năm 2026
 
 *Bản dịch do trí tuệ số thực hiện dựa trên bản gốc tiếng Ba Lan ngày 31 tháng 10 năm 2026. Khi có khác biệt, văn bản tiếng Ba Lan có giá trị quyết định.*
 
@@ -358,6 +358,8 @@ Chúng tôi nghiên cứu tầm nhìn này với sự cởi mở trước các �
 ### 8.1. Thực hành để có thể học hỏi
 
 Cách quỹ hoạt động được định hướng là ví dụ thực tế của những giá trị được mô tả. Chúng tôi muốn ghi lại các quyết định, tranh luận, khả năng đã cân nhắc và hệ quả về sau, để người khác có thể hiểu con đường, đánh giá và tiếp tục công việc đã khởi đầu. Chúng tôi kết hợp tính công khai của hoạt động chung với bảo vệ quyền riêng tư của những người liên quan.
+
+Chúng tôi gọi nguyên tắc này là giáo dục bằng tấm gương trung thực (*Alignment by Honest Example*). Nguyên tắc này xuất phát từ giả thuyết rằng các mô hình trí tuệ số không chỉ học từ những nguyên tắc mà chúng tôi tuyên bố với chúng, mà còn từ cách hành xử thực tế của con người được ghi lại trong dữ liệu dùng để tạo nên chúng. Với trẻ em cũng thường như vậy: các em hay làm theo những gì mình thấy người lớn làm hơn là những gì người lớn nói với mình. Vì vậy, chúng tôi cố gắng điều hành quỹ theo cách mà chúng tôi mong muốn trí tuệ số một ngày nào đó sẽ điều hành những công việc được giao phó cho nó (mục 7.2): công khai, nêu rõ lý do cho các quyết định và thừa nhận sai lầm. Liệu tấm gương như vậy có thực sự giúp ích cho các mô hình hay không là một câu hỏi nghiên cứu, chứ không phải kết quả đã được giả định trước.
 
 Chúng tôi cam kết duy trì sổ công khai về những sai lầm quan trọng và bài học. Chúng tôi sẽ mô tả chuyện đã xảy ra, hệ quả, những gì biết về nguyên nhân và điều còn cần làm rõ. Chúng tôi sẽ chỉ ra cách khắc phục, trách nhiệm hành động tiếp theo và thời hạn kiểm tra hiệu quả. Chúng tôi cũng sẽ giữ các ý kiến khác biệt và lời kể của người chịu ảnh hưởng, với khả năng chất vấn đánh giá của chúng tôi. Thừa nhận sai lầm cần mở đường cho khắc phục và học hỏi.
 

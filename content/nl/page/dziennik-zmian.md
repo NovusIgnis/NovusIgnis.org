@@ -9,6 +9,10 @@ menu: Wijzigingslogboek
 
 De documenten groeien mee met onze kennis en ervaring, met behoud van de wijzigingsgeschiedenis. Hier leggen we vast wat en wanneer op de website en in de documenten is veranderd, ook als een verandering voortkomt uit een opmerking van een lezer. De wijzigingsgeschiedenis van de statuten zelf staat afzonderlijk in het [register van statutenwijzigingen](../statut/rejestr-zmian.md).
 
+## 3 november 2026: naam van het beginsel van het eerlijke voorbeeld in het manifest
+
+- In paragraaf 8.1 van het manifest hebben we een alinea toegevoegd over het beginsel dat we *Alignment by Honest Example* noemen: we proberen de stichting te leiden zoals we zouden willen dat digitale intelligentie ooit de aan haar toevertrouwde zaken zou behartigen. Het beginsel stond al in onze eerdere schetsen uit september 2026; bij de redactie vóór publicatie bleven de gevolgen van dit beginsel in de tekst staan (paragrafen 1.1 en 8.1), maar raakten we de naam en de onderbouwing kwijt. Waarom: zonder die onderbouwing is moeilijk te begrijpen waarom we besluiten en fouten zo gedetailleerd vastleggen. Versie van het manifest: 3 november 2026.
+
 ## 31 oktober 2026: publicatie
 
 - We publiceren het manifest en de vier whitepapers (Suveria, Omniforum, werkingsprincipes van de stichting, materiaal voor het trainen en benchmarken van modellen) in de versie van 31 oktober 2026 en de statuten (geconsolideerde tekst van 28 september 2026) met het wijzigingsregister.

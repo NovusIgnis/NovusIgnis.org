@@ -1,6 +1,6 @@
 # Manifesto of the Novus Ignis Foundation
 
-Version of 31 October 2026
+Version of 3 November 2026
 
 *Translated into English by digital intelligence from the Polish original of 31 October 2026. Where the versions differ, the Polish text prevails.*
 
@@ -358,6 +358,8 @@ We are exploring this vision with openness to corrections that come from practic
 ### 8.1. Practice that others can learn from
 
 The way the foundation works is to be a practical example of the values we describe. We want to document decisions, disputes, the options considered and their later effects, so that others can understand our path, assess it and continue the work we have begun. We combine openness about shared activities with protecting the privacy of the people they concern.
+
+We call this principle *Alignment by Honest Example*. It starts from the hypothesis that digital intelligence models learn not only from the principles we declare to them, but also from how people actually behave in the data they are built from. Children are often similar: they more often do what they see adults doing than what adults tell them to do. That is why we try to run the foundation the way we would like digital intelligence one day to run the matters entrusted to it (section 7.2): openly, giving reasons for our decisions and admitting our mistakes. Whether such an example actually helps models is a research question, not a presumed result.
 
 We commit to keeping a public register of significant mistakes and lessons learned. We will describe what happened, what the effects were, what we know about the causes and what still needs to be clarified. We will indicate how it is being fixed, who is responsible for further action and when its effectiveness will be checked. We will also preserve dissenting voices and the accounts of people affected by the problem, with the possibility of challenging our assessment. Admitting a mistake is meant to open the way to fixing it and to learning.
 

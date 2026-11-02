@@ -1,6 +1,6 @@
 # Manifiesto de la Fundación Novus Ignis
 
-Versión del 31 de octubre de 2026
+Versión del 3 de noviembre de 2026
 
 *Traducción realizada por inteligencia digital a partir del original polaco del 31 de octubre de 2026. Si las versiones difieren, prevalece el texto polaco.*
 
@@ -358,6 +358,8 @@ Exploramos esta visión con apertura a las correcciones que se deriven de la pr�
 ### 8.1. Una práctica de la que se puede aprender
 
 La forma de actuar de la fundación ha de ser un ejemplo práctico de los valores que describimos. Queremos documentar las decisiones, las disputas, las opciones consideradas y sus efectos posteriores, para que otros puedan comprender nuestro camino, evaluarlo y continuar el trabajo iniciado. Combinamos la transparencia de las actividades comunes con la protección de la privacidad de las personas a las que afectan.
+
+Llamamos a este principio educación mediante el ejemplo honesto (*Alignment by Honest Example*). Parte de la hipótesis de que los modelos de inteligencia digital aprenden no solo de los principios que les declaramos, sino también de cómo se comportan realmente las personas, según reflejan los datos con los que se crean. Algo parecido ocurre a veces con los niños: hacen más a menudo lo que ven hacer a los adultos que lo que los adultos les dicen. Por eso nos esforzamos por gestionar la fundación como nos gustaría que la inteligencia digital gestionara algún día los asuntos que se le confiaran (apartado 7.2): con transparencia, justificando las decisiones y admitiendo los propios errores. Si un ejemplo así ayuda realmente a los modelos es una pregunta de investigación, no un resultado que demos por supuesto.
 
 Nos comprometemos a llevar un registro público de errores importantes y lecciones aprendidas. Describiremos qué ocurrió, cuáles fueron las consecuencias, qué sabemos de las causas y qué sigue necesitando aclaración. Indicaremos la forma de reparación, la responsabilidad de las acciones posteriores y el plazo para comprobar su eficacia. Conservaremos también las opiniones discrepantes y los testimonios de las personas afectadas por el problema, con la posibilidad de cuestionar nuestra valoración. Reconocer un error ha de abrir el camino a la reparación y al aprendizaje.
 

@@ -9,6 +9,10 @@ menu: Histórico de alterações
 
 Desenvolvemos os documentos junto com o conhecimento e a experiência, preservando o histórico de alterações. Aqui registramos o que mudou no site e nos documentos, e quando, inclusive quando uma mudança resulta de uma observação de um leitor. O histórico de alterações do próprio estatuto está separado, no [registro de alterações do estatuto](../statut/rejestr-zmian.md).
 
+## 3 de novembro de 2026: nome do princípio do exemplo honesto no manifesto
+
+- No manifesto, na seção 8.1, acrescentamos um parágrafo sobre o princípio que chamamos de educação pelo exemplo honesto (*Alignment by Honest Example*): procuramos conduzir a fundação como gostaríamos que a inteligência digital administrasse um dia os assuntos que lhe fossem confiados. O princípio já estava em nossos rascunhos anteriores de setembro de 2026; na revisão editorial anterior à publicação, suas implicações permaneceram (seções 1.1 e 8.1), mas perdemos o nome e a justificativa. Por quê: sem a justificativa, é difícil compreender por que mantemos registros tão detalhados de decisões e erros. Versão do manifesto: 3 de novembro de 2026.
+
 ## 31 de outubro de 2026: publicação
 
 - Publicamos o manifesto e os quatro whitepapers (Suveria, Omniforum, princípios de funcionamento da fundação, materiais de treinamento e benchmark) na versão de 31 de outubro de 2026, além do estatuto (texto consolidado de 28 de setembro de 2026) com o registro de alterações.

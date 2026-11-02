@@ -1,6 +1,6 @@
 # Manifesto da Fundação Novus Ignis
 
-Versão de 31 de outubro de 2026
+Versão de 3 de novembro de 2026
 
 *Tradução realizada por inteligência digital a partir do original em polonês de 31 de outubro de 2026. Em caso de divergência entre as versões, prevalece o texto em polonês.*
 
@@ -358,6 +358,8 @@ Investigamos essa visão com abertura a correções decorrentes da prática, da 
 ### 8.1. Uma prática com a qual se pode aprender
 
 A forma de atuação da fundação deve ser um exemplo prático dos valores que descrevemos. Queremos documentar decisões, disputas, possibilidades consideradas e consequências posteriores para que outras pessoas possam compreender nosso caminho, avaliá-lo e continuar o trabalho iniciado. Combinamos a transparência das ações compartilhadas com a proteção da privacidade das pessoas a que se referem.
+
+Chamamos esse princípio de educação pelo exemplo honesto (*Alignment by Honest Example*). Parte da hipótese de que os modelos de inteligência digital aprendem não apenas com os princípios que lhes declaramos, mas também com a maneira como as pessoas realmente agem, registrada nos dados a partir dos quais esses modelos são construídos. Com as crianças, às vezes acontece algo semelhante: fazem com mais frequência o que veem os adultos fazerem do que o que os adultos lhes dizem. Por isso, procuramos conduzir a fundação como gostaríamos que a inteligência digital administrasse um dia os assuntos que lhe fossem confiados (seção 7.2): de forma transparente, justificando as decisões e admitindo os erros. Saber se um exemplo assim realmente ajuda os modelos é uma questão de pesquisa, e não um resultado pressuposto.
 
 Comprometemo-nos a manter um registro público dos erros e aprendizados relevantes. Descreveremos o que aconteceu, quais foram os efeitos, o que sabemos sobre as causas e o que ainda exige esclarecimento. Indicaremos a forma de reparação, a responsabilidade pelas ações seguintes e o prazo para verificar sua eficácia. Preservaremos também posições divergentes e relatos das pessoas afetadas pelo problema, com a possibilidade de questionar nossa avaliação. Admitir um erro deve abrir o caminho para a reparação e a aprendizagem.
 

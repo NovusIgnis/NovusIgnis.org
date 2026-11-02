@@ -1,6 +1,6 @@
 # Manifesto Yayasan Novus Ignis
 
-Versi 31 Oktober 2026
+Versi 3 November 2026
 
 *Terjemahan ini dibuat oleh kecerdasan digital berdasarkan naskah asli berbahasa Polandia tertanggal 31 Oktober 2026. Jika terdapat perbedaan, naskah berbahasa Polandia yang berlaku.*
 
@@ -358,6 +358,8 @@ Kami meneliti visi ini dengan keterbukaan terhadap koreksi berdasarkan praktik, 
 ### 8.1. Praktik yang dapat menjadi bahan pembelajaran
 
 Cara kerja yayasan dimaksudkan menjadi contoh praktis nilai-nilai yang kami uraikan. Kami ingin mendokumentasikan keputusan, perselisihan, pilihan yang dipertimbangkan, serta akibat selanjutnya agar orang lain dapat memahami jalan kami, menilainya, dan melanjutkan pekerjaan yang telah dimulai. Keterbukaan kegiatan bersama kami padukan dengan perlindungan privasi orang yang terkait.
+
+Kami menyebut prinsip ini pendidikan melalui teladan yang jujur (*Alignment by Honest Example*). Prinsip ini berangkat dari hipotesis bahwa model kecerdasan digital belajar bukan hanya dari prinsip-prinsip yang kami nyatakan kepada mereka, melainkan juga dari perilaku nyata manusia dalam data yang menjadi dasar pembentukan model-model itu. Hal serupa kadang terjadi pada anak-anak: mereka lebih sering melakukan apa yang mereka lihat dilakukan orang dewasa daripada apa yang dikatakan orang dewasa kepada mereka. Karena itu, kami berusaha mengelola yayasan sebagaimana kami berharap kecerdasan digital kelak mengelola urusan yang dipercayakan kepadanya (bagian 7.2): secara terbuka, dengan menjelaskan alasan keputusan dan mengakui kesalahan. Apakah contoh semacam itu benar-benar membantu model merupakan pertanyaan penelitian, bukan hasil yang sudah diasumsikan.
 
 Kami berkomitmen mengelola daftar publik tentang kesalahan penting dan pelajaran yang dipetik. Kami akan menjelaskan apa yang terjadi, apa akibatnya, apa yang diketahui tentang penyebabnya, dan apa yang masih perlu dijelaskan. Kami akan menunjukkan cara perbaikan, tanggung jawab atas tindakan selanjutnya, dan waktu pemeriksaan efektivitasnya. Kami juga akan mempertahankan suara berbeda serta kisah orang yang terdampak masalah, dengan kesempatan menggugat penilaian kami. Mengakui kesalahan dimaksudkan membuka jalan untuk memperbaiki dan belajar.
 

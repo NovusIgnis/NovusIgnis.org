@@ -9,6 +9,10 @@ menu: Change log
 
 We develop the documents along with our knowledge and experience, keeping a history of changes. Here we record what changed on the site and in the documents, and when, including when a change follows from a reader's comment. The history of changes to the statute itself is kept separately, in the [statute change register](../statut/rejestr-zmian.md).
 
+## 3 November 2026: the name of the honest example principle in the manifesto
+
+- In the manifesto, section 8.1, we added a paragraph about the principle we call *Alignment by Honest Example*: we try to run the foundation the way we would like digital intelligence one day to run the matters entrusted to it. The principle was in our earlier drafts from September 2026; in the editing before publication its consequences remained (sections 1.1 and 8.1), but we lost its name and rationale. Why: without the rationale it is hard to understand why we keep such detailed records of decisions and mistakes. Manifesto version: 3 November 2026.
+
 ## 31 October 2026: publication
 
 - We are publishing the manifesto and four whitepapers (Suveria, Omniforum, foundation operating principles, training materials and benchmark) in the version of 31 October 2026, as well as the statute (consolidated text of 28 September 2026) with its change register.

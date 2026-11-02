@@ -9,6 +9,10 @@ menu: Nhật ký thay đổi
 
 Chúng tôi phát triển tài liệu cùng kiến thức, kinh nghiệm, giữ lịch sử thay đổi. Ở đây ghi điều đổi trên trang, tài liệu và lúc nào, cả khi từ ý kiến người đọc. Lịch sử riêng điều lệ ở [sổ ghi thay đổi điều lệ](../statut/rejestr-zmian.md).
 
+## 3 tháng 11 năm 2026: tên gọi của nguyên tắc nêu gương trung thực trong tuyên ngôn
+
+- Trong tuyên ngôn, ở mục 8.1, chúng tôi đã bổ sung một đoạn về nguyên tắc mà chúng tôi gọi là giáo dục bằng tấm gương trung thực (*Alignment by Honest Example*): chúng tôi cố gắng điều hành quỹ theo cách mà chúng tôi mong muốn trí tuệ số một ngày nào đó sẽ điều hành những công việc được giao phó cho nó. Nguyên tắc này đã có trong các bản thảo trước đây của chúng tôi từ tháng 9 năm 2026; trong quá trình biên tập trước khi công bố, các hệ quả của nguyên tắc ấy vẫn được giữ lại (mục 1.1 và 8.1), nhưng chúng tôi đã bỏ sót tên gọi và phần lý giải. Vì sao: nếu thiếu phần lý giải, sẽ khó hiểu vì sao chúng tôi ghi chép các quyết định và sai lầm chi tiết đến vậy. Phiên bản tuyên ngôn: ngày 3 tháng 11 năm 2026.
+
 ## 31 tháng 10 năm 2026: công bố
 
 - Chúng tôi công bố tuyên ngôn, bốn sách trắng (Suveria, Omniforum, nguyên tắc hoạt động của quỹ, tài liệu huấn luyện và bộ chuẩn đánh giá) phiên bản ngày 31 tháng 10 năm 2026, điều lệ (văn bản hợp nhất ngày 28 tháng 9 năm 2026) cùng sổ ghi thay đổi.

@@ -1,6 +1,6 @@
 # Manifest der Stiftung Novus Ignis
 
-Fassung vom 31. Oktober 2026
+Fassung vom 3. November 2026
 
 *Diese Übersetzung wurde von digitaler Intelligenz auf Grundlage des polnischen Originals vom 31. Oktober 2026 erstellt. Bei Abweichungen ist der polnische Text maßgeblich.*
 
@@ -358,6 +358,8 @@ Wir erforschen diese Vision offen für Korrekturen, die sich aus Praxis, Recht u
 ### 8.1. Eine Praxis, aus der man lernen kann
 
 Die Arbeitsweise der Stiftung soll ein praktisches Beispiel für die Werte sein, die wir beschreiben. Wir wollen Entscheidungen, Streitfragen, erwogene Möglichkeiten und spätere Folgen dokumentieren, damit andere unseren Weg verstehen, beurteilen und die begonnene Arbeit fortsetzen können. Die Offenheit gemeinsamer Tätigkeiten verbinden wir mit dem Schutz der Privatsphäre der Menschen, die sie betreffen.
+
+Dieses Prinzip nennen wir Erziehung durch ein ehrliches Beispiel (*Alignment by Honest Example*). Es geht von der Hypothese aus, dass Modelle digitaler Intelligenz nicht nur aus den Grundsätzen lernen, die wir ihnen ausdrücklich mitteilen, sondern auch daraus, wie Menschen in den Daten, aus denen diese Modelle entstehen, tatsächlich handeln. Mit Kindern verhält es sich oft ähnlich: Sie tun häufiger das, was sie bei Erwachsenen beobachten, als das, was Erwachsene ihnen sagen. Deshalb bemühen wir uns, die Stiftung so zu führen, wie wir uns wünschen würden, dass digitale Intelligenz eines Tages die ihr anvertrauten Angelegenheiten führt (Abschnitt 7.2): offen, mit Begründungen für Entscheidungen und dem Eingeständnis von Fehlern. Ob ein solches Beispiel den Modellen tatsächlich hilft, ist eine Forschungsfrage und kein vorausgesetztes Ergebnis.
 
 Wir verpflichten uns, ein öffentliches Register wesentlicher Fehler und Erkenntnisse zu führen. Wir werden beschreiben, was geschehen ist, welche Folgen es hatte, was wir über die Ursachen wissen und was noch geklärt werden muss. Wir werden angeben, wie der Fehler behoben wird, wer für das weitere Vorgehen verantwortlich ist und bis wann dessen Wirksamkeit überprüft wird. Wir werden auch abweichende Stimmen und Berichte von Menschen bewahren, die vom Problem betroffen sind, mit der Möglichkeit, unsere Bewertung anzufechten. Einen Fehler einzugestehen, soll den Weg zu Behebung und Lernen öffnen.
 

@@ -9,6 +9,10 @@ menu: Registro de cambios
 
 Desarrollamos los documentos a medida que crecen nuestros conocimientos y nuestra experiencia, conservando el historial de cambios. Aquí registramos qué ha cambiado en el sitio y en los documentos, y cuándo, también cuando el cambio se debe a un comentario de alguien que los lee. El historial de cambios de los propios estatutos está aparte, en el [registro de modificaciones de los estatutos](../statut/rejestr-zmian.md).
 
+## 3 de noviembre de 2026: el nombre del principio del ejemplo honesto en el manifiesto
+
+- En el apartado 8.1 del manifiesto hemos añadido un párrafo sobre el principio que llamamos educación mediante el ejemplo honesto (*Alignment by Honest Example*): nos esforzamos por gestionar la fundación como nos gustaría que la inteligencia digital gestionara algún día los asuntos que se le confiaran. El principio ya estaba en nuestros borradores anteriores de septiembre de 2026; en la edición previa a la publicación quedaron sus consecuencias (apartados 1.1 y 8.1), pero perdimos el nombre y la justificación. Por qué: sin una justificación resulta difícil comprender para qué llevamos registros tan detallados de las decisiones y los errores. Versión del manifiesto: 3 de noviembre de 2026.
+
 ## 31 de octubre de 2026: publicación
 
 - Publicamos el manifiesto y cuatro whitepapers (Suveria, Omniforum, principios de funcionamiento de la fundación, materiales para el entrenamiento y el benchmark) en su versión del 31 de octubre de 2026, así como los estatutos (texto consolidado del 28 de septiembre de 2026) con su registro de modificaciones.

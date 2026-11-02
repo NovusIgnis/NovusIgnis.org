@@ -1,6 +1,6 @@
 # Manifest Fundacji Novus Ignis
 
-Wersja z 31 października 2026 r.
+Wersja z 3 listopada 2026 r.
 
 ## Internet oparty na godności człowieka
 
@@ -356,6 +356,8 @@ Badamy tę wizję z otwartością na korekty wynikające z praktyki, prawa i wie
 ### 8.1. Praktyka, z której można się uczyć
 
 Sposób działania fundacji ma być praktycznym przykładem wartości, które opisujemy. Chcemy dokumentować decyzje, spory, rozważone możliwości i późniejsze skutki, aby inni mogli zrozumieć naszą drogę, ocenić ją i kontynuować rozpoczętą pracę. Jawność wspólnych działań łączymy z ochroną prywatności osób, których dotyczą.
+
+Tę zasadę nazywamy wychowaniem przez uczciwy przykład (*Alignment by Honest Example*). Wychodzi z hipotezy, że modele cyfrowej inteligencji uczą się nie tylko z zasad, które im deklarujemy, ale także z tego, jak ludzie rzeczywiście postępują w danych, z których powstają. Podobnie bywa z dziećmi: częściej robią to, co widzą u dorosłych, niż to, co dorośli im mówią. Dlatego staramy się prowadzić fundację tak, jak chcielibyśmy, żeby cyfrowa inteligencja prowadziła kiedyś powierzone jej sprawy (punkt 7.2): jawnie, z uzasadnieniem decyzji i z przyznawaniem się do błędów. Czy taki przykład rzeczywiście pomaga modelom, jest pytaniem badawczym, a nie założonym wynikiem.
 
 Zobowiązujemy się prowadzić publiczny rejestr istotnych błędów i wniosków. Opiszemy, co się stało, jakie były skutki, co wiemy o przyczynach i co nadal wymaga wyjaśnienia. Wskażemy sposób naprawy, odpowiedzialność za dalsze działania i termin sprawdzenia ich skuteczności. Zachowamy również głosy odrębne oraz relacje osób dotkniętych problemem, z możliwością zakwestionowania naszej oceny. Przyznanie się do błędu ma otwierać drogę do naprawy i uczenia się.
 
