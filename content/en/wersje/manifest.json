@@ -1,0 +1,14 @@
+{
+ "dokument": "manifest.md",
+ "wersje": [
+  {
+   "data": "2026-11-03",
+   "poprzednia": "2026-10-31",
+   "opis": "In the manifesto, section 8.1, we added a paragraph about the principle we call *Alignment by Honest Example*: we try to run the foundation the way we would like digital intelligence one day to run the matters entrusted to it. The principle was in our earlier drafts from September 2026; in the editing before publication its consequences remained (sections 1.1 and 8.1), but we lost its name and rationale. Why: without the rationale it is hard to understand why we keep such detailed records of decisions and mistakes. Manifesto version: 3 November 2026."
+  },
+  {
+   "data": "2026-10-31",
+   "opis": "First public version."
+  }
+ ]
+}

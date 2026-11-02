@@ -112,3 +112,18 @@
 .doc-compare-block > *:last-child { margin-bottom: 0; }
 .doc-compare-block__lang { display: inline-block; margin-bottom: 4px; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.08em; color: #00D2FF; }
 @media print { .doc-compare, .doc-compare-block { display: none !important; } }
+/* Wersje dokumentów: odnośnik pod wierszem wersji, strona zmian, wersje historyczne */
+.doc-version-changes { font-size: 0.9rem; }
+.ver-meta, .ver-legend { color: var(--ni-text-muted); }
+.ver-legend { font-size: 0.9rem; }
+.ver-gap { margin: 1.2em 0; padding: 2px 12px; border-inline-start: 2px dashed var(--ni-border); color: var(--ni-text-muted); font-size: 0.85rem; }
+.ver-hunk { margin: 1.4em 0; padding: 12px 16px; border: 1px solid var(--ni-border); border-radius: 10px; background: rgba(255, 255, 255, 0.02); }
+.ver-where { margin: 0 0 0.6em; font-size: 0.85rem; font-weight: 600; }
+.ver-heading { font-weight: 700; }
+.doc ins { background: rgba(0, 255, 238, 0.12); color: #D8FFFB; text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 3px; }
+.doc del { background: rgba(255, 0, 80, 0.14); color: #FFD0DC; text-decoration: line-through; text-decoration-thickness: 2px; }
+.ver-block { display: block; margin: 0.6em 0; padding: 8px 12px; border-radius: 8px; }
+.ver-block > p:last-child { margin-bottom: 0; }
+/* etykieta jako inline-block: podkreślenie i przekreślenie bloku jej nie obejmują */
+.ver-historical a { color: #FFB27A; text-underline-offset: 2px; }
+.ver-tag { display: inline-block; margin-bottom: 4px; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; }

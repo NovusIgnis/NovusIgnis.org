@@ -364,5 +364,21 @@
     "prompt_link": "Lisez les documents de la Fondation Novus Ignis (manifeste et livres blancs) : {url}. Aidez-moi à les comprendre. Répondez en vous appuyant sur ces documents, indiquez le chapitre et distinguez ce qui fonctionne déjà des projets, des hypothèses et des visions. Si quelque chose n’y figure pas, dites-le clairement. Pour commencer, résumez en quelques phrases de quoi il s’agit.",
     "paste": "coller",
     "paste_title": "Gemini ouvre une conversation vide : la question est déjà copiée, collez-la (Ctrl+V) et envoyez-la."
+  },
+  "versions": {
+    "changes_link": "Ce qui a changé depuis la version précédente",
+    "title": "Ce qui a changé",
+    "current": "Version actuelle :",
+    "previous": "Version précédente :",
+    "description": "Description de la modification",
+    "changes": "Modifications du texte",
+    "legend": "Seuls les passages modifiés sont affichés. Le texte ajouté est souligné, le texte supprimé est barré.",
+    "added": "Ajouté",
+    "removed": "Supprimé",
+    "unchanged": "Paragraphes inchangés :",
+    "history": "Toutes les versions",
+    "current_label": "actuelle",
+    "historical_note": "Ceci est une version antérieure du document, conservée pour que l’on puisse voir comment il a évolué.",
+    "go_current": "Version actuelle du document"
   }
 }

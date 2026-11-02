@@ -364,5 +364,21 @@
     "prompt_link": "Lies die Dokumente der Stiftung Novus Ignis (Manifest und Whitepaper): {url}. Hilf mir, sie zu verstehen. Antworte auf Grundlage dieser Dokumente, nenne das Kapitel und unterscheide, was bereits funktioniert, von Entwürfen, Hypothesen und Visionen. Wenn etwas nicht darin steht, sag das offen. Fasse zu Beginn in einigen Sätzen zusammen, worum es geht.",
     "paste": "einfügen",
     "paste_title": "Gemini öffnet ein leeres Gespräch: Die Frage ist schon kopiert, füge sie ein (Strg+V) und sende sie ab."
+  },
+  "versions": {
+    "changes_link": "Was sich seit der vorherigen Fassung geändert hat",
+    "title": "Was sich geändert hat",
+    "current": "Aktuelle Fassung:",
+    "previous": "Vorherige Fassung:",
+    "description": "Beschreibung der Änderung",
+    "changes": "Änderungen im Text",
+    "legend": "Wir zeigen nur die geänderten Stellen. Hinzugefügter Text ist unterstrichen, entfernter durchgestrichen.",
+    "added": "Hinzugefügt",
+    "removed": "Entfernt",
+    "unchanged": "Unveränderte Absätze:",
+    "history": "Alle Fassungen",
+    "current_label": "aktuell",
+    "historical_note": "Dies ist eine frühere Fassung des Dokuments. Wir bewahren sie auf, damit sichtbar bleibt, wie es sich verändert hat.",
+    "go_current": "Aktuelle Fassung des Dokuments"
   }
 }

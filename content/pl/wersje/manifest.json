@@ -1,0 +1,15 @@
+{
+ "dokument": "manifest.md",
+ "wersje": [
+  {
+   "data": "2026-11-03",
+   "poprzednia": "2026-10-31",
+   "opis": "W manifeście, w punkcie 8.1, dopisaliśmy akapit o zasadzie, którą nazywamy wychowaniem przez uczciwy przykład (*Alignment by Honest Example*): fundację staramy się prowadzić tak, jak chcielibyśmy, żeby cyfrowa inteligencja prowadziła kiedyś powierzone jej sprawy. Zasada była w naszych wcześniejszych szkicach z września 2026 r.; w redakcji przed publikacją zostały jej skutki (punkty 1.1 i 8.1), a zgubiliśmy nazwę i uzasadnienie. Dlaczego: bez uzasadnienia trudno zrozumieć, po co prowadzimy tak szczegółowe zapisy decyzji i błędów. Wersja manifestu: 3 listopada 2026 r.",
+   "skrot": "5d9f44e58420e8ff6bddcc27852b6eaed6171ae3"
+  },
+  {
+   "data": "2026-10-31",
+   "opis": "Pierwsza publiczna wersja."
+  }
+ ]
+}

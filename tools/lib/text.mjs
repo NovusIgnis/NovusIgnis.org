@@ -47,6 +47,31 @@ export function paragraphs(md) {
   }));
 }
 
+// Odcisk całej treści (bez metadanych i komentarzy): rejestr wersji zapisuje go przy ostatniej wersji,
+// a generator ostrzega, gdy treść zmieniła się bez nowej wersji.
+export function contentHash(md) {
+  return crypto.createHash('sha1').update(paragraphs(md).map(p => p.h).join('\n'), 'utf8').digest('hex');
+}
+
+/**
+ * Najdłuższy wspólny podciąg dwóch list (eq porównuje elementy). Zwraca kroki w kolejności tekstu:
+ * { op: 'eq', i, j } (element w obu), { op: 'rem', i } (tylko w a), { op: 'add', j } (tylko w b).
+ */
+export function diffSeq(a, b, eq = (x, y) => x === y) {
+  const n = a.length, m = b.length;
+  const L = Array.from({ length: n + 1 }, () => new Int32Array(m + 1));
+  for (let i = n - 1; i >= 0; i--) for (let j = m - 1; j >= 0; j--)
+    L[i][j] = eq(a[i], b[j]) ? L[i + 1][j + 1] + 1 : Math.max(L[i + 1][j], L[i][j + 1]);
+  const out = [];
+  let i = 0, j = 0;
+  while (i < n || j < m) {
+    if (i < n && j < m && eq(a[i], b[j])) { out.push({ op: 'eq', i, j }); i++; j++; }
+    else if (j < m && (i >= n || L[i][j + 1] >= L[i + 1][j])) { out.push({ op: 'add', j }); j++; }
+    else { out.push({ op: 'rem', i }); i++; }
+  }
+  return out;
+}
+
 /**
  * Porównanie zapisanych akapitów (oldP) z obecnymi (curP) przez najdłuższy wspólny podciąg.
  * Zwraca listę { kind: 'changed' | 'added' | 'removed', n (numer akapitu), t (początek) }.

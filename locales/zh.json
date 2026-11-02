@@ -364,5 +364,21 @@
     "prompt_link": "请阅读 Novus Ignis 基金会的文档（宣言与白皮书）：{url}。请帮助我理解它们。依据这些文档回答，注明章节，并区分已经运行的内容、设计方案、假设和愿景。如果文档中没有相关内容，请直说。首先请用几句话概括其内容。",
     "paste": "粘贴",
     "paste_title": "Gemini 会打开一个空白对话：问题已复制，请粘贴（Ctrl+V）后发送。"
+  },
+  "versions": {
+    "changes_link": "与上一版本相比有哪些变化",
+    "title": "有哪些变化",
+    "current": "当前版本：",
+    "previous": "上一版本：",
+    "description": "修改说明",
+    "changes": "文本中的修改",
+    "legend": "仅显示修改过的部分。新增文字加下划线，删除文字加删除线。",
+    "added": "新增",
+    "removed": "删除",
+    "unchanged": "未修改的段落：",
+    "history": "所有版本",
+    "current_label": "当前",
+    "historical_note": "这是本文件的较早版本，保留它是为了让人看到文件如何变化。",
+    "go_current": "本文件的当前版本"
   }
 }

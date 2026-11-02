@@ -52,7 +52,8 @@ for (const f of files) {
     if (href === '' ) continue;
     const t = resolveTarget(f, href);
     if (!fs.existsSync(t.abs)) { bad(f + ': brak pliku dla odnośnika ' + href); continue; }
-    if (t.hash && t.rel.endsWith('.html') && !ids(t.rel).has(t.hash)) bad(f + ': brak kotwicy #' + t.hash + ' w ' + t.rel);
+    // Wersje historyczne zostają bez zmian, więc ich odnośniki do części innych dokumentów mogą z czasem prowadzić donikąd.
+    if (t.hash && t.rel.endsWith('.html') && !ids(t.rel).has(t.hash) && !/^[a-z]{2}\/wersje\//.test(f)) bad(f + ': brak kotwicy #' + t.hash + ' w ' + t.rel);
   }
   const alt = [...html.matchAll(/<link rel="alternate" hreflang="([^"]+)" href="([^"]+)">/g)].map(m => m[1]);
   if (!alt.includes('x-default') || alt.length < 2) bad(f + ': brak hreflang (x-default lub wersji językowych)');

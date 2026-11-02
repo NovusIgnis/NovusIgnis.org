@@ -364,5 +364,21 @@
     "prompt_link": "Đọc tài liệu của Quỹ Novus Ignis (tuyên ngôn và sách trắng): {url}. Hãy giúp tôi hiểu chúng. Trả lời dựa trên các tài liệu này, nêu chương và phân biệt những gì đang hoạt động với các bản thiết kế, giả thuyết và tầm nhìn. Nếu một thông tin không có trong tài liệu, hãy nói rõ. Trước hết, hãy tóm tắt trong vài câu nội dung chính.",
     "paste": "dán",
     "paste_title": "Gemini mở một cuộc trò chuyện trống: câu hỏi đã được sao chép, hãy dán (Ctrl+V) rồi gửi."
+  },
+  "versions": {
+    "changes_link": "Những gì đã thay đổi so với phiên bản trước",
+    "title": "Những gì đã thay đổi",
+    "current": "Phiên bản hiện tại:",
+    "previous": "Phiên bản trước:",
+    "description": "Mô tả thay đổi",
+    "changes": "Thay đổi trong văn bản",
+    "legend": "Chúng tôi chỉ hiển thị những chỗ đã thay đổi. Phần văn bản thêm vào được gạch chân, phần văn bản bị xóa được gạch ngang.",
+    "added": "Đã thêm",
+    "removed": "Đã xóa",
+    "unchanged": "Đoạn văn không thay đổi:",
+    "history": "Tất cả các phiên bản",
+    "current_label": "hiện tại",
+    "historical_note": "Đây là một phiên bản trước đây của tài liệu, được lưu lại để có thể thấy tài liệu đã thay đổi như thế nào.",
+    "go_current": "Phiên bản hiện tại của tài liệu"
   }
 }

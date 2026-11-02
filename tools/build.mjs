@@ -7,6 +7,7 @@
  * Tworzy:  index.html (język źródłowy) i <język>/index.html (strona główna z szablonu),
  *          <język>/<plik>.html (dokumenty), <język>/<slug>.html (podstrony), <język>/mapa-strony.html,
  *          <język>/slownik.html i js/slownik-<język>.js (ze słownika content/<język>/slownik.json, jeśli jest),
+ *          <język>/<dokument>-zmiany.html i <język>/wersje/<dokument>-<data>.html (z content/<język>/wersje/),
  *          js/site-config.js, sitemap.xml, robots.txt, llms.txt, llms-full.txt, <język>/llms-full.txt.
  *
  * Uruchomienie (Node 18+, bez dodatkowych pakietów):  node tools/build.mjs
@@ -17,7 +18,7 @@ import path from 'node:path';
 import vm from 'node:vm';
 import crypto from 'node:crypto';
 import { fileURLToPath } from 'node:url';
-import { stripComments, splitFrontMatter, normalizeNewlines } from './lib/text.mjs';
+import { stripComments, splitFrontMatter, normalizeNewlines, contentHash, diffSeq } from './lib/text.mjs';
 import { checkTranslation } from './i18n-sync.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -684,6 +685,191 @@ for (const p of pages) {
 }
 syncNotes.forEach(m => warn(m));
 
+// ---------------------------------------------------------------- Wersje dokumentów
+// content/<język>/wersje/<dokument>.json: rejestr wersji (data, poprzednia, opis zmiany; w oryginale przy najnowszej
+// wersji także odcisk treści). content/<język>/wersje/<dokument>/<data>.md: zachowane poprzednie brzmienie.
+// Powstają z nich: <dokument>-zmiany.html (tylko to, co przybyło i ubyło, z opisem zmiany) i wersje historyczne
+// wersje/<dokument>-<data>.html. Różnice liczymy z plików, bez historii gita. Statut ma własny rejestr zmian.
+const stemOf = file => file.replace(/\.md$/, '');
+const registerPath = (lang, file) => 'content/' + lang + '/wersje/' + stemOf(file) + '.json';
+function readRegister(lang, file) {
+  const f = path.join(ROOT, registerPath(lang, file));
+  if (!fs.existsSync(f)) return null;
+  const list = (JSON.parse(fs.readFileSync(f, 'utf8')).wersje || []).slice().sort((a, b) => b.data.localeCompare(a.data));
+  return list.length ? list : null;
+}
+const versionFile = (lang, file, date) => path.join(ROOT, 'content', lang, 'wersje', stemOf(file), date + '.md');
+const changesHtml = file => stemOf(file) + '-zmiany.html';
+const versionHtml = (file, date) => 'wersje/' + stemOf(file) + '-' + date + '.html';
+// Bloki rozdzielone pustą linią (jak akapity w i18n-sync), z pełną treścią.
+const blocksOf = md => stripComments(splitFrontMatter(md).body).split(/\n[ \t]*\n/).filter(s => s.trim())
+  .map(s => ({ md: s.replace(/^\n+|\s+$/g, ''), key: s.replace(/\s+/g, ' ').trim() }));
+const headingOf = b => (!b.md.includes('\n') && b.md.match(H_RE)) || null;
+// Kotwice nagłówków tak jak w renderDoc: pierwszy nagłówek # to „top”, powtórzenia z kolejnym numerem.
+function headingIds(blocks, ctx) {
+  const used = new Set(['top', 'przypisy-lista']), ids = new Map();
+  let titled = false;
+  blocks.forEach((b, k) => {
+    const m = headingOf(b); if (!m) return;
+    if (m[1].length === 1 && !titled) { titled = true; ids.set(k, 'top'); return; }
+    const id = headingId(plain(inline(m[2], ctx)));
+    let u = id, n = 2; while (used.has(u)) u = id + '-' + n++;
+    used.add(u); ids.set(k, u);
+  });
+  return ids;
+}
+// Zmiany w akapicie na poziomie słów (w piśmie chińskim i japońskim na poziomie znaków); znaki przestankowe osobno.
+const TOKEN_RE = /[\u3040-\u30ff\u3400-\u9fff\uf900-\ufaff]|[\p{L}\p{N}\p{M}]+|\s+|\S/gu;
+function wordDiff(a, b) {
+  const ta = a.match(TOKEN_RE) || [], tb = b.match(TOKEN_RE) || [];
+  const segs = [];
+  for (const o of diffSeq(ta, tb)) {
+    const kind = o.op === 'eq' ? 'eq' : 'ch';
+    let s = segs[segs.length - 1];
+    if (!s || s.kind !== kind) segs.push(s = { kind, eq: '', rem: '', add: '' });
+    if (o.op === 'eq') s.eq += ta[o.i]; else if (o.op === 'rem') s.rem += ta[o.i]; else s.add += tb[o.j];
+  }
+  // sam odstęp między dwiema zmianami dołączamy do obu, żeby przekreślenie nie rozpadało się na pojedyncze słowa
+  for (let k = segs.length - 2; k > 0; k--) {
+    const s = segs[k], p = segs[k - 1], n = segs[k + 1];
+    if (s.kind === 'eq' && !s.eq.trim() && p.kind === 'ch' && n.kind === 'ch') {
+      p.rem += (p.rem && n.rem ? s.eq : '') + n.rem; p.add += (p.add && n.add ? s.eq : '') + n.add;
+      segs.splice(k, 2);
+    }
+  }
+  const words = t => t.filter(x => x.trim()).length;
+  const same = segs.filter(s => s.kind === 'eq').reduce((n, s) => n + words(s.eq.match(TOKEN_RE) || []), 0);
+  const mark = (tag, t) => { const m = t.match(/^(\s*)([\s\S]*?)(\s*)$/); return m[2] ? m[1] + '<' + tag + '>' + esc(m[2]) + '</' + tag + '>' + m[3] : esc(t); };
+  const html = segs.map(s => s.kind === 'eq' ? esc(s.eq) : (s.rem ? mark('del', s.rem) : '') + (s.add ? mark('ins', s.add) : '')).join('');
+  return { html, ratio: same / Math.max(words(ta), words(tb), 1) };
+}
+// Napis z dwukropkiem przed wartością; po pełnej szerokości dwukropku (chiński, japoński) bez spacji.
+const label = s => esc(s) + (/：$/.test(s) ? '' : ' ');
+// Tylko zmienione miejsca: każde pod nagłówkiem swojej części, reszta zwinięta do liczby akapitów bez zmian.
+function changesBody(d, lang, pagePath, oldMd, newMd, q) {
+  const T = locales[lang].versions;
+  const A = blocksOf(oldMd), B = blocksOf(newMd);
+  const ids = headingIds(B, q);
+  const docHref = relPath(pagePath, lang + '/' + d.html);
+  const blockHtml = b => { const m = headingOf(b); return m ? '<p class="ver-heading">' + inline(m[2], q) + '</p>' : renderDoc(b.md, q).body; };
+  const out = [];
+  let gap = 0, head = -1, hunk = null;
+  const flushGap = () => { if (gap) out.push('<p class="ver-gap">' + label(T.unchanged) + gap + '</p>'); gap = 0; };
+  const flushHunk = () => {
+    if (!hunk) return;
+    const { rem, add, at } = hunk; hunk = null;
+    // wiersz wersji pod tytułem: obie daty są na górze strony zmian
+    if (rem.length === 1 && add.length === 1 && rem[0] === 1 && add[0] === 1) return;
+    flushGap();
+    const parts = [];
+    if (at >= 0) {
+      const txt = esc(plain(inline(headingOf(B[at])[2], q)));
+      parts.push('<p class="ver-where">' + (ids.has(at) ? '<a href="' + esc(docHref + '#' + ids.get(at)) + '">' + txt + '</a>' : txt) + '</p>');
+    }
+    // Akapit zmieniony = usunięty i dodany, które mają co najmniej 40% wspólnych słów; łączymy je w kolejności tekstu,
+    // każdy usunięty z najbardziej podobnym dodanym, a resztę pokazujemy w całości jako usuniętą albo dodaną.
+    const words = b => plain(inline(b.md, q));
+    const pairOf = new Map(); // indeks dodanego -> { r: indeks usuniętego, w: porównanie słów }
+    let from = 0;
+    rem.forEach((ri, r) => {
+      if (headingOf(A[ri])) return;
+      let best = null;
+      for (let k = from; k < add.length; k++) {
+        if (headingOf(B[add[k]])) continue;
+        const w = wordDiff(words(A[ri]), words(B[add[k]]));
+        if (w.ratio >= 0.4 && (!best || w.ratio > best.w.ratio)) best = { k, w };
+      }
+      if (best) { pairOf.set(best.k, { r, w: best.w }); from = best.k + 1; }
+    });
+    const removed = r => parts.push('<del class="ver-block"><span class="ver-tag">' + esc(T.removed) + '</span>\n' + blockHtml(A[rem[r]]) + '</del>');
+    let r = 0;
+    add.forEach((bi, k) => {
+      const p = pairOf.get(k);
+      if (p) { for (; r < p.r; r++) removed(r); r = p.r + 1; parts.push('<p class="ver-changed">' + p.w.html + '</p>'); }
+      else parts.push('<ins class="ver-block"><span class="ver-tag">' + esc(T.added) + '</span>\n' + blockHtml(B[bi]) + '</ins>');
+    });
+    for (; r < rem.length; r++) removed(r);
+    out.push('<section class="ver-hunk">\n' + parts.join('\n') + '\n</section>');
+  };
+  for (const o of diffSeq(A, B, (x, y) => x.key === y.key)) {
+    if (o.op === 'eq') { flushHunk(); gap++; if (headingOf(B[o.j])) head = o.j; continue; }
+    if (!hunk) hunk = { rem: [], add: [], at: head };
+    if (o.op === 'rem') hunk.rem.push(o.i); else hunk.add.push(o.j);
+  }
+  flushHunk(); flushGap();
+  return out.join('\n');
+}
+
+for (const d of docs.filter(x => !x.file.startsWith('statut/'))) {
+  const srcList = d.langs.includes(SRC) ? readRegister(SRC, d.file) : null;
+  if (d.langs.includes(SRC)) {
+    const hash = contentHash(readContent(SRC, d.file));
+    if (!srcList) warn('content/' + SRC + '/' + d.file + ': brak rejestru wersji ' + registerPath(SRC, d.file));
+    else if (srcList[0].skrot !== hash) warn('content/' + SRC + '/' + d.file + ': treść różni się od wersji ' + srcList[0].data + ' z rejestru ' + registerPath(SRC, d.file) +
+      '. Każda zmiana treści to nowa wersja: zachowaj poprzednie brzmienie w wersje/, dopisz wersję z opisem zmiany i odciskiem ' + hash + '.');
+  }
+  const regs = new Map();
+  for (const lang of d.langs) {
+    const list = readRegister(lang, d.file);
+    if (!list) continue;
+    if (lang !== SRC && srcList && list[0].data < srcList[0].data) warn(registerPath(lang, d.file) + ': brak opisu wersji ' + srcList[0].data + ' (jest w oryginale)');
+    for (const v of list) if (v.poprzednia && !fs.existsSync(versionFile(lang, d.file, v.poprzednia))) warn(registerPath(lang, d.file) + ': brak zachowanej wersji ' + v.poprzednia + ' (content/' + lang + '/wersje/' + stemOf(d.file) + '/' + v.poprzednia + '.md)');
+    regs.set(lang, list.filter(v => !v.poprzednia || fs.existsSync(versionFile(lang, d.file, v.poprzednia))));
+  }
+  const withChanges = [...regs].filter(([, list]) => list[0] && list[0].poprzednia).map(([l]) => l);
+  if (!withChanges.length) continue;
+  const nav = { kind: 'version', navKind: 'doc', navPage: d.id, noGloss: true };
+  const chEntry = { ...d, ...nav, id: d.id + '-zmiany', html: changesHtml(d.file), file: 'wersje/' + stemOf(d.file) + '.json', langs: withChanges };
+  const dates = [...new Set([...regs.values()].flatMap(list => list.filter(v => v.poprzednia).map(v => v.poprzednia)))];
+  const histEntries = new Map(dates.map(date => [date, { ...d, ...nav, id: d.id + '-' + date, html: versionHtml(d.file, date), file: 'wersje/' + stemOf(d.file) + '/' + date + '.md',
+    langs: [...regs].filter(([, list]) => list.some(v => v.poprzednia === date)).map(([l]) => l) }]));
+
+  for (const [lang, list] of regs) {
+    const T = locales[lang].versions;
+    const quiet = pagePath => ({ ...makeCtx(d, lang, pagePath), warn: () => {}, fnRef: () => '' });
+    const versionLine = (md, q) => { const b = blocksOf(md)[1]; return b ? plain(inline(b.md, q)) : ''; };
+    const title = siteData.docs[d.id].titles[lang];
+    const hasChanges = withChanges.includes(lang);
+    const chPath = lang + '/' + chEntry.html;
+
+    // odnośnik pod wierszem wersji w dokumencie
+    const doc = rendered.find(x => x.entry === d && x.lang === lang);
+    if (doc && hasChanges) doc.r.body = doc.r.body.replace(/(<h1 id="top">[\s\S]*?<\/h1>\n<p>[\s\S]*?<\/p>)/, (m, s) => s + '\n<p class="doc-version-changes"><a href="' + esc(relPath(doc.pagePath, chPath)) + '">' + esc(T.changes_link) + '</a></p>');
+
+    // wersje historyczne
+    for (const v of list.filter(x => x.poprzednia)) {
+      const e = histEntries.get(v.poprzednia), pagePath = lang + '/' + e.html;
+      if (rendered.some(x => x.entry === e && x.lang === lang)) continue;
+      const oldMd = fs.readFileSync(versionFile(lang, d.file, v.poprzednia), 'utf8');
+      const r = renderDoc(oldMd, makeCtx(d, lang, pagePath));
+      r.title += ' (' + versionLine(oldMd, quiet(pagePath)) + ')';
+      const notice = '<p class="doc-notice container ver-historical" role="note">' + esc(T.historical_note) + ' <a href="' + esc(relPath(pagePath, lang + '/' + d.html)) + '">' + esc(T.go_current) + '</a>' +
+        (hasChanges ? ' · <a href="' + esc(relPath(pagePath, chPath)) + '">' + esc(T.changes_link) + '</a>' : '') + '</p>\n';
+      rendered.push({ entry: e, lang, pagePath, r, outdated: false, toc: true, notice });
+    }
+    if (!hasChanges) continue;
+
+    // strona zmian najnowszej wersji
+    const v = list[0], q = quiet(chPath);
+    const newMd = readContent(lang, d.file), oldMd = fs.readFileSync(versionFile(lang, d.file, v.poprzednia), 'utf8');
+    const docHref = esc(relPath(chPath, lang + '/' + d.html));
+    const histHref = date => esc(relPath(chPath, lang + '/' + versionHtml(d.file, date)));
+    const history = ['<li><a href="' + docHref + '">' + esc(versionLine(newMd, q)) + '</a> (' + esc(T.current_label) + ')</li>'];
+    for (const date of [...new Set(list.filter(x => x.poprzednia).map(x => x.poprzednia))].sort().reverse()) {
+      const own = list.find(x => x.data === date);
+      history.push('<li><a href="' + histHref(date) + '">' + esc(versionLine(fs.readFileSync(versionFile(lang, d.file, date), 'utf8'), q)) + '</a>' + (own && own.opis ? ': ' + inline(own.opis, q) : '') + '</li>');
+    }
+    const body = '<h1 id="top">' + esc(T.title) + ': ' + esc(title) + '</h1>\n' +
+      '<p class="ver-meta">' + label(T.current) + '<a href="' + docHref + '">' + esc(versionLine(newMd, q)) + '</a><br>' + label(T.previous) + '<a href="' + histHref(v.poprzednia) + '">' + esc(versionLine(oldMd, q)) + '</a></p>\n' +
+      '<h2 id="opis">' + esc(T.description) + '</h2>\n<p>' + inline(v.opis, q) + '</p>\n' +
+      '<h2 id="zmiany">' + esc(T.changes) + '</h2>\n<p class="ver-legend">' + esc(T.legend) + '</p>\n' + changesBody(d, lang, chPath, oldMd, newMd, q) + '\n' +
+      '<h2 id="wersje">' + esc(T.history) + '</h2>\n<ul class="ver-list">\n' + history.join('\n') + '\n</ul>';
+    let description = plain(inline(v.opis, q));
+    if (description.length > 180) description = description.slice(0, 177).replace(/\s+\S*$/, '') + '…';
+    rendered.push({ entry: chEntry, lang, pagePath: chPath, r: { title: T.title + ': ' + title, description, body, toc: [] }, outdated: false, toc: false });
+  }
+}
+
 fs.mkdirSync(path.join(ROOT, 'js'), { recursive: true });
 fs.writeFileSync(path.join(ROOT, 'js/site-config.js'), '/* Plik tworzony automatycznie przez tools/build.mjs. Nie edytuj ręcznie. */\nwindow.NI_SITE = ' + JSON.stringify(siteData, null, 1) + ';\n');
 
@@ -754,9 +940,11 @@ function pageDocument(o) {
     glossCount += used.size;
   }
   const ga = glossAssets(lang, base, !entry.noGloss);
-  const kindAttr = entry.kind === 'doc' ? 'data-doc="' + entry.id + '"' : 'data-page="' + entry.id + '"';
-  const header = NILayout.header({ t, lang, base, site: siteData, page: entry.id, kind: entry.kind, langItems: langItemsFor(entry, lang, pagePath) });
-  const footer = NILayout.footer({ t, lang, base, site: siteData, page: entry.id, kind: entry.kind });
+  // Strony wersji (zmiany, wersje historyczne) mają własny atrybut, żeby skrypty dokumentu nie traktowały ich jak obecnego tekstu.
+  const kindAttr = entry.kind === 'doc' ? 'data-doc="' + entry.id + '"' : entry.kind === 'version' ? 'data-version="' + entry.id + '"' : 'data-page="' + entry.id + '"';
+  const nav = { page: entry.navPage || entry.id, kind: entry.navKind || entry.kind };
+  const header = NILayout.header({ t, lang, base, site: siteData, ...nav, langItems: langItemsFor(entry, lang, pagePath) });
+  const footer = NILayout.footer({ t, lang, base, site: siteData, ...nav });
   const showToc = entry.kind === 'doc' ? true : (o.toc !== undefined ? o.toc : r.toc.filter(x => x.level === 2).length >= 3);
   const tocHtml = r.toc.length ? '<ol class="doc-toc__list">' + r.toc.map(x => '<li class="doc-toc__l' + x.level + '"><a href="#' + x.id + '">' + esc(x.text) + '</a></li>').join('') + '</ol>' : '';
   const aside = showToc ? `<aside class="doc-toc">
@@ -797,7 +985,7 @@ ${ga.head}
 <body class="doc-body" ${kindAttr} data-lang="${lang}">
 <a class="skip-link" href="#tresc">${esc(t.doc.skip)}</a>
 <header id="site-header">${header}</header>
-${outdated}${translationNote(lang)}<div class="doc-notice container" id="docNotice" hidden></div>
+${outdated}${o.notice || ''}${translationNote(lang)}<div class="doc-notice container" id="docNotice" hidden></div>
 <div class="doc-compare container" id="docCompare" hidden></div>
 <div class="doc-layout container${showToc ? '' : ' doc-layout--single'}">
 ${aside}<main id="tresc" class="doc" lang="${lang}">
@@ -1096,7 +1284,7 @@ for (const slug of ['suveria', 'omniforum']) {
 
 // ---------------------------------------------------------------- Podsumowanie
 const built = rendered.length + LANGS.length * 2;
-console.log('Zbudowano ' + built + ' stron (' + LANGS.length + ' x strona główna i mapa strony, ' + rendered.filter(x => x.entry.kind === 'doc').length + ' dokumentów, ' + rendered.filter(x => x.entry.kind === 'page').length + ' podstron) w językach: ' + LANGS.join(', ') + '.');
+console.log('Zbudowano ' + built + ' stron (' + LANGS.length + ' x strona główna i mapa strony, ' + rendered.filter(x => x.entry.kind === 'doc').length + ' dokumentów, ' + rendered.filter(x => x.entry.kind === 'page').length + ' podstron, ' + rendered.filter(x => x.entry.kind === 'version').length + ' stron wersji) w językach: ' + LANGS.join(', ') + '.');
 console.log('Pliki dla wyszukiwarek i modeli: sitemap.xml, robots.txt, llms.txt, llms-full.txt' + LANGS.filter(l => l !== SRC).map(l => ', ' + l + '/llms-full.txt').join('') + '.');
 console.log('Słownik: ' + (glossLangs.length ? glossLangs.map(l => l + ' (' + glossaries[l].entries.length + ' haseł)').join(', ') + ', oznaczeń pojęć na stronach: ' + glossCount : 'brak (żaden język nie ma content/<język>/slownik.json)') + '.');
 if (glossLangs.length) for (const l of LANGS.filter(l => !glossaries[l])) console.log('  slownik.json: brak tłumaczenia (' + l + '), bez podpowiedzi i strony słownika w tym języku.');

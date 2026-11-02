@@ -84,6 +84,17 @@ node tools/i18n-sync.mjs status                        # lista akapitów źród�
 
 Akapit to blok rozdzielony pustą linią. Generator robi to samo porównanie: gdy tłumaczenie jest starsze, wypisuje ostrzeżenie i pokazuje na stronie tłumaczenia informację (`doc.outdated` w `locales`). Pliki `.sync` zostają w repozytorium. Tłumaczenie bez śladu `.sync` generator zgłasza jako „brak śladu synchronizacji”.
 
+## Wersje dokumentów
+
+Każda zmiana treści manifestu albo whitepapera to nowa wersja z datą (statut ma osobny rejestr zmian w `content/<język>/statut/`). Pliki:
+
+- `content/<język>/wersje/<dokument>/<data>.md`: zachowane poprzednie brzmienie, bez zmian;
+- `content/<język>/wersje/<dokument>.json`: rejestr wersji, najnowsza pierwsza: `data`, `poprzednia`, `opis` (co i dlaczego, ten sam tekst co wpis w dzienniku zmian), a w oryginale przy najnowszej wersji `skrot` (odcisk treści).
+
+Przy zmianie: skopiuj bieżący dokument do `wersje/<dokument>/<data poprzedniej wersji>.md`, zmień tekst i wiersz wersji, dopisz wersję do rejestru z opisem i odciskiem (generator podaje go w ostrzeżeniu), dopisz wpis w dzienniku zmian. Przekład dostaje akapit i opis. Gdy treść oryginału różni się od odcisku w rejestrze, generator ostrzega, że zmiana nie ma wersji; przy poprawce bez zmiany sensu (literówka) wystarczy nowy odcisk i wpis w dzienniku.
+
+Z rejestru generator tworzy `<język>/<dokument>-zmiany.html` (tylko zmienione miejsca: dodane podkreślone, usunięte przekreślone, w zmienionym akapicie na poziomie słów, z opisem zmiany) i wersje historyczne `<język>/wersje/<dokument>-<data>.html`, a pod wierszem wersji w dokumencie dodaje odnośnik „Co się zmieniło od poprzedniej wersji” (`versions` w `locales`). Zachowane wersje tłumaczeń oznacz `node tools/i18n-sync.mjs mark content/<język>/wersje/<dokument>/<data>.md`.
+
 ## Generator
 
 Wymaga Node.js w wersji 18 lub nowszej, bez dodatkowych pakietów. W folderze strony:

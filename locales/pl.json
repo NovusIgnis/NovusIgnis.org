@@ -364,5 +364,21 @@
     "prompt_link": "Przeczytaj dokumenty Fundacji Novus Ignis (manifest i whitepapery): {url}. Pomóż mi je zrozumieć. Odpowiadaj na podstawie tych dokumentów, podawaj rozdział i odróżniaj to, co już działa, od projektów, hipotez i wizji. Jeśli czegoś w nich nie ma, powiedz to wprost. Na początek streść w kilku zdaniach, o co chodzi.",
     "paste": "wklej",
     "paste_title": "Gemini otworzy pustą rozmowę: pytanie jest już w schowku, wklej je (Ctrl+V) i wyślij."
+  },
+  "versions": {
+    "changes_link": "Co się zmieniło od poprzedniej wersji",
+    "title": "Co się zmieniło",
+    "current": "Obecna wersja:",
+    "previous": "Poprzednia wersja:",
+    "description": "Opis zmiany",
+    "changes": "Zmiany w tekście",
+    "legend": "Pokazujemy tylko zmienione miejsca. Tekst dodany jest podkreślony, usunięty przekreślony.",
+    "added": "Dodane",
+    "removed": "Usunięte",
+    "unchanged": "Akapity bez zmian:",
+    "history": "Wszystkie wersje",
+    "current_label": "obecna",
+    "historical_note": "To wcześniejsza wersja dokumentu, zachowana, żeby było widać, jak się zmieniał.",
+    "go_current": "Obecna wersja dokumentu"
   }
 }

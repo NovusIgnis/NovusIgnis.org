@@ -364,5 +364,21 @@
     "prompt_link": "Novus Ignis Vakfı’nın belgelerini (manifesto ve teknik raporlar) oku: {url}. Bunları anlamama yardım et. Bu belgelere dayanarak yanıt ver, bölümü belirt ve şu anda işleyenleri tasarımlardan, hipotezlerden ve vizyonlardan ayır. Belgelerde bir şey yoksa bunu açıkça söyle. Önce konuyu birkaç cümlede özetle.",
     "paste": "yapıştır",
     "paste_title": "Gemini boş bir sohbet açar: soru zaten kopyalandı, yapıştırın (Ctrl+V) ve gönderin."
+  },
+  "versions": {
+    "changes_link": "Önceki sürümden bu yana neler değişti",
+    "title": "Neler değişti",
+    "current": "Güncel sürüm:",
+    "previous": "Önceki sürüm:",
+    "description": "Değişikliğin açıklaması",
+    "changes": "Metindeki değişiklikler",
+    "legend": "Yalnızca değiştirilen yerleri gösteriyoruz. Eklenen metnin altı çizili, silinen metnin üstü çizilidir.",
+    "added": "Eklendi",
+    "removed": "Silindi",
+    "unchanged": "Değişmeyen paragraflar:",
+    "history": "Tüm sürümler",
+    "current_label": "güncel",
+    "historical_note": "Bu, belgenin daha önceki bir sürümüdür; nasıl değiştiği görülebilsin diye saklıyoruz.",
+    "go_current": "Belgenin güncel sürümü"
   }
 }

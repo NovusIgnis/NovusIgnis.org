@@ -364,5 +364,21 @@
     "prompt_link": "Lees de documenten van Stichting Novus Ignis (manifest en whitepapers): {url}. Help me ze te begrijpen. Antwoord op basis van deze documenten, vermeld het hoofdstuk en onderscheid wat al werkt van ontwerpen, hypothesen en visies. Als iets er niet in staat, zeg dat dan duidelijk. Vat om te beginnen in een paar zinnen samen waar het om gaat.",
     "paste": "plakken",
     "paste_title": "Gemini opent een leeg gesprek: de vraag is al gekopieerd, plak hem (Ctrl+V) en verstuur hem."
+  },
+  "versions": {
+    "changes_link": "Wat er is veranderd sinds de vorige versie",
+    "title": "Wat er is veranderd",
+    "current": "Huidige versie:",
+    "previous": "Vorige versie:",
+    "description": "Beschrijving van de wijziging",
+    "changes": "Wijzigingen in de tekst",
+    "legend": "We tonen alleen de gewijzigde passages. Toegevoegde tekst is onderstreept, verwijderde tekst doorgestreept.",
+    "added": "Toegevoegd",
+    "removed": "Verwijderd",
+    "unchanged": "Ongewijzigde alinea's:",
+    "history": "Alle versies",
+    "current_label": "huidige",
+    "historical_note": "Dit is een eerdere versie van het document. We bewaren die, zodat zichtbaar blijft hoe het is veranderd.",
+    "go_current": "Huidige versie van het document"
   }
 }

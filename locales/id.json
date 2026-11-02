@@ -364,5 +364,21 @@
     "prompt_link": "Baca dokumen Yayasan Novus Ignis (manifesto dan whitepaper): {url}. Bantu saya memahaminya. Jawablah berdasarkan dokumen ini, sebutkan babnya, dan bedakan apa yang sudah berfungsi dari rancangan, hipotesis, dan visi. Jika sesuatu tidak ada di dalamnya, katakan terus terang. Sebagai awal, ringkas maksudnya dalam beberapa kalimat.",
     "paste": "tempel",
     "paste_title": "Gemini membuka percakapan kosong: pertanyaan sudah disalin, tempelkan (Ctrl+V) lalu kirim."
+  },
+  "versions": {
+    "changes_link": "Apa yang berubah sejak versi sebelumnya",
+    "title": "Apa yang berubah",
+    "current": "Versi saat ini:",
+    "previous": "Versi sebelumnya:",
+    "description": "Deskripsi perubahan",
+    "changes": "Perubahan dalam teks",
+    "legend": "Kami hanya menampilkan bagian yang diubah. Teks yang ditambahkan diberi garis bawah, teks yang dihapus dicoret.",
+    "added": "Ditambahkan",
+    "removed": "Dihapus",
+    "unchanged": "Paragraf tanpa perubahan:",
+    "history": "Semua versi",
+    "current_label": "saat ini",
+    "historical_note": "Ini adalah versi lama dokumen ini, yang kami simpan agar terlihat bagaimana dokumen ini berubah.",
+    "go_current": "Versi dokumen saat ini"
   }
 }

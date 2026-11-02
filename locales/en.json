@@ -364,5 +364,21 @@
     "prompt_link": "Read the documents of the Novus Ignis Foundation (manifesto and whitepapers): {url}. Help me understand them. Answer based on these documents, cite the chapter, and distinguish what already works from designs, hypotheses and visions. If something is not in them, say so plainly. To start, summarise in a few sentences what this is about.",
     "paste": "paste",
     "paste_title": "Gemini will open an empty conversation: the question is already on the clipboard. Paste it (Ctrl+V) and send it."
+  },
+  "versions": {
+    "changes_link": "What changed since the previous version",
+    "title": "What changed",
+    "current": "Current version:",
+    "previous": "Previous version:",
+    "description": "Description of the change",
+    "changes": "Changes in the text",
+    "legend": "Only the changed passages are shown. Added text is underlined, removed text is struck through.",
+    "added": "Added",
+    "removed": "Removed",
+    "unchanged": "Unchanged paragraphs:",
+    "history": "All versions",
+    "current_label": "current",
+    "historical_note": "This is an earlier version of the document, kept so that you can see how it has changed.",
+    "go_current": "Current version of the document"
   }
 }
