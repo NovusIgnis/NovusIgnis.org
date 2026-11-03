@@ -81,6 +81,12 @@ Po wklejeniu klucza prywatnego do GitHuba możesz go przenieść do menedżera h
 3. Sprawdź novusignis.org w przeglądarce (także `/en/`, `/czytaj.txt`).
 4. Przy `SFTP_DELETE` pustym automat tylko dodaje i nadpisuje pliki: stare pliki starej strony zostają na serwerze. Gdy upewnisz się, że `SFTP_DIR` wskazuje właściwy folder, ustaw `SFTP_DELETE` = `tak`: wtedy usuwa z serwera pliki, których nie ma w paczce (folder `.ssh`, `.well-known` i plik `.htaccess` są zawsze pomijane).
 
+## Wysyłane są tylko zmiany
+
+Po każdym udanym wgraniu automat zapisuje na serwerze listę `.wgranie-sumy.txt`: odcisk SHA-256 każdego pliku strony. Przy następnym wgraniu pobiera ją, porównuje z nową paczką (`tools/wgranie-roznice.mjs`) i wysyła tylko pliki nowe i zmienione; przy `SFTP_DELETE` = `tak` usuwa te, które zniknęły z paczki, i tylko te (nie rusza plików, których nie wgrał). Porównuje treść, a nie datę ani rozmiar, bo każde budowanie daje plikom nowe daty, a zmiana jednej cyfry nie zmienia rozmiaru.
+
+Całość idzie jak dawniej (`lftp mirror`), gdy listy na serwerze nie ma (pierwsze wgranie po tej zmianie), gdy zmienia się ponad 40% plików (np. po zmianie pliku stylów, który ma znacznik wersji w każdej stronie) albo gdy uruchomisz automat ręcznie z opcją **pełne**. Opcja przydaje się, gdy ktoś zmienił pliki na serwerze poza automatem. Nowa lista trafia na serwer na końcu, więc przerwane wgranie przy następnym powtórzy wszystko, co zmieniło się od ostatniego udanego.
+
 ## Jak wygląda poprawka tłumaczenia
 
 1. Ktoś proponuje zmianę pliku (np. `content/de/manifest.md` albo `locales/de.json`) przez pull request albo przysyła ją mailem i wprowadza ją Claude lub Codex.

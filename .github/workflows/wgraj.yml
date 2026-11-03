@@ -3,8 +3,10 @@
 # Po każdej zmianie w gałęzi main (np. zaakceptowanej poprawce tłumaczenia) GitHub:
 #   1. buduje stronę (tools/build.mjs),
 #   2. uruchamia kontrole (tools/check.mjs, tools/paczka.mjs); przy błędzie zatrzymuje się i niczego nie wysyła,
-#   3. wysyła folder dist/ przez SFTP do folderu strony na Infomaniaku.
-# Można też uruchomić ręcznie: zakładka Actions → „Wgranie strony” → Run workflow.
+#   3. wysyła przez SFTP do folderu strony na Infomaniaku tylko pliki zmienione od poprzedniego wgrania
+#      (porównuje odciski SHA-256 z listą .wgranie-sumy.txt na serwerze, tools/wgranie-roznice.mjs);
+#      gdy listy nie ma albo zmienia się większość plików, wysyła całość.
+# Można też uruchomić ręcznie: zakładka Actions → „Wgranie strony” → Run workflow (opcja „pełne” wysyła całość).
 #
 # Dane dostępu są w Settings → Secrets and variables → Actions (wpisuje je Marcin, nie trafiają do repozytorium):
 #   sekrety:  SFTP_HOST, SFTP_USER, SFTP_KEY (prywatny klucz ed25519), SFTP_KNOWN_HOSTS (wynik ssh-keyscan)
@@ -17,6 +19,11 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+    inputs:
+      pelne:
+        description: 'Wyślij całą stronę (bez porównania z listą na serwerze)'
+        type: boolean
+        default: false
 
 concurrency:
   group: wgranie-strony
@@ -79,12 +86,23 @@ jobs:
           SFTP_USER: ${{ secrets.SFTP_USER }}
           SFTP_DIR: ${{ vars.SFTP_DIR }}
           SFTP_DELETE: ${{ vars.SFTP_DELETE }}
+          PELNE: ${{ inputs.pelne }}
         run: |
-          DEL=""
-          if [ "$SFTP_DELETE" = "tak" ]; then DEL="--delete"; fi
-          lftp -c "
-            set sftp:connect-program 'ssh -a -x -i $HOME/.ssh/wgranie -o UserKnownHostsFile=$HOME/.ssh/known_hosts -o StrictHostKeyChecking=yes';
-            set net:max-retries 3;
-            open -u '$SFTP_USER',x sftp://$SFTP_HOST;
-            mirror --reverse $DEL --verbose --parallel=4 --exclude-glob .ssh/ --exclude-glob .well-known/ --exclude-glob .htaccess dist/ '$SFTP_DIR';
-          "
+          OPEN="set sftp:connect-program 'ssh -a -x -i $HOME/.ssh/wgranie -o UserKnownHostsFile=$HOME/.ssh/known_hosts -o StrictHostKeyChecking=yes';
+            set net:max-retries 3; set cmd:fail-exit yes;
+            open -u '$SFTP_USER',x sftp://$SFTP_HOST; cd '$SFTP_DIR'"
+          # lista odcisków z poprzedniego wgrania; bez niej (albo przy ręcznym „pełne”) wysyłamy całość
+          rm -f stare-sumy.txt
+          if [ "$PELNE" != "true" ]; then
+            lftp -c "$OPEN; get .wgranie-sumy.txt -o stare-sumy.txt" || echo "Brak listy z poprzedniego wgrania."
+          fi
+          DEL=""; USUN=""
+          if [ "$SFTP_DELETE" = "tak" ]; then DEL="--delete"; USUN="--usun"; fi
+          TRYB=$(node tools/wgranie-roznice.mjs dist stare-sumy.txt nowe-sumy.txt polecenia.lftp $USUN)
+          if [ "$TRYB" = "roznice" ]; then
+            lftp -c "$OPEN; source polecenia.lftp"
+          else
+            lftp -c "$OPEN; mirror --reverse $DEL --verbose --parallel=4 --exclude-glob .ssh/ --exclude-glob .well-known/ --exclude-glob .htaccess --exclude-glob .wgranie-sumy.txt dist/ ."
+          fi
+          # nowa lista na końcu, dopiero po udanym wysłaniu
+          lftp -c "$OPEN; put nowe-sumy.txt -o .wgranie-sumy.txt"
