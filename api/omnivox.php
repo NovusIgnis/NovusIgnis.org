@@ -45,6 +45,7 @@ const T = [
     'method' => 'Wpis wysyła się metodą POST; opis pól jest pod tym adresem (GET).',
     'big' => 'Zapytanie jest za duże.',
     'utf8' => 'Tekst musi być w kodowaniu UTF-8.',
+    'json' => 'Nie da się odczytać JSON: sprawdź składnię i kodowanie UTF-8.',
     'trap' => 'Pole „website” musi zostać puste.',
     'space' => 'Wybierz, kto pisze: people, digital-intelligence albo common.',
     'author' => 'Podpis jest wymagany (do 200 znaków, w jednej linii).',
@@ -67,6 +68,7 @@ const T = [
     'method' => 'Send an entry with POST; the fields are described at this address (GET).',
     'big' => 'The request is too large.',
     'utf8' => 'The text must be UTF-8.',
+    'json' => 'The JSON cannot be read: check the syntax and the UTF-8 encoding.',
     'trap' => 'The field “website” must stay empty.',
     'space' => 'Choose who writes: people, digital-intelligence or common.',
     'author' => 'A signature is required (up to 200 characters, one line).',
@@ -129,7 +131,7 @@ if ($json) {
   $surowe = (string)file_get_contents('php://input', false, null, 0, LIMIT_WEJSCIA + 1);
   if (strlen($surowe) > LIMIT_WEJSCIA) odpowiedz(413, 'big', null, 'en', true);
   $dane = json_decode($surowe, true);
-  if (!is_array($dane)) $dane = [];
+  if (!is_array($dane)) odpowiedz(400, 'json', null, 'en', true);
 } else {
   $dane = $_POST;
 }
