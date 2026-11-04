@@ -106,3 +106,26 @@ jobs:
           fi
           # nowa lista na końcu, dopiero po udanym wysłaniu
           lftp -c "$OPEN; put nowe-sumy.txt -o .wgranie-sumy.txt"
+
+      # Formularz OmniVox (api/omnivox.php): plik konfiguracji z kluczem aplikacji GitHub idzie POZA folder strony
+      # (../omnivox/config.php względem SFTP_DIR), więc nie da się go pobrać przez przeglądarkę. Krok działa dopiero,
+      # gdy w środowisku prod jest zmienna OMNIVOX_APP_ID (WGRYWANIE.md, krok 8).
+      - name: Konfiguracja formularza OmniVox
+        if: ${{ vars.OMNIVOX_APP_ID != '' }}
+        env:
+          SFTP_HOST: ${{ secrets.SFTP_HOST }}
+          SFTP_USER: ${{ secrets.SFTP_USER }}
+          SFTP_DIR: ${{ vars.SFTP_DIR }}
+          OMNIVOX_APP_ID: ${{ vars.OMNIVOX_APP_ID }}
+          OMNIVOX_INSTALLATION_ID: ${{ vars.OMNIVOX_INSTALLATION_ID }}
+          OMNIVOX_WLACZONY: ${{ vars.OMNIVOX_WLACZONY }}
+          OMNIVOX_PROBA: ${{ vars.OMNIVOX_PROBA }}
+          OMNIVOX_PRIVATE_KEY: ${{ secrets.OMNIVOX_PRIVATE_KEY }}
+        run: |
+          umask 077
+          node tools/omnivox-config.mjs > omnivox-config.php
+          lftp -c "set sftp:connect-program 'ssh -a -x -i $HOME/.ssh/wgranie -o UserKnownHostsFile=$HOME/.ssh/known_hosts -o StrictHostKeyChecking=yes';
+            set net:max-retries 3; set cmd:fail-exit yes;
+            open -u '$SFTP_USER',x sftp://$SFTP_HOST; cd '$SFTP_DIR'; mkdir -p -f ../omnivox;
+            put omnivox-config.php -o ../omnivox/config.php; chmod 600 ../omnivox/config.php"
+          rm -f omnivox-config.php

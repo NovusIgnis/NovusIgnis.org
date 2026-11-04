@@ -81,6 +81,32 @@ Po wklejeniu klucza prywatnego do GitHuba możesz go przenieść do menedżera h
 3. Sprawdź novusignis.org w przeglądarce (także `/en/`, `/czytaj.txt`).
 4. Przy `SFTP_DELETE` pustym automat tylko dodaje i nadpisuje pliki: stare pliki starej strony zostają na serwerze. Gdy upewnisz się, że `SFTP_DIR` wskazuje właściwy folder, ustaw `SFTP_DELETE` = `tak`: wtedy usuwa z serwera pliki, których nie ma w paczce (folder `.ssh`, `.well-known` i plik `.htaccess` są zawsze pomijane).
 
+## 8. Formularz OmniVox (od 4.11.2026, test)
+
+Strona `omnivox.html` wysyła wpis do `api/omnivox.php`, a skrypt dodaje go do dyskusji w repozytorium NovusIgnis/OmniVox jako aplikacja GitHub fundacji. Klucz aplikacji trafia na serwer przy wgraniu, do pliku `../omnivox/config.php` obok folderu strony (nie do niego), więc nie da się go pobrać przez przeglądarkę.
+
+1. W OmniVox, w dyskusjach, kategoria **Z formularza** (format „Open-ended discussion”).
+2. Aplikacja GitHub organizacji: https://github.com/organizations/NovusIgnis/settings/apps/new
+   - nazwa np. `Novus Ignis OmniVox`, Homepage URL `https://novusignis.org/pl/omnivox.html`;
+   - **Webhook**: odznacz „Active”;
+   - **Repository permissions → Discussions: Read and write** (Metadata: Read-only ustawia się samo); nic więcej;
+   - „Where can this GitHub App be installed?”: **Only on this account**; Create GitHub App;
+   - zapisz **App ID** (na górze strony aplikacji); niżej **Generate a private key** pobiera plik `.pem`.
+3. Instalacja: na stronie aplikacji **Install App** → NovusIgnis → **Only select repositories** → OmniVox → Install. Numer instalacji jest na końcu adresu strony, na którą trafisz (`…/settings/installations/<numer>`).
+4. W repozytorium strony, w środowisku `prod` (https://github.com/NovusIgnis/NovusIgnis.org/settings/environments):
+
+| Nazwa | Rodzaj | Wartość |
+| --- | --- | --- |
+| `OMNIVOX_PRIVATE_KEY` | secret | cała zawartość pliku `.pem`, z liniami BEGIN i END |
+| `OMNIVOX_APP_ID` | variable | App ID |
+| `OMNIVOX_INSTALLATION_ID` | variable | numer instalacji |
+| `OMNIVOX_PROBA` | variable | na start `tak` (tryb próbny: skrypt pokazuje wpis, ale go nie publikuje); potem usuń |
+| `OMNIVOX_WLACZONY` | variable | `nie` wyłącza formularz (po zmianie: Actions → „Wgranie strony” → Run workflow) |
+
+5. Plik `.pem` po wklejeniu przenieś do menedżera haseł i usuń z dysku.
+
+**Wyłącznik natychmiastowy:** https://github.com/organizations/NovusIgnis/settings/installations → aplikacja → **Suspend**. Formularz przestaje publikować od razu, bez wgrywania strony.
+
 ## Wysyłane są tylko zmiany
 
 Po każdym udanym wgraniu automat zapisuje na serwerze listę `.wgranie-sumy.txt`: odcisk SHA-256 każdego pliku strony. Przy następnym wgraniu pobiera ją, porównuje z nową paczką (`tools/wgranie-roznice.mjs`) i wysyła tylko pliki nowe i zmienione; przy `SFTP_DELETE` = `tak` usuwa te, które zniknęły z paczki, i tylko te (nie rusza plików, których nie wgrał). Porównuje treść, a nie datę ani rozmiar, bo każde budowanie daje plikom nowe daty, a zmiana jednej cyfry nie zmienia rozmiaru.

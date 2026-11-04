@@ -20,7 +20,7 @@ const LANGS = cfg.languages.map(l => l.code);
 
 // Co idzie na serwer: strony wygenerowane przez build.mjs, zasoby i pliki dla wyszukiwarek i modeli.
 const INCLUDE = ['index.html', ...LANGS, 'IMG', 'fonts', 'js', 'vendor', 'style.css', 'docs.css', 'gloss.css', 'remark.css', 'script.js',
-  'sitemap.xml', 'robots.txt', 'llms.txt', 'llms-full.txt', 'czytaj.txt', 'md', 'go'];
+  'sitemap.xml', 'robots.txt', 'llms.txt', 'llms-full.txt', 'czytaj.txt', 'md', 'go', 'api'];
 
 fs.rmSync(DIST, { recursive: true, force: true });
 fs.mkdirSync(DIST);

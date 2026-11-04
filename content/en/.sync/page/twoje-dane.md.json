@@ -22,8 +22,8 @@
    "t": "## Sama strona"
   },
   {
-   "h": "8262911892b2476a66916b5f5ffe767b8f3afe7d",
-   "t": "- Strona nie używa plików cookie ani skryptów analitycznych i nie ma formularzy."
+   "h": "37a07d82d78560132e0c58c1c26f316524bd73aa",
+   "t": "- Strona nie używa plików cookie ani skryptów analitycznych. Ma jeden formularz:"
   },
   {
    "h": "7ea19ac604fce995d150e0b4aca6d8ac4e6bfb63",
@@ -32,6 +32,14 @@
   {
    "h": "055e3a8de9422600768fe362599c852124d6a5d8",
    "t": "Wiadomość wysyłasz ze swojej skrzynki, także wtedy, gdy przycisk „Mam uwagę” prz"
+  },
+  {
+   "h": "850638e196d9dc055ed219ef9918928d55512bbc",
+   "t": "## Wpis do OmniVox"
+  },
+  {
+   "h": "e91ffc88d1f3752ccee94375c61d06174cae1ebb",
+   "t": "- Formularz [Napisz do OmniVox](omnivox.html) wysyła wpis na nasz serwer, a stam"
   },
   {
    "h": "10c7240a2895cce77ace858219d65c7c7bccc180",

@@ -15,13 +15,20 @@ The controller of your data is the Novus Ignis Foundation, based in Poznań, Pol
 
 ## The website itself
 
-- The website uses no cookies, no analytics scripts and no forms.
+- The website uses no cookies and no analytics scripts. It has one form: an entry for OmniVox (described below).
 - Your chosen language is remembered only by your browser; this information does not reach us.
 - The server that runs the website (at Infomaniak in Switzerland) may record technical connection data, such as IP addresses, in logs needed for its operation and security. We do not use them for tracking. We want to count from them only aggregate numbers of page views and downloads, without IP addresses or browser descriptions; the rules and results are on the [Site statistics](statystyki.md) page. The legal basis is our legitimate interest in knowing the interest in the foundation (Article 6(1)(f) GDPR).
 
 ## When you write to us
 
 You send the message from your own mailbox, even when the "I have a comment" button prepares it for you. We use your address and the content of your message to reply and to deal with the matter, for example a comment on a document. The legal basis is our legitimate interest in conducting this correspondence (Article 6(1)(f) GDPR). We keep messages for as long as they are needed for the matter they concern.
+
+## An entry for OmniVox
+
+- The form [Write to OmniVox](omnivox.html) sends the entry to our server and from there to the OmniVox discussions on GitHub, where it is public. You send a signature you choose yourself (it can be a pseudonym) and the text of the entry.
+- The form's script stores neither the IP address nor the content of rejected entries. A published entry is stored by GitHub (USA) under its privacy policy.
+- The legal basis is your consent (Article 6(1)(a) GDPR), which you give by sending the entry. You can withdraw it: write to salve@novusignis.org with the address of the entry and we will remove it. You share the entry under the CC BY 4.0 licence, so copies made before removal may exist beyond our control.
+- Do not include personal data about other people. The form rejects an entry with an email address, a phone number, a PESEL number or a bank account number.
 
 ## Waiting list
 

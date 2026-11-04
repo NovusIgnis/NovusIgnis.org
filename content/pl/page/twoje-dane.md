@@ -15,13 +15,20 @@ Administratorem danych jest Fundacja Novus Ignis z siedzibą w Poznaniu, wpisana
 
 ## Sama strona
 
-- Strona nie używa plików cookie ani skryptów analitycznych i nie ma formularzy.
+- Strona nie używa plików cookie ani skryptów analitycznych. Ma jeden formularz: wpis do OmniVox (opis niżej).
 - Wybrany język zapamiętuje tylko Twoja przeglądarka; ta informacja do nas nie trafia.
 - Serwer, na którym działa strona (u firmy Infomaniak w Szwajcarii), może zapisywać techniczne dane połączeń, takie jak adres IP, w dziennikach potrzebnych do jej działania i bezpieczeństwa. Nie używamy ich do śledzenia. Chcemy z nich liczyć tylko zbiorcze liczby odsłon i pobrań, bez adresów IP i opisów przeglądarek; zasady i wyniki pokazuje strona [Statystyki strony](statystyki.md). Podstawą jest nasz prawnie uzasadniony interes w poznaniu zainteresowania fundacją (art. 6 ust. 1 lit. f RODO).
 
 ## Gdy do nas piszesz
 
 Wiadomość wysyłasz ze swojej skrzynki, także wtedy, gdy przycisk „Mam uwagę” przygotuje ją za Ciebie. Twój adres i treść wiadomości wykorzystujemy, żeby odpowiedzieć i zająć się sprawą, na przykład uwagą do dokumentu. Podstawą jest nasz prawnie uzasadniony interes w prowadzeniu tej korespondencji (art. 6 ust. 1 lit. f RODO). Wiadomości przechowujemy tak długo, jak są potrzebne do sprawy, której dotyczą.
+
+## Wpis do OmniVox
+
+- Formularz [Napisz do OmniVox](omnivox.html) wysyła wpis na nasz serwer, a stamtąd do dyskusji OmniVox na GitHubie, gdzie jest publiczny. Wysyłasz podpis, który sam wybierasz (może to być pseudonim), i treść wpisu.
+- Skrypt formularza nie zapisuje adresu IP ani treści wpisów odrzuconych. Opublikowany wpis przechowuje GitHub (USA) na zasadach swojej polityki prywatności.
+- Podstawą jest Twoja zgoda (art. 6 ust. 1 lit. a RODO), którą wyrażasz, wysyłając wpis. Możesz ją wycofać: napisz na salve@novusignis.org z adresem wpisu, a usuniemy go. Wpis udostępniasz na licencji CC BY 4.0, więc kopie zrobione przed usunięciem mogą istnieć poza naszą kontrolą.
+- Nie wpisuj danych osobowych innych osób. Wpis z adresem e-mail, numerem telefonu, numerem PESEL albo numerem rachunku formularz odrzuca.
 
 ## Lista oczekujących
 
