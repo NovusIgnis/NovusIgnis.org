@@ -215,7 +215,13 @@ if ($about !== '') {
 }
 
 if ($cfg['dry_run']) {
-  odpowiedz(200, 'dry', null, $lang, $chceJson, [], ['dry_run' => true, 'thread' => $replyNr ? '#' . $replyNr : $tytul, 'body' => $tresc]);
+  // Tryb próbny niczego nie publikuje, ale sprawdza dostęp do GitHuba tylko do odczytu: token aplikacji i kategorię dyskusji.
+  try {
+    $github = (new GitHub($cfg, $cfg['state_dir']))->sprawdz();
+  } catch (Throwable $e) {
+    $github = 'błąd: ' . $e->getMessage();
+  }
+  odpowiedz(200, 'dry', null, $lang, $chceJson, [], ['dry_run' => true, 'github' => $github, 'thread' => $replyNr ? '#' . $replyNr : $tytul, 'body' => $tresc]);
 }
 
 // ---------------------------------------------------------------- limit (same godziny przyjętych wpisów, bez adresów)
@@ -331,6 +337,7 @@ function odpowiedz(int $kod, string $klucz, ?string $co, string $lang, bool $jso
   $tytul = $ok ? $t['ok_title'] : $t['err_title'];
   $tresc = '<p>' . $e($tekst) . '</p>';
   if (isset($extra['url'])) $tresc .= '<p><a href="' . $e($extra['url']) . '">' . $e($extra['url']) . '</a></p>';
+  if (isset($extra['github'])) $tresc .= '<p>GitHub: ' . $e($extra['github']) . '</p>';
   if (isset($extra['body'])) $tresc .= '<pre>' . $e(($extra['thread'] ?? '') . "\n\n" . $extra['body']) . '</pre>';
   $tresc .= '<p><a href="/' . $lang . '/omnivox.html">' . $e($ok ? 'OmniVox' : $t['back']) . '</a></p>';
   echo '<!doctype html><html lang="' . $lang . '"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
@@ -379,6 +386,13 @@ final class GitHub {
     if (!$id) throw new RuntimeException('nie założono wątku');
     if ($about !== '') { $watki[$tytul] = $id; zapisz_json($plik, $watki); }
     return $id;
+  }
+
+  /** Tylko odczyt: czy aplikacja dostaje token i widzi kategorię formularza. */
+  public function sprawdz(): string {
+    if (!is_dir($this->stan)) @mkdir($this->stan, 0700, true);
+    $this->repoIKategoria();
+    return 'ok: token aplikacji i kategoria „' . $this->cfg['category'] . '”';
   }
 
   private function repoIKategoria(): array {
