@@ -31,7 +31,7 @@ return [
   'dry_run' => ${tak(e.OMNIVOX_PROBA) ? 'true' : 'false'},
   'owner' => 'NovusIgnis',
   'repo' => 'OmniVox',
-  'category' => 'Z formularza',
+  'category' => 'OmniVoxForm',
   'per_hour' => 30,
   'per_day' => 200,
   'app_id' => ${php(appId)},

@@ -145,7 +145,7 @@ $lang = in_array($pole('lang'), ['pl', 'en'], true) ? $pole('lang') : ($json ? '
 $sciezkaCfg = getenv('OMNIVOX_CONFIG') ?: dirname(__DIR__, 2) . '/omnivox/config.php';
 $cfg = is_file($sciezkaCfg) ? (include $sciezkaCfg) : null;
 if (!is_array($cfg)) odpowiedz(503, 'nocfg', null, $lang, $chceJson);
-$cfg += ['enabled' => true, 'dry_run' => false, 'owner' => 'NovusIgnis', 'repo' => 'OmniVox', 'category' => 'Z formularza',
+$cfg += ['enabled' => true, 'dry_run' => false, 'owner' => 'NovusIgnis', 'repo' => 'OmniVox', 'category' => 'OmniVoxForm',
          'per_hour' => 30, 'per_day' => 200, 'api' => 'https://api.github.com', 'state_dir' => dirname($sciezkaCfg) . '/stan'];
 if (!$cfg['enabled']) odpowiedz(503, 'off', null, $lang, $chceJson);
 

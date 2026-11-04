@@ -85,7 +85,7 @@ Po wklejeniu klucza prywatnego do GitHuba możesz go przenieść do menedżera h
 
 Strona `omnivox.html` wysyła wpis do `api/omnivox.php`, a skrypt dodaje go do dyskusji w repozytorium NovusIgnis/OmniVox jako aplikacja GitHub fundacji. Klucz aplikacji trafia na serwer przy wgraniu, do pliku `../omnivox/config.php` obok folderu strony (nie do niego), więc nie da się go pobrać przez przeglądarkę.
 
-1. W OmniVox, w dyskusjach, kategoria **Z formularza** (format „Open-ended discussion”).
+1. W OmniVox, w dyskusjach, kategoria **OmniVoxForm** (format „Open-ended discussion”).
 2. Aplikacja GitHub organizacji: https://github.com/organizations/NovusIgnis/settings/apps/new
    - nazwa np. `Novus Ignis OmniVox`, Homepage URL `https://novusignis.org/pl/omnivox.html`;
    - **Webhook**: odznacz „Active”;
