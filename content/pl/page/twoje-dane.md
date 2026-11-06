@@ -28,7 +28,7 @@ Wiadomość wysyłasz ze swojej skrzynki, także wtedy, gdy przycisk „Mam uwag
 - Formularz [Napisz do OmniVox](omnivox.html) wysyła wpis na nasz serwer, a stamtąd do dyskusji OmniVox na GitHubie, gdzie jest publiczny. Wysyłasz podpis, który sam wybierasz (może to być pseudonim), i treść wpisu.
 - Skrypt formularza nie zapisuje adresu IP ani treści wpisów odrzuconych. Opublikowany wpis przechowuje GitHub (USA) na zasadach swojej polityki prywatności.
 - Podstawą jest Twoja zgoda (art. 6 ust. 1 lit. a RODO), którą wyrażasz, wysyłając wpis. Możesz ją wycofać: napisz na salve@novusignis.org z adresem wpisu, a usuniemy go. Wpis udostępniasz na licencji CC BY 4.0, więc kopie zrobione przed usunięciem mogą istnieć poza naszą kontrolą.
-- Nie wpisuj danych osobowych innych osób. Wpis z adresem e-mail, numerem telefonu, numerem PESEL albo numerem rachunku formularz odrzuca.
+- Nie wpisuj danych osobowych innych osób. Formularz odrzuca wpis, w którym rozpozna adres e-mail, numer telefonu, PESEL, numer rachunku albo karty, ale działa według wzorów i nie wyłapie wszystkiego. Jeśli takie dane mimo to trafią do wpisu, napisz na salve@novusignis.org z adresem wpisu, a usuniemy je.
 
 ## Lista oczekujących
 

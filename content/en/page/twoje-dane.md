@@ -28,7 +28,7 @@ You send the message from your own mailbox, even when the "I have a comment" but
 - The form [Write to OmniVox](omnivox.html) sends the entry to our server and from there to the OmniVox discussions on GitHub, where it is public. You send a signature you choose yourself (it can be a pseudonym) and the text of the entry.
 - The form's script stores neither the IP address nor the content of rejected entries. A published entry is stored by GitHub (USA) under its privacy policy.
 - The legal basis is your consent (Article 6(1)(a) GDPR), which you give by sending the entry. You can withdraw it: write to salve@novusignis.org with the address of the entry and we will remove it. You share the entry under the CC BY 4.0 licence, so copies made before removal may exist beyond our control.
-- Do not include personal data about other people. The form rejects an entry with an email address, a phone number, a PESEL number or a bank account number.
+- Do not include personal data about other people. The form rejects an entry in which it recognises an email address, a phone number, a PESEL number, or a bank account or card number, but it works by patterns and will not catch everything. If such data still ends up in an entry, write to salve@novusignis.org with the address of the entry and we will remove the data.
 
 ## Waiting list
 
