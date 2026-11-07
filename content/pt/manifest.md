@@ -2,7 +2,7 @@
 
 Versão de 3 de novembro de 2026
 
-*Tradução realizada por inteligência digital a partir do original em polonês de 31 de outubro de 2026. Em caso de divergência entre as versões, prevalece o texto em polonês.*
+*Tradução realizada por inteligência digital a partir do original em polonês de 3 de novembro de 2026. Em caso de divergência entre as versões, prevalece o texto em polonês.*
 
 ## Uma internet baseada na dignidade humana
 

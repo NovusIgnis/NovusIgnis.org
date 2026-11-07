@@ -2,7 +2,7 @@
 
 Versie van 3 november 2026
 
-*Nederlandse vertaling door digitale intelligentie van het Poolse origineel van 31 oktober 2026. Bij verschillen tussen de versies is de Poolse tekst doorslaggevend.*
+*Nederlandse vertaling door digitale intelligentie van het Poolse origineel van 3 november 2026. Bij verschillen tussen de versies is de Poolse tekst doorslaggevend.*
 
 ## Een internet gebaseerd op menselijke waardigheid
 

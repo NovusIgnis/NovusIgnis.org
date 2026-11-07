@@ -2,7 +2,7 @@
 
 3 Kasım 2026 tarihli sürüm
 
-*Bu çeviri, 31 Ekim 2026 tarihli Lehçe asıl metin temel alınarak dijital zekâ tarafından hazırlanmıştır. Farklılık olması hâlinde Lehçe metin esas alınır.*
+*Bu çeviri, 3 Kasım 2026 tarihli Lehçe asıl metin temel alınarak dijital zekâ tarafından hazırlanmıştır. Farklılık olması hâlinde Lehçe metin esas alınır.*
 
 ## İnsan onurunu temel alan bir internet
 

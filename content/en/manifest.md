@@ -2,7 +2,7 @@
 
 Version of 3 November 2026
 
-*Translated into English by digital intelligence from the Polish original of 31 October 2026. Where the versions differ, the Polish text prevails.*
+*Translated into English by digital intelligence from the Polish original of 3 November 2026. Where the versions differ, the Polish text prevails.*
 
 ## An internet based on human dignity
 

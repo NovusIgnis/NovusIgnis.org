@@ -2,7 +2,7 @@
 
 Fassung vom 3. November 2026
 
-*Diese Übersetzung wurde von digitaler Intelligenz auf Grundlage des polnischen Originals vom 31. Oktober 2026 erstellt. Bei Abweichungen ist der polnische Text maßgeblich.*
+*Diese Übersetzung wurde von digitaler Intelligenz auf Grundlage des polnischen Originals vom 3. November 2026 erstellt. Bei Abweichungen ist der polnische Text maßgeblich.*
 
 ## Ein Internet, das auf der Würde des Menschen beruht
 

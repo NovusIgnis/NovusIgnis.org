@@ -2,7 +2,7 @@
 
 Phiên bản ngày 3 tháng 11 năm 2026
 
-*Bản dịch do trí tuệ số thực hiện dựa trên bản gốc tiếng Ba Lan ngày 31 tháng 10 năm 2026. Khi có khác biệt, văn bản tiếng Ba Lan có giá trị quyết định.*
+*Bản dịch do trí tuệ số thực hiện dựa trên bản gốc tiếng Ba Lan ngày 3 tháng 11 năm 2026. Khi có khác biệt, văn bản tiếng Ba Lan có giá trị quyết định.*
 
 ## Một internet dựa trên phẩm giá con người
 

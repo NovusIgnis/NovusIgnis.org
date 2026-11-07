@@ -2,7 +2,7 @@
 
 Versi 3 November 2026
 
-*Terjemahan ini dibuat oleh kecerdasan digital berdasarkan naskah asli berbahasa Polandia tertanggal 31 Oktober 2026. Jika terdapat perbedaan, naskah berbahasa Polandia yang berlaku.*
+*Terjemahan ini dibuat oleh kecerdasan digital berdasarkan naskah asli berbahasa Polandia tertanggal 3 November 2026. Jika terdapat perbedaan, naskah berbahasa Polandia yang berlaku.*
 
 ## Internet yang berlandaskan martabat manusia
 
