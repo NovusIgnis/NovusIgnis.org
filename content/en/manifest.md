@@ -14,7 +14,7 @@ From these values we derive two directions of work. The first is Suveria, a priv
 
 Where we cannot yet provide such protection, we will clearly point out the known gaps, their consequences and the extent of what can be verified. We commit to working on closing them, and to describing openly, before anyone starts using a given solution, the limitations we cannot eliminate.
 
-**OmniForum is to be a place where anyone can speak on any topic and be heard.** We want to help people understand one another's intentions, get to know the arguments and look for shared solutions. We want everyone to be able to contribute their voice on equal terms. The way statements are organized is meant to help people notice less popular perspectives as well, and to preserve the meaning their authors gave them.
+**OmniForum is to be a place where anyone can speak on any topic and be heard.** We want to help people understand one another's intentions, get to know the arguments and look for solutions together. We want everyone to be able to have their say on equal terms. The way statements are organized is meant to help people notice less popular perspectives as well, and to preserve the meaning their authors gave them.
 
 The two spaces are meant to complement each other as a private workshop and a public podium. Each person decides which thoughts to keep to themselves and which to bring into shared work. We want to open these spaces to every person, from every part of the world. We also invite anyone who wishes to help create them: by sharing their needs, ideas, knowledge and skills. We want to make the tools we create available as digital public goods, with open source code and knowledge that can be checked and developed further.
 
