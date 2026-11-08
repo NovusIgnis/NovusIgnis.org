@@ -15,13 +15,20 @@ Il titolare del trattamento è Fundacja Novus Ignis, con sede a Poznań, iscritt
 
 ## Il sito in sé
 
-- Il sito non usa cookie né script di analisi e non ha moduli.
+- Il sito non usa cookie né script di analisi. Ha un solo modulo, per scrivere a OmniVox (descritto più avanti).
 - Solo il tuo browser ricorda la lingua scelta; questa informazione non ci arriva.
 - Il server su cui funziona il sito (presso Infomaniak, in Svizzera) può registrare dati tecnici delle connessioni, come l'indirizzo IP, nei log necessari al suo funzionamento e alla sicurezza. Non li usiamo per il tracciamento. Vogliamo ricavarne soltanto conteggi aggregati di visualizzazioni e download, senza indirizzi IP né descrizioni dei browser; la pagina [Statistiche del sito](statystyki.md) mostra le regole e i risultati. La base giuridica è il nostro legittimo interesse a conoscere l'interesse verso la fondazione (art. 6, par. 1, lett. f, GDPR).
 
 ## Quando ci scrivi
 
 Invii il messaggio dalla tua casella di posta, anche quando il pulsante «Ho un'osservazione» lo prepara per te. Usiamo il tuo indirizzo e il contenuto del messaggio per rispondere e occuparci della questione, per esempio di un'osservazione su un documento. La base giuridica è il nostro legittimo interesse a gestire questa corrispondenza (art. 6, par. 1, lett. f, GDPR). Conserviamo i messaggi per il tempo necessario alla questione a cui si riferiscono.
+
+## Un messaggio a OmniVox
+
+- Il modulo [Scrivi a OmniVox](../en/omnivox.html) invia il messaggio al nostro server e da lì alla discussione OmniVox su GitHub, dove è pubblico. Invii il nome con cui vuoi firmare il messaggio (anche uno pseudonimo) e il testo del messaggio.
+- Lo script del modulo non registra l'indirizzo IP né il contenuto dei messaggi rifiutati. Il messaggio pubblicato è conservato da GitHub (USA) secondo la sua politica sulla privacy.
+- La base giuridica è il tuo consenso (art. 6, par. 1, lett. a, GDPR), che esprimi inviando il messaggio. Puoi revocarlo: scrivi a salve@novusignis.org indicando l'indirizzo del messaggio e lo elimineremo. Condividi il messaggio con licenza CC BY 4.0, quindi le copie fatte prima della sua eliminazione possono esistere al di fuori del nostro controllo.
+- Non inserire dati personali di altre persone. Il modulo rifiuta un messaggio in cui riconosce un indirizzo e-mail, un numero di telefono, un numero PESEL, un numero di conto o di carta, ma si basa su schemi e non rileverà tutto. Se questi dati dovessero comunque finire nel messaggio, scrivi a salve@novusignis.org indicando il link al messaggio e li elimineremo.
 
 ## Lista d'attesa
 

@@ -15,13 +15,20 @@ Pengendali data adalah Fundacja Novus Ignis yang berkedudukan di Poznań, terdaf
 
 ## Situs itu sendiri
 
-- Situs tidak menggunakan cookie ataupun skrip analitik dan tidak memiliki formulir.
+- Situs tidak menggunakan cookie ataupun skrip analitik. Situs memiliki satu formulir: kiriman ke OmniVox (dijelaskan di bawah).
 - Bahasa yang dipilih hanya diingat peramban Anda; informasi ini tidak kami terima.
 - Server tempat situs berjalan (pada perusahaan Infomaniak di Swiss) dapat mencatat data teknis sambungan, seperti alamat IP, dalam log yang diperlukan untuk operasional dan keamanannya. Kami tidak menggunakannya untuk pelacakan. Kami hanya ingin menghitung jumlah agregat tampilan halaman dan unduhan tanpa alamat IP atau deskripsi peramban; aturan serta hasilnya ditunjukkan pada halaman [Statistik situs](statystyki.md). Dasarnya adalah kepentingan sah kami untuk mengetahui minat terhadap yayasan (Pasal 6(1)(f) RODO).
 
 ## Ketika Anda menulis kepada kami
 
 Anda mengirim pesan dari kotak masuk sendiri, juga ketika tombol "Saya punya masukan" menyiapkannya untuk Anda. Alamat dan isi pesan Anda kami gunakan untuk menjawab serta menangani urusannya, misalnya masukan tentang dokumen. Dasarnya adalah kepentingan sah kami dalam menjalankan korespondensi ini (Pasal 6(1)(f) RODO). Pesan kami simpan selama diperlukan untuk urusan yang bersangkutan.
+
+## Kiriman ke OmniVox
+
+- Formulir [Tulis ke OmniVox](../en/omnivox.html) mengirim kiriman ke server kami, lalu dari sana ke diskusi OmniVox di GitHub, tempat kiriman itu bersifat publik. Anda mengirim nama tampilan pilihan Anda sendiri (boleh berupa nama samaran) dan isi kiriman.
+- Skrip formulir tidak menyimpan alamat IP ataupun isi kiriman yang ditolak. Kiriman yang diterbitkan disimpan oleh GitHub (Amerika Serikat) sesuai dengan kebijakan privasinya.
+- Dasarnya adalah persetujuan Anda (Pasal 6(1)(a) RODO), yang Anda berikan dengan mengirim kiriman. Anda dapat mencabutnya: tulis ke salve@novusignis.org dengan menyertakan tautan ke kiriman, dan kami akan menghapus kiriman tersebut. Anda membagikan kiriman dengan lisensi CC BY 4.0, sehingga salinan yang dibuat sebelum penghapusan dapat tetap ada di luar kendali kami.
+- Jangan masukkan data pribadi orang lain. Formulir menolak kiriman jika mendeteksi alamat surel, nomor telepon, PESEL, nomor rekening, atau nomor kartu di dalamnya, tetapi bekerja berdasarkan pola dan tidak akan mendeteksi semuanya. Jika data semacam itu tetap masuk ke dalam kiriman, tulis ke salve@novusignis.org dengan menyertakan tautan ke kiriman, dan kami akan menghapus data tersebut.
 
 ## Daftar tunggu
 

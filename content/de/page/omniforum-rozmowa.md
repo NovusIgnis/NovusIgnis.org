@@ -75,7 +75,7 @@ Mehr: [Whitepaper zum Omniforum, Kapitel 2](../whitepaper-omniforum.md#s2).
 
 ## Was wir im ersten Versuch prüfen werden
 
-Der erste Schritt der Versuche ist ein vollständiger Weg eines einzelnen Gedankens: Jemand gibt einen eigenen Text ein, digitale Intelligenz schlägt eine Zerlegung vor, die verfassende Person korrigiert, was falsch verstanden wurde, speichert das Ergebnis mit der Quelle und kehrt später in einem weiteren Gespräch darauf zurück.
+Der erste Schritt der Versuche ist ein vollständiger Weg eines einzelnen Gedankens: Jemand gibt einen eigenen Text ein, digitale Intelligenz schlägt eine Zerlegung vor, die verfassende Person korrigiert, was falsch verstanden wurde, speichert das Ergebnis mit der Quelle und kehrt später in einem weiteren Gespräch zu diesem Ergebnis zurück.
 
 Wir prüfen, ob unterwegs etwas verloren gegangen ist: der Wortlaut des Originals, seine Bedeutung, die aufeinanderfolgenden Fassungen und die Zugriffsrechte. Wir suchen auch nach Auslegungsfehlern, die das Modell selbst nicht gekennzeichnet hat, und vergleichen das Ergebnis mit dem Text allein sowie mit einer gewöhnlichen Zusammenfassung. Vor dem Versuch veröffentlichen wir, welches Ergebnis wir als ausreichend ansehen, und tragen sein Ergebnis auch dann ins Protokoll ein, wenn er scheitert.
 

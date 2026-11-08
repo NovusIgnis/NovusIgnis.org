@@ -15,13 +15,20 @@ A responsável pelo tratamento dos dados é a Fundacja Novus Ignis, com sede em 
 
 ## O site em si
 
-- O site não usa cookies nem scripts de análise e não tem formulários.
+- O site não usa cookies nem scripts de análise. Tem um único formulário, para publicar no OmniVox (descrito abaixo).
 - Apenas seu navegador lembra o idioma escolhido; essa informação não chega até nós.
 - O servidor em que o site funciona (na empresa Infomaniak, na Suíça) pode registrar dados técnicos das conexões, como o endereço IP, em registros necessários ao funcionamento e à segurança do site. Não os usamos para rastreamento. Queremos contar a partir deles apenas números agregados de visualizações e downloads, sem endereços IP nem descrições dos navegadores; a página [Estatísticas do site](statystyki.md) mostra os princípios e os resultados. A base é nosso legítimo interesse em saber se a fundação desperta interesse (art. 6(1)(f) do RGPD).
 
 ## Quando você escreve para nós
 
 Você envia a mensagem da sua própria caixa de e-mail, inclusive quando o botão “Tenho uma observação” a prepara para você. Usamos seu endereço e o conteúdo da mensagem para responder e tratar da questão, por exemplo, uma observação sobre um documento. A base é nosso legítimo interesse em manter essa correspondência (art. 6(1)(f) do RGPD). Guardamos as mensagens pelo tempo necessário à questão de que tratam.
+
+## Publicação no OmniVox
+
+- O formulário [Escreva para o OmniVox](../en/omnivox.html) envia a publicação ao nosso servidor e, de lá, à discussão do OmniVox no GitHub, onde ela é pública. Você envia uma assinatura de sua escolha (pode ser um pseudônimo) e o conteúdo da publicação.
+- O script do formulário não registra o endereço IP nem o conteúdo das publicações rejeitadas. O GitHub (EUA) armazena a publicação, conforme sua política de privacidade.
+- A base legal é seu consentimento (art. 6(1)(a) do RGPD), que você dá ao enviar a publicação. Você pode retirá-lo: escreva para salve@novusignis.org com o endereço da publicação, e nós a removeremos. Você disponibiliza a publicação sob a licença CC BY 4.0, portanto cópias feitas antes da remoção podem existir fora do nosso controle.
+- Não inclua dados pessoais de outras pessoas. O formulário rejeita publicações em que reconheça um endereço de e-mail, número de telefone, PESEL, número de conta bancária ou de cartão, mas funciona com base em padrões e não detecta tudo. Se esses dados ainda assim aparecerem em uma publicação, escreva para salve@novusignis.org com o link da publicação, e removeremos esses dados.
 
 ## Lista de espera
 

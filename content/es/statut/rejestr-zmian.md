@@ -55,7 +55,7 @@ Los textos de esta parte son proyectos para la decisión de la junta directiva y
 
 ### Z2. Trabajo, encargos y reembolso de gastos (§ 12)
 
-- **Actualmente:** todos los trabajos, también la creación de software, se basan en el trabajo no remunerado de personas voluntarias. Solo se permite encargar de forma remunerada servicios a entidades profesionales externas, por ejemplo, servicios contables. Un miembro de la junta directiva solo puede recibir el reembolso de los gastos documentados y necesarios (§ 13.5).
+- **Actualmente:** todos los trabajos, también la creación de software, se basan en el trabajo no remunerado de personas voluntarias. Solo se permite encargar de forma remunerada servicios a proveedores profesionales externos, por ejemplo, servicios contables. Un miembro de la junta directiva solo puede recibir el reembolso de los gastos documentados y necesarios (§ 13.5).
 - **Proyecto de redacción:**
   > 2. La actividad de la Fundación se basa ante todo en el trabajo de personas voluntarias. La Fundación cubre a las personas voluntarias los gastos derivados de las disposiciones sobre voluntariado y puede reembolsarles otros gastos documentados y necesarios realizados al prestar servicios en su favor.
   > 3. Los miembros de los órganos de la Fundación no perciben remuneración por el desempeño de sus funciones.

@@ -15,13 +15,20 @@ Veri sorumlusu, Poznań merkezli, Krajowy Rejestr Sądowy sicilinde 0001269575 n
 
 ## Sitenin kendisi
 
-- Site çerez veya analiz betiği kullanmaz; form içermez.
+- Site çerez veya analiz betiği kullanmaz. Tek bir formu vardır: OmniVox’a gönderi (aşağıda açıklanıyor).
 - Seçtiğin dili yalnızca tarayıcın hatırlar; bu bilgi bize gelmez.
 - Sitenin çalıştığı sunucu (İsviçre’deki Infomaniak şirketinde), işleyişi ve güvenliği için gereken günlüklerde IP adresi gibi teknik bağlantı verilerini kaydedebilir. Bunları izleme için kullanmayız. Bunlardan yalnızca IP adresleri ve tarayıcı açıklamaları olmadan toplu görüntüleme ve indirme sayılarını hesaplamak istiyoruz; ilkeleri ve sonuçları [Site istatistikleri](statystyki.md) sayfası gösterir. Dayanak, vakfa ilgiyi öğrenmedeki meşru menfaatimizdir (RODO 6(1)(f) maddesi).
 
 ## Bize yazdığında
 
 “Bir yorumum var” düğmesi mesajı senin için hazırladığında da kendi e-posta kutundan gönderirsin. Adresini ve mesaj içeriğini yanıt vermek ve örneğin belge yorumuyla ilgilenmek için kullanırız. Dayanak bu yazışmayı yürütmedeki meşru menfaatimizdir (RODO 6(1)(f) maddesi). Mesajları, ilgili mesele için gerektiği sürece saklarız.
+
+## OmniVox’a gönderi
+
+- [OmniVox’a yaz](../en/omnivox.html) formu, gönderiyi sunucumuza, oradan da GitHub’daki OmniVox tartışmasına gönderir; gönderi orada herkese açıktır. Kendi seçtiğin imzayı (takma ad olabilir) ve gönderinin içeriğini gönderirsin.
+- Formun betiği IP adresini veya reddedilen gönderilerin içeriğini kaydetmez. Yayımlanan gönderiyi GitHub (ABD), kendi gizlilik politikasına göre saklar.
+- Dayanak, gönderiyi yollayarak verdiğin rızadır (RODO 6(1)(a) maddesi). Bu rızayı geri çekebilirsin: gönderinin adresini belirterek salve@novusignis.org adresine yaz; gönderiyi sileceğiz. Gönderiyi CC BY 4.0 lisansı altında paylaşırsın; bu nedenle silinmeden önce alınan kopyalar kontrolümüz dışında kalabilir.
+- Başkalarının kişisel verilerini yazma. Form, e-posta adresi, telefon numarası, PESEL, hesap veya kart numarası tespit ettiği gönderiyi reddeder; ancak kalıplara göre çalışır ve bu tür verilerin her örneğini yakalayamaz. Bu tür veriler yine de gönderide yer alırsa, gönderinin adresini belirterek salve@novusignis.org adresine yaz; bu verileri sileceğiz.
 
 ## Bekleme listesi
 

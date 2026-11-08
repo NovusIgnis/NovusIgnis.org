@@ -55,7 +55,7 @@ As redações desta parte são propostas sujeitas à decisão da diretoria e do 
 
 ### Z2. Trabalho, contratações e reembolso de custos (§ 12)
 
-- **Atualmente:** todo o trabalho, inclusive o desenvolvimento de software, baseia-se no trabalho não remunerado dos voluntários. Só é permitido contratar serviços remunerados de entidades profissionais externas, por exemplo, contabilidade. Um membro da diretoria só pode receber o reembolso de custos documentados e indispensáveis (§ 13, parágrafo 5).
+- **Atualmente:** todo o trabalho, inclusive o desenvolvimento de software, baseia-se no trabalho não remunerado dos voluntários. Só é permitido contratar serviços remunerados de prestadores profissionais externos, por exemplo, contabilidade. Um membro da diretoria só pode receber o reembolso de custos documentados e indispensáveis (§ 13, parágrafo 5).
 - **Proposta de redação:**
   > 2. A atividade da Fundação baseia-se principalmente no trabalho dos voluntários. A Fundação cobre os custos dos voluntários decorrentes das disposições sobre voluntariado e pode reembolsar outros custos documentados e indispensáveis incorridos na prestação de serviços em seu benefício.
   > 3. Os membros dos órgãos da Fundação não recebem remuneração pelo exercício de suas funções.

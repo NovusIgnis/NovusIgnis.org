@@ -15,13 +15,20 @@ De verwerkingsverantwoordelijke is Stichting Novus Ignis, gevestigd in Poznań, 
 
 ## De website zelf
 
-- De website gebruikt geen cookies of analysescripts en heeft geen formulieren.
+- De website gebruikt geen cookies of analysescripts. De website heeft één formulier: een bijdrage aan OmniVox (hieronder beschreven).
 - Alleen je browser onthoudt de gekozen taal; die informatie bereikt ons niet.
 - De server waarop de website draait (bij Infomaniak in Zwitserland) kan technische verbindingsgegevens, zoals het IP-adres, vastleggen in logboeken die nodig zijn voor de werking en beveiliging. We gebruiken die niet om mensen te volgen. We willen er alleen totaalaantallen paginaweergaven en downloads uit tellen, zonder IP-adressen of browserbeschrijvingen; de regels en resultaten staan op de pagina [Websitestatistieken](statystyki.md). De grondslag is ons gerechtvaardigd belang om te weten hoeveel belangstelling er voor de stichting is (artikel 6, lid 1, onder f, AVG).
 
 ## Als je ons schrijft
 
 Je verstuurt het bericht vanuit je eigen postvak, ook als de knop “Ik heb een opmerking” het voor je opstelt. We gebruiken je adres en berichtinhoud om te antwoorden en de kwestie te behandelen, bijvoorbeeld een opmerking bij een document. De grondslag is ons gerechtvaardigd belang om deze correspondentie te voeren (artikel 6, lid 1, onder f, AVG). We bewaren berichten zolang ze nodig zijn voor de kwestie waarop ze betrekking hebben.
+
+## Een bijdrage aan OmniVox
+
+- Het formulier [Schrijf naar OmniVox](../en/omnivox.html) verstuurt de bijdrage naar onze server en van daaruit naar de OmniVox-discussie op GitHub, waar die openbaar is. Je verstuurt een zelfgekozen naam als ondertekening (dat kan een pseudoniem zijn) en de tekst van de bijdrage.
+- Het script van het formulier slaat geen IP-adressen op en ook geen inhoud van afgewezen bijdragen. GitHub (VS) bewaart de gepubliceerde bijdrage volgens zijn privacybeleid.
+- De grondslag is je toestemming (artikel 6, lid 1, onder a, AVG), die je geeft door de bijdrage te versturen. Je kunt die intrekken: schrijf naar salve@novusignis.org met het adres van de bijdrage, dan verwijderen we de bijdrage. Je deelt de bijdrage onder de licentie CC BY 4.0, dus kopieën die vóór de verwijdering zijn gemaakt, kunnen buiten onze controle blijven bestaan.
+- Vermeld geen persoonsgegevens van andere personen. Het formulier wijst een bijdrage af waarin het een e-mailadres, telefoonnummer, PESEL, rekeningnummer of kaartnummer herkent, maar het werkt op basis van patronen en zal niet alles herkennen. Als zulke gegevens toch in een bijdrage terechtkomen, schrijf dan naar salve@novusignis.org met de URL van de bijdrage, dan verwijderen we die gegevens.
 
 ## Wachtlijst
 

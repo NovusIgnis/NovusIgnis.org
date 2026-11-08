@@ -46,7 +46,7 @@ Oy hakkına giden birkaç yol tasarlıyoruz. Hiçbiri biyometri gerektirmez. Oy 
 
 Araştırmak istediğimiz yollar:
 
-- **Çipli devlet belgesi veya dijital kimlik cüzdanı**; seçilen sistem, korunan verileri vakfa aktarmadan yetkiyi doğrulamaya olanak veriyorsa. Telefonundaki uygulama pasaport veya kimlik kartının çipini okuyacak, devlet imzasını denetleyecek ve cihazda sıfır bilgi kanıtı, yani kim olduğunu açıklamadan “oy hakkına sahip kişiler listesindeyim” doğrulaması oluşturacaktı. Bu sağlanamazsa bağlayıcı oyu bu yola dayandırmayacağız.
+- **Çipli devlet belgesi veya dijital kimlik cüzdanı**; seçilen sistem, korunan verileri vakfa aktarmadan yetkiyi doğrulamaya olanak veriyorsa. Telefonundaki uygulamanın pasaport veya kimlik kartının çipini okuması, devlet imzasını denetlemesi ve cihazda sıfır bilgi kanıtı, yani kim olduğunu açıklamadan “oy hakkına sahip kişiler listesindeyim” doğrulaması oluşturması öngörülüyor. Bu sağlanamazsa bağlayıcı oyu bu yola dayandırmayacağız.
 - **Yüz yüze buluşmalar**; aynı anda birçok yerde, tek kişinin birkaç yetki toplamasını zorlaştıran kurallarla.
 
 Her yetkinin benzersiz bir belirteç alması amaçlanıyor; böylece aynı kişinin yeni belgesi ikinci oy sağlamaz. Belirteci değişmeyen verilerden, ancak ek sırla hesaplardık; çünkü PESEL gibi bir numara tek başına tüm olasılıklar denenerek tahmin edilebilir. Bu yüzden belirtecin, bağımsız taraflar arasında bölünmüş gizli bileşene veya çipin kendi imzasına da bağlı olması amaçlanıyor; teknoloji seçmeden önce bunu karara bağlayacağız.

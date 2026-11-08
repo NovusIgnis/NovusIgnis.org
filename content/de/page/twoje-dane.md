@@ -15,13 +15,20 @@ Verantwortlich für die Daten ist die Stiftung Novus Ignis mit Sitz in Poznań, 
 
 ## Die Website selbst
 
-- Die Website verwendet weder Cookies noch Analyseskripte und hat keine Formulare.
+- Die Website verwendet weder Cookies noch Analyseskripte. Sie hat genau ein Formular für einen Beitrag zu OmniVox (siehe unten).
 - Nur dein Browser merkt sich die gewählte Sprache; diese Information erreicht uns nicht.
 - Der Server, auf dem die Website läuft (bei Infomaniak in der Schweiz), kann technische Verbindungsdaten, etwa die IP-Adresse, in Protokollen speichern, die für ihren Betrieb und ihre Sicherheit nötig sind. Wir nutzen sie nicht zur Nachverfolgung. Daraus wollen wir nur zusammengefasste Zahlen zu Seitenaufrufen und Downloads ermitteln, ohne IP-Adressen und Browserbeschreibungen; Regeln und Ergebnisse zeigt die Seite [Statistiken der Website](statystyki.md). Grundlage ist unser berechtigtes Interesse, das Interesse an der Stiftung zu ermitteln (Art. 6 Abs. 1 Buchst. f DSGVO).
 
 ## Wenn du uns schreibst
 
 Die Nachricht sendest du aus deinem eigenen Postfach, auch wenn die Schaltfläche „Ich habe eine Anmerkung“ sie für dich vorbereitet. Deine Adresse und den Inhalt der Nachricht verwenden wir, um zu antworten und das Anliegen zu bearbeiten, etwa eine Anmerkung zu einem Dokument. Grundlage ist unser berechtigtes Interesse an dieser Korrespondenz (Art. 6 Abs. 1 Buchst. f DSGVO). Nachrichten bewahren wir so lange auf, wie sie für das betreffende Anliegen benötigt werden.
+
+## Ein Beitrag zu OmniVox
+
+- Das Formular [Schreib an OmniVox](../en/omnivox.html) sendet den Beitrag an unseren Server und von dort in die OmniVox-Diskussion auf GitHub, wo er öffentlich ist. Du sendest den selbst gewählten Namen, unter dem du den Beitrag veröffentlichst (das kann ein Pseudonym sein), und den Inhalt des Beitrags.
+- Das Skript des Formulars speichert weder die IP-Adresse noch den Inhalt abgelehnter Beiträge. Den veröffentlichten Beitrag speichert GitHub (USA) gemäß seiner Datenschutzrichtlinie.
+- Grundlage ist deine Einwilligung (Art. 6 Abs. 1 Buchst. a DSGVO), die du mit dem Absenden des Beitrags erteilst. Du kannst sie widerrufen: Schreib an salve@novusignis.org und gib die Adresse des Beitrags an; dann löschen wir ihn. Du stellst den Beitrag unter der Lizenz CC BY 4.0 zur Verfügung, daher können vor der Löschung erstellte Kopien außerhalb unserer Kontrolle bestehen bleiben.
+- Gib keine personenbezogenen Daten anderer Personen ein. Das Formular lehnt einen Beitrag ab, in dem es eine E-Mail-Adresse, Telefonnummer, PESEL-Nummer, Kontonummer oder Kartennummer erkennt. Es arbeitet jedoch anhand von Mustern und erkennt nicht alles. Falls solche Daten dennoch in einen Beitrag gelangen, schreib an salve@novusignis.org und gib den Link zum Beitrag an; dann löschen wir diese Daten.
 
 ## Warteliste
 

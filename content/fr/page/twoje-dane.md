@@ -15,13 +15,20 @@ Le responsable du traitement est la Fondation Novus Ignis, dont le siège est à
 
 ## Le site lui-même
 
-- Le site n’utilise ni cookies ni scripts d’analyse et ne comporte pas de formulaires.
+- Le site n’utilise ni cookies ni scripts d’analyse. Il comporte un seul formulaire permettant d’envoyer un message à OmniVox (décrit ci-dessous).
 - La langue choisie n’est mémorisée que par votre navigateur ; cette information ne nous parvient pas.
 - Le serveur qui héberge le site (chez Infomaniak, en Suisse) peut enregistrer des données techniques de connexion, comme l’adresse IP, dans les journaux nécessaires à son fonctionnement et à sa sécurité. Nous ne les utilisons pas pour le suivi des personnes. Nous voulons en tirer uniquement des totaux de consultations et de téléchargements, sans adresses IP ni descriptions des navigateurs ; la page [Statistiques du site](statystyki.md) présente les règles et les résultats. La base juridique est notre intérêt légitime à connaître l’intérêt porté à la fondation (article 6, paragraphe 1, point f du RGPD).
 
 ## Lorsque vous nous écrivez
 
 Vous envoyez le message depuis votre propre messagerie, y compris lorsque le bouton « J’ai une remarque » le prépare pour vous. Nous utilisons votre adresse et le contenu du message pour répondre et traiter le sujet, par exemple une remarque sur un document. La base juridique est notre intérêt légitime à mener cette correspondance (article 6, paragraphe 1, point f du RGPD). Nous conservons les messages aussi longtemps qu’ils sont nécessaires au sujet qu’ils concernent.
+
+## Un message dans OmniVox
+
+- Le formulaire [Écrire à OmniVox](../en/omnivox.html) envoie le message à notre serveur, puis de là à la discussion OmniVox sur GitHub, où il est public. Vous envoyez une signature que vous choisissez vous-même (il peut s’agir d’un pseudonyme) et le texte du message.
+- Le script du formulaire n’enregistre ni l’adresse IP ni le contenu des messages rejetés. Le message publié est conservé par GitHub (États-Unis) conformément à sa politique de confidentialité.
+- La base juridique est votre consentement (article 6, paragraphe 1, point a du RGPD), que vous donnez en envoyant le message. Vous pouvez retirer votre consentement : écrivez à salve@novusignis.org en indiquant l’adresse du message publié, et nous supprimerons ce message. Vous partagez le message sous licence CC BY 4.0 ; des copies réalisées avant sa suppression peuvent donc subsister hors de notre contrôle.
+- N’indiquez pas de données personnelles d’autres personnes. Le formulaire rejette un message lorsqu’il y reconnaît une adresse e-mail, un numéro de téléphone, un numéro PESEL, un numéro de compte bancaire ou de carte, mais la détection repose sur la recherche de formats connus à l’avance et ne repère pas tout. Si de telles données figurent malgré tout dans un message, écrivez à salve@novusignis.org en indiquant l’adresse web du message concerné, et nous supprimerons ces données.
 
 ## La liste d’attente
 

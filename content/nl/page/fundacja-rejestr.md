@@ -25,7 +25,7 @@ We vermelden de datum van de overschrijving of betaling.  Als iemand een uitgave
 - We vermelden donoren alleen bij naam als ze dat zelf willen; andere stortingen beschrijven we algemeen, bijvoorbeeld “donatie van een particulier”.
 - We publiceren de omschrijvingen van overschrijvingen niet letterlijk, omdat ze vaak persoonsgegevens bevatten; we schrijven de beschrijving van elke vermelding zelf.
 - Het register laat iedereen de financiën van de stichting volgen, maar vervangt de boekhouding of jaarrekening niet. Een onjuiste vermelding verbeteren we openbaar.
--  Kosten van vóór het openen van de rekening van de stichting heeft de oprichter zelf betaald; het zijn dus geen stortingen of uitgaven van de stichting. Kosten waarvan de stichting gebruikmaakt, zoals de domeinen, tonen we in het register als “vóór de oprichting van de stichting”.
+-  Kosten van vóór het openen van de rekening van de stichting heeft de oprichter zelf betaald; het zijn dus geen stortingen of uitgaven van de stichting. Kosten voor zaken die de stichting gebruikt, zoals domeinen, tonen we in het register als “vóór de oprichting van de stichting”.
 -  Voorlopig verzorgt de oprichter de boekhouding kosteloos; daarom bevat het register geen uitgaven voor een boekhoudkantoor.
 
 Hoe we geld willen verdelen naar wie het toebehoort en waarvoor het is bestemd, vertelt de pagina [Het geld van de stichting](fundacja-pieniadze.md). Hoe je een donatie doet, staat op de pagina [Steun de stichting](wesprzyj.md). Meer: [whitepaper over de werkingsprincipes van de stichting, hoofdstuk 4](../whitepaper-zasady-fundacji.md#s4).

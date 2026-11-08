@@ -9,7 +9,7 @@ menu: Trabajo y funciones
 
 Esta página describe los principios del trabajo en la Fundación Novus Ignis: cómo son las funciones, qué gastos puede reembolsar la fundación, cuándo podría pagar por el trabajo y cómo se generan los resultados del trabajo común. Si buscas una función concreta, visita la página [Únete](dolacz.md).
 
-Hoy todo el trabajo en la fundación, también el desarrollo de software, es voluntariado. Así lo establecen los estatutos: los miembros de la junta directiva no reciben remuneración por desempeñar su cargo, y solo se pueden contratar servicios remunerados a entidades profesionales externas, por ejemplo un despacho contable.
+Hoy todo el trabajo en la fundación, también el desarrollo de software, es voluntariado. Así lo establecen los estatutos: los miembros de la junta directiva no reciben remuneración por desempeñar su cargo, y solo se pueden contratar servicios remunerados a proveedores profesionales externos, por ejemplo un despacho contable.
 
 El voluntariado ha de ser una forma de practicar ya hoy, a la medida de tus fuerzas y tu situación vital, la libertad de dedicar tiempo a lo que consideras valioso. El fundador escribe en el manifiesto: «Quiero que en la fundación haya lugar para una contribución pequeña, para el descanso y para cambiar el camino elegido.» Eliges una tarea, aportas lo que puedes y vuelves a tus asuntos. Al principio queremos comprobar si todo lo que necesitamos puede crearse de esta manera; reembolsamos los gastos y no esperamos sacrificios que superen las posibilidades personales.
 

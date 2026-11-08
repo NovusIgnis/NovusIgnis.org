@@ -15,13 +15,20 @@ Bên kiểm soát dữ liệu là Quỹ Novus Ignis có trụ sở tại Poznań
 
 ## Bản thân trang web
 
-- Trang không dùng cookie hay mã phân tích và không có biểu mẫu.
+- Trang web không dùng cookie hay mã lệnh phân tích. Trang có một biểu mẫu: gửi bài viết vào OmniVox (mô tả bên dưới).
 - Ngôn ngữ được chọn chỉ được trình duyệt bạn nhớ; thông tin không đến chúng tôi.
 - Máy chủ trang (của Infomaniak ở Thụy Sĩ) có thể ghi dữ liệu kết nối kỹ thuật, như địa chỉ IP, vào nhật ký cần cho vận hành, an toàn. Chúng tôi không dùng theo dõi. Chỉ muốn tính tổng lượt xem, tải xuống, không địa chỉ IP hay mô tả trình duyệt; nguyên tắc, kết quả ở [Thống kê trang](statystyki.md). Cơ sở là lợi ích hợp pháp của chúng tôi trong tìm hiểu sự quan tâm đến quỹ (Điều 6(1)(f) RODO).
 
 ## Khi bạn viết cho chúng tôi
 
 Bạn gửi từ hộp thư riêng, cả khi nút “Tôi có ý kiến” chuẩn bị thông điệp. Chúng tôi dùng địa chỉ, nội dung để trả lời và xử lý việc, như ý kiến tài liệu. Cơ sở là lợi ích hợp pháp tiến hành thư từ ấy (Điều 6(1)(f) RODO). Thông điệp giữ chừng nào còn cần cho việc liên quan.
+
+## Bài viết gửi tới OmniVox
+
+- Biểu mẫu [Viết cho OmniVox](../en/omnivox.html) gửi bài viết đến máy chủ của chúng tôi, rồi từ đó đến cuộc thảo luận OmniVox trên GitHub, nơi bài viết được công khai. Bạn gửi tên mình chọn để ký (có thể là bút danh) cùng nội dung bài viết.
+- Mã lệnh của biểu mẫu không lưu địa chỉ IP hay nội dung các bài viết bị từ chối. GitHub (Hoa Kỳ) lưu bài viết đã công bố theo chính sách quyền riêng tư của mình.
+- Cơ sở là sự đồng ý của bạn (Điều 6(1)(a) RODO), được thể hiện khi bạn gửi bài viết. Bạn có thể rút lại sự đồng ý: hãy viết đến salve@novusignis.org kèm địa chỉ bài viết, và chúng tôi sẽ xóa bài viết đó. Bạn chia sẻ bài viết theo giấy phép CC BY 4.0, vì vậy các bản sao được tạo trước khi xóa có thể vẫn tồn tại ngoài tầm kiểm soát của chúng tôi.
+- Không nhập dữ liệu cá nhân của người khác. Biểu mẫu từ chối bài viết nếu nhận diện được trong đó địa chỉ email, số điện thoại, PESEL, số tài khoản hoặc số thẻ, nhưng chỉ kiểm tra theo mẫu nên không phát hiện được mọi trường hợp. Nếu những dữ liệu như vậy vẫn xuất hiện trong bài viết, hãy gửi email đến salve@novusignis.org kèm theo đường dẫn đến bài viết, và chúng tôi sẽ xóa những dữ liệu đó.
 
 ## Danh sách chờ
 

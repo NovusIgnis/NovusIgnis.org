@@ -15,13 +15,20 @@ La responsable del tratamiento de los datos es la Fundación Novus Ignis, con se
 
 ## El sitio en sí
 
-- El sitio no usa cookies ni scripts de análisis y no tiene formularios.
+- El sitio no usa cookies ni scripts de análisis. Tiene un formulario: para enviar una entrada a OmniVox (se describe más abajo).
 - Solo tu navegador recuerda el idioma elegido; esa información no nos llega.
 - El servidor en el que funciona el sitio (en Infomaniak, en Suiza) puede guardar datos técnicos de las conexiones, como la dirección IP, en registros necesarios para su funcionamiento y seguridad. No los usamos para rastrearte. Queremos calcular a partir de ellos únicamente las cifras agregadas de páginas vistas y descargas, sin direcciones IP ni descripciones de los navegadores; la página [Estadísticas del sitio](statystyki.md) muestra las reglas y los resultados. La base es nuestro interés legítimo en conocer el interés que despierta la fundación (art. 6.1.f del RGPD).
 
 ## Cuando nos escribes
 
 Envías el mensaje desde tu propio correo, también cuando el botón «Tengo un comentario» lo prepara por ti. Usamos tu dirección y el contenido del mensaje para responder y atender el asunto, por ejemplo, un comentario sobre un documento. La base es nuestro interés legítimo en mantener esa correspondencia (art. 6.1.f del RGPD). Conservamos los mensajes mientras sean necesarios para el asunto al que se refieren.
+
+## Entrada en OmniVox
+
+- El formulario [Escribe a OmniVox](../en/omnivox.html) envía la entrada a nuestro servidor y, desde allí, a la discusión de OmniVox en GitHub, donde la entrada es pública. Envías una firma que eliges tú (puede ser un seudónimo) y el contenido de la entrada.
+- El script del formulario no guarda la dirección IP ni el contenido de las entradas rechazadas. GitHub (EE. UU.) conserva la entrada publicada según su política de privacidad.
+- La base es tu consentimiento (art. 6.1.a del RGPD), que das al enviar la entrada. Puedes retirarlo: escribe a salve@novusignis.org con la dirección web de la entrada y eliminaremos la entrada. Compartes la entrada bajo la licencia CC BY 4.0, por lo que las copias realizadas antes de su eliminación pueden existir fuera de nuestro control.
+- No introduzcas datos personales de otras personas. El formulario rechaza las entradas en las que reconoce una dirección de correo electrónico, un número de teléfono, un número PESEL, un número de cuenta bancaria o un número de tarjeta, pero se basa en patrones y no lo detecta todo. Si aun así esos datos aparecen en una entrada, escribe a salve@novusignis.org con la dirección web de la entrada y eliminaremos esos datos.
 
 ## Lista de espera
 
