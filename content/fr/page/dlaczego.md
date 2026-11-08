@@ -13,7 +13,7 @@ Cette page explique brièvement pourquoi la Fondation Novus Ignis a été créé
 
 L’intelligence numérique apprend de ce que les gens écrivent et font. Tout a commencé par une question du fondateur, Marcin Wołowski : quels schémas de notre propre conduite lui transmettons-nous ainsi ? De là est née l’image d’une autre voie : organiser d’abord nous-mêmes le monde selon les principes que nous attendrons ensuite d’elle.
 
-Nous répondons à cette question par un essai, et non par une simple description. Nous organisons un petit morceau du monde selon ces principes et consignons comment cela se passe, erreurs comprises. Suveria, Omniforum et la fondation elle-même sont les outils de cet essai. On peut utiliser ces espaces sans être tenu de participer à leur développement ni de partager chaque proposition du manifeste.
+Nous répondons à cette question par un essai, et non par une simple description. Nous organisons un petit morceau du monde selon ces principes et consignons comment cela se passe, erreurs comprises. Suveria, OmniForum et la fondation elle-même sont les outils de cet essai. On peut utiliser ces espaces sans être tenu de participer à leur développement ni de partager chaque proposition du manifeste.
 
 Pour en savoir plus : [manifeste, point 1.1](../manifest.md#s1-1) et [point 1.2](../manifest.md#s1-2).
 
@@ -39,7 +39,7 @@ De ces principes naissent deux axes de travail.
 
 **Suveria** doit être un espace numérique privé pour chaque personne : un lieu de travail avec l’aide facultative de l’intelligence numérique, où l’on peut développer des idées, poser des questions personnelles et élaborer des plans. La protection de la vie privée doit y dépendre non de la confiance envers la fondation ou les personnes qui exploitent le service, mais de dispositifs de sécurité dont le fonctionnement peut être vérifié de manière indépendante. Suveria est aujourd’hui un projet. Voir : [Qu’est-ce que Suveria](suveria.md).
 
-**Omniforum** doit être un espace public commun où chacun peut s’exprimer et être entendu. Avec l’aide de l’intelligence numérique, toujours sous le contrôle de l’auteur et avec son consentement, les contributions complexes doivent pouvoir être décomposées en pensées individuelles, afin que deux personnes aux opinions apparemment contradictoires voient ce qui les rapproche et où leurs raisonnements divergent. Omniforum a un premier prototype en construction. Voir : [Qu’est-ce qu’Omniforum](omniforum.md).
+**OmniForum** doit être un espace public commun où chacun peut s’exprimer et être entendu. Avec l’aide de l’intelligence numérique, toujours sous le contrôle de l’auteur et avec son consentement, les contributions complexes doivent pouvoir être décomposées en pensées individuelles, afin que deux personnes aux opinions apparemment contradictoires voient ce qui les rapproche et où leurs raisonnements divergent. OmniForum a un premier prototype en construction. Voir : [Qu’est-ce qu’OmniForum](omniforum.md).
 
 Les deux espaces doivent se compléter comme un atelier privé et une tribune publique. Chaque personne décide quelles pensées garder pour soi et lesquelles apporter au travail commun.
 
@@ -49,7 +49,7 @@ Pour en savoir plus : [manifeste, introduction](../manifest.md#top), [point 3.1
 
 Le manifeste le dit explicitement :
 
-> La fondation est enregistrée, et le manifeste et les livres blancs sont publiés. Omniforum a un premier prototype en construction, et Suveria est un projet. Le calcul des coûts du point 2.4 est une hypothèse à vérifier, tandis que la gestion autonome par l’intelligence numérique (point 7.2) et les piliers suivants (chapitre 9) sont une vision.
+> La fondation est enregistrée, et le manifeste et les livres blancs sont publiés. OmniForum a un premier prototype en construction, et Suveria est un projet. Le calcul des coûts du point 2.4 est une hypothèse à vérifier, tandis que la gestion autonome par l’intelligence numérique (point 7.2) et les piliers suivants (chapitre 9) sont une vision.
 
 Les livres blancs sont des documents qui évoluent avec les projets : ils décrivent les moyens techniques et organisationnels de réaliser ces idées, leur justification et leurs limites connues.
 

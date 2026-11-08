@@ -46,7 +46,7 @@ More: [Foundation Principles whitepaper, section 5.3](../whitepaper-zasady-funda
 
 ## Tools for volunteers
 
-Until we have our own servers, we can cover the costs of tools that volunteers need to create and test the open source code of Suveria (a private space for working with digital intelligence) and Omniforum (a shared space for conversation, understanding and decisions), for example access to digital intelligence models. The condition is that the money comes from Pillar I funds (Pillar I is the first stage of the foundation's work and consists of these two services) or from earmarked donations. Such support has a public limit in the budget and is not remuneration; we will confirm its scope in a legal opinion.
+Until we have our own servers, we can cover the costs of tools that volunteers need to create and test the open source code of Suveria (a private space for working with digital intelligence) and OmniForum (a shared space for conversation, understanding and decisions), for example access to digital intelligence models. The condition is that the money comes from Pillar I funds (Pillar I is the first stage of the foundation's work and consists of these two services) or from earmarked donations. Such support has a public limit in the budget and is not remuneration; we will confirm its scope in a legal opinion.
 
 More: [Foundation Principles whitepaper, section 5.4](../whitepaper-zasady-fundacji.md#s5-4).
 

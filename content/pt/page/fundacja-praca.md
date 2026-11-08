@@ -46,7 +46,7 @@ Saiba mais: [whitepaper de princípios da fundação, seção 5.3](../whitepaper
 
 ## Ferramentas para os voluntários
 
-Enquanto não tivermos servidores próprios, podemos cobrir os custos das ferramentas de que os voluntários precisam para desenvolver e testar o código aberto da Suveria (o espaço privado de trabalho com inteligência digital) e do Omniforum (o espaço compartilhado de conversa, compreensão e decisões), por exemplo, o acesso a modelos de inteligência digital. A condição: recursos do Pilar I, ou seja, da primeira etapa do trabalho da fundação, constituída por esses dois serviços, ou doações com destinação específica. Esse apoio tem um limite público no orçamento e não é remuneração; confirmaremos seu alcance em um parecer jurídico.
+Enquanto não tivermos servidores próprios, podemos cobrir os custos das ferramentas de que os voluntários precisam para desenvolver e testar o código aberto da Suveria (o espaço privado de trabalho com inteligência digital) e do OmniForum (o espaço compartilhado de conversa, compreensão e decisões), por exemplo, o acesso a modelos de inteligência digital. A condição: recursos do Pilar I, ou seja, da primeira etapa do trabalho da fundação, constituída por esses dois serviços, ou doações com destinação específica. Esse apoio tem um limite público no orçamento e não é remuneração; confirmaremos seu alcance em um parecer jurídico.
 
 Saiba mais: [whitepaper de princípios da fundação, seção 5.4](../whitepaper-zasady-fundacji.md#s5-4).
 

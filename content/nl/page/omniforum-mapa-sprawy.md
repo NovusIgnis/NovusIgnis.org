@@ -1,6 +1,6 @@
 ---
 tytul: Kwestiekaart en ideeënkaart
-opis: Hoe Omniforum redeneringen van verschillende mensen in één kaart moet samenbrengen, de sterkte van een conclusie moet tonen en van een toekomstbeeld naar de volgende stap moet leiden
+opis: Hoe OmniForum redeneringen van verschillende mensen in één kaart moet samenbrengen, de sterkte van een conclusie moet tonen en van een toekomstbeeld naar de volgende stap moet leiden
 grupa: omniforum
 kolejnosc: 4
 menu: Kwestiekaart
@@ -11,9 +11,9 @@ Op de pagina [Hoe een gesprek verloopt](omniforum-rozmowa.md) beschreven we hoe 
 
 Een kwestiekaart is een geordende verzameling argumenten, ervaringen en open vragen rond één vraag. Een ideeënkaart beschrijft een idee: waar het naartoe leidt en wat de volgende stap is.
 
-Het prototype van Omniforum is in aanbouw. Alles wat we hieronder beschrijven, is een ontwerp; we hebben nog geen proef afgerond.
+Het prototype van OmniForum is in aanbouw. Alles wat we hieronder beschrijven, is een ontwerp; we hebben nog geen proef afgerond.
 
-Meer: [whitepaper Omniforum, hoofdstuk 1](../whitepaper-omniforum.md#s1).
+Meer: [whitepaper OmniForum, hoofdstuk 1](../whitepaper-omniforum.md#s1).
 
 ## Van een gedachtenketen naar een kaart
 
@@ -23,7 +23,7 @@ Een kwestiekaart zet ketens van verschillende mensen naast elkaar, ook tegenstri
 
 Een kwestie is een vraag waarnaar iemand wil terugkeren om iets te begrijpen, vergelijken of samen te doen. Een vaste link leidt naar alles wat erbij hoort: de vraag, bronnen, argumenten, de stand van kennis en wijzigingsgeschiedenis. Een privékwestie wordt in Suveria behandeld (de privéruimte om met digitale intelligentie te werken); een gezamenlijk kwestieregister is een richting die we in een afzonderlijke proef zullen toetsen.
 
-Meer: [whitepaper Omniforum, hoofdstuk 5](../whitepaper-omniforum.md#s5) en [paragraaf 5.1](../whitepaper-omniforum.md#s5-1).
+Meer: [whitepaper OmniForum, hoofdstuk 5](../whitepaper-omniforum.md#s5) en [paragraaf 5.1](../whitepaper-omniforum.md#s5-1).
 
 ## Hoe je de kaart leest
 
@@ -31,7 +31,7 @@ De kaart moet zich rustig ontvouwen. Eerst zie je één hoofdconclusie met een k
 
 Wanneer je na een week of na een jaar naar een onderwerp terugkeert, moet je alleen zien wat veranderd is: nieuwe ervaringen, verbeteringen, proefresultaten en nog open vragen. Na het doornemen van de veranderingen krijg je duidelijk te zien dat dit alles was en kun je rustig naar je eigen bezigheden terugkeren.
 
-Meer: [whitepaper Omniforum, hoofdstuk 5](../whitepaper-omniforum.md#s5) en [paragraaf 1.1](../whitepaper-omniforum.md#s1-1).
+Meer: [whitepaper OmniForum, hoofdstuk 5](../whitepaper-omniforum.md#s5) en [paragraaf 1.1](../whitepaper-omniforum.md#s1-1).
 
 ## Hoe sterk de conclusie is
 
@@ -43,9 +43,9 @@ Bij een conclusie willen we drie dingen afzonderlijk tonen:
 
 De ene maatstaf vervangt de andere niet: volledige instemming van deelnemers op basis van één ongeverifieerd verslag blijft een zwakke conclusie. We moeten de schaal voor deze beoordelingen nog ontwikkelen en voegen geen schijnonzekerheid toe aan goed vastgestelde feiten.
 
-Het manifest verdeelt gezamenlijke overwegingen in feiten (wat kan worden getoetst), waarden (behoeften en overtuigingen over wat juist is) en hypothesen, gedurfde ideeën met de gemarkeerde voorwaarde “wat zou mogelijk moeten worden om dit te laten werken”. Over feiten beslissen bronnen, niet het aantal stemmen; bij waarden is elke persoon een gelijkwaardig referentiepunt. In Omniforum moet elke gedachte zo'n aanduiding krijgen.
+Het manifest verdeelt gezamenlijke overwegingen in feiten (wat kan worden getoetst), waarden (behoeften en overtuigingen over wat juist is) en hypothesen, gedurfde ideeën met de gemarkeerde voorwaarde “wat zou mogelijk moeten worden om dit te laten werken”. Over feiten beslissen bronnen, niet het aantal stemmen; bij waarden is elke persoon een gelijkwaardig referentiepunt. In OmniForum moet elke gedachte zo'n aanduiding krijgen.
 
-Meer: [whitepaper Omniforum, hoofdstuk 5](../whitepaper-omniforum.md#s5) en [manifest, paragraaf 5.1](../manifest.md#s5-1).
+Meer: [whitepaper OmniForum, hoofdstuk 5](../whitepaper-omniforum.md#s5) en [manifest, paragraaf 5.1](../manifest.md#s5-1).
 
 ## Ideeënkaart
 
@@ -62,7 +62,7 @@ Gedurfde visies worden gemakkelijk afgedaan als losgezongen van de werkelijkheid
 
 De ideeënkaart is geen afzonderlijke gedachte, maar een weergave van veel verbonden begrippen, beweringen, bronnen, voorwaarden en proeven. De eerste ideeënkaarten moeten ideeën uit ons manifest beschrijven.
 
-Meer: [whitepaper Omniforum, paragraaf 5.2](../whitepaper-omniforum.md#s5-2).
+Meer: [whitepaper OmniForum, paragraaf 5.2](../whitepaper-omniforum.md#s5-2).
 
 ## Van idee naar initiatief
 
@@ -70,7 +70,7 @@ Als het gesprek tot een gezamenlijk vastgestelde uitkomst leidt over wat goed is
 
 Voordat het ter besluitvorming over gezamenlijk geld wordt voorgelegd, heeft het nodig wat het manifest de groene route noemt: een reeks verbanden die de feitelijke grondslag en de instemming van de gemeenschap met de onderliggende waarden toont. Daarna volgen afzonderlijke besluiten: over het doel, verder werk, de begroting en uitvoering; instemming met het doel bepaalt de kosten of termijn niet. Tot er bindende stemmingen zijn, neemt het bestuur deze besluiten na raadplegingen. Na afloop publiceren we de werkelijke kosten, het resultaat en de lessen, ook als de proef mislukte.
 
-Meer: [whitepaper Omniforum, paragraaf 5.3](../whitepaper-omniforum.md#s5-3) en [manifest, paragraaf 5.3](../manifest.md#s5-3).
+Meer: [whitepaper OmniForum, paragraaf 5.3](../whitepaper-omniforum.md#s5-3) en [manifest, paragraaf 5.3](../manifest.md#s5-3).
 
 ## Wat we hoger tonen en wat niet
 
@@ -85,10 +85,10 @@ Bij de laatste volgorde komt een argument hoger als het wordt aanvaard door mens
 
 De inhoud en de bron met de datum moeten vooropstaan. We houden geen openbare bijdragetellers of ranglijsten van personen bij, omdat ze een wedloop aanmoedigen en het vullen van de kaart met berichten, ook door bots. We willen dat wat de kwestie verheldert aandacht krijgt en niet wat de emoties het sterkst beroert.
 
-Meer: [whitepaper Omniforum, hoofdstuk 6](../whitepaper-omniforum.md#s6).
+Meer: [whitepaper OmniForum, hoofdstuk 6](../whitepaper-omniforum.md#s6).
 
 ## Lees en vertel wat je ervan vindt
 
-De volledige beschrijving van kaarten, ideeënkaarten en initiatieven staat in de [whitepaper over Omniforum](../whitepaper-omniforum.md), vooral in hoofdstukken 5 en 6. Als iets je aan het denken zet of onjuist lijkt, markeer dan dat fragment in het document en gebruik de knop “Ik heb een opmerking” of schrijf naar salve@novusignis.org.
+De volledige beschrijving van kaarten, ideeënkaarten en initiatieven staat in de [whitepaper over OmniForum](../whitepaper-omniforum.md), vooral in hoofdstukken 5 en 6. Als iets je aan het denken zet of onjuist lijkt, markeer dan dat fragment in het document en gebruik de knop “Ik heb een opmerking” of schrijf naar salve@novusignis.org.
 
-Meer: [whitepaper Omniforum, paragraaf 5.5](../whitepaper-omniforum.md#s5-5).
+Meer: [whitepaper OmniForum, paragraaf 5.5](../whitepaper-omniforum.md#s5-5).

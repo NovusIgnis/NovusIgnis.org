@@ -1,19 +1,19 @@
 ---
-tytul: How a conversation works in Omniforum
+tytul: How a conversation works in OmniForum
 opis: Step by step, how a statement turns into individual thoughts, what the author confirms, what role digital intelligence plays and how we know who said what
 grupa: omniforum
 kolejnosc: 2
 menu: How a conversation works
 ---
-# How a conversation works in Omniforum
+# How a conversation works in OmniForum
 
-This page is for people who have already read the [What is Omniforum](omniforum.md) page and want to see in more detail what happens to a statement from the moment you write it to the moment others can discuss it: what the author confirms, what role digital intelligence plays and how we know who said what.
+This page is for people who have already read the [What is OmniForum](omniforum.md) page and want to see in more detail what happens to a statement from the moment you write it to the moment others can discuss it: what the author confirms, what role digital intelligence plays and how we know who said what.
 
 You cannot use this yet: we are describing a plan and collecting comments.
 
-The Omniforum prototype is under construction. Everything we describe below is at the design stage, and we have not yet completed any trial.
+The OmniForum prototype is under construction. Everything we describe below is at the design stage, and we have not yet completed any trial.
 
-More: [Omniforum whitepaper, chapter 1](../whitepaper-omniforum.md#s1).
+More: [OmniForum whitepaper, chapter 1](../whitepaper-omniforum.md#s1).
 
 ## One sentence, many thoughts
 
@@ -23,11 +23,11 @@ Take the sentence “It's worth planting trees on our street if we choose drough
 
 The sentence must not be reduced to an unconditional “it's worth planting trees on our street,” because the condition is part of the meaning. If digital intelligence adds that the author considers drought a problem in the area, this is marked as the model's inference, not the author's words. We break things down only as deep as necessary: where the meaning depends on a single concept or where it may become the subject of a dispute.
 
-More: [Omniforum whitepaper, chapter 2](../whitepaper-omniforum.md#s2), [chapter 3](../whitepaper-omniforum.md#s3) and [the glossary in section 1.3](../whitepaper-omniforum.md#s1-3).
+More: [OmniForum whitepaper, chapter 2](../whitepaper-omniforum.md#s2), [chapter 3](../whitepaper-omniforum.md#s3) and [the glossary in section 1.3](../whitepaper-omniforum.md#s1-3).
 
 ## Step by step
 
-This is how the path of a thought that originates in Omniforum is meant to look:
+This is how the path of a thought that originates in OmniForum is meant to look:
 
 1. **You write.** You start with ordinary text or a passage and set the goal: understanding, extracting arguments, your own response or comparing positions.
 2. **Digital intelligence proposes a breakdown.** Next to each thought it shows which passage it derived it from, and it points out the places where it may have strayed from your intention or where the text can be read in several ways.
@@ -39,7 +39,7 @@ This is how the path of a thought that originates in Omniforum is meant to look:
 
 We are also considering a second, voluntary ceremony: a moment in which we name the limit of what we can justify today and begin looking for an answer to a new question. For now this is an idea without a settled name or form.
 
-More: [Omniforum whitepaper, chapter 3](../whitepaper-omniforum.md#s3).
+More: [OmniForum whitepaper, chapter 3](../whitepaper-omniforum.md#s3).
 
 ## What you confirm and what you do not
 
@@ -49,7 +49,7 @@ Readers can break down your statement in their own way, without waiting for you;
 
 A conversation is meant to leave room for changing one's mind without humiliation: you can admit a mistake, ask another question or finish without declaring agreement. A participant's dignity does not depend on whether they accept a conclusion.
 
-More: [Omniforum whitepaper, chapter 2](../whitepaper-omniforum.md#s2) and [chapter 1](../whitepaper-omniforum.md#s1).
+More: [OmniForum whitepaper, chapter 2](../whitepaper-omniforum.md#s2) and [chapter 1](../whitepaper-omniforum.md#s1).
 
 ## The model helps, but does not rule
 
@@ -57,13 +57,13 @@ The model (the digital intelligence program that proposes a breakdown) has its o
 
 With each breakdown we record who prepared it and when, and if a model helped, which model and with which version of the instructions.
 
-More: [Omniforum whitepaper, chapter 3](../whitepaper-omniforum.md#s3) and [chapter 2](../whitepaper-omniforum.md#s2).
+More: [OmniForum whitepaper, chapter 3](../whitepaper-omniforum.md#s3) and [chapter 2](../whitepaper-omniforum.md#s2).
 
 ## A thought from Suveria
 
 A thought can also come from Suveria, the private space for working with digital intelligence, where you refine it in your own workshop. In that case you publish it right away, without the Ignis workshop. The moment of publication is the same Ignis Ceremony, and after it Formatio begins, as with any other thought.
 
-More: [Omniforum whitepaper, chapter 3](../whitepaper-omniforum.md#s3).
+More: [OmniForum whitepaper, chapter 3](../whitepaper-omniforum.md#s3).
 
 ## How we know who said what
 
@@ -71,7 +71,7 @@ With each thought and each use of a concept we record where they come from: from
 
 An atom is a meaning, not a word. The words by which we name it are its labels, and one atom can have many of them, also in different languages: drought is “susza” in Polish and “Dürre” in German. This allows people who use different words to talk about the same thing. Linking a word to an atom is a proposal that the author confirms. It can also be private information: the fact that “our street” means Warszawska Street reveals where someone lives, so the author decides whether others will see it.
 
-More: [Omniforum whitepaper, chapter 2](../whitepaper-omniforum.md#s2).
+More: [OmniForum whitepaper, chapter 2](../whitepaper-omniforum.md#s2).
 
 ## What we will check in the first trial
 
@@ -79,10 +79,10 @@ The first step of the trials is one complete path of a single thought: someone e
 
 We check whether anything was lost along the way: the wording of the original, its meaning, successive versions and who has access to what. We also look for interpretation errors that the model did not flag itself, and we compare the result with the text alone and with an ordinary summary. Before the trial we publish what result we will consider sufficient, and we record its result in the log, also when the trial fails.
 
-More: [Omniforum whitepaper, chapter 9](../whitepaper-omniforum.md#s9).
+More: [OmniForum whitepaper, chapter 9](../whitepaper-omniforum.md#s9).
 
 ## Read it and tell us what you think
 
-You will find the full description of this path in the [Omniforum whitepaper](../whitepaper-omniforum.md) (about 50 minutes of reading), especially in chapters 2 and 3. If something puzzles you or seems wrong, highlight that passage in the document and use the “I have a comment” button, or write to salve@novusignis.org.
+You will find the full description of this path in the [OmniForum whitepaper](../whitepaper-omniforum.md) (about 50 minutes of reading), especially in chapters 2 and 3. If something puzzles you or seems wrong, highlight that passage in the document and use the “I have a comment” button, or write to salve@novusignis.org.
 
-More: [Omniforum whitepaper, section 5.5](../whitepaper-omniforum.md#s5-5).
+More: [OmniForum whitepaper, section 5.5](../whitepaper-omniforum.md#s5-5).

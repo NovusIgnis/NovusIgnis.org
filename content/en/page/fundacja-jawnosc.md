@@ -82,7 +82,7 @@ More: [Foundation Principles whitepaper, section 12.3](../whitepaper-zasady-fund
 
 ## How we change documents
 
-The manifesto and the whitepapers are living documents. The current version presents the foundation's current position, while the history of earlier versions and the reasons for corrections remains available. We want to submit them to public review in Omniforum, the shared space for conversation, understanding and decisions that we are building, breaking their theses down into molecules, that is, individual statements and arguments that can be checked.
+The manifesto and the whitepapers are living documents. The current version presents the foundation's current position, while the history of earlier versions and the reasons for corrections remains available. We want to submit them to public review in OmniForum, the shared space for conversation, understanding and decisions that we are building, breaking their theses down into molecules, that is, individual statements and arguments that can be checked.
 
 We develop organizational rules openly: together with a proposed change, we show its scope, justification and consequences for participants. We change the statute only when the change is needed for the next step. We are also considering writing the conditions for funding the further pillars into the statute (proposal Z6 in the [statute change register](../statut/rejestr-zmian.md), for the founder to decide), so that they do not depend on the board's goodwill alone.
 

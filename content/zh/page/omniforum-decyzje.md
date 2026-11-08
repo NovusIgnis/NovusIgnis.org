@@ -1,19 +1,19 @@
 ---
-tytul: Omniforum 中的共同决策
+tytul: OmniForum 中的共同决策
 opis: 意见征询与投票的区别、如何拟在无生物识别的情况下取得投票权、始终适用的原则，以及投票为何应逐步获得约束力
 grupa: omniforum
 kolejnosc: 3
 menu: 共同决策
 ---
-# Omniforum 中的共同决策
+# OmniForum 中的共同决策
 
-本页进一步展开 [Omniforum 是什么](omniforum.md)对共同决策的简要介绍：意见征询与投票有何不同、如何希望在无生物识别的情况下赋予投票权、哪些原则始终适用，以及投票结果为何应逐步约束基金会。
+本页进一步展开 [OmniForum 是什么](omniforum.md)对共同决策的简要介绍：意见征询与投票有何不同、如何希望在无生物识别的情况下赋予投票权、哪些原则始终适用，以及投票结果为何应逐步约束基金会。
 
-目前没有进行任何投票或意见征询。Omniforum 原型正在构建，以下一切均属设计方案。
+目前没有进行任何投票或意见征询。OmniForum 原型正在构建，以下一切均属设计方案。
 
 这是整个计划中最困难的部分之一，因此我们坦率说明哪些已在可及范围内，哪些仍需长期工作。
 
-更多：[Omniforum 白皮书，第 8 章](../whitepaper-omniforum.md#s8)。
+更多：[OmniForum 白皮书，第 8 章](../whitepaper-omniforum.md#s8)。
 
 ## 事实、价值观、假设
 
@@ -36,7 +36,7 @@ menu: 共同决策
 
 试验尚未确认各投票者并非同一个人时，我们将其称为意见征询，而非章程意义上的投票。
 
-更多：[章程，第 8 条](../statut/statut-2026-09-28.md#par-8)、[Omniforum 白皮书，第 8.1 节](../whitepaper-omniforum.md#s8-1)及[基金会运作原则白皮书，第 2 章](../whitepaper-zasady-fundacji.md#s2)。
+更多：[章程，第 8 条](../statut/statut-2026-09-28.md#par-8)、[OmniForum 白皮书，第 8.1 节](../whitepaper-omniforum.md#s8-1)及[基金会运作原则白皮书，第 2 章](../whitepaper-zasady-fundacji.md#s2)。
 
 ## 如何取得投票权
 
@@ -53,7 +53,7 @@ menu: 共同决策
 
 结合多条路径会留下同一人获得额外资格的风险。初期我们有意识地接受此风险，以让世界各地尽可能多的人加入；目标仍是每人一票的系统。拒绝接纳须附理由及申诉途径。
 
-更多：[Omniforum 白皮书，第 8.3 节](../whitepaper-omniforum.md#s8-3)及[宣言，第 5.2 节](../manifest.md#s5-2)。
+更多：[OmniForum 白皮书，第 8.3 节](../whitepaper-omniforum.md#s8-3)及[宣言，第 5.2 节](../manifest.md#s5-2)。
 
 ## 始终适用的原则
 
@@ -67,15 +67,15 @@ menu: 共同决策
 - 支出申请需要宣言所称的“绿色路径”，即展示计划事实基础和社区对其选择的同意的一串关联。同意门槛事先按议题重要性、支出规模和后果可逆性确定。
 - 投票前，每个人都会看到提前发布的简明立场、保留意见及来源摘要。争论各方可以报告自身立场被遗漏，此时我们会在旁展示其自己的表述。
 
-更多：[Omniforum 白皮书，第 8 章](../whitepaper-omniforum.md#s8)、[第 8.3 节](../whitepaper-omniforum.md#s8-3)及[宣言，第 5.3 节](../manifest.md#s5-3)。
+更多：[OmniForum 白皮书，第 8 章](../whitepaper-omniforum.md#s8)、[第 8.3 节](../whitepaper-omniforum.md#s8-3)及[宣言，第 5.3 节](../manifest.md#s5-3)。
 
 ## 棘手议题：三个步骤
 
-1. Omniforum 中的**开放议题地图**，任何人均可参与。
+1. OmniForum 中的**开放议题地图**，任何人均可参与。
 2. **随机抽选的咨询议会**：从有资格者登记册中抽出的群体，任何人都能依据公开数据自行核验抽签结果。该群体获得时间、材料及与提案人交谈的机会；提供建议，不作决定。
 3. **全体有资格者投票。**
 
-更多：[Omniforum 白皮书，第 8.4 节](../whitepaper-omniforum.md#s8-4)。
+更多：[OmniForum 白皮书，第 8.4 节](../whitepaper-omniforum.md#s8-4)。
 
 ## 逐步而审慎
 
@@ -83,9 +83,9 @@ menu: 共同决策
 
 在此之前，基金会处于敏捷阶段：理事会作出日常决定，自愿就重要事项征询社区意见，并公开每项重要决定的理由。投票与意见征询结果在形式上均属咨询性质。要使结果在形式上约束基金会，须修改章程，见[章程变更登记册](../statut/rejestr-zmian.md)中的 Z4。
 
-全面启动后续支柱（耐用物品的开放设计与接触自然）须同时满足三个条件：投票系统确保同一人只有一张有效选票、足以维持 Suveria 和 Omniforum 六个月运转的资金，以及社区决定。只有允许额外选票的路径被统一系统替代、且试验证实后，我们才认定首个条件已满足。
+全面启动后续支柱（耐用物品的开放设计与接触自然）须同时满足三个条件：投票系统确保同一人只有一张有效选票、足以维持 Suveria 和 OmniForum 六个月运转的资金，以及社区决定。只有允许额外选票的路径被统一系统替代、且试验证实后，我们才认定首个条件已满足。
 
-更多：[Omniforum 白皮书，第 8.5 节](../whitepaper-omniforum.md#s8-5)、[基金会运作原则白皮书，第 2 章](../whitepaper-zasady-fundacji.md#s2)及[宣言，第 6.3 节](../manifest.md#s6-3)。
+更多：[OmniForum 白皮书，第 8.5 节](../whitepaper-omniforum.md#s8-5)、[基金会运作原则白皮书，第 2 章](../whitepaper-zasady-fundacji.md#s2)及[宣言，第 6.3 节](../manifest.md#s6-3)。
 
 ## 这些机制无法保证什么
 
@@ -96,10 +96,10 @@ menu: 共同决策
 
 如何完全兼顾无集中身份数据库的每人一票、保密与全球可及性，我们尚不知道。“这可能需要很长时间，我们对此坦率说明。”
 
-更多：[Omniforum 白皮书，第 8.2 节](../whitepaper-omniforum.md#s8-2)、[第 8.6 节](../whitepaper-omniforum.md#s8-6)、[第 8.7 节](../whitepaper-omniforum.md#s8-7)及[宣言，第 5.2 节](../manifest.md#s5-2)。
+更多：[OmniForum 白皮书，第 8.2 节](../whitepaper-omniforum.md#s8-2)、[第 8.6 节](../whitepaper-omniforum.md#s8-6)、[第 8.7 节](../whitepaper-omniforum.md#s8-7)及[宣言，第 5.2 节](../manifest.md#s5-2)。
 
 ## 阅读后，告诉我们你的想法
 
-完整说明见 [Omniforum 白皮书](../whitepaper-omniforum.md)第 8 章及[宣言](../manifest.md)第 5 章。如有疑问或觉得某处有误，请在文档中选中相应段落，使用“我有意见”按钮，或写信至 salve@novusignis.org。
+完整说明见 [OmniForum 白皮书](../whitepaper-omniforum.md)第 8 章及[宣言](../manifest.md)第 5 章。如有疑问或觉得某处有误，请在文档中选中相应段落，使用“我有意见”按钮，或写信至 salve@novusignis.org。
 
-更多：[Omniforum 白皮书，第 5.5 节](../whitepaper-omniforum.md#s5-5)。
+更多：[OmniForum 白皮书，第 5.5 节](../whitepaper-omniforum.md#s5-5)。

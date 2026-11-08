@@ -25,7 +25,7 @@ Trong Suveria, chúng tôi muốn có thể:
 - với sự đồng ý của bản thân, sử dụng ký ức từ các cuộc trò chuyện trước và xây dựng Bộ Nguyên tắc Cá nhân, tức tập hợp nguyên tắc và giá trị riêng;
 - chọn cách làm việc, từ mô hình trên thiết bị riêng đến môi trường bảo vệ tính bí mật trên máy chủ, biết mỗi cách bảo vệ khỏi điều gì;
 - trả phí theo sử dụng thực tế, với hạn mức chi tiêu tự đặt;
-- hoàn thiện ý riêng tư rồi chủ động đưa vào trò chuyện chung trong Omniforum, tức không gian công cộng cho trò chuyện và quyết định.
+- hoàn thiện ý riêng tư rồi chủ động đưa vào trò chuyện chung trong OmniForum, tức không gian công cộng cho trò chuyện và quyết định.
 
 Ngay ngày đầu, không gian này cần đem lại cảm giác bình yên như ở nhà. Chúng tôi cũng muốn cho phép chuyển ghi chép và kho lưu cuộc trò chuyện riêng từ dịch vụ trí tuệ số khác. Dùng Suveria không có nghĩa là đồng ý dùng cuộc trò chuyện để huấn luyện mô hình.
 

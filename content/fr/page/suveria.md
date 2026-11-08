@@ -25,7 +25,7 @@ Dans Suveria, nous voulons que l’on puisse :
 - avec son propre consentement, utiliser la mémoire des conversations antérieures et constituer son Canon personnel, c’est-à-dire un recueil de ses propres principes et valeurs ;
 - choisir son mode de travail, du modèle sur son propre appareil à l’environnement confidentiel sur un serveur, en sachant ce contre quoi chacun protège ;
 - payer selon l’utilisation réelle, avec une limite de dépenses fixée soi-même ;
-- mûrir une pensée en privé, puis l’apporter consciemment à la conversation commune dans Omniforum, l’espace public de conversation et de décision.
+- mûrir une pensée en privé, puis l’apporter consciemment à la conversation commune dans OmniForum, l’espace public de conversation et de décision.
 
 Dès le premier jour, on doit avoir le sentiment paisible d’être chez soi. Nous voulons aussi permettre de transférer ses propres notes et archives de conversations depuis d’autres services d’intelligence numérique. Utiliser Suveria ne vaut pas consentement à l’utilisation des conversations pour l’entraînement des modèles.
 

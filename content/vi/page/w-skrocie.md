@@ -15,12 +15,12 @@ Quỹ Novus Ignis ở Poznań (KRS 0001269575), do Marcin Wołowski sáng lập,
 
 ## Chúng tôi muốn làm gì
 
-Chúng tôi muốn cùng kiến tạo một internet thay thế, lấy phẩm giá con người cùng quyền riêng tư và tự do bắt nguồn từ đó làm giá trị cao nhất. Suveria được dự kiến là không gian làm việc riêng tư với sự trợ giúp tùy chọn của trí tuệ số, được bảo vệ bằng các biện pháp có thể kiểm tra độc lập về cách hoạt động. Mục tiêu là để Omniforum trở thành không gian công cộng chung, nơi mỗi người có thể phát biểu và được lắng nghe. Xem thêm: [tuyên ngôn, phần mở đầu](../manifest.md#top) và [Vì sao Novus Ignis](dlaczego.md).
+Chúng tôi muốn cùng kiến tạo một internet thay thế, lấy phẩm giá con người cùng quyền riêng tư và tự do bắt nguồn từ đó làm giá trị cao nhất. Suveria được dự kiến là không gian làm việc riêng tư với sự trợ giúp tùy chọn của trí tuệ số, được bảo vệ bằng các biện pháp có thể kiểm tra độc lập về cách hoạt động. Mục tiêu là để OmniForum trở thành không gian công cộng chung, nơi mỗi người có thể phát biểu và được lắng nghe. Xem thêm: [tuyên ngôn, phần mở đầu](../manifest.md#top) và [Vì sao Novus Ignis](dlaczego.md).
 
 ## Chúng tôi đang ở đâu hôm nay
 
 - **Đang hoạt động:** quỹ đã được đăng ký, tuyên ngôn và các sách trắng đã được công bố. Quỹ nhận khoản hiến tặng qua chuyển khoản và hiển thị từng khoản đóng góp trong [sổ ghi các khoản đóng góp và chi tiêu công khai](fundacja-rejestr.md); khoản đầu tiên là vốn sáng lập.
-- **Bản thiết kế:** Suveria là một bản thiết kế, còn nguyên mẫu đầu tiên của Omniforum đang được xây dựng.
+- **Bản thiết kế:** Suveria là một bản thiết kế, còn nguyên mẫu đầu tiên của OmniForum đang được xây dựng.
 - **Giả thuyết:** chúng tôi giả định rằng các máy chủ chung được chi trả theo sử dụng thực tế có thể đem lại nhiều trí tuệ số hơn trên mỗi đô la so với dịch vụ khép kín; chúng tôi chưa kiểm tra điều này (tuyên ngôn, mục 2.4).
 - **Tầm nhìn:** trí tuệ số tự quản lý Quỹ Novus Ignis và các trụ cột tiếp theo. Việc khởi động đầy đủ các trụ cột tiếp theo là hướng đi còn xa; trước đó chỉ có thể có những sáng kiến nhỏ với thời điểm kết thúc xác định. Hiện nay, quỹ do con người quản lý.
 
@@ -39,7 +39,7 @@ Danh sách đầy đủ: [tuyên ngôn, chương 9](../manifest.md#s9).
 
 ## Chúng tôi đang tìm gì
 
-Ban đầu, chúng tôi đặc biệt tìm vài người để cùng xây và kiểm tra các phiên bản đầu của Suveria và Omniforum:
+Ban đầu, chúng tôi đặc biệt tìm vài người để cùng xây và kiểm tra các phiên bản đầu của Suveria và OmniForum:
 
 - người làm an toàn, mật mã học và hạ tầng;
 - lập trình viên và nhà thiết kế giao diện;

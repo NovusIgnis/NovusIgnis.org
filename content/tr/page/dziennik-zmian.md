@@ -9,6 +9,10 @@ menu: Değişiklik günlüğü
 
 Bilgi ve deneyimle birlikte belgeleri geliştirirken değişiklik geçmişini koruyoruz. Okur yorumundan doğanlar da dâhil sitede ve belgelerde neyin ne zaman değiştiğini burada kaydederiz. Vakıf senedinin kendi değişiklik geçmişi [vakıf senedi değişiklik sicilinde](../statut/rejestr-zmian.md) ayrıdır.
 
+## 8 Kasım 2026: OmniForum adının yazılışı
+
+- Manifestoda, dört teknik belgede ve sitenin tamamında Omniforum adının yazılışını, OmniActa ve OmniVox adlarında olduğu gibi OmniForum olarak değiştirdik. Bunun dışında belgelerin içeriği değişmedi. Her belgenin önceki metni sürüm geçmişinde korunuyor.
+
 ## 3 Kasım 2026: manifestoda dürüst örnek ilkesinin adı
 
 - Manifestonun 8.1. maddesine, dürüst örnekle yetiştirme (*Alignment by Honest Example*) adını verdiğimiz ilke üzerine bir paragraf ekledik: vakfı, dijital zekânın bir gün kendisine emanet edilen meseleleri yönetmesini isteyeceğimiz biçimde yönetmeye çalışıyoruz. İlke, Eylül 2026’daki önceki taslaklarımızda yer alıyordu; yayım öncesi düzenleme sırasında ilkenin metindeki yansımaları kaldı (1.1. ve 8.1. maddelerde), adını ve gerekçesini ise kaybettik. Neden: gerekçe olmadan, kararlar ve hatalar hakkında ne amaçla bu kadar ayrıntılı kayıt tuttuğumuzu anlamak zordur. Manifestonun sürümü: 3 Kasım 2026.

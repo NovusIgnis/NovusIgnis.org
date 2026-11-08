@@ -11,7 +11,7 @@ Concepts that are specific to Novus Ignis have one Latin name, the same in every
 
 Other terms have one fixed translation in each language, so that all translations speak about the same things in the same words.
 
-**As of 31 October 2026.** This glossary is a work in progress: we keep adding languages and concepts to it. If a translation in your language reads wrong, select it and send a comment on the translation. We want these concepts to become one of the first issues in Omniforum, where it will be possible to discuss their definitions and whether a name captures their meaning well.
+**As of 31 October 2026.** This glossary is a work in progress: we keep adding languages and concepts to it. If a translation in your language reads wrong, select it and send a comment on the translation. We want these concepts to become one of the first issues in OmniForum, where it will be possible to discuss their definitions and whether a name captures their meaning well.
 
 ## Latin names
 
@@ -21,4 +21,4 @@ Other terms have one fixed translation in each language, so that all translation
 
 {{terminologia:przeklady}}
 
-The definitions of Omniforum concepts are in the [Omniforum whitepaper, section 1.3](../whitepaper-omniforum.md#s1-3).
+The definitions of OmniForum concepts are in the [OmniForum whitepaper, section 1.3](../whitepaper-omniforum.md#s1-3).

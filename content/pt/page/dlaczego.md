@@ -13,7 +13,7 @@ Esta página conta brevemente por que a Fundação Novus Ignis foi criada e quai
 
 A inteligência digital aprende com o que as pessoas escrevem e fazem. Tudo começou com uma pergunta do fundador, Marcin Wołowski: que padrões da nossa própria conduta estamos transmitindo a ela dessa forma? Daí surgiu a ideia de outro caminho: primeiro nós mesmos organizamos o mundo segundo os princípios que depois esperamos dela.
 
-Respondemos a essa pergunta com uma tentativa, e não apenas com uma descrição. Organizamos um pequeno pedaço do mundo segundo esses princípios e registramos como isso está dando certo ou errado, incluindo nossos erros. A Suveria, o Omniforum e a própria fundação são ferramentas dessa tentativa. É possível usar esses espaços sem a obrigação de participar do desenvolvimento deles nem de compartilhar cada proposta do manifesto.
+Respondemos a essa pergunta com uma tentativa, e não apenas com uma descrição. Organizamos um pequeno pedaço do mundo segundo esses princípios e registramos como isso está dando certo ou errado, incluindo nossos erros. A Suveria, o OmniForum e a própria fundação são ferramentas dessa tentativa. É possível usar esses espaços sem a obrigação de participar do desenvolvimento deles nem de compartilhar cada proposta do manifesto.
 
 Saiba mais: [manifesto, seção 1.1](../manifest.md#s1-1) e [seção 1.2](../manifest.md#s1-2).
 
@@ -39,7 +39,7 @@ Desses princípios nascem duas frentes de trabalho.
 
 A **Suveria** deverá ser um espaço digital privado para cada pessoa: um lugar de trabalho com a ajuda opcional da inteligência digital, onde seja possível desenvolver ideias, fazer perguntas pessoais e elaborar planos. Sua privacidade deverá depender de salvaguardas cujo funcionamento possa ser verificado de forma independente, em vez da confiança na fundação ou nas pessoas que operam o serviço. Hoje, a Suveria é um projeto. Veja: [O que é a Suveria](suveria.md).
 
-O **Omniforum** deverá ser um espaço público compartilhado no qual qualquer pessoa possa se manifestar e ser ouvida. Com a ajuda da inteligência digital, sempre sob o controle e com o consentimento do autor, deverá ser possível decompor declarações complexas em pensamentos individuais, para que duas pessoas com opiniões aparentemente contraditórias vejam o que têm em comum e em que ponto seus raciocínios divergem. O Omniforum tem um primeiro protótipo em construção. Veja: [O que é o Omniforum](omniforum.md).
+O **OmniForum** deverá ser um espaço público compartilhado no qual qualquer pessoa possa se manifestar e ser ouvida. Com a ajuda da inteligência digital, sempre sob o controle e com o consentimento do autor, deverá ser possível decompor declarações complexas em pensamentos individuais, para que duas pessoas com opiniões aparentemente contraditórias vejam o que têm em comum e em que ponto seus raciocínios divergem. O OmniForum tem um primeiro protótipo em construção. Veja: [O que é o OmniForum](omniforum.md).
 
 Os dois espaços deverão se complementar como uma oficina privada e uma tribuna pública. Cada pessoa decide quais pensamentos guarda para si e quais leva ao trabalho conjunto.
 
@@ -49,7 +49,7 @@ Saiba mais: [manifesto, introdução](../manifest.md#top), [seção 3.1](../mani
 
 O manifesto diz isso de forma direta:
 
-> A fundação está registrada, e o manifesto e os whitepapers estão publicados. O Omniforum tem um primeiro protótipo em construção, e a Suveria é um projeto. O cálculo de custos da seção 2.4 é uma hipótese a ser verificada, enquanto a gestão autônoma pela inteligência digital (seção 7.2) e os demais pilares (capítulo 9) são uma visão.
+> A fundação está registrada, e o manifesto e os whitepapers estão publicados. O OmniForum tem um primeiro protótipo em construção, e a Suveria é um projeto. O cálculo de custos da seção 2.4 é uma hipótese a ser verificada, enquanto a gestão autônoma pela inteligência digital (seção 7.2) e os demais pilares (capítulo 9) são uma visão.
 
 Os whitepapers são documentos desenvolvidos junto com os projetos: descrevem as formas técnicas e organizacionais de concretizar essas ideias, suas justificativas e as limitações conhecidas.
 

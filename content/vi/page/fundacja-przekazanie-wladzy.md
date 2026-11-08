@@ -27,7 +27,7 @@ Xem thêm: [điều lệ, § 13](../statut/statut-2026-09-28.md#par-13) và [§ 
 
 ## Vì sao cần thay đổi
 
-Tuyên ngôn nói rõ: chúng tôi hướng tới dần chấm dứt quyền đặc biệt người sáng lập, giao cộng đồng ảnh hưởng thực sự đến hướng đi và chọn người quản lý. Quyết định cộng đồng cần ràng buộc ban điều hành trong giới hạn luật, điều lệ, an toàn dịch vụ. Người sáng lập muốn dùng Suveria, Omniforum và dự án tiếp theo với quyền như mọi người, rút khỏi vai trò công chúng thường trực.
+Tuyên ngôn nói rõ: chúng tôi hướng tới dần chấm dứt quyền đặc biệt người sáng lập, giao cộng đồng ảnh hưởng thực sự đến hướng đi và chọn người quản lý. Quyết định cộng đồng cần ràng buộc ban điều hành trong giới hạn luật, điều lệ, an toàn dịch vụ. Người sáng lập muốn dùng Suveria, OmniForum và dự án tiếp theo với quyền như mọi người, rút khỏi vai trò công chúng thường trực.
 
 Sách trắng nhắc Cyncynat: theo Liwiusz, năm 458 trước Công nguyên, sứ giả gặp khi đang làm đồng, báo được giao quyền tối cao trong chiến tranh. Ngày thứ mười sáu, nguy hiểm qua, quyền được trả lại và Cyncynat về trang trại. Trách nhiệm được nhận một thời gian, sau đó bàn giao.
 

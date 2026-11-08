@@ -27,7 +27,7 @@ Pour en savoir plus : [statuts, § 13](../statut/statut-2026-09-28.md#par-13) e
 
 ## Pourquoi cela doit changer
 
-Le manifeste le dit explicitement : nous visons l’extinction progressive des prérogatives particulières du fondateur et la transmission à la communauté d’une influence réelle sur l’orientation de la fondation et le choix des personnes qui la dirigent. Les décisions de la communauté doivent lier le conseil d’administration dans les limites de la loi, des statuts et de la sécurité des services. Le fondateur veut utiliser Suveria, Omniforum et les projets suivants aux mêmes conditions que les autres et se retirer d’un rôle public permanent.
+Le manifeste le dit explicitement : nous visons l’extinction progressive des prérogatives particulières du fondateur et la transmission à la communauté d’une influence réelle sur l’orientation de la fondation et le choix des personnes qui la dirigent. Les décisions de la communauté doivent lier le conseil d’administration dans les limites de la loi, des statuts et de la sécurité des services. Le fondateur veut utiliser Suveria, OmniForum et les projets suivants aux mêmes conditions que les autres et se retirer d’un rôle public permanent.
 
 Le livre blanc évoque ici Cincinnatus : selon Tite-Live, en 458 av. J.-C., des envoyés le trouvèrent au travail dans son champ pour lui annoncer qu’on lui avait confié le pouvoir suprême pour la durée de la guerre. Le seizième jour, le danger passé, il le rendit et retourna à sa ferme. On assume une responsabilité pour un temps, puis on la transmet.
 

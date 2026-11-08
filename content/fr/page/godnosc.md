@@ -7,7 +7,7 @@ menu: Dignité
 ---
 # La dignité comme point de départ
 
-Cette page explique ce que signifie la « dignité » dans le manifeste de Novus Ignis et ce qui en découle : la liberté, la vie privée, la protection de l’attention et des principes appuyés par l’action. Elle résume le chapitre 2 du manifeste, d’où naissent Suveria et Omniforum. Chaque partie contient un lien vers le texte complet.
+Cette page explique ce que signifie la « dignité » dans le manifeste de Novus Ignis et ce qui en découle : la liberté, la vie privée, la protection de l’attention et des principes appuyés par l’action. Elle résume le chapitre 2 du manifeste, d’où naissent Suveria et OmniForum. Chaque partie contient un lien vers le texte complet.
 
 ## Ce qu’est la dignité dans le manifeste
 
@@ -73,9 +73,9 @@ Les principes communs exigent des justifications claires des décisions ainsi qu
 
 Pour en savoir plus : [manifeste, point 2.5](../manifest.md#s2-5).
 
-## Ce qui en découle pour Suveria et Omniforum
+## Ce qui en découle pour Suveria et OmniForum
 
-Ces principes donnent naissance à deux directions complémentaires : Suveria doit être un espace privé pour penser, créer et planifier avec l’aide de l’intelligence numérique, et Omniforum un espace commun pour présenter ses raisons et découvrir d’autres perspectives. Suveria est aujourd’hui un projet, et Omniforum a un premier prototype en construction. Chaque personne doit choisir elle-même ce qu’elle garde pour elle et ce qu’elle partage avec les autres. Voir : [Qu’est-ce que Suveria](suveria.md) et [Qu’est-ce qu’Omniforum](omniforum.md).
+Ces principes donnent naissance à deux directions complémentaires : Suveria doit être un espace privé pour penser, créer et planifier avec l’aide de l’intelligence numérique, et OmniForum un espace commun pour présenter ses raisons et découvrir d’autres perspectives. Suveria est aujourd’hui un projet, et OmniForum a un premier prototype en construction. Chaque personne doit choisir elle-même ce qu’elle garde pour elle et ce qu’elle partage avec les autres. Voir : [Qu’est-ce que Suveria](suveria.md) et [Qu’est-ce qu’OmniForum](omniforum.md).
 
 Pour en savoir plus : [manifeste, « Où nous en sommes aujourd’hui »](../manifest.md#top).
 

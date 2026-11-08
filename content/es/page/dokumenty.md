@@ -17,13 +17,13 @@ Un documento de nivel inferior no puede contradecir a uno superior: el manifiest
 
 ## Lista de documentos
 
-Suveria es un proyecto y Omniforum tiene un prototipo en construcción, por lo que los whitepapers describen intenciones y límites, no servicios en funcionamiento; cada uno lo indica en el primer párrafo. Más información: [manifiesto, introducción](../manifest.md#top).
+Suveria es un proyecto y OmniForum tiene un prototipo en construcción, por lo que los whitepapers describen intenciones y límites, no servicios en funcionamiento; cada uno lo indica en el primer párrafo. Más información: [manifiesto, introducción](../manifest.md#top).
 
 | Documento | Qué contiene | Versión | Tiempo de lectura | Idioma |
 |---|---|---|---|---|
 | [Manifiesto](../manifest.md) | Qué queremos hacer y por qué: dignidad, privacidad, comprensión compartida, sostenimiento de los servicios y transferencia del poder. | 31.10.2026 | unos 60 minutos | polaco e inglés |
 | [Suveria: trabajo privado con la inteligencia digital](../whitepaper-suveria.md) | Qué protegemos y frente a qué, el recorrido del dispositivo al modelo, un cálculo de costos fechado y las pruebas de aceptación. | 31.10.2026 | unos 50 minutos | polaco e inglés |
-| [Omniforum: comprensión compartida, conversación y decisiones](../whitepaper-omniforum.md) | Los asuntos, la ficha de idea, el mapa de argumentos, los documentos vivos y las reglas de las decisiones comunes. | 31.10.2026 | unos 50 minutos | polaco e inglés |
+| [OmniForum: comprensión compartida, conversación y decisiones](../whitepaper-omniforum.md) | Los asuntos, la ficha de idea, el mapa de argumentos, los documentos vivos y las reglas de las decisiones comunes. | 31.10.2026 | unos 50 minutos | polaco e inglés |
 | [Principios de funcionamiento de la fundación](../whitepaper-zasady-fundacji.md) | La facturación por el uso real, el presupuesto, el trabajo y las funciones, el registro de beneficios y la transferencia de las facultades del fundador. | 31.10.2026 | unos 50 minutos | polaco e inglés |
 | [Materiales para el entrenamiento y el benchmark de modelos](../whitepaper-materialy-i-benchmark.md) | Cómo comprobar si la inteligencia digital ayuda realmente a las personas; un programa de investigación, por ahora sin resultados. | 31.10.2026 | unos 25 minutos | polaco e inglés |
 | [Estatutos: versiones y registro de modificaciones](../statut/rejestr-zmian.md) | Todas las versiones de los estatutos y las modificaciones realizadas y previstas, con su justificación. | entradas hasta el 30.10.2026 | unos 10 minutos | polaco e inglés |
@@ -34,7 +34,7 @@ Todos los documentos están en polaco e inglés (los estatutos en inglés tienen
 ## Cómo leer
 
 - Si tienes 5 minutos: lee la página [En breve](w-skrocie.md) o la [introducción del manifiesto](../manifest.md#top).
-- Si tienes una hora: lee el whitepaper de tu campo. Suveria trata de seguridad e infraestructura; Omniforum, de conversación y decisiones; los principios de la fundación, de derecho y dinero; y el benchmark, de investigación sobre modelos.
+- Si tienes una hora: lee el whitepaper de tu campo. Suveria trata de seguridad e infraestructura; OmniForum, de conversación y decisiones; los principios de la fundación, de derecho y dinero; y el benchmark, de investigación sobre modelos.
 - Si tienes más tiempo: lee, por este orden, el manifiesto, los whitepapers, el registro de modificaciones de los estatutos y los estatutos.
 
 El manifiesto y los cuatro whitepapers están también en un solo archivo de texto que puedes añadir a tu chat con la inteligencia digital y preguntar por lo que te interese: [en español](llms-full.txt) o [en polaco](../llms-full.txt).
@@ -49,7 +49,7 @@ Junto a cada documento y subpágina funciona el botón «Tengo un comentario». 
 
 La página no guarda nada: el mensaje se crea en tu programa de correo y el contenido del comentario te pertenece hasta que lo envías.
 
-Registraremos los comentarios que den lugar a cambios en el [registro de cambios del sitio](dziennik-zmian.md) y en el historial del documento. El objetivo es que los comentarios lleguen a Omniforum, donde otras personas puedan verlos y conversar sobre ellos; eso aún está por llegar. Más información: [whitepaper de Omniforum, apartado 5.5](../whitepaper-omniforum.md#s5-5).
+Registraremos los comentarios que den lugar a cambios en el [registro de cambios del sitio](dziennik-zmian.md) y en el historial del documento. El objetivo es que los comentarios lleguen a OmniForum, donde otras personas puedan verlos y conversar sobre ellos; eso aún está por llegar. Más información: [whitepaper de OmniForum, apartado 5.5](../whitepaper-omniforum.md#s5-5).
 
 ## Licencia y fuentes
 

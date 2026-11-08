@@ -25,7 +25,7 @@ In Suveria wollen wir es ermöglichen:
 - mit eigener Zustimmung das Gedächtnis früherer Gespräche zu nutzen und einen Persönlichen Kanon aufzubauen, also eine Sammlung eigener Grundsätze und Werte;
 - eine Arbeitsweise zu wählen, vom Modell auf dem eigenen Gerät bis zur vertraulichen Umgebung auf einem Server, und zu wissen, wovor jede davon schützt;
 - für die tatsächliche Nutzung zu zahlen, mit einem selbst festgelegten Ausgabenlimit;
-- einen Gedanken privat auszuarbeiten und ihn dann bewusst in das gemeinsame Gespräch im Omniforum einzubringen, also in den öffentlichen Raum für Gespräch und Entscheidungen.
+- einen Gedanken privat auszuarbeiten und ihn dann bewusst in das gemeinsame Gespräch im OmniForum einzubringen, also in den öffentlichen Raum für Gespräch und Entscheidungen.
 
 Schon der erste Tag soll das ruhige Gefühl vermitteln, zu Hause zu sein. Wir wollen auch ermöglichen, eigene Notizen und Gesprächsarchive aus anderen Diensten digitaler Intelligenz zu übernehmen. Die Nutzung von Suveria ist keine Zustimmung zur Verwendung von Gesprächen für das Training von Modellen.
 

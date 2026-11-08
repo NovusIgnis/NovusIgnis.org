@@ -27,7 +27,7 @@ Więcej: [statut, § 13](../statut/statut-2026-09-28.md#par-13) i [§ 15](../sta
 
 ## Dlaczego to ma się zmienić
 
-Manifest mówi wprost: dążymy do stopniowego wygaszenia szczególnych uprawnień fundatora i przekazania społeczności realnego wpływu na kierunek fundacji oraz wybór osób, które nią zarządzają. Decyzje społeczności mają wiązać zarząd w granicach prawa, statutu i bezpieczeństwa usług. Fundator chce korzystać z Suverii, Omniforum i dalszych projektów na takich samych prawach jak inni i wycofać się ze stałej roli publicznej.
+Manifest mówi wprost: dążymy do stopniowego wygaszenia szczególnych uprawnień fundatora i przekazania społeczności realnego wpływu na kierunek fundacji oraz wybór osób, które nią zarządzają. Decyzje społeczności mają wiązać zarząd w granicach prawa, statutu i bezpieczeństwa usług. Fundator chce korzystać z Suverii, OmniForum i dalszych projektów na takich samych prawach jak inni i wycofać się ze stałej roli publicznej.
 
 Whitepaper przywołuje tu Cyncynata: według Liwiusza w 458 r. p.n.e. posłowie zastali go przy pracy w polu z wiadomością, że na czas wojny powierzono mu najwyższą władzę. Szesnastego dnia, gdy niebezpieczeństwo minęło, oddał ją i wrócił do gospodarstwa. Odpowiedzialność bierze się na pewien czas, a potem się ją oddaje.
 

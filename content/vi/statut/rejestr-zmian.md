@@ -46,11 +46,11 @@ Cách diễn đạt trong phần này là các dự thảo để ban điều hà
 ### Z1. Mục tiêu và cách hoạt động (§ 5 và § 6)
 
 - **Hiện tại:** năm mục tiêu văn bản sáng lập: riêng tư, nghiên cứu, phần mềm mở, mô hình 3D, sức khỏe, thiên nhiên.
-- **Hướng đi:** khôi phục mở rộng mục tiêu từ bản bãi bỏ ngày 28.09.2026, kiểm tra bao quát mọi điều tuyên ngôn mô tả không. Đặc biệt không gian chung trò chuyện, quyết định (Omniforum) và bộ dữ liệu mở nghiên cứu trí tuệ số có đạo đức.
+- **Hướng đi:** khôi phục mở rộng mục tiêu từ bản bãi bỏ ngày 28.09.2026, kiểm tra bao quát mọi điều tuyên ngôn mô tả không. Đặc biệt không gian chung trò chuyện, quyết định (OmniForum) và bộ dữ liệu mở nghiên cứu trí tuệ số có đạo đức.
 - **Quyết định người sáng lập (30.10.2026):** hiện không dự kiến tài trợ dự án người, tổ chức ngoài quỹ (tài trợ, học bổng, phân bổ năng lực tính toán), nên Z1 không phải bao gồm. Có thể trở lại tương lai.
 - **Vì sao:** người sáng lập muốn ghi mục tiêu khi thành lập, nhưng trước đăng ký đầu, điều lệ không được vượt văn bản sáng lập. Sau đăng ký, § 15 cho phép đổi mục tiêu.
 - **Ý định:** điều lệ cần bao quát toàn đường tuyên ngôn, không chỉ giai đoạn đầu.
-- **Khi nào:** trước hoạt động đầu vượt mục tiêu hiện tại. Chúng tôi cho rằng khởi động Suveria, giai đoạn đầu Omniforum nằm trong điều lệ hiện tại: bảo vệ riêng tư, tự do ngôn luận trên mạng, nghiên cứu trí tuệ số, tạo phần mềm mở (§ 5(1)–(3)), cùng cung cấp hạ tầng, công cụ mở bảo vệ riêng tư (§ 6(1)–(2)); § 8 cho phép biểu quyết, tham vấn về hướng dự án. Sẽ xác nhận bằng ý kiến pháp lý trước dịch vụ thu phí đầu. Vì vậy không đưa thay đổi sớm hơn (quyết định người sáng lập ngày 30.10.2026).
+- **Khi nào:** trước hoạt động đầu vượt mục tiêu hiện tại. Chúng tôi cho rằng khởi động Suveria, giai đoạn đầu OmniForum nằm trong điều lệ hiện tại: bảo vệ riêng tư, tự do ngôn luận trên mạng, nghiên cứu trí tuệ số, tạo phần mềm mở (§ 5(1)–(3)), cùng cung cấp hạ tầng, công cụ mở bảo vệ riêng tư (§ 6(1)–(2)); § 8 cho phép biểu quyết, tham vấn về hướng dự án. Sẽ xác nhận bằng ý kiến pháp lý trước dịch vụ thu phí đầu. Vì vậy không đưa thay đổi sớm hơn (quyết định người sáng lập ngày 30.10.2026).
 - **Tình trạng:** ý định người sáng lập (28.10.2026), cách diễn đạt cần xây dựng.
 
 ### Z2. Công việc, thuê việc và hoàn chi phí (§ 12)

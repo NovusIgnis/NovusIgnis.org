@@ -7,7 +7,7 @@ menu: Godność
 ---
 # Godność jako punkt wyjścia
 
-Ta strona wyjaśnia, co w manifeście Novus Ignis znaczy „godność” i co z niej wynika: wolność, prywatność, ochrona uwagi i zasady z oparciem w działaniu. To streszczenie rozdziału 2 manifestu, z którego wyrastają Suveria i Omniforum. Przy każdej części znajdziesz odnośnik do pełnego tekstu.
+Ta strona wyjaśnia, co w manifeście Novus Ignis znaczy „godność” i co z niej wynika: wolność, prywatność, ochrona uwagi i zasady z oparciem w działaniu. To streszczenie rozdziału 2 manifestu, z którego wyrastają Suveria i OmniForum. Przy każdej części znajdziesz odnośnik do pełnego tekstu.
 
 ## Czym jest godność w manifeście
 
@@ -73,9 +73,9 @@ Wspólne zasady wymagają czytelnych uzasadnień decyzji oraz możliwości zgło
 
 Więcej: [manifest, punkt 2.5](../manifest.md#s2-5).
 
-## Co z tego wynika dla Suverii i Omniforum
+## Co z tego wynika dla Suverii i OmniForum
 
-Z tych zasad wyrastają dwa uzupełniające się kierunki: Suveria ma być prywatną przestrzenią do myślenia, tworzenia i planowania z pomocą cyfrowej inteligencji, a Omniforum wspólną przestrzenią do przedstawiania swoich racji i poznawania innych perspektyw. Suveria jest dziś projektem, a Omniforum ma pierwszy prototyp w budowie. Człowiek ma sam wybierać, co zachowuje dla siebie, a czym dzieli się z innymi. Zobacz: [Czym jest Suveria](suveria.md) i [Czym jest Omniforum](omniforum.md).
+Z tych zasad wyrastają dwa uzupełniające się kierunki: Suveria ma być prywatną przestrzenią do myślenia, tworzenia i planowania z pomocą cyfrowej inteligencji, a OmniForum wspólną przestrzenią do przedstawiania swoich racji i poznawania innych perspektyw. Suveria jest dziś projektem, a OmniForum ma pierwszy prototyp w budowie. Człowiek ma sam wybierać, co zachowuje dla siebie, a czym dzieli się z innymi. Zobacz: [Czym jest Suveria](suveria.md) i [Czym jest OmniForum](omniforum.md).
 
 Więcej: [manifest, „Gdzie jesteśmy dziś”](../manifest.md#top).
 

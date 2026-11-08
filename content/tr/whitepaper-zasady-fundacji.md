@@ -1,12 +1,12 @@
 # Novus Ignis Vakfı’nın işleyiş ilkeleri: sürdürme, iş birliği ve yetki devri
 
-31 Ekim 2026 tarihli sürüm. Bu belge, manifestoyu örgütlenme konularında geliştirir: hizmetleri nasıl sürdürdüğümüz, ortak parayı nasıl yönettiğimiz, nasıl iş birliği yaptığımız ve yetkiyi nasıl devretmek istediğimiz. Yönetmelik olarak kabul etmeyi amaçladığımız ilkeleri ve bunların gerektireceği vakıf senedi değişikliklerini anlatır. Bu teknik raporun kendisi vakıf senedini, vakıf organlarının yetkilerini veya hesap ve muhasebe kurallarını değiştirmez.
+8 Kasım 2026 tarihli sürüm. Bu belge, manifestoyu örgütlenme konularında geliştirir: hizmetleri nasıl sürdürdüğümüz, ortak parayı nasıl yönettiğimiz, nasıl iş birliği yaptığımız ve yetkiyi nasıl devretmek istediğimiz. Yönetmelik olarak kabul etmeyi amaçladığımız ilkeleri ve bunların gerektireceği vakıf senedi değişikliklerini anlatır. Bu teknik raporun kendisi vakıf senedini, vakıf organlarının yetkilerini veya hesap ve muhasebe kurallarını değiştirmez.
 
-*Bu çeviri, 31 Ekim 2026 tarihli Lehçe özgün metne dayanarak dijital zekâ tarafından yapılmıştır. Farklılık olması halinde Lehçe metin geçerlidir.*
+*Bu çeviri, 8 Kasım 2026 tarihli Lehçe özgün metne dayanarak dijital zekâ tarafından yapılmıştır. Farklılık olması halinde Lehçe metin geçerlidir.*
 
 ## 1. Vakıf senedi, manifesto, yönetmelikler ve bu belge
 
-Poznań merkezli Novus Ignis Vakfı (KRS 0001269575), insan onuruna dayanan alternatif bir internet kurmak istiyor. İlk sütunu iki hizmettir: dijital zekâyla çalışmak için özel alan Suveria ve konuşma, anlama ve kararlar için ortak alan Omniforum. Bu belge vakfın karar almayı, paranın hesabını vermeyi, işi düzenlemeyi ve sorumluluğu devretmeyi nasıl amaçladığını anlatır; değerleri ve yönü manifesto anlatır.
+Poznań merkezli Novus Ignis Vakfı (KRS 0001269575), insan onuruna dayanan alternatif bir internet kurmak istiyor. İlk sütunu iki hizmettir: dijital zekâyla çalışmak için özel alan Suveria ve konuşma, anlama ve kararlar için ortak alan OmniForum. Bu belge vakfın karar almayı, paranın hesabını vermeyi, işi düzenlemeyi ve sorumluluğu devretmeyi nasıl amaçladığını anlatır; değerleri ve yönü manifesto anlatır.
 
 Novus Ignis, Avrupa Birliği’nde (Poznań) tescilli bir Polonya vakfıdır. Uluslararası anlamda, kimseye kâr dağıtmayan, hissedarı olmayan bir kuruluştur: mal varlığı yalnızca vakıf senedindeki amaçlara hizmet eder. Hizmetler için en fazla gerçek maliyetleri kadar ücret alır, gelişimi ve rezervi gönüllü bağışlarla finanse ederiz.
 
@@ -39,11 +39,11 @@ Aşağıda anlatılan ilkeler için bugün vakıf senedinin şu hükümleri en �
 
 ## 2. Çevik aşama: oylama işlemeye başlamadan nasıl karar alırız
 
-Topluluğun bağlayıcı oylaması başlayana kadar vakıf çevik aşamada işler. Yönetim kurulu, teknoloji, kamu tartışması ve insanların ihtiyaçlarındaki değişikliklere hızlı yanıt gerektiğinde de hukuk ve vakıf senedi sınırları içinde günlük kararları alır. Tam oylama sistemi kurulana kadar gelişimi durdurmayız: bu dönemde I. Sütun’un, yani Suveria ve Omniforum’un sürdürülmesi ve geliştirilmesi harcamalarına yönetim kurulu karar verir.
+Topluluğun bağlayıcı oylaması başlayana kadar vakıf çevik aşamada işler. Yönetim kurulu, teknoloji, kamu tartışması ve insanların ihtiyaçlarındaki değişikliklere hızlı yanıt gerektiğinde de hukuk ve vakıf senedi sınırları içinde günlük kararları alır. Tam oylama sistemi kurulana kadar gelişimi durdurmayız: bu dönemde I. Sütun’un, yani Suveria ve OmniForum’un sürdürülmesi ve geliştirilmesi harcamalarına yönetim kurulu karar verir.
 
 Vakıf senedi yönetim kuruluna kullanmak istediğinden daha geniş yetki verir. Amacımız, topluluğa devrettiğimiz bütün kararların onun oylamasıyla alınması ve bağlayıcı olmasıdır. Bunun için çalışan ve nasıl sürdüreceğimizi bildiğimiz bir mekanizma gerekir; bu yüzden adım adım ilerliyoruz. O zamana kadar yönetim kurulu hukuki zorunlulukla değil, kendi seçimiyle önemli meselelerde topluluğun görüşünü danışmalarla sorar ve ret dahil her önemli kararın gerekçesini yayımlar. Danışma katılımcıların doğrulanmasını gerektirmez; dolayısıyla bir kişi birçok oy verebilir: katılanların görüşünü gösterir, ancak vakıf senedi anlamında oylama değildir. Her danışmadan önce yönetim kurulu sonucu nasıl ele alacağını duyurur. Katılımcılar yönetim kurulunun her kararını sorgulayabilir; yönetim kurulu itirazlara kamuya açık yanıt verir.
 
-Çevik aşama, oylamanın gücünün aşamalı artması gibi aşamalı sona erer; her adım bir denemedir. Önce mali etkisi olmayan denemeler, sonra küçük ve ayrılmış bir havuz ve geri döndürülebilir eylemler hakkında gerçek kararlara ilişkin oylamalar yürütür, ardından kapsamı genişletiriz. Her denemeden önce kapsamını, süresini ve yönetim kurulunun sonucu nasıl ele alacağını duyururuz. Bittikten sonra bir özet yayımlarız: sonucun uygulanıp uygulanamadığı, denemenin vakfın yürütülmesini ve karar almayı nasıl etkilediği, saptadığımız hatalar ve kötüye kullanımlar, değiştirdiklerimiz. Tutamayacağımız taahhütleri üstlenmek istemediğimiz için kapsamı ancak bu özetlere dayanarak genişletiriz. Aşamaları, katılımcıların doğrulanmasını ve oy gizliliğinin korunmasını [Omniforum teknik raporu](whitepaper-omniforum.md) anlatır. Oylama sonucunun yalnızca yönetim kurulunun seçimiyle değil, resmen vakfı bağlaması için vakıf senedi değişikliği gereklidir (değişiklik sicilinde Z4); çünkü bugün § 8 yalnızca oylamalara ve danışmalara izin verir. Deneme her oy verenin farklı bir kişi olduğunu doğrulamadığı sürece buna danışma deriz; vakıf senedi § 8 fıkra 2 anlamında oylama demeyiz. Oylama belirli türde kararı devraldığında yönetim kurulu sonucu uygulamayı yalnızca oylamadan önce anlatılan gerekçelerle, örneğin protokolde saptanan hata, belgelenmiş büyük ölçekli kötüye kullanım veya altyapı arızası nedeniyle, açık gerekçe ve yeniden değerlendirme tarihiyle askıya alabilir.
+Çevik aşama, oylamanın gücünün aşamalı artması gibi aşamalı sona erer; her adım bir denemedir. Önce mali etkisi olmayan denemeler, sonra küçük ve ayrılmış bir havuz ve geri döndürülebilir eylemler hakkında gerçek kararlara ilişkin oylamalar yürütür, ardından kapsamı genişletiriz. Her denemeden önce kapsamını, süresini ve yönetim kurulunun sonucu nasıl ele alacağını duyururuz. Bittikten sonra bir özet yayımlarız: sonucun uygulanıp uygulanamadığı, denemenin vakfın yürütülmesini ve karar almayı nasıl etkilediği, saptadığımız hatalar ve kötüye kullanımlar, değiştirdiklerimiz. Tutamayacağımız taahhütleri üstlenmek istemediğimiz için kapsamı ancak bu özetlere dayanarak genişletiriz. Aşamaları, katılımcıların doğrulanmasını ve oy gizliliğinin korunmasını [OmniForum teknik raporu](whitepaper-omniforum.md) anlatır. Oylama sonucunun yalnızca yönetim kurulunun seçimiyle değil, resmen vakfı bağlaması için vakıf senedi değişikliği gereklidir (değişiklik sicilinde Z4); çünkü bugün § 8 yalnızca oylamalara ve danışmalara izin verir. Deneme her oy verenin farklı bir kişi olduğunu doğrulamadığı sürece buna danışma deriz; vakıf senedi § 8 fıkra 2 anlamında oylama demeyiz. Oylama belirli türde kararı devraldığında yönetim kurulu sonucu uygulamayı yalnızca oylamadan önce anlatılan gerekçelerle, örneğin protokolde saptanan hata, belgelenmiş büyük ölçekli kötüye kullanım veya altyapı arızası nedeniyle, açık gerekçe ve yeniden değerlendirme tarihiyle askıya alabilir.
 
 ## 3. Maliyetlere mümkün olduğunca yakın hizmetler
 
@@ -104,12 +104,12 @@ Hesaplarda beş para türünü ayırırız:
 | Kullanıcılara borçlu olunan tutarlar | Katılımcıların kullanılmamış ön ödemeleri ve bakiyeleri | Hayır, katılımcılara aittir |
 | Belirli amaca emanet edilen para | Belirli amaca yönelik bağışlar, örneğin belirli bir girişime veya Suveria pilotuna | Yalnızca o amaç için |
 | Üstlenilen yükümlülükler | Planlanmış harcamalara zaten ayırdığımız para | Hayır, zaten ayrılmıştır |
-| Hizmetleri sürdürme rezervi | Suveria ve Omniforum’un onsuz duracağı rezerv | Hayır, hizmetlerin sürekliliğini korur |
+| Hizmetleri sürdürme rezervi | Suveria ve OmniForum’un onsuz duracağı rezerv | Hayır, hizmetlerin sürekliliğini korur |
 | Tahsis edilebilecek serbest kaynaklar | Yukarıdakilerin hepsinden sonra kalan | Evet, her zaman I. Sütun’a öncelik vererek (bölüm 8) |
 
 Hiçbir şeyi iki kez saymamak için her tutarı yalnızca tek kategoriye atarız.
 
-Hizmetleri sürdürme maliyeti, Suveria ve Omniforum’un onsuz çalışmayı durduracağı her şeyi kapsar: hesaplama gücü, veri saklama ve yedekler, alan adları, ödeme işleme ve zorunlu muhasebe. Bu nedenle banka hesabının bakiyesi tahsis edilebilecek bütçe değildir; vaat edilmiş ama henüz ödenmemiş para veya başkasına ait tutarlar rezervi oluşturmaz.
+Hizmetleri sürdürme maliyeti, Suveria ve OmniForum’un onsuz çalışmayı durduracağı her şeyi kapsar: hesaplama gücü, veri saklama ve yedekler, alan adları, ödeme işleme ve zorunlu muhasebe. Bu nedenle banka hesabının bakiyesi tahsis edilebilecek bütçe değildir; vaat edilmiş ama henüz ödenmemiş para veya başkasına ait tutarlar rezervi oluşturmaz.
 
 Maliyet kategorileri, büyük sözleşmelerin koşulları, kararlar ve gerekçeleri açıktır. Her harcamanın, ona yol açan kararla ve sonucuyla bağlanabilmesi amaçlanıyor. Kişisel verileri, erişim bilgilerini ve açıklanması altyapı riskini artırabilecek bilgileri koruruz.
 
@@ -162,13 +162,13 @@ Yönetim kurulu üyeleri vakıfla ücretli sözleşme yapmaz: vakıf senedi yaln
 
 ### 5.4. Kendi atölyesi ve hazırlanmış bağlam
 
-Görevi üstlenmenin, katılımcının seçtiği ortamda görev alanını açması amaçlanıyor. Dijital zekâ asistanı iş için gerekeni alır: vakfın değerleri, görevin amacı ve sınırları, Omniforum’dan güncel saptamalar, ilgili argümanlar ve açık sorular, bilgi kaynakları, kaynak kullanım sınırı ve sonucu değerlendirme yolu. Katılımcı bu bağlamı inceleyebilir, eksikleri gösterebilir ve kendi tutumunun sunuluşunu düzeltebilir.
+Görevi üstlenmenin, katılımcının seçtiği ortamda görev alanını açması amaçlanıyor. Dijital zekâ asistanı iş için gerekeni alır: vakfın değerleri, görevin amacı ve sınırları, OmniForum’dan güncel saptamalar, ilgili argümanlar ve açık sorular, bilgi kaynakları, kaynak kullanım sınırı ve sonucu değerlendirme yolu. Katılımcı bu bağlamı inceleyebilir, eksikleri gösterebilir ve kendi tutumunun sunuluşunu düzeltebilir.
 
 Göreve katılmak yalnızca seçilen veri ve yetki kapsamını açar. Bağlamı aktarma, araçlara erişim ve çalışma kaydını yayımlama ayrı ayrı belirlenen onaylar gerektirir; özel konuşmalar, dosyalar ve erişim bilgileri, insan bilinçli olarak başka karar verene kadar bu kapsam dışında kalır. Böyle bağlantıyı açmadan önce hangi verilerin özel ortamdan çıktığını, kime aktarıldığını ve nasıl işlendiğini anlatacağız.
 
 Aradan sonra atölyenin neyin değiştiğini ve nereden devam edilebileceğini göstermesi; görevin sonucunun ve durumunun katılımcının özel çevresini açığa çıkarmadan sonraki kişiye aktarılabilmesi amaçlanıyor. Denemede görevi başlatmayı, bir hafta sonra dönmeyi ve işi devretmeyi sınayacağız: bağlamı bulma süresini, özetlerin doğruluğunu ve mahremiyet sınırlarının gözetilmesini.
 
-Kendi sunucularımız olana kadar, I. Sütun kaynaklarından veya belirli amaca yönelik bağışlardan, gönüllülerin Suveria ve Omniforum’un açık kodunu oluşturup sınamak için ihtiyaç duyduğu araçların maliyetini, örneğin API üzerinden modellere erişimi veya programlama araçlarını karşılayabiliriz. Bu desteğin bütçede açık sınırı vardır ve ücret değildir. “ustawa o działalności pożytku publicznego i o wolontariacie” adlı yasa buna izin verir (madde 45 fıkra 2); bu maliyetlerin kapsamını hukuki görüşte doğrulayacağız.[^wolontariat]
+Kendi sunucularımız olana kadar, I. Sütun kaynaklarından veya belirli amaca yönelik bağışlardan, gönüllülerin Suveria ve OmniForum’un açık kodunu oluşturup sınamak için ihtiyaç duyduğu araçların maliyetini, örneğin API üzerinden modellere erişimi veya programlama araçlarını karşılayabiliriz. Bu desteğin bütçede açık sınırı vardır ve ücret değildir. “ustawa o działalności pożytku publicznego i o wolontariacie” adlı yasa buna izin verir (madde 45 fıkra 2); bu maliyetlerin kapsamını hukuki görüşte doğrulayacağız.[^wolontariat]
 
 ## 6. Kişisel destek vakıf dışında
 
@@ -202,10 +202,10 @@ Adresleri, bilet numaralarını, ödeme ve sağlık verilerini koruruz; önceden
 
 ### 8.1. I. Sütun’a öncelik ve üç koşul
 
-I. Sütun Suveria ve Omniforum’u kapsar. II. Sütun “Hardware” açık maddi çözümleri, III. Sütun “Natura” doğayla temasla ilgili girişimleri geliştirir. Bu sütunların tam olarak başlatılması ve projelerinin ortak bütçeden finansmanı şunların birlikte sağlanmasını gerektirir (manifesto madde 6.3):
+I. Sütun Suveria ve OmniForum’u kapsar. II. Sütun “Hardware” açık maddi çözümleri, III. Sütun “Natura” doğayla temasla ilgili girişimleri geliştirir. Bu sütunların tam olarak başlatılması ve projelerinin ortak bütçeden finansmanı şunların birlikte sağlanmasını gerektirir (manifesto madde 6.3):
 
-1. Seçimin gizliliğini koruyan, oyun sayıldığını denetlemeye olanak veren ve oy hakkı olan aynı kişinin sayımda tek bir oyunu sağlayan, sıfır bilgi kanıtları kullanan oylamasıyla çalışan Omniforum.
-2. Yeni projenin tam bütçesi ayrıldıktan sonra dokunulmadan kalan, Suveria ve Omniforum hizmetlerinin en az altı ay sürdürülmesi için gerçekten toplanmış kaynaklar.
+1. Seçimin gizliliğini koruyan, oyun sayıldığını denetlemeye olanak veren ve oy hakkı olan aynı kişinin sayımda tek bir oyunu sağlayan, sıfır bilgi kanıtları kullanan oylamasıyla çalışan OmniForum.
+2. Yeni projenin tam bütçesi ayrıldıktan sonra dokunulmadan kalan, Suveria ve OmniForum hizmetlerinin en az altı ay sürdürülmesi için gerçekten toplanmış kaynaklar.
 3. Oy hakkı olan bütün topluluğa eşit kurallarla açık oylamada projeyi ve finansmanını onaylayan topluluk kararı.
 
 Koşulu ne zaman sağlanmış sayacağız:
@@ -253,7 +253,7 @@ Kaynak ayırmadan önce amacı, tam bütçeyi, finansman kaynağını, sınanaca
 
 ## 9. Kurucunun özel yetkilerinin devri
 
-Vakfı tek bir insan, Marcin Wołowski kurdu; bugün en fazla yetki onda. Başlangıçta bu doğaldır, ancak böyle kalmasını istemiyoruz. Kurucu Suveria’yı, Omniforum’u ve sonraki projeleri başkalarıyla aynı haklarla kullanabileceği ve kalıcı kamusal rolden çekilebileceği duruma ulaşmak istiyor (manifesto madde 7.1). Bu, bölüm 5’teki düşüncenin aynısıdır: sorumluluk belirli süre üstlenilir, sonra devredilir. Vakfın tek kişinin sürekli varlığı sayesinde değil, araçlarının yararlılığı, birlikte üretenlere açık bilgi ve sorumluluğu devralmaya olanak veren ilkeler sayesinde sürmesi amaçlanıyor.
+Vakfı tek bir insan, Marcin Wołowski kurdu; bugün en fazla yetki onda. Başlangıçta bu doğaldır, ancak böyle kalmasını istemiyoruz. Kurucu Suveria’yı, OmniForum’u ve sonraki projeleri başkalarıyla aynı haklarla kullanabileceği ve kalıcı kamusal rolden çekilebileceği duruma ulaşmak istiyor (manifesto madde 7.1). Bu, bölüm 5’teki düşüncenin aynısıdır: sorumluluk belirli süre üstlenilir, sonra devredilir. Vakfın tek kişinin sürekli varlığı sayesinde değil, araçlarının yararlılığı, birlikte üretenlere açık bilgi ve sorumluluğu devralmaya olanak veren ilkeler sayesinde sürmesi amaçlanıyor.
 
 Bugün vakıf senedi kurucuya özel yetkiler verir:
 
@@ -368,7 +368,7 @@ Kendi kodumuzu ve materyallerimizi başkalarının kullanıp geliştirebileceği
 | --- | --- | --- |
 | Belgeler, çalışmalar ve site metinleri | CC BY 4.0 | kabul edildi |
 | novusignis.org sitesinin kodu | AGPLv3 | kabul edildi |
-| Hizmet kodu (Suveria, Omniforum) | AGPLv3 | düşünüyoruz |
+| Hizmet kodu (Suveria, OmniForum) | AGPLv3 | düşünüyoruz |
 | Başka sitelere yerleştirme kütüphaneleri | belirlenecek | |
 | Veri kümeleri ve açık yönergeler | belirlenecek | |
 | Kendi ince ayarlı modellerimiz | belirlenecek | |
@@ -420,7 +420,7 @@ Hedeflenen düzende karar hakkındaki anlaşmazlığı, kararı alan ve uygulaya
 
 ### 12.4. Belgeleri ve kuralları nasıl değiştiririz
 
-Manifesto ve teknik raporlar yaşayan belgelerdir. Tezlerini moleküllere, yani denetlenebilir tekil iddia ve argümanlara ayırarak Omniforum’da kamusal incelemeye sunmak istiyoruz. Güncel sürüm vakfın güncel tutumunu gösterir; önceki sürümlerin ve argümanların tam geçmişi, eski eylemlerin, vaatlerin ve düzeltme gerekçelerinin değerlendirilebilmesi için erişilebilir kalır.
+Manifesto ve teknik raporlar yaşayan belgelerdir. Tezlerini moleküllere, yani denetlenebilir tekil iddia ve argümanlara ayırarak OmniForum’da kamusal incelemeye sunmak istiyoruz. Güncel sürüm vakfın güncel tutumunu gösterir; önceki sürümlerin ve argümanların tam geçmişi, eski eylemlerin, vaatlerin ve düzeltme gerekçelerinin değerlendirilebilmesi için erişilebilir kalır.
 
 Onurun, mahremiyetin ve vakfa emanet edilen kaynakların korunması işleyişinin kalıcı yönünü belirler. Örgütlenme kurallarını açık geliştiririz: değişiklik önerisiyle birlikte kapsamını, gerekçesini ve katılımcılara etkilerini gösteririz. Vakıf senedini ancak sonraki adım için gerektiğinde değiştirir, hemen uygularız. Bölüm 8’deki diğer sütunların finansman koşullarını değiştirmek uygun usulü ve vakıf senedine, hukuka ve önceki yükümlülüklere saygıyı gerektirir; değişiklik kabul edilene kadar önceki kurallar geçerlidir. Bu koşulları, yalnızca yönetim kurulunun iyi niyetine bağlı kalmamaları için senede yazmayı da düşünüyoruz ([değişiklik sicilinde](statut/rejestr-zmian.md) Z6 önerisi).
 

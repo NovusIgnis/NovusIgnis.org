@@ -25,7 +25,7 @@ Di Suveria, kami ingin orang dapat:
 - dengan persetujuan sendiri, menggunakan ingatan percakapan terdahulu dan membangun Kanon Pribadi, yaitu kumpulan prinsip dan nilai sendiri;
 - memilih cara kerja, dari model pada perangkat sendiri hingga lingkungan konfidensial pada server, dengan mengetahui perlindungan yang diberikan masing-masing;
 - membayar penggunaan nyata dengan batas pengeluaran yang ditetapkan sendiri;
-- menyempurnakan pemikiran secara pribadi, lalu secara sadar membawanya ke percakapan bersama di Omniforum, yaitu ruang publik untuk percakapan dan keputusan.
+- menyempurnakan pemikiran secara pribadi, lalu secara sadar membawanya ke percakapan bersama di OmniForum, yaitu ruang publik untuk percakapan dan keputusan.
 
 Sejak hari pertama, Suveria dimaksudkan memberi rasa tenang seperti berada di rumah sendiri. Kami juga ingin memungkinkan pemindahan catatan dan arsip percakapan sendiri dari layanan kecerdasan digital lain. Menggunakan Suveria bukan persetujuan untuk menggunakan percakapan bagi pelatihan model.
 

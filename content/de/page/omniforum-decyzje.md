@@ -1,19 +1,19 @@
 ---
-tytul: Gemeinsame Entscheidungen im Omniforum
+tytul: Gemeinsame Entscheidungen im OmniForum
 opis: Wie sich eine Konsultation von einer Abstimmung unterscheidet, wie man das Stimmrecht ohne Biometrie erhalten soll, welche Regeln immer gelten und warum Abstimmungen schrittweise verbindlicher werden sollen
 grupa: omniforum
 kolejnosc: 3
 menu: Gemeinsame Entscheidungen
 ---
-# Gemeinsame Entscheidungen im Omniforum
+# Gemeinsame Entscheidungen im OmniForum
 
-Diese Seite vertieft, was [Was das Omniforum ist](omniforum.md) kurz über gemeinsame Entscheidungen sagt: wie sich eine Konsultation von einer Abstimmung unterscheidet, wie wir das Stimmrecht ohne Biometrie gewähren wollen, welche Regeln immer gelten und warum Abstimmungsergebnisse die Stiftung erst schrittweise binden sollen.
+Diese Seite vertieft, was [Was das OmniForum ist](omniforum.md) kurz über gemeinsame Entscheidungen sagt: wie sich eine Konsultation von einer Abstimmung unterscheidet, wie wir das Stimmrecht ohne Biometrie gewähren wollen, welche Regeln immer gelten und warum Abstimmungsergebnisse die Stiftung erst schrittweise binden sollen.
 
-Heute findet weder eine Abstimmung noch eine Konsultation statt. Der Prototyp des Omniforums ist im Aufbau, und alles, was wir im Folgenden beschreiben, ist ein Entwurf.
+Heute findet weder eine Abstimmung noch eine Konsultation statt. Der Prototyp des OmniForums ist im Aufbau, und alles, was wir im Folgenden beschreiben, ist ein Entwurf.
 
 Das ist einer der schwierigsten Teile des gesamten Vorhabens, deshalb schreiben wir offen darüber, was in Reichweite liegt und woran wir lange arbeiten werden.
 
-Mehr: [Whitepaper zum Omniforum, Kapitel 8](../whitepaper-omniforum.md#s8).
+Mehr: [Whitepaper zum OmniForum, Kapitel 8](../whitepaper-omniforum.md#s8).
 
 ## Fakten, Werte, Hypothesen
 
@@ -36,7 +36,7 @@ Die Satzung der Stiftung erlaubt Abstimmungen und Konsultationen über die Entwi
 
 Solange ein Versuch nicht bestätigt, dass jede abstimmende Person ein anderer Mensch ist, nennen wir ihn Konsultation und nicht Abstimmung im Sinne der Satzung.
 
-Mehr: [Satzung, § 8](../statut/statut-2026-09-28.md#par-8), [Whitepaper zum Omniforum, Abschnitt 8.1](../whitepaper-omniforum.md#s8-1) und [Whitepaper zu den Arbeitsgrundsätzen der Stiftung, Kapitel 2](../whitepaper-zasady-fundacji.md#s2).
+Mehr: [Satzung, § 8](../statut/statut-2026-09-28.md#par-8), [Whitepaper zum OmniForum, Abschnitt 8.1](../whitepaper-omniforum.md#s8-1) und [Whitepaper zu den Arbeitsgrundsätzen der Stiftung, Kapitel 2](../whitepaper-zasady-fundacji.md#s2).
 
 ## Wie man das Stimmrecht erhält
 
@@ -53,7 +53,7 @@ Jede Berechtigung soll eine eindeutige Kennung erhalten, damit ein neuer Ausweis
 
 Das Verbinden mehrerer Wege lässt das Risiko bestehen, dass dieselbe Person zusätzliche Berechtigungen erlangt. Anfangs nehmen wir es bewusst in Kauf, damit möglichst viele Menschen aus der ganzen Welt teilnehmen können; das Ziel bleibt ein System, in dem eine Person eine Stimme hat. Eine Ablehnung der Aufnahme wird begründet und lässt sich anfechten.
 
-Mehr: [Whitepaper zum Omniforum, Abschnitt 8.3](../whitepaper-omniforum.md#s8-3) und [Manifest, Abschnitt 5.2](../manifest.md#s5-2).
+Mehr: [Whitepaper zum OmniForum, Abschnitt 8.3](../whitepaper-omniforum.md#s8-3) und [Manifest, Abschnitt 5.2](../manifest.md#s5-2).
 
 ## Regeln, die immer gelten
 
@@ -67,15 +67,15 @@ Das sind Regeln des Projekts, die wir in der Abstimmungsordnung festhalten werde
 - Ein Antrag auf eine Ausgabe erfordert den „grünen Pfad“ aus dem Manifest, also eine Folge von Verbindungen, die die Grundlage des Plans in Fakten und die Zustimmung der Gemeinschaft zu den dahinterstehenden Entscheidungen zeigt. Die Zustimmungsschwelle legen wir im Voraus nach Bedeutung des Anliegens, Umfang der Ausgabe und Umkehrbarkeit der Folgen fest.
 - Vor der Stimmabgabe sehen alle eine kurze, verständliche Zusammenfassung der Standpunkte, Einwände und Quellen, die im Voraus veröffentlicht wird. Die Streitparteien können melden, dass ihr Standpunkt ausgelassen wurde; dann zeigen wir daneben ihre eigene Darstellung.
 
-Mehr: [Whitepaper zum Omniforum, Kapitel 8](../whitepaper-omniforum.md#s8), [Abschnitt 8.3](../whitepaper-omniforum.md#s8-3) und [Manifest, Abschnitt 5.3](../manifest.md#s5-3).
+Mehr: [Whitepaper zum OmniForum, Kapitel 8](../whitepaper-omniforum.md#s8), [Abschnitt 8.3](../whitepaper-omniforum.md#s8-3) und [Manifest, Abschnitt 5.3](../manifest.md#s5-3).
 
 ## Schwierige Anliegen: drei Schritte
 
-1. **Eine offene Anliegenkarte** im Omniforum, an der sich alle beteiligen können.
+1. **Eine offene Anliegenkarte** im OmniForum, an der sich alle beteiligen können.
 2. **Eine ausgeloste beratende Versammlung**: eine Gruppe von Personen, die aus dem Register der Berechtigten ausgelost werden; das Ergebnis der Auslosung können alle anhand öffentlich bekannt gegebener Daten selbst überprüfen. Sie erhält Zeit, Materialien und die Möglichkeit zum Gespräch mit den Antragstellenden; sie berät und entscheidet nicht.
 3. **Eine Abstimmung aller Berechtigten.**
 
-Mehr: [Whitepaper zum Omniforum, Abschnitt 8.4](../whitepaper-omniforum.md#s8-4).
+Mehr: [Whitepaper zum OmniForum, Abschnitt 8.4](../whitepaper-omniforum.md#s8-4).
 
 ## Schrittweise und vorsichtig
 
@@ -83,9 +83,9 @@ Abstimmungen werden schrittweise verbindlich: zuerst Versuche ohne finanzielle F
 
 Bis dahin arbeitet die Stiftung in der agilen Phase: Der Vorstand trifft die laufenden Entscheidungen, fragt aus eigener Entscheidung die Gemeinschaft in wesentlichen Angelegenheiten nach ihrer Meinung und veröffentlicht eine Begründung jeder wesentlichen Entscheidung. Die Ergebnisse von Abstimmungen und Konsultationen sind formal beratend. Damit ein Ergebnis die Stiftung formal bindet, ist eine Satzungsänderung erforderlich, die im [Register der Satzungsänderungen](../statut/rejestr-zmian.md) als Z4 beschrieben ist.
 
-Der vollständige Start weiterer Säulen (offene Entwürfe langlebiger Gegenstände und Kontakt mit der Natur) erfordert drei Bedingungen zusammen: eine Abstimmung, die eine einzige wirksame Stimme derselben Person gewährleistet, Mittel für sechs Monate Unterhalt von Suveria und Omniforum sowie eine Entscheidung der Gemeinschaft. Die erste Bedingung betrachten wir erst dann als erfüllt, wenn die Wege, die zusätzliche Stimmen zulassen, durch ein einheitliches System ersetzt sind und Versuche das bestätigen.
+Der vollständige Start weiterer Säulen (offene Entwürfe langlebiger Gegenstände und Kontakt mit der Natur) erfordert drei Bedingungen zusammen: eine Abstimmung, die eine einzige wirksame Stimme derselben Person gewährleistet, Mittel für sechs Monate Unterhalt von Suveria und OmniForum sowie eine Entscheidung der Gemeinschaft. Die erste Bedingung betrachten wir erst dann als erfüllt, wenn die Wege, die zusätzliche Stimmen zulassen, durch ein einheitliches System ersetzt sind und Versuche das bestätigen.
 
-Mehr: [Whitepaper zum Omniforum, Abschnitt 8.5](../whitepaper-omniforum.md#s8-5), [Whitepaper zu den Arbeitsgrundsätzen der Stiftung, Kapitel 2](../whitepaper-zasady-fundacji.md#s2) und [Manifest, Abschnitt 6.3](../manifest.md#s6-3).
+Mehr: [Whitepaper zum OmniForum, Abschnitt 8.5](../whitepaper-omniforum.md#s8-5), [Whitepaper zu den Arbeitsgrundsätzen der Stiftung, Kapitel 2](../whitepaper-zasady-fundacji.md#s2) und [Manifest, Abschnitt 6.3](../manifest.md#s6-3).
 
 ## Was das nicht gewährleisten wird
 
@@ -96,10 +96,10 @@ Mehr: [Whitepaper zum Omniforum, Abschnitt 8.5](../whitepaper-omniforum.md#s8-5)
 
 Wie sich eine Stimme pro Person ohne zentrale Identitätsdatenbank, Geheimhaltung und Zugang für die ganze Welt vollständig vereinbaren lassen, wissen wir noch nicht. „Das kann lange dauern, und wir sagen das offen.“
 
-Mehr: [Whitepaper zum Omniforum, Abschnitt 8.2](../whitepaper-omniforum.md#s8-2), [Abschnitt 8.6](../whitepaper-omniforum.md#s8-6), [Abschnitt 8.7](../whitepaper-omniforum.md#s8-7) und [Manifest, Abschnitt 5.2](../manifest.md#s5-2).
+Mehr: [Whitepaper zum OmniForum, Abschnitt 8.2](../whitepaper-omniforum.md#s8-2), [Abschnitt 8.6](../whitepaper-omniforum.md#s8-6), [Abschnitt 8.7](../whitepaper-omniforum.md#s8-7) und [Manifest, Abschnitt 5.2](../manifest.md#s5-2).
 
 ## Lies den Text und sag uns, was du denkst
 
-Die vollständige Beschreibung findest du im [Whitepaper zum Omniforum](../whitepaper-omniforum.md), Kapitel 8, und im [Manifest](../manifest.md), Kapitel 5. Wenn dich etwas beschäftigt oder dir falsch erscheint, markiere diese Stelle im Dokument und nutze die Schaltfläche „Ich habe eine Anmerkung“ oder schreib an salve@novusignis.org.
+Die vollständige Beschreibung findest du im [Whitepaper zum OmniForum](../whitepaper-omniforum.md), Kapitel 8, und im [Manifest](../manifest.md), Kapitel 5. Wenn dich etwas beschäftigt oder dir falsch erscheint, markiere diese Stelle im Dokument und nutze die Schaltfläche „Ich habe eine Anmerkung“ oder schreib an salve@novusignis.org.
 
-Mehr: [Whitepaper zum Omniforum, Abschnitt 5.5](../whitepaper-omniforum.md#s5-5).
+Mehr: [Whitepaper zum OmniForum, Abschnitt 5.5](../whitepaper-omniforum.md#s5-5).

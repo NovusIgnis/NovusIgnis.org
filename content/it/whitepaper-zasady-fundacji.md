@@ -1,12 +1,12 @@
 # Principi di funzionamento della Fondazione Novus Ignis: mantenimento, collaborazione e trasferimento del potere
 
-Versione del 31 ottobre 2026. Questo documento sviluppa il manifesto in materia di organizzazione: come manteniamo i servizi, come gestiamo il denaro comune, come collaboriamo e come vogliamo trasferire il potere. Descrive i principi che intendiamo adottare come regolamenti e le modifiche dello statuto che essi richiederanno. Il whitepaper in sé non modifica lo statuto, le competenze degli organi della fondazione né le regole di rendicontazione.
+Versione dell'8 novembre 2026. Questo documento sviluppa il manifesto in materia di organizzazione: come manteniamo i servizi, come gestiamo il denaro comune, come collaboriamo e come vogliamo trasferire il potere. Descrive i principi che intendiamo adottare come regolamenti e le modifiche dello statuto che essi richiederanno. Il whitepaper in sé non modifica lo statuto, le competenze degli organi della fondazione né le regole di rendicontazione.
 
-*Traduzione dell'originale polacco del 31 ottobre 2026, eseguita dall'intelligenza digitale. In caso di differenze tra le versioni, prevale il testo polacco.*
+*Traduzione dell'originale polacco dell'8 novembre 2026, eseguita dall'intelligenza digitale. In caso di differenze tra le versioni, prevale il testo polacco.*
 
 ## 1. Statuto, manifesto, regolamenti e questo documento
 
-La Fondazione Novus Ignis di Poznań (KRS 0001269575) vuole costruire un internet alternativo fondato sulla dignità umana. Il suo primo pilastro sono due servizi: Suveria, uno spazio privato per lavorare con l'intelligenza digitale, e Omniforum, uno spazio comune di conversazione, comprensione e decisioni. Questo documento descrive come la fondazione intende decidere, rendicontare il denaro, organizzare il lavoro e trasferire le responsabilità; i valori e la direzione sono descritti nel manifesto.
+La Fondazione Novus Ignis di Poznań (KRS 0001269575) vuole costruire un internet alternativo fondato sulla dignità umana. Il suo primo pilastro sono due servizi: Suveria, uno spazio privato per lavorare con l'intelligenza digitale, e OmniForum, uno spazio comune di conversazione, comprensione e decisioni. Questo documento descrive come la fondazione intende decidere, rendicontare il denaro, organizzare il lavoro e trasferire le responsabilità; i valori e la direzione sono descritti nel manifesto.
 
 Novus Ignis è una fondazione polacca registrata nell'Unione europea (Poznań). In termini internazionali è un ente senza soci che non distribuisce utili a nessuno: il suo patrimonio serve esclusivamente agli scopi stabiliti nello statuto. Per i servizi chiediamo tariffe non superiori ai loro costi reali, mentre lo sviluppo e la riserva li finanziamo con donazioni volontarie.
 
@@ -39,11 +39,11 @@ Per i principi descritti di seguito, le disposizioni più importanti dello statu
 
 ## 2. La fase agile: come decidiamo prima che entri in funzione la votazione
 
-Fino all'avvio della votazione vincolante della comunità, la fondazione opera nella fase agile. Il consiglio di amministrazione prende le decisioni correnti entro i limiti della legge e dello statuto, anche quando occorre rispondere rapidamente ai cambiamenti della tecnologia, del dibattito pubblico e dei bisogni delle persone. Non fermiamo lo sviluppo in attesa di un sistema di votazione completo: in questo periodo è il consiglio di amministrazione a decidere sulle spese per il mantenimento e lo sviluppo del Pilastro I, cioè di Suveria e Omniforum.
+Fino all'avvio della votazione vincolante della comunità, la fondazione opera nella fase agile. Il consiglio di amministrazione prende le decisioni correnti entro i limiti della legge e dello statuto, anche quando occorre rispondere rapidamente ai cambiamenti della tecnologia, del dibattito pubblico e dei bisogni delle persone. Non fermiamo lo sviluppo in attesa di un sistema di votazione completo: in questo periodo è il consiglio di amministrazione a decidere sulle spese per il mantenimento e lo sviluppo del Pilastro I, cioè di Suveria e OmniForum.
 
 Lo statuto consente al consiglio di amministrazione più di quanto esso voglia utilizzare. Il nostro obiettivo è che tutte le decisioni che affidiamo alla comunità vengano prese con la sua votazione e siano vincolanti. Per questo ci serve un meccanismo che funzioni e che sappiamo mantenere, ed è per questo che ci arriviamo per gradi. Fino ad allora il consiglio di amministrazione, per scelta e non per obbligo di legge, chiede il parere della comunità con consultazioni sulle questioni rilevanti e pubblica la motivazione di ogni decisione rilevante, compreso un rifiuto. La consultazione non richiede la verifica dei partecipanti, quindi una stessa persona può esprimervi molti voti: mostra l'opinione dei partecipanti, ma non è una votazione ai sensi dello statuto. Prima di ogni consultazione il consiglio di amministrazione annuncia come tratterà il suo risultato. I partecipanti possono contestare qualsiasi decisione del consiglio di amministrazione, e il consiglio di amministrazione risponde pubblicamente alle obiezioni.
 
-La fase agile termina gradualmente, così come gradualmente cresce il peso della votazione, e ogni passo è una prova. Prima conduciamo prove senza effetti finanziari, poi votazioni su decisioni reali riguardanti un piccolo fondo separato e azioni reversibili, e in seguito ampliamo l'ambito. Prima di ogni prova ne annunciamo l'ambito, la durata e il modo in cui il consiglio di amministrazione tratterà il risultato. Al termine pubblichiamo un resoconto: se è stato possibile dare esecuzione al risultato, come la prova ha influito sulla conduzione della fondazione e sul processo decisionale, quali errori e abusi abbiamo individuato e che cosa cambiamo. Ampliamo l'ambito soltanto sulla base di questi resoconti, perché non vogliamo assumere impegni che non sappiamo mantenere. Le tappe, la verifica dei partecipanti e la protezione della segretezza del voto sono descritte nel [whitepaper di Omniforum](whitepaper-omniforum.md). Perché il risultato della votazione vincoli la fondazione formalmente, e non solo per scelta del consiglio di amministrazione, è necessaria una modifica dello statuto (Z4 nel registro delle modifiche), perché oggi il § 8 si limita a consentire votazioni e consultazioni. Finché una prova non conferma l'unicità di ogni votante, la chiamiamo consultazione e non votazione ai sensi del § 8, comma 2, dello statuto. Quando la votazione avrà assunto un dato tipo di decisioni, il consiglio di amministrazione può sospendere l'esecuzione del risultato solo per motivi descritti prima della votazione, per esempio un errore individuato nel protocollo, un abuso documentato su larga scala o un guasto dell'infrastruttura, con una motivazione pubblica e una data per un nuovo esame.
+La fase agile termina gradualmente, così come gradualmente cresce il peso della votazione, e ogni passo è una prova. Prima conduciamo prove senza effetti finanziari, poi votazioni su decisioni reali riguardanti un piccolo fondo separato e azioni reversibili, e in seguito ampliamo l'ambito. Prima di ogni prova ne annunciamo l'ambito, la durata e il modo in cui il consiglio di amministrazione tratterà il risultato. Al termine pubblichiamo un resoconto: se è stato possibile dare esecuzione al risultato, come la prova ha influito sulla conduzione della fondazione e sul processo decisionale, quali errori e abusi abbiamo individuato e che cosa cambiamo. Ampliamo l'ambito soltanto sulla base di questi resoconti, perché non vogliamo assumere impegni che non sappiamo mantenere. Le tappe, la verifica dei partecipanti e la protezione della segretezza del voto sono descritte nel [whitepaper di OmniForum](whitepaper-omniforum.md). Perché il risultato della votazione vincoli la fondazione formalmente, e non solo per scelta del consiglio di amministrazione, è necessaria una modifica dello statuto (Z4 nel registro delle modifiche), perché oggi il § 8 si limita a consentire votazioni e consultazioni. Finché una prova non conferma l'unicità di ogni votante, la chiamiamo consultazione e non votazione ai sensi del § 8, comma 2, dello statuto. Quando la votazione avrà assunto un dato tipo di decisioni, il consiglio di amministrazione può sospendere l'esecuzione del risultato solo per motivi descritti prima della votazione, per esempio un errore individuato nel protocollo, un abuso documentato su larga scala o un guasto dell'infrastruttura, con una motivazione pubblica e una data per un nuovo esame.
 
 ## 3. Servizi il più possibile vicini ai costi
 
@@ -104,12 +104,12 @@ Nella rendicontazione distinguiamo cinque tipi di denaro:
 | Fondi spettanti agli utenti | Pagamenti anticipati e saldi non utilizzati dei partecipanti | No, appartengono ai partecipanti |
 | Denaro affidato per uno scopo determinato | Donazioni vincolate, per esempio per un'iniziativa concreta o per la fase pilota di Suveria | Solo per quello scopo |
 | Impegni assunti | Denaro che abbiamo già destinato a spese pianificate | No, è già destinato |
-| Copertura per il mantenimento dei servizi | Riserva senza la quale Suveria e Omniforum smetterebbero di funzionare | No, protegge la continuità dei servizi |
+| Copertura per il mantenimento dei servizi | Riserva senza la quale Suveria e OmniForum smetterebbero di funzionare | No, protegge la continuità dei servizi |
 | Fondi liberi da destinare | Ciò che resta dopo tutte le voci precedenti | Sì, sempre con priorità al Pilastro I (capitolo 8) |
 
 Ogni importo lo attribuiamo a una sola categoria, per non contare nulla due volte.
 
-Il costo di mantenimento dei servizi comprende tutto ciò senza cui Suveria e Omniforum smetterebbero di funzionare: la potenza di calcolo, l'archiviazione dei dati e le copie di backup, i domini, la gestione dei pagamenti e la contabilità obbligatoria. Per questo il saldo del conto bancario non è un budget da destinare, e la riserva non è costituita da denaro promesso ma non ancora versato, né da denaro che spetta a qualcun altro.
+Il costo di mantenimento dei servizi comprende tutto ciò senza cui Suveria e OmniForum smetterebbero di funzionare: la potenza di calcolo, l'archiviazione dei dati e le copie di backup, i domini, la gestione dei pagamenti e la contabilità obbligatoria. Per questo il saldo del conto bancario non è un budget da destinare, e la riserva non è costituita da denaro promesso ma non ancora versato, né da denaro che spetta a qualcun altro.
 
 Sono pubbliche le categorie di costo, le condizioni dei contratti più importanti, le decisioni e le loro motivazioni. Ogni spesa deve poter essere ricondotta alla decisione che l'ha determinata e al suo risultato. Al tempo stesso proteggiamo i dati personali, le credenziali di accesso e le informazioni la cui divulgazione aumenterebbe il rischio per l'infrastruttura.
 
@@ -162,13 +162,13 @@ I membri del consiglio di amministrazione non stipulano contratti a titolo onero
 
 ### 5.4. Un laboratorio proprio e un contesto preparato
 
-L'accettazione di un compito deve aprirne lo spazio nell'ambiente scelto dal partecipante. L'assistente di intelligenza digitale riceve ciò che serve per il lavoro: i valori della fondazione, lo scopo e i limiti del compito, le conclusioni attuali di Omniforum, gli argomenti rilevanti e le domande aperte, le fonti, il limite delle risorse e il modo di valutare il risultato. Il partecipante può verificare questo contesto, segnalarne le lacune e correggere il modo in cui è presentata la propria posizione.
+L'accettazione di un compito deve aprirne lo spazio nell'ambiente scelto dal partecipante. L'assistente di intelligenza digitale riceve ciò che serve per il lavoro: i valori della fondazione, lo scopo e i limiti del compito, le conclusioni attuali di OmniForum, gli argomenti rilevanti e le domande aperte, le fonti, il limite delle risorse e il modo di valutare il risultato. Il partecipante può verificare questo contesto, segnalarne le lacune e correggere il modo in cui è presentata la propria posizione.
 
 Unirsi a un compito rende accessibili solo un ambito scelto di dati e di permessi. La trasmissione del contesto, l'accesso agli strumenti e la pubblicazione della documentazione del lavoro richiedono consensi definiti separatamente, e le conversazioni private, i file e le credenziali di accesso restano fuori da questo ambito, finché la persona non decide consapevolmente altrimenti. Prima di rendere disponibile un collegamento di questo tipo, descriveremo quali dati lasciano l'ambiente privato, a chi vengono trasmessi e come vengono trattati.
 
 Dopo una pausa il laboratorio deve mostrare che cosa è cambiato e da dove si può proseguire, e il risultato e lo stato del compito devono potersi passare alla persona successiva senza rivelare la sfera privata del partecipante. In una prova verificheremo l'avvio di un compito, il ritorno dopo una settimana e il passaggio del lavoro: il tempo necessario a ritrovare il contesto, la correttezza dei riepiloghi e il rispetto dei limiti della privacy.
 
-Finché non avremo server propri, con i fondi del Pilastro I o con donazioni vincolate possiamo coprire i costi degli strumenti necessari ai volontari per creare e testare il codice aperto di Suveria e Omniforum, per esempio l'accesso ai modelli tramite API o gli strumenti di programmazione. Questo sostegno ha un limite pubblico nel budget e non è una retribuzione. Lo consente la legge sulle attività di pubblica utilità e sul volontariato (art. 45, comma 2); l'ambito di questi costi lo confermeremo con un parere legale.[^wolontariat]
+Finché non avremo server propri, con i fondi del Pilastro I o con donazioni vincolate possiamo coprire i costi degli strumenti necessari ai volontari per creare e testare il codice aperto di Suveria e OmniForum, per esempio l'accesso ai modelli tramite API o gli strumenti di programmazione. Questo sostegno ha un limite pubblico nel budget e non è una retribuzione. Lo consente la legge sulle attività di pubblica utilità e sul volontariato (art. 45, comma 2); l'ambito di questi costi lo confermeremo con un parere legale.[^wolontariat]
 
 ## 6. Il sostegno personale al di fuori della fondazione
 
@@ -202,10 +202,10 @@ Proteggiamo indirizzi, numeri dei biglietti, dati di pagamento e dati sanitari; 
 
 ### 8.1. La priorità del Pilastro I e tre condizioni
 
-Il Pilastro I comprende Suveria e Omniforum. Il Pilastro II «Hardware» sviluppa soluzioni materiali aperte, e il Pilastro III «Natura» iniziative legate al contatto con la natura. L'avvio completo di questi pilastri e il finanziamento dei loro progetti con il budget comune richiedono, tutte insieme, le seguenti condizioni (punto 6.3 del manifesto):
+Il Pilastro I comprende Suveria e OmniForum. Il Pilastro II «Hardware» sviluppa soluzioni materiali aperte, e il Pilastro III «Natura» iniziative legate al contatto con la natura. L'avvio completo di questi pilastri e il finanziamento dei loro progetti con il budget comune richiedono, tutte insieme, le seguenti condizioni (punto 6.3 del manifesto):
 
-1. Un Omniforum funzionante con una votazione che utilizza prove a conoscenza zero, che protegge la segretezza della scelta, permette di verificare che il voto sia stato conteggiato e garantisce che la stessa persona avente diritto abbia un solo voto efficace.
-2. Fondi effettivamente raccolti per almeno sei mesi di mantenimento dei servizi di Suveria e Omniforum, che restano intatti dopo l'accantonamento dell'intero budget del nuovo progetto.
+1. Un OmniForum funzionante con una votazione che utilizza prove a conoscenza zero, che protegge la segretezza della scelta, permette di verificare che il voto sia stato conteggiato e garantisce che la stessa persona avente diritto abbia un solo voto efficace.
+2. Fondi effettivamente raccolti per almeno sei mesi di mantenimento dei servizi di Suveria e OmniForum, che restano intatti dopo l'accantonamento dell'intero budget del nuovo progetto.
 3. Una decisione della comunità che approva il progetto e il suo finanziamento con una votazione aperta a tutta la comunità avente diritto, a parità di condizioni.
 
 Quando consideriamo soddisfatta una condizione:
@@ -253,7 +253,7 @@ Prima di assegnare i fondi pubblichiamo lo scopo, il budget completo, la fonte d
 
 ## 9. Il trasferimento dei poteri speciali del fondatore
 
-La fondazione è stata istituita da una sola persona, Marcin Wołowski, che oggi detiene in essa il potere maggiore. All'inizio è naturale, ma non vogliamo che resti così. L'intenzione del fondatore è arrivare a poter usare Suveria, Omniforum e gli ulteriori progetti con gli stessi diritti degli altri e ritirarsi da un ruolo pubblico stabile (punto 7.1 del manifesto). È lo stesso pensiero del capitolo 5: la responsabilità si assume per un certo tempo, e poi la si restituisce. La fondazione deve durare grazie all'utilità dei suoi strumenti, alla conoscenza accessibile a chi vi contribuisce e a principi che permettono di assumere le responsabilità, e non grazie alla presenza costante di una sola persona.
+La fondazione è stata istituita da una sola persona, Marcin Wołowski, che oggi detiene in essa il potere maggiore. All'inizio è naturale, ma non vogliamo che resti così. L'intenzione del fondatore è arrivare a poter usare Suveria, OmniForum e gli ulteriori progetti con gli stessi diritti degli altri e ritirarsi da un ruolo pubblico stabile (punto 7.1 del manifesto). È lo stesso pensiero del capitolo 5: la responsabilità si assume per un certo tempo, e poi la si restituisce. La fondazione deve durare grazie all'utilità dei suoi strumenti, alla conoscenza accessibile a chi vi contribuisce e a principi che permettono di assumere le responsabilità, e non grazie alla presenza costante di una sola persona.
 
 Oggi lo statuto conferisce al fondatore poteri speciali:
 
@@ -368,7 +368,7 @@ Il nostro codice e i nostri materiali li rendiamo disponibili a condizioni che p
 | --- | --- | --- |
 | Documenti, studi e testi del sito | CC BY 4.0 | adottata |
 | Codice del sito novusignis.org | AGPLv3 | adottata |
-| Codice dei servizi (Suveria, Omniforum) | AGPLv3 | in valutazione |
+| Codice dei servizi (Suveria, OmniForum) | AGPLv3 | in valutazione |
 | Librerie da incorporare in altri siti | da definire | |
 | Insiemi di dati e istruzioni aperte | da definire | |
 | Modelli propri sottoposti a fine-tuning | da definire | |
@@ -420,7 +420,7 @@ A regime, una controversia su una decisione la esamina una persona o un organo i
 
 ### 12.4. Come modifichiamo i documenti e le regole
 
-Il manifesto e i whitepaper sono documenti vivi. Vogliamo sottoporli a una revisione pubblica in Omniforum, scomponendone le tesi in molecole, cioè singole affermazioni e argomenti che si possono verificare. La versione attuale presenta la posizione attuale della fondazione, mentre la cronologia completa delle versioni e degli argomenti precedenti resta accessibile, perché si possano valutare le azioni passate, le promesse e i motivi delle correzioni.
+Il manifesto e i whitepaper sono documenti vivi. Vogliamo sottoporli a una revisione pubblica in OmniForum, scomponendone le tesi in molecole, cioè singole affermazioni e argomenti che si possono verificare. La versione attuale presenta la posizione attuale della fondazione, mentre la cronologia completa delle versioni e degli argomenti precedenti resta accessibile, perché si possano valutare le azioni passate, le promesse e i motivi delle correzioni.
 
 La protezione della dignità, della privacy e dei fondi affidati alla fondazione indica la direzione stabile della sua attività. Sviluppiamo le regole organizzative in modo trasparente: insieme alla proposta di modifica ne mostriamo l'ambito, la motivazione e gli effetti per i partecipanti. Modifichiamo lo statuto solo quando la modifica è necessaria per il passo successivo, e la applichiamo subito. La modifica delle condizioni di finanziamento degli ulteriori pilastri del capitolo 8 richiede la procedura appropriata e il rispetto dello statuto, della legge e degli impegni assunti in precedenza; fino all'adozione della modifica valgono le regole attuali. Valutiamo anche di scrivere queste condizioni nello statuto (proposta Z6 nel [registro delle modifiche](statut/rejestr-zmian.md)), perché non dipendano dalla sola buona volontà del consiglio di amministrazione.
 

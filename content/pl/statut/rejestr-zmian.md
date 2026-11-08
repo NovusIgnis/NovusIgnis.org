@@ -44,11 +44,11 @@ Brzmienia w tej części są projektami do decyzji zarządu i fundatora oraz do 
 ### Z1. Cele i sposoby działania (§ 5 i § 6)
 
 - **Obecnie:** pięć celów z aktu założycielskiego: prywatność, badania, otwarte oprogramowanie, modele 3D, zdrowie i natura.
-- **Kierunek:** przywrócić rozszerzenie celów z uchylonej wersji z 28.09.2026 i sprawdzić, czy obejmuje wszystko, co opisuje manifest. Chodzi zwłaszcza o wspólną przestrzeń rozmowy i decyzji (Omniforum) oraz otwarte zbiory danych do badań nad etyczną cyfrową inteligencją.
+- **Kierunek:** przywrócić rozszerzenie celów z uchylonej wersji z 28.09.2026 i sprawdzić, czy obejmuje wszystko, co opisuje manifest. Chodzi zwłaszcza o wspólną przestrzeń rozmowy i decyzji (OmniForum) oraz otwarte zbiory danych do badań nad etyczną cyfrową inteligencją.
 - **Decyzja fundatora (30.10.2026):** finansowania projektów osób i podmiotów spoza fundacji (granty, stypendia, przydział mocy obliczeniowej) na razie nie planujemy, więc zmiana Z1 nie musi tego obejmować. Możemy do tej sprawy wrócić w przyszłości.
 - **Dlaczego:** fundator chciał wpisać te cele już przy zakładaniu fundacji, ale przed pierwszym wpisem do rejestru statut nie mógł wyjść poza akt założycielski. Po wpisie zmianę celów dopuszcza § 15.
 - **Intencja:** statut ma obejmować całą drogę opisaną w manifeście, nie tylko jej pierwszy etap.
-- **Kiedy:** przed pierwszymi działaniami, które wykraczają poza obecne cele. Uważamy, że uruchomienie Suverii i pierwsze etapy Omniforum mieszczą się w obecnym statucie: w ochronie prywatności i wolności słowa w sieci, badaniach nad cyfrową inteligencją oraz tworzeniu otwartego oprogramowania (§ 5 pkt 1–3), a także w udostępnianiu infrastruktury i otwartych narzędzi chroniących prywatność (§ 6 pkt 1–2); głosowania i konsultacje o kierunku projektów dopuszcza § 8. Potwierdzimy to w opinii prawnej przed pierwszą odpłatną usługą. Dlatego tej zmiany nie wprowadzamy wcześniej (decyzja fundatora z 30.10.2026).
+- **Kiedy:** przed pierwszymi działaniami, które wykraczają poza obecne cele. Uważamy, że uruchomienie Suverii i pierwsze etapy OmniForum mieszczą się w obecnym statucie: w ochronie prywatności i wolności słowa w sieci, badaniach nad cyfrową inteligencją oraz tworzeniu otwartego oprogramowania (§ 5 pkt 1–3), a także w udostępnianiu infrastruktury i otwartych narzędzi chroniących prywatność (§ 6 pkt 1–2); głosowania i konsultacje o kierunku projektów dopuszcza § 8. Potwierdzimy to w opinii prawnej przed pierwszą odpłatną usługą. Dlatego tej zmiany nie wprowadzamy wcześniej (decyzja fundatora z 30.10.2026).
 - **Status:** zamiar fundatora (28.10.2026), brzmienie do opracowania.
 
 ### Z2. Praca, zlecenia i zwrot kosztów (§ 12)

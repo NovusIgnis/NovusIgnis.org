@@ -7,7 +7,7 @@ menu: Data Anda
 ---
 # Data Anda
 
-Halaman ini menjelaskan data pribadi Anda yang diterima yayasan ketika Anda menggunakan situs novusignis.org dan apa yang dapat Anda lakukan dengannya. Suveria dan Omniforum saat ini masih berupa rancangan; data dalam layanan tersebut dibahas dalam whitepaper masing-masing.
+Halaman ini menjelaskan data pribadi Anda yang diterima yayasan ketika Anda menggunakan situs novusignis.org dan apa yang dapat Anda lakukan dengannya. Suveria dan OmniForum saat ini masih berupa rancangan; data dalam layanan tersebut dibahas dalam whitepaper masing-masing.
 
 ## Penanggung jawab data Anda
 
@@ -32,8 +32,8 @@ Anda mengirim pesan dari kotak masuk sendiri, juga ketika tombol "Saya punya mas
 
 ## Daftar tunggu
 
-- Anda bergabung dengan mengirim pesan bersubjek "[Daftar tunggu] Suveria dan Omniforum". Inilah persetujuan Anda (Pasal 6(1)(a) RODO).
-- Alamat hanya akan kami gunakan untuk satu pesan: pemberitahuan dimulainya percobaan pertama Suveria dan Omniforum. Setelah mengirimkannya, kami menghapus alamat dari daftar.
+- Anda bergabung dengan mengirim pesan bersubjek "[Daftar tunggu] Suveria dan OmniForum". Inilah persetujuan Anda (Pasal 6(1)(a) RODO).
+- Alamat hanya akan kami gunakan untuk satu pesan: pemberitahuan dimulainya percobaan pertama Suveria dan OmniForum. Setelah mengirimkannya, kami menghapus alamat dari daftar.
 - Persetujuan dapat Anda cabut kapan saja dengan menulis kepada kami; alamat akan langsung kami hapus. Pencabutan persetujuan tidak mengubah apa yang telah kami lakukan sebelumnya berdasarkan persetujuan itu.
 
 ## Donasi

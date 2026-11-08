@@ -9,6 +9,10 @@ menu: Diario delle modifiche
 
 Sviluppiamo i documenti insieme alle conoscenze e all'esperienza, conservando la cronologia delle modifiche. Qui annotiamo che cosa è cambiato nel sito e nei documenti e quando, anche se una modifica nasce da un'osservazione di chi legge. La cronologia delle modifiche allo statuto è separata, nel [registro delle modifiche dello statuto](../statut/rejestr-zmian.md).
 
+## 8 novembre 2026: grafia del nome OmniForum
+
+- Nel manifesto, nei quattro whitepaper e in tutto il sito abbiamo cambiato la grafia del nome Omniforum in OmniForum, come nei nomi OmniActa e OmniVox. Per il resto il contenuto dei documenti non è cambiato. La formulazione precedente di ogni documento resta nella sua cronologia delle versioni.
+
 ## 3 novembre 2026: il nome del principio dell'esempio onesto nel manifesto
 
 - Nel manifesto, al punto 8.1, abbiamo aggiunto un paragrafo sul principio che chiamiamo educazione attraverso un esempio onesto (*Alignment by Honest Example*): cerchiamo di gestire la fondazione come vorremmo che l'intelligenza digitale gestisse un giorno le questioni che le fossero affidate. Il principio era già presente nelle nostre bozze precedenti del settembre 2026; nella revisione prima della pubblicazione ne sono rimaste le conseguenze (punti 1.1 e 8.1), ma abbiamo perso il nome e la motivazione. Perché: senza una motivazione è difficile capire perché teniamo registrazioni così dettagliate delle decisioni e degli errori. Versione del manifesto: 3 novembre 2026.

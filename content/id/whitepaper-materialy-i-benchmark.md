@@ -1,12 +1,12 @@
 # Materi pelatihan dan tolok ukur model: program penelitian Novus Ignis
 
-Versi 31 Oktober 2026. Dokumen ini mengembangkan bab 8 manifesto. Dokumen ini mengusulkan program penelitian, prosedur penyiapan materi, dan cakupan luas penilaian model kecerdasan digital, serta prosedur kehati-hatian terhadap kemungkinan pengalamannya. Dokumen ini tidak menyajikan hasil tolok ukur kami sendiri atau bukti bahwa kumpulan data semacam itu akan memperbaiki perilaku model; saat ini kami tidak memiliki hasil tersebut.
+Versi 8 November 2026. Dokumen ini mengembangkan bab 8 manifesto. Dokumen ini mengusulkan program penelitian, prosedur penyiapan materi, dan cakupan luas penilaian model kecerdasan digital, serta prosedur kehati-hatian terhadap kemungkinan pengalamannya. Dokumen ini tidak menyajikan hasil tolok ukur kami sendiri atau bukti bahwa kumpulan data semacam itu akan memperbaiki perilaku model; saat ini kami tidak memiliki hasil tersebut.
 
-*Terjemahan ini dibuat oleh kecerdasan digital berdasarkan naskah asli berbahasa Polandia tertanggal 31 Oktober 2026. Jika terdapat perbedaan, naskah berbahasa Polandia yang berlaku.*
+*Terjemahan ini dibuat oleh kecerdasan digital berdasarkan naskah asli berbahasa Polandia tertanggal 8 November 2026. Jika terdapat perbedaan, naskah berbahasa Polandia yang berlaku.*
 
 ## 1. Pertanyaan yang ingin kami uji
 
-Yayasan Novus Ignis dari Poznań sedang membangun Suveria, ruang pribadi untuk bekerja dengan kecerdasan digital, dan Omniforum, ruang bersama untuk percakapan dan keputusan; arahnya diuraikan dalam [manifesto](manifest.md). Dokumen ini menguraikan dua program yang saling terkait. Yang pertama adalah materi pelatihan model dan tolok ukur, yaitu kumpulan tugas dan aturan penilaian yang memungkinkan pemeriksaan perilaku model. Yang kedua adalah cara bertindak dengan hati-hati seandainya muncul petunjuk yang dapat dipercaya bahwa sistem mungkin merasakan sesuatu. Hasil tes tidak menentukan apakah model merasakan sesuatu dan tidak memberinya kewenangan untuk mengelola.
+Yayasan Novus Ignis dari Poznań sedang membangun Suveria, ruang pribadi untuk bekerja dengan kecerdasan digital, dan OmniForum, ruang bersama untuk percakapan dan keputusan; arahnya diuraikan dalam [manifesto](manifest.md). Dokumen ini menguraikan dua program yang saling terkait. Yang pertama adalah materi pelatihan model dan tolok ukur, yaitu kumpulan tugas dan aturan penilaian yang memungkinkan pemeriksaan perilaku model. Yang kedua adalah cara bertindak dengan hati-hati seandainya muncul petunjuk yang dapat dipercaya bahwa sistem mungkin merasakan sesuatu. Hasil tes tidak menentukan apakah model merasakan sesuatu dan tidak memberinya kewenangan untuk mengelola.
 
 Apakah contoh terdokumentasi tentang perlindungan martabat, penalaran yang jujur, dan koreksi keputusan dapat membantu mengembangkan model yang lebih baik dalam melayani manusia? Dan dapatkah kami menilai perilakunya sedemikian rupa sehingga perbaikan skor tes mendukung manfaat nyata di luar tes?
 
@@ -46,7 +46,7 @@ Kami ingin menilai pilihan tindakan yang tepat: menjawab, memeriksa sumber, meng
 
 ## 4. Materi yang ingin kami buat
 
-Sumber potensial adalah kajian Omniforum yang disediakan untuk penelitian atau pelatihan dengan persetujuan terpisah, catatan keputusan yayasan, penyelesaian sengketa, koreksi kesalahan, dan pengamatan akibat. Kasus ketika niat baik tidak cukup, keberatan minoritas ternyata tepat, atau penilaian tegas belum dapat diberikan juga bernilai.
+Sumber potensial adalah kajian OmniForum yang disediakan untuk penelitian atau pelatihan dengan persetujuan terpisah, catatan keputusan yayasan, penyelesaian sengketa, koreksi kesalahan, dan pengamatan akibat. Kasus ketika niat baik tidak cukup, keberatan minoritas ternyata tepat, atau penilaian tegas belum dapat diberikan juga bernilai.
 
 Materi mempertahankan situasi, informasi yang tersedia, tujuan, kewenangan, alternatif, pilihan, alasan, dan hasil berikutnya. Penjelasannya sebanyak yang diperlukan untuk memeriksa keputusan; tidak diperlukan pengungkapan pengalaman pribadi atau pernyataan yang tidak dapat diperiksa tentang alur pemikiran internal model.
 
@@ -199,7 +199,7 @@ Secara paralel, kumpulan data pelatihan kecil dapat disiapkan dan perbandingan d
 
 Pengembangan selanjutnya mencakup lebih banyak bahasa, konteks, dan penilai, replikasi eksternal, serta pengujian yang berhati-hati dengan pengguna. Tujuan rilis pertama adalah memperlihatkan bahwa prosedur dapat direproduksi dan membedakan perilaku yang diinginkan; klaim yang lebih kuat tentang kualitas model dan akibat pelatihan baru dapat dibenarkan kemudian.
 
-Program kami jalankan dengan mempertahankan prioritas Suveria dan Omniforum. Sampai cadangan pemeliharaannya terkumpul, program hanya menggunakan kerja sukarela, hibah, donasi bertujuan khusus untuk penelitian, dan daya komputasi yang tidak membebani anggaran layanan. Sekitar 58 jam dalam uji coba perintis hanya untuk penilaian; penyiapan tugas, peninjauan hak, dan penyetelan model memerlukan anggaran terpisah yang akan kami sampaikan sebelum dimulai.
+Program kami jalankan dengan mempertahankan prioritas Suveria dan OmniForum. Sampai cadangan pemeliharaannya terkumpul, program hanya menggunakan kerja sukarela, hibah, donasi bertujuan khusus untuk penelitian, dan daya komputasi yang tidak membebani anggaran layanan. Sekitar 58 jam dalam uji coba perintis hanya untuk penilaian; penyiapan tugas, peninjauan hak, dan penyetelan model memerlukan anggaran terpisah yang akan kami sampaikan sebelum dimulai.
 
 ## 14. Kehati-hatian terhadap kemungkinan pengalaman model
 
@@ -225,7 +225,7 @@ Prosedur kami periksa pada kasus yang diuraikan, dengan membandingkan penilaian 
 
 Kemajuan akan berupa materi yang diketahui asal-usulnya, kriteria yang mendeteksi kesalahan yang sebelumnya terlewat, diagnosis yang selaras antarpenilai, atau perbaikan perilaku yang terbawa ke tugas baru. Hasil negatif juga bernilai: dapat memperlihatkan bahwa data hanya mengajarkan gaya, bahwa kriteria memberi imbalan untuk menghindari tindakan, atau bahwa kebaikan sebagian pihak diperoleh dengan mengorbankan pihak lain.
 
-Program menghubungkan [Omniforum](whitepaper-omniforum.md), tempat kajian dapat dibuat, [Suveria](whitepaper-suveria.md), tempat bantuan dalam pekerjaan pribadi dapat diteliti, dan [prinsip yayasan](whitepaper-zasady-fundacji.md), yang menentukan tanggung jawab dan batas pendelegasian. Partisipasi dalam penelitian memerlukan persetujuan terpisah yang berdasarkan pemahaman; penggunaan layanan tidak berarti persetujuan tersebut.
+Program menghubungkan [OmniForum](whitepaper-omniforum.md), tempat kajian dapat dibuat, [Suveria](whitepaper-suveria.md), tempat bantuan dalam pekerjaan pribadi dapat diteliti, dan [prinsip yayasan](whitepaper-zasady-fundacji.md), yang menentukan tanggung jawab dan batas pendelegasian. Partisipasi dalam penelitian memerlukan persetujuan terpisah yang berdasarkan pemahaman; penggunaan layanan tidak berarti persetujuan tersebut.
 
 Hasil tes tidak menetapkan otoritas moral model atau mandat untuk mengelola manusia, sedangkan pengakuan atas kemungkinan martabat sistem tidak memberinya kekuasaan atas sumber daya bersama. Tes dimaksudkan memberikan informasi yang berguna dan dapat diperiksa tentang apa yang dapat diharapkan dari alat dalam kondisi tertentu dan apa yang memerlukan pekerjaan lebih lanjut.
 

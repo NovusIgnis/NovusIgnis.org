@@ -1,0 +1,685 @@
+{
+ "source": "content/pl/wersje/whitepaper-omniforum/2026-10-31.md",
+ "paragraphs": [
+  {
+   "h": "b49f25d5a3d263a54fdccb7ba6497c821bf9fb42",
+   "t": "# Omniforum: wspólne rozumienie, rozmowa i decyzje"
+  },
+  {
+   "h": "75d25d0526ee542cdfab6e9fe2fba05412213a8f",
+   "t": "Wersja z 31 października 2026 r. Dokument rozwija zasady manifestu dotyczące Omn"
+  },
+  {
+   "h": "fe2c875a12200e9237502ec279d540a3097bc55a",
+   "t": "## 1. Czym jest Omniforum i po co powstaje"
+  },
+  {
+   "h": "9d9da079f6ef3f1e7a82435834ed411384480982",
+   "t": "Omniforum ma być wspólną przestrzenią rozmowy, w której każdy może wypowiedzieć "
+  },
+  {
+   "h": "a2948658f2dcafca4f837c54c7a06a72ebac1a26",
+   "t": "Omniforum powstaje, bo w strumieniu szybkich komentarzy łatwo gubią się dobre ar"
+  },
+  {
+   "h": "27c4b4ab348b6cda6be0fdd44b2eed803e8383a0",
+   "t": "W Omniforum chcemy, żeby można było:"
+  },
+  {
+   "h": "af22092db8830732f3eb2d9921f5b1371e2b3b4b",
+   "t": "- uporządkować własną myśl i przed publikacją sprawdzić, czy interpretacja zapro"
+  },
+  {
+   "h": "62cc3fc395a0d589318af2c412023e96708557e4",
+   "t": "Nie chodzi o wyłonienie zwycięzcy sporu. Argument, który podważa nasze stanowisk"
+  },
+  {
+   "h": "3ff82805333266fe4bb26f04945fb01ce1a606a1",
+   "t": "Rozkład wypowiedzi na pojedyncze myśli nie ma zamienić rozmowy w suchy wykres. W"
+  },
+  {
+   "h": "764ac7e0f1163e0fb7c746a7913e970f5ff13a56",
+   "t": "Rozmowa ma zostawiać miejsce na zmianę zdania bez upokorzenia: można przyznać si"
+  },
+  {
+   "h": "9e001360269c5268b8ef4ccbd917a66d75ab22f1",
+   "t": "Omniforum uzupełnia Suverię, prywatną przestrzeń do pracy z cyfrową inteligencją"
+  },
+  {
+   "h": "3bacd6c8be4f518dfcec9dace68af0e59c762c7b",
+   "t": "- jak rozkładamy wypowiedź na myśli i zachowujemy ich źródło (rozdziały 2 i 3); "
+  },
+  {
+   "h": "c57081e7266f51540efcc5946a264484ae8ab71e",
+   "t": "### 1.1. Codzienne zainteresowania i spokojny powrót do tematu"
+  },
+  {
+   "h": "9b72b6fda0a04bf1a6870e2770bd345b472422d2",
+   "t": "Omniforum ma pomagać nie tylko w sprawach publicznych, ale też w praktycznej wie"
+  },
+  {
+   "h": "97bcede3cf6f4cfe4d3911a8a391cd1cc3e4e84c",
+   "t": "Rozwiązania można porównywać według własnych kryteriów. Jednemu zależy na tym, ż"
+  },
+  {
+   "h": "f738044ad3680dd95c41c36af6a63e67222f243f",
+   "t": "Gdy ktoś wraca do tematu po tygodniu albo po roku, ma zobaczyć tylko to, co się "
+  },
+  {
+   "h": "b3a8ba4389380186a3192222fcf60196848e5c83",
+   "t": "### 1.2. Co jest bezpłatne"
+  },
+  {
+   "h": "8c435879bacc2c6aa06d9f31a33868d32bb26f5f",
+   "t": "Czytanie Omniforum, publikowanie wypowiedzi, ręczny podział na myśli i atomy, do"
+  },
+  {
+   "h": "e04f2e889a0543f252ba5ee9d7c41ae6f62c862c",
+   "t": "### 1.3. Słowniczek"
+  },
+  {
+   "h": "47fcba17f22b7e8f3cf089c781c703e7d01e9d27",
+   "t": "Najważniejsze nazwy używane w tym dokumencie, objaśnione szerzej we wskazanych r"
+  },
+  {
+   "h": "37647c5d3ba30a0980a1984336f8c35f8f27ac99",
+   "t": "- **Atom:** najmniejsza cegiełka znaczenia, pojedyncze pojęcie albo jedna konkre"
+  },
+  {
+   "h": "0f40327709446ef90b944bee022306ff738a564e",
+   "t": "## 2. Atomy, molekuły i ich pochodzenie"
+  },
+  {
+   "h": "ba4c816b79180068ee56f0427b63a376599dc822",
+   "t": "Wypowiedź rozkładamy na dwa poziomy. Atom to najmniejsza cegiełka znaczenia: poj"
+  },
+  {
+   "h": "438ed0d63fdd124025eeb1b98b54aa5143b14434",
+   "t": "Atom to znaczenie, a nie słowo. Ma stały identyfikator i definicję, a słowa, któ"
+  },
+  {
+   "h": "3812479bf557b6527128d320875e4bbd77616ecb",
+   "t": "Powiązanie określenia z atomem jest propozycją, którą potwierdza autor, tak jak "
+  },
+  {
+   "h": "7f3fae1e9cbdf3e4686d76a04f8eb168775b80b0",
+   "t": "Także definicja atomu jest zapisana w Omniforum: składa się z innych atomów i re"
+  },
+  {
+   "h": "c0c5a67b18034e8cc9035354b07af75b2148f283",
+   "t": "Każdy rozkład, przypisanie i powiązanie da się zrobić ręcznie, bez udziału model"
+  },
+  {
+   "h": "f94adcd4f1bbe903332a0c4a3c89d7aad5391251",
+   "t": "Przy każdej molekule i każdym użyciu atomu zapisujemy, skąd pochodzą: z jakiego "
+  },
+  {
+   "h": "0b46e35068d4edbab073c74ab2bc367aafe9be55",
+   "t": "Rozróżniamy trzy warstwy:"
+  },
+  {
+   "h": "b7e1ccee7d8bd39a1f5b8e1a2c6d60547be45b03",
+   "t": "- **Wypowiedź źródłowa:** to, co rzeczywiście opublikowano lub przekazano do ana"
+  },
+  {
+   "h": "dc06aa4f78d36eb4625d113c835c9508059d3a21",
+   "t": "Potwierdzenie mówi tylko tyle, że autor rozpoznaje w rozkładzie swoją myśl. Nie "
+  },
+  {
+   "h": "e97116d4bec80ccf7611af6e1c843993c0eb083e",
+   "t": "Czytelnik może rozłożyć cudzą wypowiedź po swojemu, nie czekając na autora. Taki"
+  },
+  {
+   "h": "e9d9f81e5fec6f5c1ce8a7fe0e0625954da078db",
+   "t": "Punktem odniesienia dla przenośności są standardy otwartych adnotacji, takie jak"
+  },
+  {
+   "h": "84ebe55b0d652e0a927b9043c1d2e050226e0016",
+   "t": "## 3. Od naturalnej wypowiedzi do wspólnego opracowania"
+  },
+  {
+   "h": "b39e67587144eac4e28269a6c582a28f58f47c99",
+   "t": "Myśl przechodzi w Omniforum przez kolejne etapy. Pierwszy to etap Ignis, czyli p"
+  },
+  {
+   "h": "a4256bfcd560c11b5e43d0fead5139a374325d4b",
+   "t": "Rozmawiamy naturalnie. Przebieg warsztatu Ignis zaczyna się od zwykłego tekstu a"
+  },
+  {
+   "h": "0416815df9e7304f59666c60cabc0edf54b6bb3f",
+   "t": "Cyfrowa inteligencja proponuje rozkład i przy każdej molekule pokazuje, z któreg"
+  },
+  {
+   "h": "9619373a3fe9c23f6ddb6d5194d1f0998399ce18",
+   "t": "Model, który proponuje rozkład, ma własne nawyki: wygładza nietypowe sformułowan"
+  },
+  {
+   "h": "a97d4fb1129df03e9f9c5614c1fe3dbbf3c35e7f",
+   "t": "Przykład: wypowiedź „Warto posadzić drzewa na naszej ulicy, jeśli wybierzemy gat"
+  },
+  {
+   "h": "5bf12ef08dc061e1ff166f93fa40a2fa9d435291",
+   "t": "Nie rozkładamy wszystkiego od razu. Rozkład uruchamiamy wtedy, gdy pomaga w konk"
+  },
+  {
+   "h": "068af317a142016ff4d98bd7d726e446fdcd44e3",
+   "t": "Rozważamy też drugą, dobrowolną ceremonię: chwilę, w której nazywamy granicę teg"
+  },
+  {
+   "h": "e5eb3f5c9f46206723d0ef27b87be9f74d9f0fc4",
+   "t": "## 4. Pomoc w zrozumieniu tam, gdzie ludzie już rozmawiają"
+  },
+  {
+   "h": "193f49e80f2df0565ee3297cc021f5aeaff8973b",
+   "t": "Gdy oglądamy film albo czytamy artykuł, jesteśmy dziś przede wszystkim odbiorcam"
+  },
+  {
+   "h": "2e9cddd615ae43a2c5fcfe856d7526f3c4c0f3be",
+   "t": "Omniforum ma być miejscem, w którym rozproszone rozmowy łączą się w całość: myśl"
+  },
+  {
+   "h": "d62e930da81d121d35eca5df5ad2945e0eeef690",
+   "t": "Taka pomoc działa w dwie strony. Z rozmowy do Omniforum: autor może rozłożyć wła"
+  },
+  {
+   "h": "977f38d9997d83ebbe7da914d3e93770b5ff45f7",
+   "t": "Planujemy dwie drogi. Administrator serwisu może wbudować dodatek, na przykład p"
+  },
+  {
+   "h": "d25d0a936fa5cb598e9c958004066b7e9c8201d9",
+   "t": "Proponowane działanie dodatku:"
+  },
+  {
+   "h": "f9ea4f843cf15af37b2386e2f7d85a7c799ae925",
+   "t": "1. Użytkownik wybiera tekst i widzi, jaki zakres zostanie odczytany, przez jaki "
+  },
+  {
+   "h": "37eccfcb976daf3f558ac90b34877cbebaf45175",
+   "t": "Wbudowanie dodatku przez administratora serwisu nie zastępuje decyzji użytkownik"
+  },
+  {
+   "h": "21d0e548c0d00d96c4d2f278034d9da80f3fac30",
+   "t": "Omniforum ma być projektem społecznościowym: jego dorobek powstaje z tego, co lu"
+  },
+  {
+   "h": "ec367d5a0c220246820fbc135cb369a855383a33",
+   "t": "## 5. Sprawy, ich mapy i opowieść o idei"
+  },
+  {
+   "h": "2c6cfaeca466e4aa5efcd7d91b6e08091c61e549",
+   "t": "Z molekuł powstają większe całości. Molekuły łączą się relacjami: uzasadnieniem,"
+  },
+  {
+   "h": "30fdc262b9b79622a7c2462b54967f0e7c5aa1be",
+   "t": "Mapa pozwala szybko zobaczyć, o co toczy się rozmowa, i w każdej chwili dojść do"
+  },
+  {
+   "h": "8c1cae30701fb75acc13328932bd357d696c10dd",
+   "t": "Mapa sprawy otwiera się spokojnie: najpierw jeden główny wniosek z krótkim opise"
+  },
+  {
+   "h": "e70ee4a65d2c53dfa773ad2e51871c714e39b1ad",
+   "t": "Przy wniosku pokazujemy osobno, jak mocne i niezależne są dowody, jak dobrze uza"
+  },
+  {
+   "h": "50c2d638685287a79e6207fdd37c3fd9d5d7c17e",
+   "t": "Manifest (punkt 5.1) dzieli wspólny namysł na fakty, wartości i hipotezy. W Omni"
+  },
+  {
+   "h": "b2b258b3a37ce5451145e05c7ec6dc9cb11330d0",
+   "t": "Z mapy może powstać opowieść o idei: przystępny przewodnik, który prowadzi czyte"
+  },
+  {
+   "h": "ddb986094d94e8cb14390fceacd2b15244d0aabf",
+   "t": "Każda zmiana zostaje w historii. Łączenie, dzielenie i wycofywanie molekuł oraz "
+  },
+  {
+   "h": "1fbecff4aca5d1f2e743e8f63c9444b5ef9d8cca",
+   "t": "Gdy kilka publikacji powtarza tę samą pierwotną wiadomość, oznaczamy to, a gdy p"
+  },
+  {
+   "h": "e68d9e0e448ddde2b94b91d14dd322859fad025e",
+   "t": "### 5.1. Sprawa jako punkt powrotu do pytania"
+  },
+  {
+   "h": "285e0004e01b2ff89e328e2cc32e7140af0b9640",
+   "t": "Sprawa to pytanie albo kwestia, do której ktoś chce wracać, bo chce coś zrozumie"
+  },
+  {
+   "h": "2e8ea902e078c8c08660219fb0e8dde84772519e",
+   "t": "Stały odnośnik do sprawy prowadzi do wszystkiego, co jej dotyczy: pytania, konte"
+  },
+  {
+   "h": "71d24f2a14e6874721831668f5adf791012ec7b0",
+   "t": "Zapisanie pytania nie jest jeszcze decyzją o działaniu. Gdy ktoś podejmuje się z"
+  },
+  {
+   "h": "1e01fef8f4a65612640577bb76707085718143b8",
+   "t": "### 5.2. Karta idei: od obrazu przyszłości do pierwszej próby"
+  },
+  {
+   "h": "dcc843970cc8f9c42deb9857fc78d4a5a33ab1aa",
+   "t": "Śmiałe wizje łatwo zbyć jako oderwane od rzeczywistości, a ostrożne plany jako p"
+  },
+  {
+   "h": "eac7b27c1b6cd6b3fbd3dd49f2ca0db0080312f1",
+   "t": "1. **Co to jest?** Definicja, granice pojęcia i sposób rozpoznania oczekiwanego "
+  },
+  {
+   "h": "9c47b576d61c095c29a2c78224d3a5763abf0a29",
+   "t": "Karta nie jest jedną molekułą, tylko widokiem wielu powiązanych pojęć, twierdzeń"
+  },
+  {
+   "h": "9f966dfc43c00a59d77a5e77fed11ceb72b99d26",
+   "t": "### 5.3. Od sprawy do inicjatywy"
+  },
+  {
+   "h": "d523ef9e285815212b8fbcf91eb89a1c7341defb",
+   "t": "Gdy rozmowa w sprawie doprowadzi do wspólnego ustalenia, co warto zrobić, można "
+  },
+  {
+   "h": "d030dd7fdab6c5c685553a652bd018894d975099",
+   "t": "Inicjatywa przechodzi przez osobne decyzje: najpierw rozmowę o celu i możliwych "
+  },
+  {
+   "h": "5f234961b6d8daca321f8e71e34c32ba5d6d6acb",
+   "t": "Inicjatywę można sfinansować na dwa sposoby. Może ją opłacić fundacja ze wspólne"
+  },
+  {
+   "h": "1f1e39dadd57e84dd33a164b4f8d68a1b9417a04",
+   "t": "Inicjatywa przyjęta do realizacji ma odpowiedzialnych wykonawców, budżet, termin"
+  },
+  {
+   "h": "6f08247b764be5d59ef653e2d37b738a16e0601f",
+   "t": "### 5.4. Powracające pytania i wspólne stanowisko"
+  },
+  {
+   "h": "c2a9977f0799dd2d2d4d13a6f7a0d2a13452a008",
+   "t": "Osoby, zespoły i instytucje często dostają te same pytania i zarzuty w wielu mie"
+  },
+  {
+   "h": "9ab894e807546fdf493516f3dda2ce96ef22f224",
+   "t": "Dodatek opisany w rozdziale 4 może zaproponować powiązanie komentarza z taką odp"
+  },
+  {
+   "h": "94572a3f095ab77d83b36bc95c63e31025ba1a2d",
+   "t": "Pulpit przedstawia tylko stanowisko potwierdzone przez autora: odpowiedź przygot"
+  },
+  {
+   "h": "84927946b82aca62146e34a8bb27b827efc76d93",
+   "t": "### 5.5. Żywe dokumenty i publiczny przegląd"
+  },
+  {
+   "h": "6b149f634f5ce3181703c251764756bf11a445a3",
+   "t": "Z tych samych narzędzi chcemy korzystać przy własnych dokumentach fundacji, taki"
+  },
+  {
+   "h": "960abe9f009ebb6e39ee47c270cd089a10492e17",
+   "t": "Aktualna wersja dokumentu przedstawia obecne stanowisko autorów. Historia zachow"
+  },
+  {
+   "h": "eeb3528106d29a84fb0fe929a5236436e2df93b1",
+   "t": "Zaczynamy od własnej strony. Na stronie novusignis.org przy manifeście i whitepa"
+  },
+  {
+   "h": "11ad1f680df05d8aeeb07ccfbda613a8593e9d93",
+   "t": "### 5.6. Osobisty Kanon w rozmowie o wartościach"
+  },
+  {
+   "h": "d72df6b340cd954a0b1ff94f280d11042f0613d8",
+   "t": "Osobisty Kanon to zbiór zasad, które człowiek uznaje za swoje. Powstaje w prywat"
+  },
+  {
+   "h": "d4db997e5bcaffb9cfd52c48bbf44336068111e1",
+   "t": "Kanony mogą być większe albo mniejsze, zawierać się w sobie i częściowo pokrywać"
+  },
+  {
+   "h": "b0214c7538718ba492db0c26f94e14fffff6cece",
+   "t": "Kanon nie służy do oceniania ludzi. Może natomiast mieć opisowy poziom opracowan"
+  },
+  {
+   "h": "5f0a92310575516a525735d92c8344ab3dc4e819",
+   "t": "## 6. Nowe medium objaśniania i rozmowy"
+  },
+  {
+   "h": "1e3de54b84285ee6ad70932e6b459bffdd2076ac",
+   "t": "Tak jak YouTube dał początek youtuberom, a podcasty podcasterom, Omniforum może "
+  },
+  {
+   "h": "852e8cfa3ae8668a9aa0f84c1800ec1ea3916d7a",
+   "t": "To medium jest z natury rozmową. Odpowiedź nie trafia na koniec długiej listy ko"
+  },
+  {
+   "h": "f7266c7d4ca5cdf0f0e6d65b48a4387c154843b9",
+   "t": "Takie objaśnienia mogą mieć różne formy. Kanał redakcyjny może przygotować ścież"
+  },
+  {
+   "h": "a56da7c1f1de442564c2b94b678e8da3e22fe73b",
+   "t": "Dobre objaśnienie odróżnia to, co jest napisane w dokumencie, od jego interpreta"
+  },
+  {
+   "h": "a60464a41dabb54effc7228031af8c61cabe96d0",
+   "t": "To medium ma kilka prostych zasad: źródła są zawsze widoczne, korekta jest łatwa"
+  },
+  {
+   "h": "394069cbbfe2d304b5da1d022ed85d5ad7a268e4",
+   "t": "Zasięg twórcy i wsparcie, które dostaje od widzów, nie dowodzą, że ma rację. Por"
+  },
+  {
+   "h": "4cb34f68473c0822b89345d9962e5607e134fd70",
+   "t": "Na pierwszym planie pokazujemy treść i źródło z jego datą. Nie prowadzimy public"
+  },
+  {
+   "h": "9a0f69e452bc7f9ee144df1514345c30064bca24",
+   "t": "## 7. Prywatność, cytaty i korekty"
+  },
+  {
+   "h": "d07dd791b1d320f5b5e3727a9afb8dae2a1f2aaa",
+   "t": "Każda myśl może być w jednym z trzech miejsc: w prywatnej przestrzeni Suverii, w"
+  },
+  {
+   "h": "0b1aa8e796cddbbfd6053ab32bcec452e01be9b2",
+   "t": "Do czytania konto nie jest potrzebne, a głos w rozmowie można zabrać także bez k"
+  },
+  {
+   "h": "9c2ade8397d49e407d0c4597d5014b0f7d577104",
+   "t": "Oryginalne wypowiedzi, cytaty, komentarze i opracowania przygotowane przez model"
+  },
+  {
+   "h": "a0c42925c0d0da91c3131b3aba06afbfa73ab6fc",
+   "t": "Ludzie mają prawo do prywatności także wtedy, gdy ktoś inny ich cytuje. Jeśli kt"
+  },
+  {
+   "h": "4a216ffea6cd9e1445ada271bac3669b81af5508",
+   "t": "Inaczej jest z wypowiedziami, które mają publiczne źródło, na przykład z artykuł"
+  },
+  {
+   "h": "2f0102219bc79c118d85d3384dbc3f57a07eb368",
+   "t": "Model może jawnie ocenić sprawę inaczej niż wspólne stanowisko. Pokazuje wtedy p"
+  },
+  {
+   "h": "db2e4432820ab72355481e4daeffab406413d630",
+   "t": "Gdy ktoś wycofa swój materiał, usuwamy go albo ograniczamy do niego dostęp w sys"
+  },
+  {
+   "h": "5b25e3b2d2f21319e95173849b1020174f0d9524",
+   "t": "### 7.1. Prywatny notatnik w Suverii i świadoma publikacja"
+  },
+  {
+   "h": "e9a853fd835d3fbcb4bc6a67d1020d406756ec5d",
+   "t": "Prywatne materiały przechowujemy według zasad z [whitepapera Suverii](whitepaper"
+  },
+  {
+   "h": "d4fa02edf5772229873154a8c5885beb192b45b6",
+   "t": "### 7.2. Przenoszenie dorobku i OmniAPI"
+  },
+  {
+   "h": "4814f421d71c9358e827475d052d6f6696d5fd5b",
+   "t": "Omniforum chcemy rozwijać jako cyfrowe dobro publiczne: z otwartym kodem, dokume"
+  },
+  {
+   "h": "b729ce0c03d93507b051e3a3b5ac6b349a7a0be0",
+   "t": "Każdy może zabrać swój dorobek do innego narzędzia. Pakiet przenoszenia zawiera "
+  },
+  {
+   "h": "e6200dfa54ca4b5f06a0153ed93754035cbb1022",
+   "t": "### 7.3. Źródła i załączniki w publicznej rozmowie"
+  },
+  {
+   "h": "7dd286ccd238c1a4e96a7d1b3474df68482a69ed",
+   "t": "Duże nagrania nie muszą być przechowywane w Omniforum. Mapę sprawy i opisy źróde"
+  },
+  {
+   "h": "568181fc10b358f179d7c337689d912e6f8bf468",
+   "t": "Materiały, które wolno nam przechowywać, możemy zachować w potrzebnym fragmencie"
+  },
+  {
+   "h": "7e6bd2090cc1408cce744b44790c5e7e5fb10e01",
+   "t": "Formaty, limity i okresy przechowywania dobierzemy tak, żeby były użyteczne, dos"
+  },
+  {
+   "h": "b5a4791691284a7f61e527cfab3216546ea6db38",
+   "t": "### 7.4. Nadużycia i treści bezprawne"
+  },
+  {
+   "h": "eec62e70797c69ab98ae70eb6e47df3bf65b16a4",
+   "t": "Rozmowa otwarta dla każdego potrzebuje jawnych zasad. W pierwszym okresie Omnifo"
+  },
+  {
+   "h": "f1a1214faac952bccf5e852a562f57494e58ac9e",
+   "t": "Każdy będzie mógł zgłosić treść bezprawną. Każde ograniczenie, na przykład ukryc"
+  },
+  {
+   "h": "c0414eae41e47aa6954ccaefc647392ab3ccb54c",
+   "t": "Przed publicznym uruchomieniem usług sprawdzimy i wykonamy obowiązki operatora: "
+  },
+  {
+   "h": "c8e8896b7535ee9a5ae149b07b983f9e7f35e459",
+   "t": "## 8. Wspólne decyzje i głosowania"
+  },
+  {
+   "h": "eac2a58a0628caf696287d501099976f5258ac99",
+   "t": "Ten rozdział jest o tym, jak wspólnie podejmować decyzje i jak zbudować głosowan"
+  },
+  {
+   "h": "44b5c9f739d42b4b265561f17ac6e33b45e27a3a",
+   "t": "Część rzeczy jest w naszym zasięgu już na początku: otwarta rozmowa dla każdego,"
+  },
+  {
+   "h": "3be7668d987924a5eb65ace25cb305ed51bd805f",
+   "t": "Przechodzimy przez te sprawy po kolei:"
+  },
+  {
+   "h": "d0ec706e32032b017ad9152b975e45519cb488c9",
+   "t": "- kto może rozmawiać, a kto głosować (8.1); - co dają dowody z wiedzą zerową, a "
+  },
+  {
+   "h": "23d534061831f027922012bb297ba6134eb0e381",
+   "t": "Niezależnie od tego, jak rozwiążemy te dylematy, kilka zasad obowiązuje zawsze. "
+  },
+  {
+   "h": "b8e34dc5c2baeea489b51d38e504bac0f2f9f825",
+   "t": "Pytanie do głosowania wyrasta z inicjatywy (5.3): proponuje je wnioskodawca, a b"
+  },
+  {
+   "h": "16a676f6d3eb2e71f690a2a2cb9dfb497ffa37c9",
+   "t": "### 8.1. Rozmowa dla każdego, głos wiążący po przystąpieniu"
+  },
+  {
+   "h": "e686a496013b7890b7a05b959c9ffbec491d2ccb",
+   "t": "W Omniforum każdy może zabierać głos, wnosić argumenty i opisywać, jak decyzja w"
+  },
+  {
+   "h": "f78f2a65e36a382a3dfecc4fa600e9d7a0b005ef",
+   "t": "Czytać może każdy, bez konta. Głos w rozmowie można zabrać na trzy sposoby. Z ko"
+  },
+  {
+   "h": "39da759ff49522b5618f9b397ceb976415144f85",
+   "t": "Konto można założyć na kilka sposobów, od całkowicie prywatnego (klucz na własny"
+  },
+  {
+   "h": "d771ccad5766078f8e03425b0f1a43d53edb9d99",
+   "t": "Dążymy do tego, żeby każda osoba miała jeden skuteczny głos, a jej wybór pozosta"
+  },
+  {
+   "h": "34115207a7ed0579090e6d77be5d6747854d6a77",
+   "t": "### 8.2. Co dają dowody z wiedzą zerową"
+  },
+  {
+   "h": "16ddb205d048a32cf1928947fd2ef56619e48660",
+   "t": "Dowody z wiedzą zerową pozwalają wykazać, że ktoś należy do grupy uprawnionych, "
+  },
+  {
+   "h": "0c593e9e19103f5420362d261977d9802d80e3a3",
+   "t": "### 8.3. Drogi do głosu wiążącego"
+  },
+  {
+   "h": "51488d2398c770396bbe7762ca47a1f553b72f11",
+   "t": "Projektujemy kilka dróg do prawa głosu i żadna nie wymaga biometrii. Pierwsza ko"
+  },
+  {
+   "h": "fd3a3a40e4253b7c028534f340e5446b09ed48f6",
+   "t": "Pierwszą oficjalną drogą do prawa głosu ma być europejski portfel tożsamości cyf"
+  },
+  {
+   "h": "64963e0da92b9e036c4fa13cb096907e762ddbd3",
+   "t": "Tam, gdzie się da, jednorazowy znacznik uprawnienia wyprowadzamy ze stałego iden"
+  },
+  {
+   "h": "8e8fd8993d47c276da4fa03d1f48557e3034e836",
+   "t": "Druga droga to spotkania na żywo, które odbywają się w wielu miejscach jednocześ"
+  },
+  {
+   "h": "60373296e7b3b358e88933fc53832dca71fcd43e",
+   "t": "Łączenie dróg pozostawia ryzyko, że ta sama osoba zdobędzie dodatkowe uprawnieni"
+  },
+  {
+   "h": "9460ca921ebfb8cb4c6049ef91b17226bfc86854",
+   "t": "Same poręczenia, zaproszenia i testy przez internet nie dają prawa do głosu wiąż"
+  },
+  {
+   "h": "5cf5a563e2dec308e9ce12c00c0c3ca47774b094",
+   "t": "Wszystko, czego potrzeba do głosowania, jest bezpłatne. Do przechowania poświadc"
+  },
+  {
+   "h": "52d7667167ea2a2d06618fa5f0bb58c7817df317",
+   "t": "### 8.4. Kto rozstrzyga w trudnych sprawach"
+  },
+  {
+   "h": "311b2fceb890ad9a29c043d3541d15e1962dbf9d",
+   "t": "W trudnych sprawach proponujemy trzy kroki. Najpierw otwarta mapa sprawy w Omnif"
+  },
+  {
+   "h": "994b4e150afa16992f49648a8cada81f5a26e4cc",
+   "t": "Losowej próby możemy też użyć do sondaży doradczych. Ochotnicy, którzy zgłaszają"
+  },
+  {
+   "h": "84c9c6b611f09c861209312b0bbc3e151c7fb724",
+   "t": "### 8.5. Od kiedy głosowanie wiąże"
+  },
+  {
+   "h": "3c2df986c62d221f820824534a5873610cb01516",
+   "t": "Głosowanie będzie zyskiwać moc wiążącą stopniowo. Zaczniemy od prób bez skutków "
+  },
+  {
+   "h": "5ca3c12a9adb466e1429dbb48300c51127b04d74",
+   "t": "Zanim kolejny etap zacznie wiązać, ogłaszamy uczestnikom zakres decyzji, limity,"
+  },
+  {
+   "h": "83d46d4e73a7baef972b46af65e0d67c63d6582d",
+   "t": "Pełne uruchomienie dalszych filarów (II: otwarte projekty trwałych przedmiotów, "
+  },
+  {
+   "h": "2bfef63ab3af7cf4b078d9dd3da4594a3b687a4e",
+   "t": "### 8.6. Przymus i kupowanie głosów"
+  },
+  {
+   "h": "7f26c45ecf835b35cdfd3847302ec06f48b8f874",
+   "t": "Chcemy, żeby każdy mógł zmienić swój wybór aż do końca głosowania, a liczył się "
+  },
+  {
+   "h": "e9f4e88609470e64cf1b14bac2af8d80e06bd9ac",
+   "t": "### 8.7. Wstrzymanie wyniku i sprawdzian godności"
+  },
+  {
+   "h": "d7be449de5ca1c7242b815d8386b0ad20f8d7b66",
+   "t": "Zarząd może wstrzymać wykonanie wyniku tylko z powodów ogłoszonych przed głosowa"
+  },
+  {
+   "h": "074e2389d6f93b607f71d6cff36fbe813aaa076f",
+   "t": "Najtrudniejszym sprawdzianem całego systemu jest to, jak traktuje człowieka, któ"
+  },
+  {
+   "h": "1eb2d83af8f1946d019eaf288b58b40f0a42ba3e",
+   "t": "W dzienniku decyzji zapisujemy rozważane warianty, powody wyboru, zdania odrębne"
+  },
+  {
+   "h": "4b4c4a425812b0d39002bba635fa8d1c96be45ad",
+   "t": "## 9. Jak sprawdzimy, czy Omniforum pomaga"
+  },
+  {
+   "h": "3b8970316324b13b85d03e185d04b29032fbdabf",
+   "t": "Wszystko, co opisaliśmy wyżej, jest projektem. Zanim zbudujemy całość, chcemy na"
+  },
+  {
+   "h": "b0e3f4dacf617e377236d49fbdd3302b0e47f8bb",
+   "t": "Pierwszy krok to jedna pełna droga jednej myśli. Ktoś wpisuje własny tekst, cyfr"
+  },
+  {
+   "h": "d163c8ef3a3ef3d346f797e1a7b456f28098203b",
+   "t": "Kolejne kroki to prosty dodatek do jednej platformy, na której ludzie już rozmaw"
+  },
+  {
+   "h": "baf966074b5f68019530c4b23f6666343c4fe7f5",
+   "t": "Pierwsze publiczne mapy spraw chcemy otworzyć na dwóch rodzajach tematów. Pierws"
+  },
+  {
+   "h": "f5fbb4584d78769b9a16bb0ee64db12541296611",
+   "t": "Analizujemy też pomysł podobny do programu SETI@home, w którym ludzie na całym ś"
+  },
+  {
+   "h": "a04c17790f85a5849561b71462ed33e72118263a",
+   "t": "Przy każdym kroku sprawdzamy, czy to pomaga: ile czasu zajmuje dojście do użytec"
+  },
+  {
+   "h": "8fba660fa6ba223a250172dfbf04f224dfaf42e2",
+   "t": "Osobno sprawdzamy, czy uczestnicy lepiej rozpoznają fakty i niewiadome, czy łatw"
+  },
+  {
+   "h": "a84f0dc7b166f0861a448b2df2500e8c3c5b818d",
+   "t": "Dodatek do innych serwisów przyjmiemy dopiero wtedy, gdy spełni kilka warunków: "
+  },
+  {
+   "h": "4ab1b27b980afda04dbff9b81bd5e30869210f75",
+   "t": "Sprawdzimy też, czy dorobek naprawdę da się zabrać ze sobą. W tej próbie otwiera"
+  },
+  {
+   "h": "49bf5a180252b5b678ce7c2aa99c0859e595ef52",
+   "t": "W próbie obserwowanych tematów, opisanych w punkcie 1.1, sprawdzimy, czy po powr"
+  },
+  {
+   "h": "b7fa0ca28d38eef05383a68a62560f641624bcba",
+   "t": "**Dziennik wyników.** Stan na 30 października 2026 r.: prototyp Omniforum jest w"
+  },
+  {
+   "h": "fdb93e16a42e6bf7e8e1579976190c49cdfd35b7",
+   "t": "Przy dobrej rozmowie mogą też powstawać materiały przydatne w badaniach, ale wył"
+  },
+  {
+   "h": "b40e3ba1db34f014478cb2446a01591f6c0534c4",
+   "t": "Fundacja Novus Ignis, Poznań, KRS 0001269575. Strona i manifest: novusignis.org."
+  },
+  {
+   "h": "70c39ac4a58893ce0e135d38630c5da483ddadf4",
+   "t": "## Przypisy"
+  },
+  {
+   "h": "095fb5ac27f728f59ceacc10afd240c69ff662d2",
+   "t": "[^web-annotation]: [W3C (2017): Web Annotation Data Model](https://www.w3.org/TR"
+  },
+  {
+   "h": "42e28011ae863b325ca025db91f2168c13ceab14",
+   "t": "[^hypothesis]: [Hypothesis: Embedding Hypothesis in websites and platforms](http"
+  },
+  {
+   "h": "e99290a14c2f75bf81fa619343a9207e9aacfcbb",
+   "t": "[^wright]: Erik Olin Wright, *Envisioning Real Utopias*, Verso, Londyn 2010. Ram"
+  },
+  {
+   "h": "2f7d46929215ab9631424dddade208721218197d",
+   "t": "[^rodo-2026]: [RODO, rozporządzenie 2016/679](https://eur-lex.europa.eu/legal-co"
+  },
+  {
+   "h": "6b46d265e27cab0134259e499e1907464d8c737a",
+   "t": "[^dpga]: [Digital Public Goods Alliance: standard](https://www.digitalpublicgood"
+  },
+  {
+   "h": "bf5653c7101e519bf44873eb9028144635fd09db",
+   "t": "[^semaphore]: [Semaphore: dokumentacja](https://docs.semaphore.pse.dev/). Dokume"
+  },
+  {
+   "h": "c9486a851a549b8135dd047301399a4a7b17a407",
+   "t": "[^maci]: [MACI: wprowadzenie](https://maci.pse.dev/docs/introduction). Dokumenta"
+  }
+ ]
+}

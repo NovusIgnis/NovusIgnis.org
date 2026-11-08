@@ -11,7 +11,7 @@ Khái niệm riêng của Novus Ignis có một tên Latinh giống nhau trong m
 
 Thuật ngữ khác có một bản dịch cố định trong mỗi ngôn ngữ, để mọi bản dịch nói cùng điều bằng cùng từ.
 
-**Tình trạng ngày 31 tháng 10 năm 2026.** Bảng thuật ngữ đang được xây dựng: chúng tôi thêm ngôn ngữ và khái niệm tiếp theo. Nếu bản dịch tiếng bạn chưa ổn, hãy chọn và gửi ý kiến về bản dịch. Chúng tôi muốn các khái niệm thành một trong những vấn đề đầu tiên trong Omniforum: ở đó sẽ có thể thảo luận định nghĩa và tên có truyền đạt đúng nghĩa hay không.
+**Tình trạng ngày 31 tháng 10 năm 2026.** Bảng thuật ngữ đang được xây dựng: chúng tôi thêm ngôn ngữ và khái niệm tiếp theo. Nếu bản dịch tiếng bạn chưa ổn, hãy chọn và gửi ý kiến về bản dịch. Chúng tôi muốn các khái niệm thành một trong những vấn đề đầu tiên trong OmniForum: ở đó sẽ có thể thảo luận định nghĩa và tên có truyền đạt đúng nghĩa hay không.
 
 ## Tên Latinh
 
@@ -21,4 +21,4 @@ Thuật ngữ khác có một bản dịch cố định trong mỗi ngôn ngữ,
 
 {{terminologia:przeklady}}
 
-Định nghĩa khái niệm Omniforum ở [sách trắng Omniforum, mục 1.3](../whitepaper-omniforum.md#s1-3).
+Định nghĩa khái niệm OmniForum ở [sách trắng OmniForum, mục 1.3](../whitepaper-omniforum.md#s1-3).

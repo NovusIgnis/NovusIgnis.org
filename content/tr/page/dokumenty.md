@@ -17,13 +17,13 @@ Alt düzeydeki belge üsttekine aykırı olamaz: manifesto vakıf senedinin yasa
 
 ## Belge listesi
 
-Suveria bir tasarımdır, Omniforum’un prototipi ise yapım aşamasındadır; dolayısıyla teknik raporlar çalışan hizmetleri değil, niyetleri ve sınırları anlatır; her biri bunu ilk paragrafında söyler. Daha fazlası: [manifesto, giriş](../manifest.md#top).
+Suveria bir tasarımdır, OmniForum’un prototipi ise yapım aşamasındadır; dolayısıyla teknik raporlar çalışan hizmetleri değil, niyetleri ve sınırları anlatır; her biri bunu ilk paragrafında söyler. Daha fazlası: [manifesto, giriş](../manifest.md#top).
 
 | Belge | İçeriği | Sürüm | Okuma süresi | Dil |
 |---|---|---|---|---|
 | [Manifesto](../manifest.md) | Ne yapmak istediğimiz ve nedenleri: onur, mahremiyet, ortak anlayış, hizmetleri sürdürme ve yetki devri. | 31.10.2026 | yaklaşık 60 dakika | Lehçe ve İngilizce |
 | [Suveria: dijital zekâyla özel çalışma](../whitepaper-suveria.md) | Neyi ve neye karşı koruduğumuz, cihazdan modele giden yol, tarihli maliyet hesabı ve kabul denemeleri. | 31.10.2026 | yaklaşık 50 dakika | Lehçe ve İngilizce |
-| [Omniforum: ortak anlayış, konuşma ve kararlar](../whitepaper-omniforum.md) | Meseleler, fikir kartı, argüman haritası, yaşayan belgeler ve ortak karar ilkeleri. | 31.10.2026 | yaklaşık 50 dakika | Lehçe ve İngilizce |
+| [OmniForum: ortak anlayış, konuşma ve kararlar](../whitepaper-omniforum.md) | Meseleler, fikir kartı, argüman haritası, yaşayan belgeler ve ortak karar ilkeleri. | 31.10.2026 | yaklaşık 50 dakika | Lehçe ve İngilizce |
 | [Vakfın işleyiş ilkeleri](../whitepaper-zasady-fundacji.md) | Gerçek kullanım faturası, bütçe, çalışma ve roller, menfaat sicili ve kurucunun yetkilerinin devri. | 31.10.2026 | yaklaşık 50 dakika | Lehçe ve İngilizce |
 | [Modellerin eğitimi için materyaller ve kıyaslama testi](../whitepaper-materialy-i-benchmark.md) | Dijital zekânın insanlara gerçekten yardımcı olup olmadığı nasıl sınanır; bugün için sonuçları olmayan araştırma programı. | 31.10.2026 | yaklaşık 25 dakika | Lehçe ve İngilizce |
 | [Vakıf senedi: sürümler ve değişiklik sicili](../statut/rejestr-zmian.md) | Vakıf senedinin tüm sürümleri, yapılan ve planlanan değişiklikler ve gerekçeleri. | 30.10.2026’ya kadar kayıtlar | yaklaşık 10 dakika | Lehçe ve İngilizce |
@@ -34,7 +34,7 @@ Tüm belgeler Lehçe ve İngilizce mevcuttur (İngilizce vakıf senedi yalnızca
 ## Nasıl okunmalı
 
 - 5 dakikan varsa: [Kısaca](w-skrocie.md) sayfasını veya [manifestonun girişini](../manifest.md#top) oku.
-- Bir saatin varsa: kendi alanındaki teknik raporu oku. Suveria güvenlik ve altyapıyı, Omniforum konuşma ve kararları, vakıf ilkeleri hukuk ve parayı, kıyaslama testi ise modeller üzerine araştırmaları ele alır.
+- Bir saatin varsa: kendi alanındaki teknik raporu oku. Suveria güvenlik ve altyapıyı, OmniForum konuşma ve kararları, vakıf ilkeleri hukuk ve parayı, kıyaslama testi ise modeller üzerine araştırmaları ele alır.
 - Daha fazla zamanın varsa: sırasıyla manifestoyu, teknik raporları, vakıf senedi değişiklik sicilini ve vakıf senedini oku.
 
 Manifesto ve dört teknik rapor, dijital zekâyla sohbetine ekleyip ilgilendiğin konuları sorabileceğin tek bir metin dosyasında da bulunuyor: [Türkçe](llms-full.txt) veya [Lehçe](../llms-full.txt).
@@ -49,7 +49,7 @@ Her belge ve alt sayfada “Bir yorumum var” düğmesi çalışır. Metinden b
 
 Site hiçbir şey kaydetmez: mesaj kendi e-posta programında oluşturulur; yorumun içeriği, gönderene kadar sana aittir.
 
-Değişikliğe yol açan yorumları [sitenin değişiklik günlüğüne](dziennik-zmian.md) ve belgenin geçmişine kaydedeceğiz. Yorumların ileride başkalarının görebileceği ve tartışabileceği Omniforum’a gitmesi amaçlanıyor; bu henüz önümüzde. Daha fazlası: [Omniforum teknik raporu, 5.5. madde](../whitepaper-omniforum.md#s5-5).
+Değişikliğe yol açan yorumları [sitenin değişiklik günlüğüne](dziennik-zmian.md) ve belgenin geçmişine kaydedeceğiz. Yorumların ileride başkalarının görebileceği ve tartışabileceği OmniForum’a gitmesi amaçlanıyor; bu henüz önümüzde. Daha fazlası: [OmniForum teknik raporu, 5.5. madde](../whitepaper-omniforum.md#s5-5).
 
 ## Lisans ve kaynaklar
 

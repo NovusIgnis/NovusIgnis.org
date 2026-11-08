@@ -17,13 +17,13 @@ A lower document may not contradict a higher one: the manifesto does not promise
 
 ## List of documents
 
-Suveria is at the design stage, and Omniforum has a prototype under construction, so the whitepapers describe intentions and limits, not working services; each of them says so in its first paragraph. More: [manifesto, introduction](../manifest.md#top).
+Suveria is at the design stage, and OmniForum has a prototype under construction, so the whitepapers describe intentions and limits, not working services; each of them says so in its first paragraph. More: [manifesto, introduction](../manifest.md#top).
 
 | Document | What it contains | Version | Reading time | Language |
 |---|---|---|---|---|
 | [Manifesto](../manifest.md) | What we want to do and why: dignity, privacy, shared understanding, maintaining the services and handing over power. | 31 October 2026 | about 60 minutes | Polish and English |
 | [Suveria: private work with digital intelligence](../whitepaper-suveria.md) | What we protect and against what, the path from the device to the model, a dated cost calculation and acceptance trials. | 31 October 2026 | about 50 minutes | Polish and English |
-| [Omniforum: shared understanding, conversation and decisions](../whitepaper-omniforum.md) | Issues, the idea card, the argument map, living documents and the rules for shared decisions. | 31 October 2026 | about 50 minutes | Polish and English |
+| [OmniForum: shared understanding, conversation and decisions](../whitepaper-omniforum.md) | Issues, the idea card, the argument map, living documents and the rules for shared decisions. | 31 October 2026 | about 50 minutes | Polish and English |
 | [Foundation operating principles](../whitepaper-zasady-fundacji.md) | Billing for actual use, the budget, work and roles, the benefits register and the handover of the founder's powers. | 31 October 2026 | about 50 minutes | Polish and English |
 | [Training materials and model benchmark](../whitepaper-materialy-i-benchmark.md) | How to check whether digital intelligence really helps people; a research program, with no results as of today. | 31 October 2026 | about 25 minutes | Polish and English |
 | [Statute: versions and change register](../statut/rejestr-zmian.md) | All versions of the statute and the changes made and planned, with the reasons for them. | entries up to 30 October 2026 | about 10 minutes | Polish and English |
@@ -34,7 +34,7 @@ All documents are available in Polish and English (the English statute is for in
 ## How to read
 
 - If you have 5 minutes: read the [In brief](w-skrocie.md) page or the [introduction to the manifesto](../manifest.md#top).
-- If you have an hour: read the whitepaper in your field. Suveria is about security and infrastructure, Omniforum about conversation and decisions, the foundation principles about law and money, and the benchmark about research on models.
+- If you have an hour: read the whitepaper in your field. Suveria is about security and infrastructure, OmniForum about conversation and decisions, the foundation principles about law and money, and the benchmark about research on models.
 - If you have more time: read the manifesto, the whitepapers, the statute change register and the statute, in that order.
 
 The manifesto and the four whitepapers are also available in one text file that you can drop into your chat with digital intelligence and ask about whatever interests you: [in English](llms-full.txt) or [in Polish](../llms-full.txt).
@@ -49,7 +49,7 @@ Next to every document and page there is an “I have a comment” button. Highl
 
 The site does not save anything: the message is created in your email program, and the content of your comment belongs to you until you send it.
 
-We will record comments that lead to changes in the [site change log](dziennik-zmian.md) and in the document's history. Eventually, comments are meant to go to Omniforum, where others will be able to see them and discuss them; that is still ahead of us. More: [Omniforum whitepaper, section 5.5](../whitepaper-omniforum.md#s5-5).
+We will record comments that lead to changes in the [site change log](dziennik-zmian.md) and in the document's history. Eventually, comments are meant to go to OmniForum, where others will be able to see them and discuss them; that is still ahead of us. More: [OmniForum whitepaper, section 5.5](../whitepaper-omniforum.md#s5-5).
 
 ## License and sources
 

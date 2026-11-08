@@ -55,7 +55,7 @@ Publicaremos íntegramente, junto con cada versión, los principios según los c
 
 La infraestructura compartida ha de ofrecer solo modelos y configuraciones que superen las pruebas públicas del benchmark. Por encima de ese mínimo, tú eliges el estilo de trabajo, desde ordenar tus ideas con calma hasta una conversación exigente en la que el asistente señala las lagunas del razonamiento.
 
-Queremos mantener una biblioteca abierta de instrucciones comprobadas, que los participantes mejoran en Omniforum (el espacio compartido de conversación y decisiones) y verifican en el benchmark. Esa biblioteca todavía no existe.
+Queremos mantener una biblioteca abierta de instrucciones comprobadas, que los participantes mejoran en OmniForum (el espacio compartido de conversación y decisiones) y verifican en el benchmark. Esa biblioteca todavía no existe.
 
 Más información: [whitepaper de Suveria, capítulo 4](../whitepaper-suveria.md#s4) y [apartado 4.1](../whitepaper-suveria.md#s4-1).
 

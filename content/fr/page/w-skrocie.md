@@ -15,12 +15,12 @@ La Fondation Novus Ignis de Poznań (KRS 0001269575), créée par Marcin Wołows
 
 ## Ce que nous voulons faire
 
-Nous voulons co-créer un internet alternatif dont la valeur suprême est la dignité humaine, ainsi que la vie privée et la liberté qui en découlent. Suveria doit être un espace privé de travail avec l’aide facultative de l’intelligence numérique, protégé par des dispositifs de sécurité dont le fonctionnement peut être vérifié de manière indépendante. Omniforum doit être un espace public commun où chacun peut s’exprimer et être entendu. Pour en savoir plus : [manifeste, introduction](../manifest.md#top) et [Pourquoi Novus Ignis](dlaczego.md).
+Nous voulons co-créer un internet alternatif dont la valeur suprême est la dignité humaine, ainsi que la vie privée et la liberté qui en découlent. Suveria doit être un espace privé de travail avec l’aide facultative de l’intelligence numérique, protégé par des dispositifs de sécurité dont le fonctionnement peut être vérifié de manière indépendante. OmniForum doit être un espace public commun où chacun peut s’exprimer et être entendu. Pour en savoir plus : [manifeste, introduction](../manifest.md#top) et [Pourquoi Novus Ignis](dlaczego.md).
 
 ## Où nous en sommes aujourd’hui
 
 - **Fonctionne :** la fondation est enregistrée, et le manifeste et les livres blancs sont publiés. La fondation accepte les dons par virement et présente chaque versement dans le [registre public des recettes et des dépenses](fundacja-rejestr.md) ; le premier était le fonds de dotation initial.
-- **Projet :** Suveria est un projet, et Omniforum a un premier prototype en construction.
+- **Projet :** Suveria est un projet, et OmniForum a un premier prototype en construction.
 - **Hypothèse :** nous supposons que des serveurs communs payés selon l’utilisation réelle peuvent fournir plus d’intelligence numérique pour chaque dollar que des services fermés ; nous ne l’avons pas encore vérifié (manifeste, point 2.4).
 - **Vision :** la gestion autonome par l’intelligence numérique et les piliers suivants. Le lancement complet des piliers suivants est une orientation lointaine ; auparavant, seules de petites initiatives ayant une fin déterminée sont possibles. Aujourd’hui, ce sont des personnes qui dirigent la fondation.
 
@@ -39,7 +39,7 @@ Liste complète : [manifeste, chapitre 9](../manifest.md#s9).
 
 ## Ce que nous cherchons
 
-Au début, nous cherchons en particulier quelques personnes avec qui nous construirons et testerons les premières versions de Suveria et d’Omniforum :
+Au début, nous cherchons en particulier quelques personnes avec qui nous construirons et testerons les premières versions de Suveria et d’OmniForum :
 
 - des spécialistes de la sécurité, de la cryptographie et de l’infrastructure ;
 - des programmeurs et des concepteurs d’interfaces ;

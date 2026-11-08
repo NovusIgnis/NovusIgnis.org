@@ -17,13 +17,13 @@ Een lager document mag een hoger document niet tegenspreken: het manifest beloof
 
 ## Documentenlijst
 
-Suveria is een ontwerp en Omniforum heeft een prototype in aanbouw; de whitepapers beschrijven dus voornemens en grenzen, geen werkende diensten. Elk ervan vermeldt dat in de eerste alinea. Meer: [manifest, inleiding](../manifest.md#top).
+Suveria is een ontwerp en OmniForum heeft een prototype in aanbouw; de whitepapers beschrijven dus voornemens en grenzen, geen werkende diensten. Elk ervan vermeldt dat in de eerste alinea. Meer: [manifest, inleiding](../manifest.md#top).
 
 | Document | Inhoud | Versie | Leestijd | Taal |
 |---|---|---|---|---|
 | [Manifest](../manifest.md) | Wat we willen doen en waarom: waardigheid, privacy, gezamenlijk begrip, instandhouding van diensten en machtsoverdracht. | 31-10-2026 | ca. 60 minuten | Pools en Engels |
 | [Suveria: privé werken met digitale intelligentie](../whitepaper-suveria.md) | Wat we beschermen en waartegen, de weg van apparaat naar model, een gedateerde kostenberekening en acceptatietests. | 31-10-2026 | ca. 50 minuten | Pools en Engels |
-| [Omniforum: gezamenlijk begrip, gesprek en besluiten](../whitepaper-omniforum.md) | Kwesties, een ideeënkaart, een argumentenoverzicht, levende documenten en regels voor gezamenlijke besluiten. | 31-10-2026 | ca. 50 minuten | Pools en Engels |
+| [OmniForum: gezamenlijk begrip, gesprek en besluiten](../whitepaper-omniforum.md) | Kwesties, een ideeënkaart, een argumentenoverzicht, levende documenten en regels voor gezamenlijke besluiten. | 31-10-2026 | ca. 50 minuten | Pools en Engels |
 | [Werkingsprincipes van de stichting](../whitepaper-zasady-fundacji.md) | Betalen voor werkelijk gebruik, budget, werk en rollen, het voordelenregister en overdracht van bevoegdheden van de oprichter. | 31-10-2026 | ca. 50 minuten | Pools en Engels |
 | [Materiaal voor het trainen en benchmarken van modellen](../whitepaper-materialy-i-benchmark.md) | Hoe we toetsen of digitale intelligentie mensen werkelijk helpt; een onderzoeksprogramma, vooralsnog zonder resultaten. | 31-10-2026 | ca. 25 minuten | Pools en Engels |
 | [Statuten: versies en wijzigingsregister](../statut/rejestr-zmian.md) | Alle statutenversies en doorgevoerde en geplande wijzigingen, met onderbouwing. | vermeldingen tot 30-10-2026 | ca. 10 minuten | Pools en Engels |
@@ -34,7 +34,7 @@ Alle documenten zijn beschikbaar in het Pools en Engels (de Engelse statuten zij
 ## Hoe je kunt lezen
 
 - Heb je 5 minuten: lees de pagina [In het kort](w-skrocie.md) of de [inleiding van het manifest](../manifest.md#top).
-- Heb je een uur: lees de whitepaper uit je eigen vakgebied. Suveria gaat over beveiliging en infrastructuur, Omniforum over gesprek en besluiten, de werkingsprincipes van de stichting over recht en geld en de benchmark over onderzoek naar modellen.
+- Heb je een uur: lees de whitepaper uit je eigen vakgebied. Suveria gaat over beveiliging en infrastructuur, OmniForum over gesprek en besluiten, de werkingsprincipes van de stichting over recht en geld en de benchmark over onderzoek naar modellen.
 - Heb je meer tijd: lees achtereenvolgens het manifest, de whitepapers, het register van statutenwijzigingen en de statuten.
 
 Het manifest en de vier whitepapers staan ook in één tekstbestand dat je in je gesprek met digitale intelligentie kunt zetten om te vragen naar wat je interesseert: [in het Nederlands](llms-full.txt) of [in het Pools](../llms-full.txt).
@@ -49,7 +49,7 @@ Bij elk document en elke subpagina werkt de knop “Ik heb een opmerking”. Mar
 
 De website slaat niets op: het bericht wordt in je mailprogramma gemaakt en de inhoud van je opmerking blijft van jou totdat je die verstuurt.
 
-Opmerkingen die tot veranderingen leiden, zullen we in het [wijzigingslogboek van de website](dziennik-zmian.md) en in de documentgeschiedenis vermelden. Het is de bedoeling dat opmerkingen op termijn in Omniforum terechtkomen, waar anderen ze kunnen zien en bespreken; dat ligt nog voor ons. Meer: [whitepaper Omniforum, paragraaf 5.5](../whitepaper-omniforum.md#s5-5).
+Opmerkingen die tot veranderingen leiden, zullen we in het [wijzigingslogboek van de website](dziennik-zmian.md) en in de documentgeschiedenis vermelden. Het is de bedoeling dat opmerkingen op termijn in OmniForum terechtkomen, waar anderen ze kunnen zien en bespreken; dat ligt nog voor ons. Meer: [whitepaper OmniForum, paragraaf 5.5](../whitepaper-omniforum.md#s5-5).
 
 ## Licentie en bronnen
 

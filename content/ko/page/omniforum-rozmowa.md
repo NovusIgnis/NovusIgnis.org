@@ -1,19 +1,19 @@
 ---
-tytul: Omniforum의 대화 방식
+tytul: OmniForum의 대화 방식
 opis: 발언이 개별 생각이 되는 과정, 작성자가 확인하는 것, 디지털 지능의 역할과 누가 무엇을 말했는지 아는 방법
 grupa: omniforum
 kolejnosc: 2
 menu: 대화 방식
 ---
-# Omniforum의 대화 방식
+# OmniForum의 대화 방식
 
-[Omniforum이란](omniforum.md)을 읽고 발언을 쓰는 순간부터 다른 사람이 논의할 수 있게 되기까지 어떤 일이 일어나는지 더 자세히 알고 싶은 분들을 위한 페이지입니다. 작성자가 확인하는 것, 디지털 지능의 역할과 누가 무엇을 말했는지 아는 방법을 설명합니다.
+[OmniForum이란](omniforum.md)을 읽고 발언을 쓰는 순간부터 다른 사람이 논의할 수 있게 되기까지 어떤 일이 일어나는지 더 자세히 알고 싶은 분들을 위한 페이지입니다. 작성자가 확인하는 것, 디지털 지능의 역할과 누가 무엇을 말했는지 아는 방법을 설명합니다.
 
 현재는 아직 이용할 수 없습니다. 계획을 설명하고 의견을 모으는 단계입니다.
 
-Omniforum 시제품은 제작 중입니다. 아래에 설명하는 모든 것은 설계 단계이며 아직 어떤 시험도 완료하지 않았습니다.
+OmniForum 시제품은 제작 중입니다. 아래에 설명하는 모든 것은 설계 단계이며 아직 어떤 시험도 완료하지 않았습니다.
 
-더 알아보기: [Omniforum 백서 1장](../whitepaper-omniforum.md#s1).
+더 알아보기: [OmniForum 백서 1장](../whitepaper-omniforum.md#s1).
 
 ## 한 문장, 여러 생각
 
@@ -23,11 +23,11 @@ Omniforum 시제품은 제작 중입니다. 아래에 설명하는 모든 것은
 
 조건은 의미의 일부이므로 이 문장을 무조건적인 “우리 거리에 나무를 심으면 좋겠다”로 줄여서는 안 됩니다. 디지털 지능이 작성자가 지역의 가뭄을 문제로 여긴다고 덧붙이면 작성자의 말이 아니라 모델의 추론으로 표시됩니다. 개별 개념에 의미가 달려 있거나 논쟁이 생길 수 있는 곳에서 필요한 깊이까지만 나눕니다.
 
-더 알아보기: [Omniforum 백서 2장](../whitepaper-omniforum.md#s2), [3장](../whitepaper-omniforum.md#s3), [1.3절 용어집](../whitepaper-omniforum.md#s1-3).
+더 알아보기: [OmniForum 백서 2장](../whitepaper-omniforum.md#s2), [3장](../whitepaper-omniforum.md#s3), [1.3절 용어집](../whitepaper-omniforum.md#s1-3).
 
 ## 단계별 과정
 
-Omniforum에서 생긴 생각은 다음 경로를 따르도록 구상합니다.
+OmniForum에서 생긴 생각은 다음 경로를 따르도록 구상합니다.
 
 1. **글을 씁니다.** 일반 글이나 발췌문으로 시작해 이해, 논거 추출, 자신의 답변이나 입장 비교라는 목표를 정합니다.
 2. **디지털 지능이 분해를 제안합니다.** 각 생각을 어느 부분에서 도출했는지 보여 주고 의도에서 벗어났을 수 있거나 여러 해석이 가능한 곳을 짚습니다.
@@ -39,7 +39,7 @@ Omniforum에서 생긴 생각은 다음 경로를 따르도록 구상합니다.
 
 두 번째 자발적 의식도 검토합니다. 현재 근거를 댈 수 있는 범위의 경계를 이름 붙이고 새 질문의 답을 찾기 시작하는 순간입니다. 아직 이름이나 형식이 정해지지 않은 아이디어입니다.
 
-더 알아보기: [Omniforum 백서 3장](../whitepaper-omniforum.md#s3).
+더 알아보기: [OmniForum 백서 3장](../whitepaper-omniforum.md#s3).
 
 ## 확인하는 것과 확인하지 않는 것
 
@@ -49,7 +49,7 @@ Omniforum에서 생긴 생각은 다음 경로를 따르도록 구상합니다.
 
 대화는 굴욕감 없이 생각을 바꿀 여지를 남겨야 합니다. 실수를 인정하고 다음 질문을 던지거나 동의를 선언하지 않고 끝낼 수 있습니다. 결론을 받아들이는지에 따라 참여자의 존엄성이 달라지지 않습니다.
 
-더 알아보기: [Omniforum 백서 2장](../whitepaper-omniforum.md#s2), [1장](../whitepaper-omniforum.md#s1).
+더 알아보기: [OmniForum 백서 2장](../whitepaper-omniforum.md#s2), [1장](../whitepaper-omniforum.md#s1).
 
 ## 모델은 돕지만 지배하지 않습니다
 
@@ -57,13 +57,13 @@ Omniforum에서 생긴 생각은 다음 경로를 따르도록 구상합니다.
 
 각 분해에는 누가 언제 준비했는지, 모델의 도움이 있었다면 어떤 모델과 지시문 버전인지 기록합니다.
 
-더 알아보기: [Omniforum 백서 3장](../whitepaper-omniforum.md#s3), [2장](../whitepaper-omniforum.md#s2).
+더 알아보기: [OmniForum 백서 3장](../whitepaper-omniforum.md#s3), [2장](../whitepaper-omniforum.md#s2).
 
 ## Suveria에서 온 생각
 
 생각은 자신의 작업실에서 다듬는 디지털 지능과의 사적인 작업 공간인 Suveria에서 올 수도 있습니다. 그때는 Ignis 작업실을 거치지 않고 바로 공개합니다. 공개 순간은 같은 Ignis 의식이며 이후 다른 생각과 마찬가지로 Formatio가 시작됩니다.
 
-더 알아보기: [Omniforum 백서 3장](../whitepaper-omniforum.md#s3).
+더 알아보기: [OmniForum 백서 3장](../whitepaper-omniforum.md#s3).
 
 ## 누가 무엇을 말했는지 아는 방법
 
@@ -71,7 +71,7 @@ Omniforum에서 생긴 생각은 다음 경로를 따르도록 구상합니다.
 
 원자는 단어가 아니라 의미입니다. 이를 부르는 단어는 라벨이며 한 원자에 여러 언어를 포함한 여러 라벨이 있을 수 있습니다. 가뭄은 영어로 “drought”, 독일어로 “Dürre”라고 합니다. 서로 다른 말을 쓰는 사람도 같은 것을 이야기할 수 있습니다. 단어를 원자에 연결하는 것은 작성자가 확인하는 제안입니다. 사적인 정보일 수도 있습니다. “우리 거리”가 Warszawska 거리를 뜻하면 사는 곳이 드러나므로 다른 사람에게 보일지는 작성자가 결정합니다.
 
-더 알아보기: [Omniforum 백서 2장](../whitepaper-omniforum.md#s2).
+더 알아보기: [OmniForum 백서 2장](../whitepaper-omniforum.md#s2).
 
 ## 첫 시험에서 확인할 것
 
@@ -79,10 +79,10 @@ Omniforum에서 생긴 생각은 다음 경로를 따르도록 구상합니다.
 
 원문의 표현과 의미, 후속 버전과 접근 권한이 도중에 사라지지 않았는지 확인합니다. 모델이 직접 표시하지 않은 해석 오류도 찾으며 결과를 글 자체 및 일반 요약과 비교합니다. 시험 전에 충분하다고 판단할 결과를 공개하고 실패하더라도 결과를 기록에 추가합니다.
 
-더 알아보기: [Omniforum 백서 9장](../whitepaper-omniforum.md#s9).
+더 알아보기: [OmniForum 백서 9장](../whitepaper-omniforum.md#s9).
 
 ## 읽고 생각을 들려주세요
 
-전체 경로는 [Omniforum 백서](../whitepaper-omniforum.md)(읽는 시간 약 50분), 특히 2장과 3장에 설명합니다. 의문이 들거나 잘못된 듯한 내용이 있다면 문서에서 해당 부분을 선택하고 “의견이 있습니다” 버튼을 이용하거나 salve@novusignis.org로 연락해 주세요.
+전체 경로는 [OmniForum 백서](../whitepaper-omniforum.md)(읽는 시간 약 50분), 특히 2장과 3장에 설명합니다. 의문이 들거나 잘못된 듯한 내용이 있다면 문서에서 해당 부분을 선택하고 “의견이 있습니다” 버튼을 이용하거나 salve@novusignis.org로 연락해 주세요.
 
-더 알아보기: [Omniforum 백서 5.5절](../whitepaper-omniforum.md#s5-5).
+더 알아보기: [OmniForum 백서 5.5절](../whitepaper-omniforum.md#s5-5).

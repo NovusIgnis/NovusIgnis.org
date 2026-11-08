@@ -1,12 +1,12 @@
 # Werkingsregels van de Stichting Novus Ignis: instandhouding, samenwerking en machtsoverdracht
 
-Versie van 31 oktober 2026. Dit document werkt het manifest voor de organisatie verder uit: hoe we de diensten in stand houden, gezamenlijk geld beheren, samenwerken en de macht willen overdragen. Het beschrijft regels die we als reglementen willen aannemen en de daarvoor noodzakelijke statutenwijzigingen. De whitepaper zelf verandert de statuten, de bevoegdheden van de stichtingsorganen of de afrekenregels niet.
+Versie van 8 november 2026. Dit document werkt het manifest voor de organisatie verder uit: hoe we de diensten in stand houden, gezamenlijk geld beheren, samenwerken en de macht willen overdragen. Het beschrijft regels die we als reglementen willen aannemen en de daarvoor noodzakelijke statutenwijzigingen. De whitepaper zelf verandert de statuten, de bevoegdheden van de stichtingsorganen of de afrekenregels niet.
 
-*Nederlandse vertaling door digitale intelligentie van het Poolse origineel van 31 oktober 2026. Bij verschillen tussen de versies is de Poolse tekst doorslaggevend.*
+*Nederlandse vertaling door digitale intelligentie van het Poolse origineel van 8 november 2026. Bij verschillen tussen de versies is de Poolse tekst doorslaggevend.*
 
 ## 1. Statuten, manifest, reglementen en dit document
 
-De Stichting Novus Ignis uit Poznań (KRS 0001269575) wil een alternatief internet bouwen dat op menselijke waardigheid steunt. De eerste pijler bestaat uit twee diensten: Suveria, een privéruimte voor werken met digitale intelligentie, en Omniforum, een gezamenlijke ruimte voor gesprek, begrip en besluiten. Dit document beschrijft hoe de stichting wil beslissen, geld verantwoorden, werk organiseren en verantwoordelijkheid overdragen; het manifest beschrijft de waarden en richting.
+De Stichting Novus Ignis uit Poznań (KRS 0001269575) wil een alternatief internet bouwen dat op menselijke waardigheid steunt. De eerste pijler bestaat uit twee diensten: Suveria, een privéruimte voor werken met digitale intelligentie, en OmniForum, een gezamenlijke ruimte voor gesprek, begrip en besluiten. Dit document beschrijft hoe de stichting wil beslissen, geld verantwoorden, werk organiseren en verantwoordelijkheid overdragen; het manifest beschrijft de waarden en richting.
 
 Novus Ignis is een Poolse stichting, geregistreerd in de Europese Unie (Poznań). Internationaal gezien is het een organisatie zonder aandeelhouders die aan niemand winst uitkeert: het vermogen dient uitsluitend de statutaire doelen. Voor diensten vragen we hooguit hun werkelijke kosten; ontwikkeling en reserve financieren we uit vrijwillige donaties.
 
@@ -39,11 +39,11 @@ Voor de hieronder beschreven regels zijn vandaag vooral deze statutaire bepaling
 
 ## 2. Wendbare fase: hoe we beslissen voordat stemmen werkt
 
-Tot bindende gemeenschapsstemmingen starten, werkt de stichting in de wendbare fase. Het bestuur neemt dagelijkse besluiten binnen recht en statuten, ook wanneer snel moet worden gereageerd op veranderingen in technologie, publiek debat en behoeften van mensen. We stoppen de ontwikkeling niet tot er een volledig stemsysteem is: in deze periode beslist het bestuur over uitgaven voor instandhouding en ontwikkeling van Pijler I, Suveria en Omniforum.
+Tot bindende gemeenschapsstemmingen starten, werkt de stichting in de wendbare fase. Het bestuur neemt dagelijkse besluiten binnen recht en statuten, ook wanneer snel moet worden gereageerd op veranderingen in technologie, publiek debat en behoeften van mensen. We stoppen de ontwikkeling niet tot er een volledig stemsysteem is: in deze periode beslist het bestuur over uitgaven voor instandhouding en ontwikkeling van Pijler I, Suveria en OmniForum.
 
 De statuten staan het bestuur meer toe dan het wil benutten. Ons doel is dat alle besluiten die we aan de gemeenschap overdragen, door haar stemming worden genomen en bindend zijn. Daarvoor hebben we een mechanisme nodig dat werkt en dat we kunnen onderhouden; daarom werken we er stapsgewijs naartoe. Tot dan vraagt het bestuur uit eigen keuze, niet uit wettelijke verplichting, de gemeenschap via raadplegingen om haar mening bij belangrijke kwesties en publiceert het de onderbouwing van elk belangrijk besluit, ook afwijzingen. Een raadpleging vereist geen deelnemersverificatie, zodat één persoon veel stemmen kan uitbrengen: ze toont de mening van deelnemers, maar is geen stemming in de zin van de statuten. Vóór elke raadpleging kondigt het bestuur aan hoe het met de uitkomst omgaat. Deelnemers kunnen elk bestuursbesluit betwisten; het bestuur beantwoordt bedenkingen openbaar.
 
-De wendbare fase eindigt geleidelijk, zoals de kracht van stemmen geleidelijk groeit; elke stap is een proef. Eerst doen we proeven zonder financiële gevolgen, daarna stemmingen over echte besluiten met een klein afgezonderd budget en omkeerbare handelingen, en vervolgens vergroten we het bereik. Vóór elke proef kondigen we omvang, duur en de omgang van het bestuur met de uitkomst aan. Na afloop publiceren we een overzicht: of de uitkomst uitvoerbaar was, hoe de proef het beheer en de besluitvorming van de stichting beïnvloedde, welke fouten en misbruik we ontdekten en wat we veranderen. We vergroten het bereik pas op basis van die overzichten, omdat we geen verplichtingen willen aangaan die we niet kunnen nakomen. De [Omniforum-whitepaper](whitepaper-omniforum.md) beschrijft fasen, deelnemersverificatie en bescherming van stemgeheim. Om een stemuitkomst voor de stichting formeel bindend te maken, en niet alleen door de keuze van het bestuur, is een statutenwijziging nodig (Z4 in het wijzigingenregister), omdat § 8 het houden van stemmingen en raadplegingen vandaag slechts toestaat. Zolang de proef de uniciteit van elke stemmer niet bevestigt, noemen we haar een raadpleging, geen stemming in de zin van § 8, lid 2 van de statuten. Wanneer stemmen een type besluit overneemt, kan het bestuur de uitvoering van de uitkomst alleen opschorten om vooraf beschreven redenen, zoals een ontdekte protocolfout, gedocumenteerd grootschalig misbruik of een infrastructuurstoring, met openbare onderbouwing en herbeoordelingstermijn.
+De wendbare fase eindigt geleidelijk, zoals de kracht van stemmen geleidelijk groeit; elke stap is een proef. Eerst doen we proeven zonder financiële gevolgen, daarna stemmingen over echte besluiten met een klein afgezonderd budget en omkeerbare handelingen, en vervolgens vergroten we het bereik. Vóór elke proef kondigen we omvang, duur en de omgang van het bestuur met de uitkomst aan. Na afloop publiceren we een overzicht: of de uitkomst uitvoerbaar was, hoe de proef het beheer en de besluitvorming van de stichting beïnvloedde, welke fouten en misbruik we ontdekten en wat we veranderen. We vergroten het bereik pas op basis van die overzichten, omdat we geen verplichtingen willen aangaan die we niet kunnen nakomen. De [OmniForum-whitepaper](whitepaper-omniforum.md) beschrijft fasen, deelnemersverificatie en bescherming van stemgeheim. Om een stemuitkomst voor de stichting formeel bindend te maken, en niet alleen door de keuze van het bestuur, is een statutenwijziging nodig (Z4 in het wijzigingenregister), omdat § 8 het houden van stemmingen en raadplegingen vandaag slechts toestaat. Zolang de proef de uniciteit van elke stemmer niet bevestigt, noemen we haar een raadpleging, geen stemming in de zin van § 8, lid 2 van de statuten. Wanneer stemmen een type besluit overneemt, kan het bestuur de uitvoering van de uitkomst alleen opschorten om vooraf beschreven redenen, zoals een ontdekte protocolfout, gedocumenteerd grootschalig misbruik of een infrastructuurstoring, met openbare onderbouwing en herbeoordelingstermijn.
 
 ## 3. Diensten zo dicht mogelijk bij kostprijs
 
@@ -104,12 +104,12 @@ In de afrekening onderscheiden we vijf soorten geld:
 | Middelen verschuldigd aan gebruikers | Ongebruikte vooruitbetalingen en saldi van deelnemers | Nee, ze behoren aan deelnemers toe |
 | Voor een bepaald doel toevertrouwd geld | Doelgebonden donaties, bijvoorbeeld voor een concreet initiatief of de Suveria-pilot | Alleen voor dat doel |
 | Aangegane verplichtingen | Geld dat we al voor geplande uitgaven hebben bestemd | Nee, het is al bestemd |
-| Zekerstelling van de instandhouding van diensten | Reserve zonder welke Suveria en Omniforum zouden stoppen | Nee, ze beschermt de continuïteit |
+| Zekerstelling van de instandhouding van diensten | Reserve zonder welke Suveria en OmniForum zouden stoppen | Nee, ze beschermt de continuïteit |
 | Vrij besteedbare middelen | Wat na al het bovenstaande overblijft | Ja, altijd met voorrang voor Pijler I (hoofdstuk 8) |
 
 Elk bedrag krijgt slechts één categorie, zodat we niets dubbel tellen.
 
-De kosten van instandhouding omvatten alles waarzonder Suveria en Omniforum zouden stilvallen: rekenkracht, gegevensopslag en kopieën, domeinen, betalingsverwerking en verplichte boekhouding. Het banksaldo is dus geen besteedbaar budget; beloofd maar nog niet gestort geld en aan anderen verschuldigd geld vormen geen reserve.
+De kosten van instandhouding omvatten alles waarzonder Suveria en OmniForum zouden stilvallen: rekenkracht, gegevensopslag en kopieën, domeinen, betalingsverwerking en verplichte boekhouding. Het banksaldo is dus geen besteedbaar budget; beloofd maar nog niet gestort geld en aan anderen verschuldigd geld vormen geen reserve.
 
 Kostencategorieën, voorwaarden van grotere contracten, besluiten en onderbouwingen zijn openbaar. Elke uitgave moet aan het besluit dat ertoe leidde en het resultaat ervan te koppelen zijn. Daarbij beschermen we persoonsgegevens, toegangsgegevens en informatie waarvan onthulling de infrastructuurrisico's zou vergroten.
 
@@ -162,13 +162,13 @@ Bestuursleden sluiten geen betaalde overeenkomsten met de stichting: de statuten
 
 ### 5.4. Eigen werkplaats en voorbereide context
 
-Een taak aannemen moet de taakruimte in de door de deelnemer gekozen omgeving openen. De assistent voor digitale intelligentie krijgt wat nodig is: stichtingswaarden, doel en grenzen van de taak, actuele vaststellingen uit Omniforum, relevante argumenten en open vragen, bronnen, de middelenlimiet en beoordelingswijze voor het resultaat. De deelnemer kan die context toetsen, hiaten aanwijzen en de weergave van het eigen standpunt verbeteren.
+Een taak aannemen moet de taakruimte in de door de deelnemer gekozen omgeving openen. De assistent voor digitale intelligentie krijgt wat nodig is: stichtingswaarden, doel en grenzen van de taak, actuele vaststellingen uit OmniForum, relevante argumenten en open vragen, bronnen, de middelenlimiet en beoordelingswijze voor het resultaat. De deelnemer kan die context toetsen, hiaten aanwijzen en de weergave van het eigen standpunt verbeteren.
 
 Deelnemen aan een taak deelt alleen de gekozen gegevens en bevoegdheden. Context overdragen, hulpmiddeltoegang en publicatie van de werkvastlegging vereisen afzonderlijk bepaalde toestemmingen; privégesprekken, bestanden en toegangsgegevens blijven daarbuiten totdat iemand bewust anders beslist. Vóór beschikbaarstelling van zo'n koppeling zullen we beschrijven welke gegevens de privéomgeving verlaten, aan wie ze worden verstrekt en hoe ze worden verwerkt.
 
 Na een onderbreking moet de werkplaats tonen wat is veranderd en waar kan worden verdergegaan; resultaat en taakstatus moeten naar een volgende persoon kunnen zonder de privéomgeving van de deelnemer te onthullen. In de proef toetsen we de start, terugkeer na een week en werkoverdracht: tijd om de context terug te vinden, juistheid van samenvattingen en naleving van privacygrenzen.
 
-Zolang we geen eigen servers hebben, mogen we uit Pijler I-middelen of doelgebonden donaties de hulpmiddelen dekken die vrijwilligers voor het maken en testen van open Suveria- en Omniforum-code nodig hebben, bijvoorbeeld modeltoegang via API of programmeerhulpmiddelen. Die steun heeft een openbare budgetlimiet en is geen beloning. De Poolse wet op activiteiten van algemeen nut en vrijwilligerswerk staat dit toe (art. 45, lid 2); de omvang van zulke kosten bevestigen we in juridisch advies.[^wolontariat]
+Zolang we geen eigen servers hebben, mogen we uit Pijler I-middelen of doelgebonden donaties de hulpmiddelen dekken die vrijwilligers voor het maken en testen van open Suveria- en OmniForum-code nodig hebben, bijvoorbeeld modeltoegang via API of programmeerhulpmiddelen. Die steun heeft een openbare budgetlimiet en is geen beloning. De Poolse wet op activiteiten van algemeen nut en vrijwilligerswerk staat dit toe (art. 45, lid 2); de omvang van zulke kosten bevestigen we in juridisch advies.[^wolontariat]
 
 ## 6. Persoonlijke steun buiten de stichting
 
@@ -202,10 +202,10 @@ We beschermen adressen, ticketnummers, betalings- en gezondheidsgegevens; public
 
 ### 8.1. Voorrang voor Pijler I en drie voorwaarden
 
-Pijler I omvat Suveria en Omniforum. Pijler II “Hardware” ontwikkelt open materiële oplossingen, en Pijler III “Natuur” initiatieven voor contact met de natuur. De volledige start van deze pijlers en financiering van hun projecten uit het gezamenlijke budget vereist gezamenlijk (punt 6.3 van het manifest):
+Pijler I omvat Suveria en OmniForum. Pijler II “Hardware” ontwikkelt open materiële oplossingen, en Pijler III “Natuur” initiatieven voor contact met de natuur. De volledige start van deze pijlers en financiering van hun projecten uit het gezamenlijke budget vereist gezamenlijk (punt 6.3 van het manifest):
 
-1. Een werkend Omniforum met stemmen via zero-knowledgebewijzen dat de keuze geheim houdt, het meetellen van de stem laat controleren en één effectieve stem van dezelfde gerechtigde persoon waarborgt.
-2. Werkelijk verzamelde middelen voor minstens zes maanden instandhouding van Suveria en Omniforum, die onaangetast blijven nadat het volledige nieuwe projectbudget is afgezonderd.
+1. Een werkend OmniForum met stemmen via zero-knowledgebewijzen dat de keuze geheim houdt, het meetellen van de stem laat controleren en één effectieve stem van dezelfde gerechtigde persoon waarborgt.
+2. Werkelijk verzamelde middelen voor minstens zes maanden instandhouding van Suveria en OmniForum, die onaangetast blijven nadat het volledige nieuwe projectbudget is afgezonderd.
 3. Een gemeenschapsbesluit dat project en financiering goedkeurt in een stemming die voor de hele stemgerechtigde gemeenschap op gelijke voorwaarden openstaat.
 
 Wanneer we een voorwaarde als vervuld beschouwen:
@@ -253,7 +253,7 @@ Vóór toewijzing van middelen publiceren we doel, volledig budget, financiering
 
 ## 9. Overdracht van de bijzondere bevoegdheden van de oprichter
 
-Eén persoon heeft de stichting opgericht, Marcin Wołowski, en vandaag heeft de oprichter er de meeste macht. Aanvankelijk is dat natuurlijk, maar we willen dat niet zo houden. De oprichter wil Suveria, Omniforum en verdere projecten met dezelfde rechten als anderen kunnen gebruiken en zich uit een vaste publieke rol terugtrekken (punt 7.1 van het manifest). Dit is dezelfde gedachte als in hoofdstuk 5: verantwoordelijkheid wordt tijdelijk opgenomen en daarna overgedragen. De stichting moet voortbestaan dankzij bruikbare hulpmiddelen, voor medemakers beschikbare kennis en regels die verantwoordelijkheid overdraagbaar maken, niet dankzij de permanente aanwezigheid van één persoon.
+Eén persoon heeft de stichting opgericht, Marcin Wołowski, en vandaag heeft de oprichter er de meeste macht. Aanvankelijk is dat natuurlijk, maar we willen dat niet zo houden. De oprichter wil Suveria, OmniForum en verdere projecten met dezelfde rechten als anderen kunnen gebruiken en zich uit een vaste publieke rol terugtrekken (punt 7.1 van het manifest). Dit is dezelfde gedachte als in hoofdstuk 5: verantwoordelijkheid wordt tijdelijk opgenomen en daarna overgedragen. De stichting moet voortbestaan dankzij bruikbare hulpmiddelen, voor medemakers beschikbare kennis en regels die verantwoordelijkheid overdraagbaar maken, niet dankzij de permanente aanwezigheid van één persoon.
 
 Vandaag geven de statuten de oprichter bijzondere bevoegdheden:
 
@@ -368,7 +368,7 @@ Eigen code en materiaal stellen we beschikbaar onder voorwaarden die gebruik en 
 | --- | --- | --- |
 | Documenten, uitwerkingen en websiteteksten | CC BY 4.0 | aangenomen |
 | Code van novusignis.org | AGPLv3 | aangenomen |
-| Dienstcode (Suveria, Omniforum) | AGPLv3 | in overweging |
+| Dienstcode (Suveria, OmniForum) | AGPLv3 | in overweging |
 | Bibliotheken voor inbedding in andere websites | nog te bepalen | |
 | Datasets en open instructies | nog te bepalen | |
 | Eigen afgestemde modellen | nog te bepalen | |
@@ -420,7 +420,7 @@ Op termijn moet een geschil over een besluit worden behandeld door een persoon o
 
 ### 12.4. Hoe we documenten en regels wijzigen
 
-Manifest en whitepapers zijn levende documenten. We willen ze in Omniforum openbaar laten beoordelen door stellingen in moleculen op te delen: afzonderlijke toetsbare beweringen en argumenten. De actuele versie toont het huidige standpunt van de stichting; de volledige geschiedenis van eerdere versies en argumenten blijft beschikbaar om vroegere handelingen, beloften en correctieredenen te beoordelen.
+Manifest en whitepapers zijn levende documenten. We willen ze in OmniForum openbaar laten beoordelen door stellingen in moleculen op te delen: afzonderlijke toetsbare beweringen en argumenten. De actuele versie toont het huidige standpunt van de stichting; de volledige geschiedenis van eerdere versies en argumenten blijft beschikbaar om vroegere handelingen, beloften en correctieredenen te beoordelen.
 
 Bescherming van waardigheid, privacy en toevertrouwde middelen bepaalt de vaste richting van de stichting. Organisatieregels ontwikkelen we openbaar: bij een wijzigingsvoorstel tonen we omvang, onderbouwing en gevolgen voor deelnemers. We wijzigen de statuten alleen als dat voor de volgende stap nodig is en passen de wijziging meteen toe. Verandering van de financieringsvoorwaarden voor verdere pijlers uit hoofdstuk 8 vereist de juiste procedure en respect voor statuten, recht en eerdere verplichtingen; tot aanvaarding blijven de bestaande regels gelden. We overwegen ook statutaire opname van deze voorwaarden (voorstel Z6 in het [wijzigingenregister](statut/rejestr-zmian.md)), zodat ze niet alleen van de goede wil van het bestuur afhangen.
 

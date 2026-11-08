@@ -17,13 +17,13 @@ Dokumen yang lebih rendah tidak boleh bertentangan dengan yang lebih tinggi: man
 
 ## Daftar dokumen
 
-Suveria masih berupa rancangan, sedangkan Omniforum memiliki prototipe yang sedang dibangun, sehingga whitepaper menguraikan niat dan batas, bukan layanan yang sudah berfungsi; masing-masing menyatakannya pada paragraf pertama. Selengkapnya: [manifesto, pendahuluan](../manifest.md#top).
+Suveria masih berupa rancangan, sedangkan OmniForum memiliki prototipe yang sedang dibangun, sehingga whitepaper menguraikan niat dan batas, bukan layanan yang sudah berfungsi; masing-masing menyatakannya pada paragraf pertama. Selengkapnya: [manifesto, pendahuluan](../manifest.md#top).
 
 | Dokumen | Isi | Versi | Waktu membaca | Bahasa |
 |---|---|---|---|---|
 | [Manifesto](../manifest.md) | Apa yang ingin kami lakukan dan mengapa: martabat, privasi, pemahaman bersama, pemeliharaan layanan, dan penyerahan kekuasaan. | 31.10.2026 | sekitar 60 menit | Polandia dan Inggris |
 | [Suveria: kerja pribadi dengan kecerdasan digital](../whitepaper-suveria.md) | Apa yang kami lindungi dan dari apa, jalur dari perangkat menuju model, perhitungan biaya bertanggal, dan uji penerimaan. | 31.10.2026 | sekitar 50 menit | Polandia dan Inggris |
-| [Omniforum: pemahaman bersama, percakapan, dan keputusan](../whitepaper-omniforum.md) | Isu, kartu ide, peta argumen, dokumen hidup, dan aturan keputusan bersama. | 31.10.2026 | sekitar 50 menit | Polandia dan Inggris |
+| [OmniForum: pemahaman bersama, percakapan, dan keputusan](../whitepaper-omniforum.md) | Isu, kartu ide, peta argumen, dokumen hidup, dan aturan keputusan bersama. | 31.10.2026 | sekitar 50 menit | Polandia dan Inggris |
 | [Prinsip operasional yayasan](../whitepaper-zasady-fundacji.md) | Tagihan penggunaan nyata, anggaran, pekerjaan dan peran, daftar manfaat, serta penyerahan kewenangan pendiri. | 31.10.2026 | sekitar 50 menit | Polandia dan Inggris |
 | [Materi pelatihan dan tolok ukur model](../whitepaper-materialy-i-benchmark.md) | Cara memeriksa apakah kecerdasan digital benar-benar membantu manusia; program penelitian, tanpa hasil hingga saat ini. | 31.10.2026 | sekitar 25 menit | Polandia dan Inggris |
 | [Anggaran dasar: versi dan daftar perubahan](../statut/rejestr-zmian.md) | Semua versi anggaran dasar serta perubahan yang telah dilakukan dan direncanakan, beserta alasannya. | entri hingga 30.10.2026 | sekitar 10 menit | Polandia dan Inggris |
@@ -34,7 +34,7 @@ Semua dokumen tersedia dalam bahasa Polandia dan Inggris (anggaran dasar berbaha
 ## Cara membaca
 
 - Punya 5 menit: baca halaman [Secara singkat](w-skrocie.md) atau [pendahuluan manifesto](../manifest.md#top).
-- Punya satu jam: baca whitepaper dalam bidang Anda. Suveria menyangkut keamanan dan infrastruktur, Omniforum percakapan dan keputusan, prinsip yayasan hukum dan uang, sedangkan tolok ukur penelitian tentang model.
+- Punya satu jam: baca whitepaper dalam bidang Anda. Suveria menyangkut keamanan dan infrastruktur, OmniForum percakapan dan keputusan, prinsip yayasan hukum dan uang, sedangkan tolok ukur penelitian tentang model.
 - Punya waktu lebih banyak: baca berturut-turut manifesto, whitepaper, daftar perubahan anggaran dasar, dan anggaran dasar.
 
 Manifesto dan empat whitepaper juga tersedia dalam satu berkas teks yang dapat Anda masukkan ke percakapan dengan kecerdasan digital dan tanyakan hal yang menarik minat Anda: [dalam bahasa Indonesia](llms-full.txt) atau [dalam bahasa Polandia](../llms-full.txt).
@@ -49,7 +49,7 @@ Pada setiap dokumen dan subhalaman tersedia tombol "Saya punya masukan". Tandai 
 
 Situs tidak menyimpan apa pun: pesan dibuat dalam program surel Anda, dan isi masukan tetap milik Anda hingga Anda mengirimkannya.
 
-Masukan yang menghasilkan perubahan akan kami catat dalam [catatan perubahan situs](dziennik-zmian.md) dan riwayat dokumen. Rencananya, masukan akan masuk ke Omniforum, tempat orang lain dapat melihat dan membahasnya; hal ini belum terwujud. Selengkapnya: [whitepaper Omniforum, bagian 5.5](../whitepaper-omniforum.md#s5-5).
+Masukan yang menghasilkan perubahan akan kami catat dalam [catatan perubahan situs](dziennik-zmian.md) dan riwayat dokumen. Rencananya, masukan akan masuk ke OmniForum, tempat orang lain dapat melihat dan membahasnya; hal ini belum terwujud. Selengkapnya: [whitepaper OmniForum, bagian 5.5](../whitepaper-omniforum.md#s5-5).
 
 ## Lisensi dan sumber
 

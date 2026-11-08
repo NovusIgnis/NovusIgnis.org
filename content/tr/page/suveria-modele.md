@@ -55,7 +55,7 @@ Asistanın yanıt verirken izlediği ilkeleri her sürümle birlikte bütünüyl
 
 Ortak altyapının yalnızca açık kıyaslama testi denemelerinden geçen modelleri ve ayarları sunması amaçlanıyor. Bu asgarinin üstünde, düşünceleri sakince düzenlemekten asistanın akıl yürütmedeki açıkları gösterdiği zorlayıcı konuşmaya kadar çalışma tarzını sen seçersin.
 
-Katılımcıların Omniforum’da (ortak konuşma ve karar alanında) geliştirdiği ve kıyaslama testinde sınadığı açık bir sınanmış talimatlar kütüphanesi tutmak istiyoruz. Bu kütüphane henüz yok.
+Katılımcıların OmniForum’da (ortak konuşma ve karar alanında) geliştirdiği ve kıyaslama testinde sınadığı açık bir sınanmış talimatlar kütüphanesi tutmak istiyoruz. Bu kütüphane henüz yok.
 
 Daha fazlası: [Suveria teknik raporu, 4. bölüm](../whitepaper-suveria.md#s4) ve [4.1. madde](../whitepaper-suveria.md#s4-1).
 

@@ -7,11 +7,11 @@ menu: Verdere pijlers
 ---
 # Verdere pijlers
 
-Deze pagina vertelt waar de stichting buiten software naartoe wil en hoe ze voorkomt dat ze te vroeg begint. Nu werken we uitsluitend aan Pijler I: Suveria is een ontwerp en het prototype van Omniforum is in aanbouw. Pijlers II en III zijn een visie, geen lopend werk.
+Deze pagina vertelt waar de stichting buiten software naartoe wil en hoe ze voorkomt dat ze te vroeg begint. Nu werken we uitsluitend aan Pijler I: Suveria is een ontwerp en het prototype van OmniForum is in aanbouw. Pijlers II en III zijn een visie, geen lopend werk.
 
 ## De drie pijlers in één oogopslag
 
-- **Pijler I “Software”: hier beginnen we.** Software en digitale diensten: Suveria, de privéruimte om met digitale intelligentie te werken, en Omniforum, de gedeelde ruimte voor gesprek, begrip en besluiten.
+- **Pijler I “Software”: hier beginnen we.** Software en digitale diensten: Suveria, de privéruimte om met digitale intelligentie te werken, en OmniForum, de gedeelde ruimte voor gesprek, begrip en besluiten.
 - **Pijler II “Hardware”: visie.** Open ontwerpen van duurzame, repareerbare voorwerpen.
 - **Pijler III “Natuur”: visie.** Nauwer contact met de natuur.
 
@@ -36,8 +36,8 @@ Meer: [statuten, § 5](../statut/statut-2026-09-28.md#par-5) en [register van st
 
 We beginnen de ontwikkeling met Pijler I en zullen de eerste middelen uit het gezamenlijke budget en vrije rekenkracht aan de basisverplichtingen ervan besteden. De volledige start van Pijlers II en III en de financiering van hun projecten uit het gezamenlijke budget vereisen drie voorwaarden samen. Bij elke voorwaarde vermelden we wanneer we die als vervuld beschouwen.
 
-1. **Werkende stemmingen.** Omniforum met bindende stemmingen, waarvan de stichting de uitslag uitvoert (raadplegingen volstaan niet). We willen ze op zero-knowledgebewijzen baseren: een manier om stemrecht te bevestigen zonder bekend te maken wie waarop heeft gestemd. De keuze moet geheim blijven, het meetellen van de stem moet controleerbaar zijn en elke stemgerechtigde persoon moet één effectieve stem hebben. Vervuld na minstens één bindende stemming waarbij een openbare test met beloning geen tweede stem met dezelfde bevoegdheid kon uitbrengen en geen stem aan een persoon kon koppelen.
-2. **Reserve.** Daadwerkelijk verzamelde middelen voor minstens zes maanden instandhouding van Suveria en Omniforum, die onaangetast blijven nadat het volledige budget voor het nieuwe project apart is gezet. Vervuld wanneer zesmaal de gemiddelde maandelijkse instandhoudingskosten uit de laatste drie maanden op een afzonderlijke rekening staat en we dat bedrag maandelijks in het register tonen.
+1. **Werkende stemmingen.** OmniForum met bindende stemmingen, waarvan de stichting de uitslag uitvoert (raadplegingen volstaan niet). We willen ze op zero-knowledgebewijzen baseren: een manier om stemrecht te bevestigen zonder bekend te maken wie waarop heeft gestemd. De keuze moet geheim blijven, het meetellen van de stem moet controleerbaar zijn en elke stemgerechtigde persoon moet één effectieve stem hebben. Vervuld na minstens één bindende stemming waarbij een openbare test met beloning geen tweede stem met dezelfde bevoegdheid kon uitbrengen en geen stem aan een persoon kon koppelen.
+2. **Reserve.** Daadwerkelijk verzamelde middelen voor minstens zes maanden instandhouding van Suveria en OmniForum, die onaangetast blijven nadat het volledige budget voor het nieuwe project apart is gezet. Vervuld wanneer zesmaal de gemiddelde maandelijkse instandhoudingskosten uit de laatste drie maanden op een afzonderlijke rekening staat en we dat bedrag maandelijks in het register tonen.
 3. **Besluit van de gemeenschap.** Een stemming die op gelijke voorwaarden voor de hele stemgerechtigde gemeenschap openstaat. Vervuld wanneer de gemeenschap een concreet voorstel goedkeurt met budget, gevolgen voor de reserve en een stopcriterium.
 
 Onbetaalde toezeggingen, saldi die gebruikers toebehoren en doelgebonden geld vormen geen reserve; een stemmock-up vervult de eerste voorwaarde niet. Als de stemming niet meer werkt of de reserve onder zes maanden daalt, stoppen we nieuwe verplichtingen voor de verdere pijlers en herstellen we eerst de voorwaarden.

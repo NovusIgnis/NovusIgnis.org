@@ -82,7 +82,7 @@ Más información: [whitepaper de los principios de la fundación, apartado 12.3
 
 ## Cómo modificamos los documentos
 
-El manifiesto y los whitepapers son documentos vivos. La versión actual presenta la posición actual de la fundación, y el historial de las versiones anteriores y los motivos de las correcciones sigue disponible. Queremos someterlos a revisión pública en Omniforum, el espacio compartido de conversación, comprensión y decisiones que estamos construyendo, descomponiendo las tesis en moléculas, es decir, afirmaciones y argumentos individuales que se pueden verificar.
+El manifiesto y los whitepapers son documentos vivos. La versión actual presenta la posición actual de la fundación, y el historial de las versiones anteriores y los motivos de las correcciones sigue disponible. Queremos someterlos a revisión pública en OmniForum, el espacio compartido de conversación, comprensión y decisiones que estamos construyendo, descomponiendo las tesis en moléculas, es decir, afirmaciones y argumentos individuales que se pueden verificar.
 
 Desarrollamos las reglas organizativas de forma pública: junto con la propuesta de modificación mostramos su alcance, justificación y efectos sobre los participantes. Solo modificamos los estatutos cuando el cambio es necesario para dar el siguiente paso. También consideramos incluir en los estatutos las condiciones de financiación de los siguientes pilares (propuesta Z6 en el [registro de modificaciones de los estatutos](../statut/rejestr-zmian.md), pendiente de decisión del fundador), para que no dependan únicamente de la buena voluntad de la junta directiva.
 

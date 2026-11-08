@@ -17,14 +17,14 @@ Más información: [whitepaper de los principios de la fundación, capítulo 1](
 
 No mostramos un único importe en la cuenta, sino que dividimos el dinero según a quién pertenece y para qué está destinado. El saldo de la cuenta bancaria no es un presupuesto disponible para asignar.
 
-La reserva es dinero apartado que ha de mantener Suveria y Omniforum si faltan ingresos; el whitepaper también la llama cobertura del Pilar I (el Pilar I está formado por Suveria y Omniforum).
+La reserva es dinero apartado que ha de mantener Suveria y OmniForum si faltan ingresos; el whitepaper también la llama cobertura del Pilar I (el Pilar I está formado por Suveria y OmniForum).
 
 | Tipo de dinero | De dónde viene | En qué se puede gastar |
 | --- | --- | --- |
 | Fondos que se deben a las personas usuarias | Pagos anticipados sin usar de los participantes | Solo en sus servicios; se pueden recuperar |
 | Dinero confiado para un fin concreto | Donaciones con destino específico, por ejemplo para el piloto de Suveria | Solo en ese fin |
 | Compromisos asumidos | Dinero ya destinado a gastos planificados | Solo en esos gastos |
-| Cobertura del sostenimiento de los servicios | Reserva formada con donaciones, también con el redondeo de las facturas | En aquello sin lo que Suveria y Omniforum dejarían de funcionar |
+| Cobertura del sostenimiento de los servicios | Reserva formada con donaciones, también con el redondeo de las facturas | En aquello sin lo que Suveria y OmniForum dejarían de funcionar |
 | Fondos disponibles para asignar | Ingresos sin un fin indicado (donaciones, ayudas, subvenciones, recaudaciones), después de descontar todo lo anterior | En nuevos fines, siempre con prioridad para el Pilar I |
 
 Asignamos cada cantidad a una sola categoría para no contar nada dos veces. En la reserva solo contamos el dinero que realmente ha ingresado y no pertenece a nadie más; las promesas de pagos no cuentan.
@@ -78,8 +78,8 @@ Más información: [whitepaper de los principios de la fundación, capítulo 4](
 
 El Pilar I tiene prioridad. El Pilar II, «Hardware» (soluciones materiales abiertas), y el Pilar III, «Naturaleza» (contacto con la naturaleza), solo pueden financiarse con el presupuesto común cuando cumplamos a la vez tres condiciones:
 
-1. funciona Omniforum con votaciones basadas en pruebas de conocimiento cero, en las que la elección es secreta, se puede comprobar si el voto se ha contado y cada persona con derecho a voto tiene un voto;
-2. una cuenta separada contiene fondos realmente reunidos para al menos seis meses de mantenimiento de Suveria y Omniforum, que permanecen intactos después de apartar el presupuesto completo del nuevo proyecto;
+1. funciona OmniForum con votaciones basadas en pruebas de conocimiento cero, en las que la elección es secreta, se puede comprobar si el voto se ha contado y cada persona con derecho a voto tiene un voto;
+2. una cuenta separada contiene fondos realmente reunidos para al menos seis meses de mantenimiento de Suveria y OmniForum, que permanecen intactos después de apartar el presupuesto completo del nuevo proyecto;
 3. la comunidad ha aprobado el proyecto y su financiación en una votación abierta a todas las personas con derecho a voto en igualdad de condiciones.
 
 Ni una maqueta de la votación, ni las promesas sin pagar, ni los saldos ajenos cumplen esas condiciones.

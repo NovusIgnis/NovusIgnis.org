@@ -55,7 +55,7 @@ Prinsip yang mendasari jawaban asisten akan kami terbitkan secara lengkap bersam
 
 Infrastruktur bersama dimaksudkan hanya menyediakan model dan pengaturan yang lulus percobaan tolok ukur terbuka. Di atas standar minimum ini, Anda memilih gaya kerja, dari menata pemikiran dengan tenang hingga percakapan menantang ketika asisten menunjukkan celah penalaran.
 
-Kami ingin mengelola pustaka terbuka berisi instruksi yang telah diuji, yang diperbaiki peserta di Omniforum (ruang bersama untuk percakapan dan keputusan) serta diperiksa melalui tolok ukur. Pustaka ini belum ada.
+Kami ingin mengelola pustaka terbuka berisi instruksi yang telah diuji, yang diperbaiki peserta di OmniForum (ruang bersama untuk percakapan dan keputusan) serta diperiksa melalui tolok ukur. Pustaka ini belum ada.
 
 Selengkapnya: [whitepaper Suveria, bab 4](../whitepaper-suveria.md#s4) dan [bagian 4.1](../whitepaper-suveria.md#s4-1).
 

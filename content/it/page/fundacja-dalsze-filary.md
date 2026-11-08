@@ -7,11 +7,11 @@ menu: Ulteriori pilastri
 ---
 # Ulteriori pilastri
 
-Questa pagina racconta dove vuole arrivare la fondazione oltre il software e come evita di partire troppo presto. Oggi lavoriamo esclusivamente nel Pilastro I: Suveria è un progetto e Omniforum ha un prototipo in costruzione. I Pilastri II e III sono una visione, non lavori in corso.
+Questa pagina racconta dove vuole arrivare la fondazione oltre il software e come evita di partire troppo presto. Oggi lavoriamo esclusivamente nel Pilastro I: Suveria è un progetto e OmniForum ha un prototipo in costruzione. I Pilastri II e III sono una visione, non lavori in corso.
 
 ## I tre pilastri a colpo d'occhio
 
-- **Pilastro I «Software»: iniziamo qui.** Software e servizi digitali, cioè Suveria, lo spazio privato per lavorare con l'intelligenza digitale, e Omniforum, lo spazio comune di conversazione, comprensione e decisione.
+- **Pilastro I «Software»: iniziamo qui.** Software e servizi digitali, cioè Suveria, lo spazio privato per lavorare con l'intelligenza digitale, e OmniForum, lo spazio comune di conversazione, comprensione e decisione.
 - **Pilastro II «Hardware»: visione.** Progetti aperti di oggetti durevoli e riparabili.
 - **Pilastro III «Natura»: visione.** Un contatto più stretto con la natura.
 
@@ -36,8 +36,8 @@ Per saperne di più: [statuto, § 5](../statut/statut-2026-09-28.md#par-5) e [re
 
 Iniziamo lo sviluppo dal Pilastro I e destineremo i primi fondi del budget comune e le risorse di calcolo libere ai suoi impegni fondamentali. L'avvio completo dei Pilastri II e III e il finanziamento dei loro progetti con il budget comune richiedono tre condizioni congiunte. Per ciascuna indichiamo quando la considereremo soddisfatta.
 
-1. **Una votazione funzionante.** Omniforum con una votazione vincolante, cioè una votazione il cui risultato viene attuato dalla fondazione (le consultazioni non bastano). Vogliamo basarla sulle prove a conoscenza zero: un modo per confermare il diritto di voto senza rivelare chi ha votato in che modo. La scelta deve restare segreta, deve essere possibile verificare che il voto sia stato conteggiato e ogni persona avente diritto deve avere un solo voto efficace. La condizione è soddisfatta dopo almeno una votazione vincolante in cui un test pubblico con premio non sia riuscito a esprimere un secondo voto con la stessa credenziale né a collegare un voto a una persona.
-2. **Riserva.** Fondi effettivamente raccolti per almeno sei mesi di mantenimento di Suveria e Omniforum, intatti dopo aver accantonato l'intero budget del nuovo progetto. La condizione è soddisfatta quando su un conto separato è presente una somma pari a sei volte il costo medio mensile di mantenimento degli ultimi tre mesi e mostriamo l'importo ogni mese nel registro.
+1. **Una votazione funzionante.** OmniForum con una votazione vincolante, cioè una votazione il cui risultato viene attuato dalla fondazione (le consultazioni non bastano). Vogliamo basarla sulle prove a conoscenza zero: un modo per confermare il diritto di voto senza rivelare chi ha votato in che modo. La scelta deve restare segreta, deve essere possibile verificare che il voto sia stato conteggiato e ogni persona avente diritto deve avere un solo voto efficace. La condizione è soddisfatta dopo almeno una votazione vincolante in cui un test pubblico con premio non sia riuscito a esprimere un secondo voto con la stessa credenziale né a collegare un voto a una persona.
+2. **Riserva.** Fondi effettivamente raccolti per almeno sei mesi di mantenimento di Suveria e OmniForum, intatti dopo aver accantonato l'intero budget del nuovo progetto. La condizione è soddisfatta quando su un conto separato è presente una somma pari a sei volte il costo medio mensile di mantenimento degli ultimi tre mesi e mostriamo l'importo ogni mese nel registro.
 3. **Decisione della comunità.** Una votazione aperta all'intera comunità avente diritto alle stesse condizioni. La condizione è soddisfatta quando la comunità approva con il voto una proposta concreta con il budget, l'effetto sulla riserva e un criterio di interruzione.
 
 Non costituiscono la riserva le dichiarazioni di versamenti non effettuati, i saldi dovuti a chi usa i servizi né il denaro vincolato a uno scopo, e un modello dimostrativo della votazione non soddisfa la prima condizione. Se la votazione smette di funzionare o la riserva scende sotto i sei mesi, sospendiamo i nuovi impegni degli ulteriori pilastri e ripristiniamo prima le condizioni.

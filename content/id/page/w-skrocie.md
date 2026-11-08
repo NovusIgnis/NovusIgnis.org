@@ -15,12 +15,12 @@ Yayasan Novus Ignis dari Poznań (KRS 0001269575), yang didirikan oleh Marcin Wo
 
 ## Apa yang ingin kami lakukan
 
-Kami ingin turut membangun internet alternatif yang nilai tertingginya adalah martabat manusia beserta privasi dan kebebasan yang lahir darinya. Suveria dimaksudkan menjadi ruang pribadi untuk bekerja dengan bantuan kecerdasan digital yang bersifat opsional, dilindungi mekanisme pengamanan yang cara kerjanya dapat diperiksa secara independen. Omniforum dimaksudkan menjadi ruang publik bersama tempat setiap orang dapat menyampaikan pendapat dan didengar. Selengkapnya: [manifesto, pendahuluan](../manifest.md#top) dan [Mengapa Novus Ignis](dlaczego.md).
+Kami ingin turut membangun internet alternatif yang nilai tertingginya adalah martabat manusia beserta privasi dan kebebasan yang lahir darinya. Suveria dimaksudkan menjadi ruang pribadi untuk bekerja dengan bantuan kecerdasan digital yang bersifat opsional, dilindungi mekanisme pengamanan yang cara kerjanya dapat diperiksa secara independen. OmniForum dimaksudkan menjadi ruang publik bersama tempat setiap orang dapat menyampaikan pendapat dan didengar. Selengkapnya: [manifesto, pendahuluan](../manifest.md#top) dan [Mengapa Novus Ignis](dlaczego.md).
 
 ## Posisi kami saat ini
 
 - **Berfungsi:** yayasan telah terdaftar, dan manifesto serta whitepaper telah diterbitkan. Yayasan menerima donasi melalui transfer bank dan menampilkan setiap setoran dalam [daftar setoran dan pengeluaran yang terbuka](fundacja-rejestr.md); yang pertama adalah dana pendirian.
-- **Rancangan:** Suveria masih berupa rancangan, sedangkan prototipe pertama Omniforum sedang dibangun.
+- **Rancangan:** Suveria masih berupa rancangan, sedangkan prototipe pertama OmniForum sedang dibangun.
 - **Hipotesis:** kami beranggapan bahwa server bersama yang dibayar berdasarkan penggunaan nyata dapat memberikan lebih banyak kecerdasan digital untuk setiap dolar dibandingkan layanan tertutup; kami belum mengujinya (manifesto, bagian 2.4).
 - **Visi:** pengelolaan mandiri oleh kecerdasan digital dan pilar-pilar selanjutnya. Peluncuran penuh pilar-pilar selanjutnya merupakan arah yang masih jauh; sebelumnya hanya dimungkinkan inisiatif kecil dengan akhir yang ditentukan. Saat ini yayasan dikelola manusia.
 
@@ -39,7 +39,7 @@ Daftar lengkap: [manifesto, bab 9](../manifest.md#s9).
 
 ## Apa yang kami cari
 
-Pada awalnya, kami terutama mencari beberapa orang untuk bersama-sama membangun dan menguji versi pertama Suveria dan Omniforum:
+Pada awalnya, kami terutama mencari beberapa orang untuk bersama-sama membangun dan menguji versi pertama Suveria dan OmniForum:
 
 - orang yang bekerja dalam keamanan, kriptografi, dan infrastruktur;
 - pemrogram dan perancang antarmuka;

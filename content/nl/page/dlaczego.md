@@ -13,7 +13,7 @@ Deze pagina vertelt in het kort waarom Stichting Novus Ignis is ontstaan en door
 
 Digitale intelligentie leert van wat mensen schrijven en doen. Alles begon met een vraag van de oprichter, Marcin Wołowski: welke patronen van ons eigen gedrag geven we zo aan digitale intelligentie door? Daaruit ontstond het beeld van een andere weg: eerst richten we zelf de wereld in volgens de beginselen die we later ervan verwachten.
 
-We beantwoorden die vraag met een experiment, niet alleen met een beschrijving. We richten een klein stukje wereld volgens die beginselen in en leggen vast hoe dat verloopt, inclusief fouten. Suveria, Omniforum en de stichting zelf zijn de instrumenten van dat experiment. Deze ruimtes kunnen worden gebruikt zonder de verplichting om aan hun ontwikkeling deel te nemen of elk voorstel in het manifest te onderschrijven.
+We beantwoorden die vraag met een experiment, niet alleen met een beschrijving. We richten een klein stukje wereld volgens die beginselen in en leggen vast hoe dat verloopt, inclusief fouten. Suveria, OmniForum en de stichting zelf zijn de instrumenten van dat experiment. Deze ruimtes kunnen worden gebruikt zonder de verplichting om aan hun ontwikkeling deel te nemen of elk voorstel in het manifest te onderschrijven.
 
 Meer: [manifest, paragraaf 1.1](../manifest.md#s1-1) en [paragraaf 1.2](../manifest.md#s1-2).
 
@@ -39,7 +39,7 @@ Uit deze beginselen ontstaan twee werkrichtingen.
 
 **Suveria** moet een persoonlijke digitale privéruimte worden: een plek om te werken met de optionele hulp van digitale intelligentie, waar ideeën kunnen worden ontwikkeld, persoonlijke vragen gesteld en plannen gemaakt. De privacy moet afhangen van onafhankelijk controleerbare beveiliging, in plaats van vertrouwen in de stichting of de mensen die de dienst beheren. Suveria is nu een ontwerp. Zie: [Wat is Suveria](suveria.md).
 
-**Omniforum** moet een gedeelde openbare ruimte worden waar iedereen zich kan uitspreken en gehoord kan worden. Met hulp van digitale intelligentie, altijd onder controle en met toestemming van de auteur, moeten complexe bijdragen in afzonderlijke gedachten kunnen worden opgesplitst. Zo kunnen twee mensen met ogenschijnlijk tegenstrijdige opvattingen zien wat ze delen en waar hun redeneringen uiteenlopen. Het eerste prototype van Omniforum is in aanbouw. Zie: [Wat is Omniforum](omniforum.md).
+**OmniForum** moet een gedeelde openbare ruimte worden waar iedereen zich kan uitspreken en gehoord kan worden. Met hulp van digitale intelligentie, altijd onder controle en met toestemming van de auteur, moeten complexe bijdragen in afzonderlijke gedachten kunnen worden opgesplitst. Zo kunnen twee mensen met ogenschijnlijk tegenstrijdige opvattingen zien wat ze delen en waar hun redeneringen uiteenlopen. Het eerste prototype van OmniForum is in aanbouw. Zie: [Wat is OmniForum](omniforum.md).
 
 Beide ruimtes moeten elkaar aanvullen als privéwerkplaats en openbaar spreekgestoelte. Iedereen beslist zelf welke gedachten die voor zichzelf houdt en welke die in het gezamenlijke werk inbrengt.
 
@@ -49,7 +49,7 @@ Meer: [manifest, inleiding](../manifest.md#top), [paragraaf 3.1](../manifest.md#
 
 Het manifest zegt het duidelijk:
 
-> De stichting is geregistreerd en het manifest en de whitepapers zijn gepubliceerd. Het eerste prototype van Omniforum is in aanbouw en Suveria is een ontwerp. De kostenberekening in paragraaf 2.4 is een te toetsen hypothese. Zelfstandig beheer door digitale intelligentie (paragraaf 7.2) en de verdere pijlers (hoofdstuk 9) zijn een visie.
+> De stichting is geregistreerd en het manifest en de whitepapers zijn gepubliceerd. Het eerste prototype van OmniForum is in aanbouw en Suveria is een ontwerp. De kostenberekening in paragraaf 2.4 is een te toetsen hypothese. Zelfstandig beheer door digitale intelligentie (paragraaf 7.2) en de verdere pijlers (hoofdstuk 9) zijn een visie.
 
 De whitepapers zijn documenten die met de projecten meegroeien: ze beschrijven de technische en organisatorische manieren om deze ideeën te verwezenlijken, hun onderbouwing en bekende beperkingen.
 

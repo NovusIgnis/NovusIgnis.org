@@ -9,7 +9,7 @@ menu: Who we are
 
 This page briefly describes what the Novus Ignis Foundation is as an organization. The details are set out in the Foundation Principles whitepaper, linked from every section.
 
-We are a foundation from Poznań (KRS 0001269575) that wants to build an alternative internet based on human dignity. Our first pillar consists of two services that we are still building: Suveria, a private space for working with digital intelligence, and Omniforum, a shared space for conversation, understanding and decisions. We are at the very beginning: the foundation is registered, the documents are published, and the services are still being created.
+We are a foundation from Poznań (KRS 0001269575) that wants to build an alternative internet based on human dignity. Our first pillar consists of two services that we are still building: Suveria, a private space for working with digital intelligence, and OmniForum, a shared space for conversation, understanding and decisions. We are at the very beginning: the foundation is registered, the documents are published, and the services are still being created.
 
 It all began with a question from the founder, Marcin Wołowski: what patterns of our own conduct are we passing on to digital intelligence while it is being trained?
 
@@ -27,7 +27,7 @@ Novus Ignis is an entity without shareholders: it pays out no profit to anyone, 
 | Statute, manifesto and whitepapers | published |
 | Statute change register | operating |
 | Suveria | at the design stage |
-| Omniforum | prototype under construction |
+| OmniForum | prototype under construction |
 | Regulations | to be created |
 | Other registers: contributions and expenses, benefits, decisions, errors, and an append-only register (one in which entries cannot be quietly changed or deleted) | to be created |
 
@@ -54,7 +54,7 @@ To make the budget understandable, we divide money into five kinds:
 - **funds owed to users:** participants' unused prepayments and balances;
 - **money entrusted for a specific purpose:** earmarked donations, to be spent only on that purpose;
 - **commitments made:** money already allocated to planned expenses;
-- **reserve for maintaining the services:** a reserve without which Suveria and Omniforum would stop working;
+- **reserve for maintaining the services:** a reserve without which Suveria and OmniForum would stop working;
 - **funds free to allocate:** what remains after deducting the rest, and what we have yet to decide about.
 
 We keep the public register of contributions and expenses on the [Register of contributions and expenses](fundacja-rejestr.md) page.
@@ -73,7 +73,7 @@ More: [Foundation Principles whitepaper, chapter 5](../whitepaper-zasady-fundacj
 
 ## Power that can be handed over
 
-The foundation was established by one person, Marcin Wołowski, who today holds the most power in it: the founder appoints and dismisses the board. The statute can be changed only by the whole board unanimously, and when the founder does not sit on it, the founder's consent is also required. We do not want it to stay this way: the founder wants to use Suveria and Omniforum on the same terms as everyone else and to step back from a permanent public role.
+The foundation was established by one person, Marcin Wołowski, who today holds the most power in it: the founder appoints and dismisses the board. The statute can be changed only by the whole board unanimously, and when the founder does not sit on it, the founder's consent is also required. We do not want it to stay this way: the founder wants to use Suveria and OmniForum on the same terms as everyone else and to step back from a permanent public role.
 
 The handover is meant to be effective on paper and in practice: besides changing the statute, access to bank accounts, domains and infrastructure has to be handed over. The responsibility handover plan will set the date of the first review and regular progress reports. We appoint people to the board for their competence and a shared direction, never for a contribution.
 

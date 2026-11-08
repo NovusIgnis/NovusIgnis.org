@@ -2,6 +2,11 @@
  "dokument": "manifest.md",
  "wersje": [
   {
+   "data": "2026-11-08",
+   "poprzednia": "2026-11-03",
+   "opis": "Mudamos a grafia do nome Omniforum para OmniForum, assim como nos nomes OmniActa e OmniVox. Fora isso, o conteúdo do documento não mudou. Versão: 8 de novembro de 2026."
+  },
+  {
    "data": "2026-11-03",
    "poprzednia": "2026-10-31",
    "opis": "No manifesto, na seção 8.1, acrescentamos um parágrafo sobre o princípio que chamamos de educação pelo exemplo honesto (*Alignment by Honest Example*): procuramos conduzir a fundação como gostaríamos que a inteligência digital administrasse um dia os assuntos que lhe fossem confiados. O princípio já estava em nossos rascunhos anteriores de setembro de 2026; na revisão editorial anterior à publicação, suas implicações permaneceram (seções 1.1 e 8.1), mas perdemos o nome e a justificativa. Por quê: sem a justificativa, é difícil compreender por que mantemos registros tão detalhados de decisões e erros. Versão do manifesto: 3 de novembro de 2026."

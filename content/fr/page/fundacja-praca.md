@@ -46,7 +46,7 @@ Pour en savoir plus : [livre blanc sur les principes de la fondation, point 5.3
 
 ## Des outils pour les bénévoles
 
-Tant que nous n’avons pas nos propres serveurs, nous pouvons couvrir le coût des outils nécessaires aux bénévoles pour créer et tester le code ouvert de Suveria (l’espace privé de travail avec l’intelligence numérique) et d’Omniforum (l’espace commun de conversation, de compréhension et de décision), par exemple l’accès aux modèles d’intelligence numérique. La condition : disposer de fonds du Pilier I, c’est-à-dire la première étape du travail de la fondation constituée de ces deux services, ou de dons affectés. Ce soutien a une limite publique dans le budget et n’est pas une rémunération ; nous confirmerons son périmètre dans un avis juridique.
+Tant que nous n’avons pas nos propres serveurs, nous pouvons couvrir le coût des outils nécessaires aux bénévoles pour créer et tester le code ouvert de Suveria (l’espace privé de travail avec l’intelligence numérique) et d’OmniForum (l’espace commun de conversation, de compréhension et de décision), par exemple l’accès aux modèles d’intelligence numérique. La condition : disposer de fonds du Pilier I, c’est-à-dire la première étape du travail de la fondation constituée de ces deux services, ou de dons affectés. Ce soutien a une limite publique dans le budget et n’est pas une rémunération ; nous confirmerons son périmètre dans un avis juridique.
 
 Pour en savoir plus : [livre blanc sur les principes de la fondation, point 5.4](../whitepaper-zasady-fundacji.md#s5-4).
 

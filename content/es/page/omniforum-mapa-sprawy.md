@@ -1,6 +1,6 @@
 ---
 tytul: Mapa del asunto y ficha de idea
-opis: Cómo ha de reunir Omniforum los razonamientos de distintas personas en un mapa, mostrar la solidez de una conclusión y llevar de una imagen del futuro al siguiente paso
+opis: Cómo ha de reunir OmniForum los razonamientos de distintas personas en un mapa, mostrar la solidez de una conclusión y llevar de una imagen del futuro al siguiente paso
 grupa: omniforum
 kolejnosc: 4
 menu: Mapa del asunto
@@ -11,9 +11,9 @@ En la página [Cómo funciona la conversación](omniforum-rozmowa.md) describimo
 
 El mapa del asunto es un conjunto ordenado de argumentos, experiencias y preguntas abiertas en torno a una pregunta. La ficha de idea describe una idea: adónde lleva y cuál es el siguiente paso.
 
-El prototipo de Omniforum está en construcción. Todo lo que describimos a continuación es un proyecto; todavía no hemos terminado ninguna prueba.
+El prototipo de OmniForum está en construcción. Todo lo que describimos a continuación es un proyecto; todavía no hemos terminado ninguna prueba.
 
-Más información: [whitepaper de Omniforum, capítulo 1](../whitepaper-omniforum.md#s1).
+Más información: [whitepaper de OmniForum, capítulo 1](../whitepaper-omniforum.md#s1).
 
 ## De una cadena de pensamientos al mapa
 
@@ -23,7 +23,7 @@ El mapa del asunto reúne cadenas de distintas personas, también las que se con
 
 Un asunto es una pregunta a la que alguien quiere volver porque quiere comprender algo, comparar o hacer algo en común. Un enlace permanente lleva a todo lo relacionado con ella: la pregunta, las fuentes, los argumentos, el estado del conocimiento y el historial de cambios. Un asunto privado se lleva en Suveria (el espacio privado de trabajo con la inteligencia digital); un registro compartido de asuntos es un rumbo que comprobaremos en una prueba aparte.
 
-Más información: [whitepaper de Omniforum, capítulo 5](../whitepaper-omniforum.md#s5) y [apartado 5.1](../whitepaper-omniforum.md#s5-1).
+Más información: [whitepaper de OmniForum, capítulo 5](../whitepaper-omniforum.md#s5) y [apartado 5.1](../whitepaper-omniforum.md#s5-1).
 
 ## Cómo se lee el mapa
 
@@ -31,7 +31,7 @@ El mapa ha de abrirse con calma. Primero ves una conclusión principal con una b
 
 Cuando vuelvas al tema después de una semana o de un año, has de ver solo lo que ha cambiado: experiencias nuevas, correcciones, resultados de pruebas y preguntas aún abiertas. Tras revisar los cambios recibes una indicación clara de que eso es todo y puedes volver con calma a tus ocupaciones.
 
-Más información: [whitepaper de Omniforum, capítulo 5](../whitepaper-omniforum.md#s5) y [apartado 1.1](../whitepaper-omniforum.md#s1-1).
+Más información: [whitepaper de OmniForum, capítulo 5](../whitepaper-omniforum.md#s5) y [apartado 1.1](../whitepaper-omniforum.md#s1-1).
 
 ## Cuán sólida es la conclusión
 
@@ -43,9 +43,9 @@ Junto a la conclusión queremos mostrar por separado tres cosas:
 
 Una medida no sustituye a otra: el acuerdo pleno de los participantes basado en un solo testimonio sin verificar sigue dejando una conclusión débil. Todavía tenemos que desarrollar la escala de estas evaluaciones, y no añadimos una incertidumbre aparente a hechos bien establecidos.
 
-El manifiesto divide la reflexión común en hechos (lo que se puede verificar), valores (necesidades y convicciones sobre lo que es correcto) e hipótesis, es decir, ideas audaces con la condición señalada de «qué tendría que hacerse posible para que esto funcione». Sobre los hechos deciden las fuentes, no el número de votos; en las cuestiones de valores, cada persona es un punto de referencia igual. En Omniforum, cada pensamiento ha de recibir una de esas indicaciones.
+El manifiesto divide la reflexión común en hechos (lo que se puede verificar), valores (necesidades y convicciones sobre lo que es correcto) e hipótesis, es decir, ideas audaces con la condición señalada de «qué tendría que hacerse posible para que esto funcione». Sobre los hechos deciden las fuentes, no el número de votos; en las cuestiones de valores, cada persona es un punto de referencia igual. En OmniForum, cada pensamiento ha de recibir una de esas indicaciones.
 
-Más información: [whitepaper de Omniforum, capítulo 5](../whitepaper-omniforum.md#s5) y [manifiesto, apartado 5.1](../manifest.md#s5-1).
+Más información: [whitepaper de OmniForum, capítulo 5](../whitepaper-omniforum.md#s5) y [manifiesto, apartado 5.1](../manifest.md#s5-1).
 
 ## Ficha de idea
 
@@ -62,7 +62,7 @@ Las visiones audaces son fáciles de descartar como alejadas de la realidad, y l
 
 La ficha no es un solo pensamiento, sino una vista de muchos conceptos, afirmaciones, fuentes, condiciones y pruebas relacionados entre sí. Las primeras fichas han de ser las ideas de nuestro manifiesto.
 
-Más información: [whitepaper de Omniforum, apartado 5.2](../whitepaper-omniforum.md#s5-2).
+Más información: [whitepaper de OmniForum, apartado 5.2](../whitepaper-omniforum.md#s5-2).
 
 ## De la idea a la iniciativa
 
@@ -70,7 +70,7 @@ Cuando la conversación lleva a un acuerdo común sobre qué vale la pena hacer,
 
 Antes de llegar a una decisión sobre dinero común, necesita lo que el manifiesto llama senda verde: una sucesión de conexiones que muestra el apoyo en los hechos y el acuerdo de la comunidad sobre los valores que la sustentan. Después vienen decisiones separadas: sobre el objetivo, sobre seguir trabajando, sobre el presupuesto estimado y sobre la ejecución; el acuerdo sobre el objetivo no determina el costo ni el plazo. Hasta que exista la votación vinculante, las toma la junta directiva tras realizar consultas. Al terminar publicamos el costo real, el resultado y las conclusiones, también cuando la prueba fracasa.
 
-Más información: [whitepaper de Omniforum, apartado 5.3](../whitepaper-omniforum.md#s5-3) y [manifiesto, apartado 5.3](../manifest.md#s5-3).
+Más información: [whitepaper de OmniForum, apartado 5.3](../whitepaper-omniforum.md#s5-3) y [manifiesto, apartado 5.3](../manifest.md#s5-3).
 
 ## Qué mostramos más arriba y qué no
 
@@ -85,10 +85,10 @@ En este último, un argumento sube cuando lo aceptan personas que valoran de for
 
 En primer plano han de estar el contenido y la fuente con su fecha. No mantenemos contadores públicos de aportaciones ni rankings de personas, porque fomentan la competencia y llenar el mapa de entradas, también mediante bots. Queremos que la visibilidad siga a lo que aclara el asunto y no a lo que más agita las emociones.
 
-Más información: [whitepaper de Omniforum, capítulo 6](../whitepaper-omniforum.md#s6).
+Más información: [whitepaper de OmniForum, capítulo 6](../whitepaper-omniforum.md#s6).
 
 ## Lee y dinos qué piensas
 
-Encontrarás la descripción completa de los mapas, las fichas y las iniciativas en el [whitepaper de Omniforum](../whitepaper-omniforum.md), sobre todo en los capítulos 5 y 6. Si algo te plantea dudas o te parece incorrecto, selecciona ese fragmento del documento y usa el botón «Tengo un comentario» o escribe a salve@novusignis.org.
+Encontrarás la descripción completa de los mapas, las fichas y las iniciativas en el [whitepaper de OmniForum](../whitepaper-omniforum.md), sobre todo en los capítulos 5 y 6. Si algo te plantea dudas o te parece incorrecto, selecciona ese fragmento del documento y usa el botón «Tengo un comentario» o escribe a salve@novusignis.org.
 
-Más información: [whitepaper de Omniforum, apartado 5.5](../whitepaper-omniforum.md#s5-5).
+Más información: [whitepaper de OmniForum, apartado 5.5](../whitepaper-omniforum.md#s5-5).

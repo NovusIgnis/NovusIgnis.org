@@ -72,7 +72,7 @@
     "grid_title": "DRIE PIJLERS",
     "col1": {
       "badge": "PIJLER I · HIER BEGINNEN WE",
-      "title": "Suveria en Omniforum",
+      "title": "Suveria en OmniForum",
       "r1_h": "Privéruimte",
       "r2_h": "Gezamenlijk begrip",
       "r3_h": "Diensten dicht bij kostprijs"
@@ -103,12 +103,12 @@
   },
   "meta": {
     "title": "Novus Ignis · Een internet gebaseerd op menselijke waardigheid",
-    "description": "Stichting Novus Ignis geeft mede vorm aan een alternatief internet met menselijke waardigheid als hoogste waarde. Suveria: een digitale privéruimte. Omniforum: een gedeelde ruimte voor gesprek en besluiten."
+    "description": "Stichting Novus Ignis geeft mede vorm aan een alternatief internet met menselijke waardigheid als hoogste waarde. Suveria: een digitale privéruimte. OmniForum: een gedeelde ruimte voor gesprek en besluiten."
   },
   "hub": {
     "badge": "STICHTING NOVUS IGNIS",
     "title": "Een internet gebaseerd op<br><span class=\"gradient-text--fire\">menselijke waardigheid</span>",
-    "subtitle": "We beginnen onze activiteiten met het samen vormgeven van een alternatief internet waarin menselijke waardigheid en de daaruit voortvloeiende behoefte aan privacy en vrijheid de hoogste waarde vormen. Uit deze waarden leiden we twee werkrichtingen af: <strong>Suveria</strong>, een persoonlijke digitale privéruimte, en <strong>Omniforum</strong>, een gedeelde openbare ruimte waar mensen elkaar kunnen ontmoeten, begrijpen en samen kunnen handelen.",
+    "subtitle": "We beginnen onze activiteiten met het samen vormgeven van een alternatief internet waarin menselijke waardigheid en de daaruit voortvloeiende behoefte aan privacy en vrijheid de hoogste waarde vormen. Uit deze waarden leiden we twee werkrichtingen af: <strong>Suveria</strong>, een persoonlijke digitale privéruimte, en <strong>OmniForum</strong>, een gedeelde openbare ruimte waar mensen elkaar kunnen ontmoeten, begrijpen en samen kunnen handelen.",
     "cta_manifesto": "Lees het manifest",
     "cta_docs": "Manifest en whitepapers",
     "docs_title": "Manifest, whitepapers en statuten",
@@ -162,7 +162,7 @@
       "works": "Werkt",
       "works_text": "De stichting is geregistreerd en het manifest en de whitepapers zijn gepubliceerd. Bij elke zin van de documenten werkt de knop “Ik heb een opmerking”.",
       "project": "Ontwerp",
-      "project_text": "Het eerste prototype van Omniforum is in aanbouw en Suveria is een ontwerp.",
+      "project_text": "Het eerste prototype van OmniForum is in aanbouw en Suveria is een ontwerp.",
       "hypothesis": "Hypothese",
       "hypothesis_text": "De kostenberekening is een te toetsen hypothese: al een kleine groep kan per dollar meer digitale intelligentie krijgen dan bij gesloten diensten, met controleerbare privacy.",
       "vision": "Visie",
@@ -174,9 +174,9 @@
       "suveria_title": "Suveria",
       "suveria_text": "Suveria moet een privéruimte op internet worden waar iemand met digitale intelligentie praat, aan eigen materiaal werkt en naar eerdere gedachten terugkeert, zoals thuis achter een gesloten deur. Suveria is nu onze beste weg naar privéwerk met digitale intelligentie, geen doel op zich.",
       "suveria_link": "Wat is Suveria →",
-      "omniforum_title": "Omniforum",
-      "omniforum_text": "Omniforum moet een plek worden waar iedereen zich over elk onderwerp kan uitspreken en gehoord kan worden. Een eenvoudige vraag, “dus je wilt dit en dat zeggen, begrijp ik je goed?”, verandert de gesprekstoon aan beide kanten. De hele technische laag van Omniforum moet juist die reflex ondersteunen.",
-      "omniforum_link": "Wat is Omniforum →"
+      "omniforum_title": "OmniForum",
+      "omniforum_text": "OmniForum moet een plek worden waar iedereen zich over elk onderwerp kan uitspreken en gehoord kan worden. Een eenvoudige vraag, “dus je wilt dit en dat zeggen, begrijp ik je goed?”, verandert de gesprekstoon aan beide kanten. De hele technische laag van OmniForum moet juist die reflex ondersteunen.",
+      "omniforum_link": "Wat is OmniForum →"
     },
     "help": {
       "title": "Hoe je kunt helpen",
@@ -184,7 +184,7 @@
       "m5_text": "Lees de inleiding van het manifest, markeer een onduidelijke zin of een zin waarmee je het oneens bent en klik op “Ik heb een opmerking”.",
       "m5_model": "Als je ons via een model leest, vraag het ook naar onze zwakste punten en stuur ons wat het vindt.",
       "h1_title": "Een uur",
-      "h1_text": "Bekijk de whitepaper uit je eigen vakgebied: <a href=\"#\" data-doc-link=\"suveria\">beveiliging en infrastructuur (Suveria)</a>, <a href=\"#\" data-doc-link=\"fundacja\">recht en financiën (werkingsregels van de stichting)</a>, <a href=\"#\" data-doc-link=\"benchmark\">onderzoek (materiaal en benchmark)</a>, <a href=\"#\" data-doc-link=\"omniforum\">gesprek en besluiten (Omniforum)</a>.",
+      "h1_text": "Bekijk de whitepaper uit je eigen vakgebied: <a href=\"#\" data-doc-link=\"suveria\">beveiliging en infrastructuur (Suveria)</a>, <a href=\"#\" data-doc-link=\"fundacja\">recht en financiën (werkingsregels van de stichting)</a>, <a href=\"#\" data-doc-link=\"benchmark\">onderzoek (materiaal en benchmark)</a>, <a href=\"#\" data-doc-link=\"omniforum\">gesprek en besluiten (OmniForum)</a>.",
       "more_title": "Meer tijd",
       "more_text": "Help de eerste versies bouwen: de rollen en wat we nodig hebben staan op de pagina <a href=\"#\" data-page-link=\"dolacz\">Doe mee</a>.",
       "money_title": "Financiële steun",
@@ -194,9 +194,9 @@
     "join_page": "Bekijk de rollen en schrijf ons",
     "next": {
       "title": "Wat je nu kunt doen",
-      "status": "De stichting is actief, de documenten zijn beschikbaar en het openbare bijdragenregister is in gebruik. Suveria en Omniforum zijn ontwerpen waaraan we werken.",
+      "status": "De stichting is actief, de documenten zijn beschikbaar en het openbare bijdragenregister is in gebruik. Suveria en OmniForum zijn ontwerpen waaraan we werken.",
       "wait_title": "Laat weten dat je het wilt proberen",
-      "wait_text": "Meld je aan voor de wachtlijst. We schrijven je wanneer de eerste proeven met Suveria en Omniforum beginnen.",
+      "wait_text": "Meld je aan voor de wachtlijst. We schrijven je wanneer de eerste proeven met Suveria en OmniForum beginnen.",
       "wait_btn": "Op de wachtlijst",
       "wait_note": "Stuur een bericht met het onderwerp al ingevuld. We gebruiken je adres alleen voor dat ene bericht en verwijderen het direct als je daarom vraagt. <a href=\"twoje-dane.html\">Je gegevens</a>",
       "read_title": "Lees meer",
@@ -226,7 +226,7 @@
     "docs": {
       "manifest": "Manifest",
       "suveria": "Whitepaper Suveria",
-      "omniforum": "Whitepaper Omniforum",
+      "omniforum": "Whitepaper OmniForum",
       "fundacja": "Werkingsregels van de stichting",
       "benchmark": "Materiaal en benchmark",
       "statut": "Statuten en wijzigingsregister"
@@ -244,7 +244,7 @@
     "groups": {
       "dlaczego": "Waarom",
       "suveria": "Suveria",
-      "omniforum": "Omniforum",
+      "omniforum": "OmniForum",
       "fundacja": "Stichting",
       "dokumenty": "Documenten",
       "dolacz": "Doe mee",
@@ -260,7 +260,7 @@
     "overview": {
       "dlaczego": "Waarom Novus Ignis",
       "suveria": "Wat is Suveria",
-      "omniforum": "Wat is Omniforum",
+      "omniforum": "Wat is OmniForum",
       "fundacja": "Wie we zijn",
       "dokumenty": "Alle documenten",
       "dolacz": "Wie we zoeken en hoe je begint"

@@ -82,7 +82,7 @@ Saiba mais: [whitepaper de princípios da fundação, seção 12.3](../whitepape
 
 ## Como alteramos os documentos
 
-O manifesto e os whitepapers são documentos vivos. A versão atual apresenta a posição atual da fundação, e o histórico das versões anteriores e dos motivos das correções permanece disponível. Queremos submetê-los à revisão pública no Omniforum, o espaço compartilhado de conversa, compreensão e decisões que estamos construindo, decompondo as teses em moléculas, ou seja, afirmações e argumentos individuais que podem ser verificados.
+O manifesto e os whitepapers são documentos vivos. A versão atual apresenta a posição atual da fundação, e o histórico das versões anteriores e dos motivos das correções permanece disponível. Queremos submetê-los à revisão pública no OmniForum, o espaço compartilhado de conversa, compreensão e decisões que estamos construindo, decompondo as teses em moléculas, ou seja, afirmações e argumentos individuais que podem ser verificados.
 
 Desenvolvemos os princípios organizacionais de forma pública: junto com a proposta de alteração, mostramos seu escopo, sua justificativa e seus efeitos sobre os participantes. Só alteramos o estatuto quando a alteração é necessária para o próximo passo. Também consideramos registrar no estatuto as condições de financiamento dos demais pilares (proposta Z6 no [registro de alterações do estatuto](../statut/rejestr-zmian.md), sujeita à decisão do fundador), para que não dependam apenas da boa vontade da diretoria.
 

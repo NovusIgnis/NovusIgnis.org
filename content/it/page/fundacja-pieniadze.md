@@ -17,14 +17,14 @@ Per saperne di più: [whitepaper sui principi di funzionamento della fondazione,
 
 Non mostriamo un unico importo sul conto, ma suddividiamo il denaro secondo a chi appartiene e a quale scopo è destinato. Il saldo del conto bancario non è un budget da assegnare.
 
-La riserva è denaro accantonato per mantenere Suveria e Omniforum se venissero a mancare i versamenti; il whitepaper la chiama anche copertura del Pilastro I (il Pilastro I è Suveria e Omniforum).
+La riserva è denaro accantonato per mantenere Suveria e OmniForum se venissero a mancare i versamenti; il whitepaper la chiama anche copertura del Pilastro I (il Pilastro I è Suveria e OmniForum).
 
 | Tipo di denaro | Provenienza | Destinazione consentita |
 | --- | --- | --- |
 | Fondi dovuti a chi usa i servizi | Pagamenti anticipati inutilizzati di chi partecipa | Solo per i suoi servizi; si possono recuperare |
 | Denaro affidato per uno scopo preciso | Donazioni vincolate, per esempio al progetto pilota di Suveria | Solo per quello scopo |
 | Impegni assunti | Denaro già destinato a spese pianificate | Solo per quelle spese |
-| Copertura per il mantenimento dei servizi | Riserva costruita con donazioni, anche con gli arrotondamenti dei conti | Per ciò senza cui Suveria e Omniforum smetterebbero di funzionare |
+| Copertura per il mantenimento dei servizi | Riserva costruita con donazioni, anche con gli arrotondamenti dei conti | Per ciò senza cui Suveria e OmniForum smetterebbero di funzionare |
 | Fondi liberamente disponibili per l'assegnazione | Versamenti senza una destinazione indicata (donazioni, finanziamenti, sovvenzioni, raccolte fondi), dopo aver sottratto tutto quanto sopra | Per nuovi scopi, sempre con priorità al Pilastro I |
 
 Attribuiamo ogni importo a una sola categoria, per non contare nulla due volte. Nella riserva conteggiamo soltanto il denaro effettivamente ricevuto e che non appartiene ad altri; le promesse di versamento non contano.
@@ -78,8 +78,8 @@ Per saperne di più: [whitepaper sui principi di funzionamento della fondazione,
 
 Il Pilastro I ha la priorità. Il Pilastro II «Hardware» (soluzioni materiali aperte) e il Pilastro III «Natura» (contatto con la natura) possono essere finanziati dal budget comune soltanto quando soddisferemo tutte e tre le condizioni:
 
-1. Omniforum funziona con una votazione basata su prove a conoscenza zero, in cui la scelta è segreta, si può verificare se il voto sia stato conteggiato e ogni persona avente diritto ha un voto;
-2. su un conto separato sono presenti fondi effettivamente raccolti per almeno sei mesi di mantenimento di Suveria e Omniforum, intatti dopo aver accantonato l'intero budget del nuovo progetto;
+1. OmniForum funziona con una votazione basata su prove a conoscenza zero, in cui la scelta è segreta, si può verificare se il voto sia stato conteggiato e ogni persona avente diritto ha un voto;
+2. su un conto separato sono presenti fondi effettivamente raccolti per almeno sei mesi di mantenimento di Suveria e OmniForum, intatti dopo aver accantonato l'intero budget del nuovo progetto;
 3. la comunità ha approvato il progetto e il suo finanziamento con una votazione aperta a tutte le persone aventi diritto alle stesse condizioni.
 
 Un modello dimostrativo di votazione, dichiarazioni di versamenti non effettuati o saldi altrui non soddisfano queste condizioni.

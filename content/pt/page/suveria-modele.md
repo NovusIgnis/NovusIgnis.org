@@ -55,7 +55,7 @@ Publicaremos integralmente os princípios segundo os quais o assistente responde
 
 A infraestrutura compartilhada deverá oferecer apenas modelos e configurações que passem pelos testes públicos do benchmark. Acima desse mínimo, você escolhe o estilo de trabalho, de uma organização tranquila dos pensamentos a uma conversa exigente em que o assistente aponta lacunas no raciocínio.
 
-Queremos manter uma biblioteca aberta de instruções verificadas, que os participantes aperfeiçoam no Omniforum (o espaço compartilhado de conversa e decisões) e verificam no benchmark. Essa biblioteca ainda não existe.
+Queremos manter uma biblioteca aberta de instruções verificadas, que os participantes aperfeiçoam no OmniForum (o espaço compartilhado de conversa e decisões) e verificam no benchmark. Essa biblioteca ainda não existe.
 
 Saiba mais: [whitepaper da Suveria, capítulo 4](../whitepaper-suveria.md#s4) e [seção 4.1](../whitepaper-suveria.md#s4-1).
 

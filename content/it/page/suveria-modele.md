@@ -55,7 +55,7 @@ Pubblicheremo integralmente, insieme a ogni versione, i principi secondo cui l'a
 
 L'infrastruttura comune deve rendere disponibili solo modelli e impostazioni che superino le prove pubbliche del benchmark. Oltre questo minimo, sei tu a scegliere lo stile di lavoro, dal riordino calmo dei pensieri a una conversazione impegnativa in cui l'assistente segnala le lacune nel ragionamento.
 
-Vogliamo curare una biblioteca aperta di istruzioni verificate, che chi partecipa migliora in Omniforum (lo spazio comune di conversazione e decisione) e verifica nel benchmark. Questa biblioteca non esiste ancora.
+Vogliamo curare una biblioteca aperta di istruzioni verificate, che chi partecipa migliora in OmniForum (lo spazio comune di conversazione e decisione) e verifica nel benchmark. Questa biblioteca non esiste ancora.
 
 Per saperne di più: [whitepaper di Suveria, capitolo 4](../whitepaper-suveria.md#s4) e [punto 4.1](../whitepaper-suveria.md#s4-1).
 

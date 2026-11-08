@@ -1,10 +1,10 @@
 # Zasady działania fundacji Novus Ignis: utrzymanie, współpraca i przekazywanie władzy
 
-Wersja z 31 października 2026 r. Ten dokument rozwija manifest w sprawach organizacji: jak utrzymujemy usługi, jak gospodarujemy wspólnymi pieniędzmi, jak współpracujemy i jak chcemy przekazywać władzę. Opisuje zasady, które zamierzamy przyjąć jako regulaminy, oraz zmiany statutu, których będą wymagały. Sam whitepaper nie zmienia statutu, kompetencji organów fundacji ani zasad rozliczeń.
+Wersja z 8 listopada 2026 r. Ten dokument rozwija manifest w sprawach organizacji: jak utrzymujemy usługi, jak gospodarujemy wspólnymi pieniędzmi, jak współpracujemy i jak chcemy przekazywać władzę. Opisuje zasady, które zamierzamy przyjąć jako regulaminy, oraz zmiany statutu, których będą wymagały. Sam whitepaper nie zmienia statutu, kompetencji organów fundacji ani zasad rozliczeń.
 
 ## 1. Statut, manifest, regulaminy i ten dokument
 
-Fundacja Novus Ignis z Poznania (KRS 0001269575) chce budować alternatywny internet oparty na godności człowieka. Jej pierwszy filar to dwie usługi: Suveria, prywatna przestrzeń pracy z cyfrową inteligencją, i Omniforum, wspólna przestrzeń rozmowy, rozumienia i decyzji. Ten dokument opisuje, jak fundacja zamierza decydować, rozliczać pieniądze, organizować pracę i przekazywać odpowiedzialność; wartości i kierunek opisuje manifest.
+Fundacja Novus Ignis z Poznania (KRS 0001269575) chce budować alternatywny internet oparty na godności człowieka. Jej pierwszy filar to dwie usługi: Suveria, prywatna przestrzeń pracy z cyfrową inteligencją, i OmniForum, wspólna przestrzeń rozmowy, rozumienia i decyzji. Ten dokument opisuje, jak fundacja zamierza decydować, rozliczać pieniądze, organizować pracę i przekazywać odpowiedzialność; wartości i kierunek opisuje manifest.
 
 Novus Ignis jest polską fundacją zarejestrowaną w Unii Europejskiej (Poznań). W kategoriach międzynarodowych to podmiot bez udziałowców, który nikomu nie wypłaca zysku: majątek służy wyłącznie celom ze statutu. Za usługi pobieramy opłaty najwyżej w wysokości ich rzeczywistych kosztów, a rozwój i rezerwę finansujemy z dobrowolnych darowizn.
 
@@ -37,11 +37,11 @@ Dla zasad opisanych niżej najważniejsze są dziś te postanowienia statutu. Fu
 
 ## 2. Faza zwinna: jak decydujemy, zanim zadziała głosowanie
 
-Do czasu uruchomienia wiążącego głosowania społeczności fundacja działa w fazie zwinnej. Zarząd podejmuje bieżące decyzje w granicach prawa i statutu, także wtedy, gdy trzeba szybko odpowiedzieć na zmiany w technologii, w debacie publicznej i w potrzebach ludzi. Nie wstrzymujemy rozwoju do czasu pełnego systemu głosowania: w tym okresie to zarząd decyduje o wydatkach na utrzymanie i rozwój Filaru I, czyli Suverii i Omniforum.
+Do czasu uruchomienia wiążącego głosowania społeczności fundacja działa w fazie zwinnej. Zarząd podejmuje bieżące decyzje w granicach prawa i statutu, także wtedy, gdy trzeba szybko odpowiedzieć na zmiany w technologii, w debacie publicznej i w potrzebach ludzi. Nie wstrzymujemy rozwoju do czasu pełnego systemu głosowania: w tym okresie to zarząd decyduje o wydatkach na utrzymanie i rozwój Filaru I, czyli Suverii i OmniForum.
 
 Statut pozwala zarządowi na więcej, niż chce on wykorzystywać. Naszym celem jest, żeby wszystkie decyzje, które oddajemy społeczności, zapadały w jej głosowaniu i były wiążące. Potrzebujemy do tego mechanizmu, który działa i który umiemy utrzymać, dlatego dochodzimy do niego krokami. Do tego czasu zarząd z wyboru, a nie z obowiązku prawnego, pyta społeczność o zdanie w konsultacjach przy istotnych sprawach i publikuje uzasadnienie każdej istotnej decyzji, także odmowy. Konsultacja nie wymaga weryfikacji uczestników, więc jedna osoba może w niej oddać wiele głosów: pokazuje zdanie uczestników, ale nie jest głosowaniem w rozumieniu statutu. Przed każdą konsultacją zarząd zapowiada, jak potraktuje jej wynik. Uczestnicy mogą każdą decyzję zarządu zakwestionować, a zarząd odpowiada na zastrzeżenia publicznie.
 
-Faza zwinna kończy się stopniowo, tak jak stopniowo rośnie moc głosowania, a każdy krok jest próbą. Najpierw prowadzimy próby bez skutków finansowych, potem głosowania nad prawdziwymi decyzjami o małej, wydzielonej puli i działaniach, które da się odwrócić, a dalej rozszerzamy zakres. Przed każdą próbą zapowiadamy jej zakres, czas trwania i to, jak zarząd potraktuje wynik. Po jej zakończeniu publikujemy podsumowanie: czy wynik dało się wykonać, jak próba wpłynęła na prowadzenie fundacji i podejmowanie decyzji, jakie wykryliśmy błędy i nadużycia oraz co zmieniamy. Zakres rozszerzamy dopiero na podstawie tych podsumowań, bo nie chcemy przyjmować zobowiązań, których nie umiemy dotrzymać. Etapy, weryfikację uczestników i ochronę tajności głosu opisuje [whitepaper Omniforum](whitepaper-omniforum.md). Żeby wynik głosowania wiązał fundację formalnie, a nie tylko z wyboru zarządu, potrzebna jest zmiana statutu (Z4 w rejestrze zmian), bo dziś § 8 jedynie dopuszcza głosowania i konsultacje. Dopóki próba nie potwierdza unikalności każdego głosującego, nazywamy ją konsultacją, a nie głosowaniem w rozumieniu § 8 ust. 2 statutu. Gdy głosowanie przejmie dany rodzaj decyzji, zarząd może wstrzymać wykonanie wyniku tylko z powodów opisanych przed głosowaniem, na przykład wykrytego błędu w protokole, udokumentowanego nadużycia na dużą skalę albo awarii infrastruktury, z jawnym uzasadnieniem i terminem ponownego rozpatrzenia.
+Faza zwinna kończy się stopniowo, tak jak stopniowo rośnie moc głosowania, a każdy krok jest próbą. Najpierw prowadzimy próby bez skutków finansowych, potem głosowania nad prawdziwymi decyzjami o małej, wydzielonej puli i działaniach, które da się odwrócić, a dalej rozszerzamy zakres. Przed każdą próbą zapowiadamy jej zakres, czas trwania i to, jak zarząd potraktuje wynik. Po jej zakończeniu publikujemy podsumowanie: czy wynik dało się wykonać, jak próba wpłynęła na prowadzenie fundacji i podejmowanie decyzji, jakie wykryliśmy błędy i nadużycia oraz co zmieniamy. Zakres rozszerzamy dopiero na podstawie tych podsumowań, bo nie chcemy przyjmować zobowiązań, których nie umiemy dotrzymać. Etapy, weryfikację uczestników i ochronę tajności głosu opisuje [whitepaper OmniForum](whitepaper-omniforum.md). Żeby wynik głosowania wiązał fundację formalnie, a nie tylko z wyboru zarządu, potrzebna jest zmiana statutu (Z4 w rejestrze zmian), bo dziś § 8 jedynie dopuszcza głosowania i konsultacje. Dopóki próba nie potwierdza unikalności każdego głosującego, nazywamy ją konsultacją, a nie głosowaniem w rozumieniu § 8 ust. 2 statutu. Gdy głosowanie przejmie dany rodzaj decyzji, zarząd może wstrzymać wykonanie wyniku tylko z powodów opisanych przed głosowaniem, na przykład wykrytego błędu w protokole, udokumentowanego nadużycia na dużą skalę albo awarii infrastruktury, z jawnym uzasadnieniem i terminem ponownego rozpatrzenia.
 
 ## 3. Usługi możliwie blisko kosztów
 
@@ -102,12 +102,12 @@ W rozliczeniach rozdzielamy pięć rodzajów pieniędzy:
 | Środki należne użytkownikom | Niewykorzystane przedpłaty i salda uczestników | Nie, należą do uczestników |
 | Pieniądze powierzone na określony cel | Darowizny celowe, na przykład na konkretną inicjatywę albo na pilotaż Suverii | Tylko na ten cel |
 | Podjęte zobowiązania | Pieniądze, które już przeznaczyliśmy na zaplanowane wydatki | Nie, są już przeznaczone |
-| Zabezpieczenie utrzymania usług | Rezerwa, bez której Suveria i Omniforum przestałyby działać | Nie, chroni ciągłość usług |
+| Zabezpieczenie utrzymania usług | Rezerwa, bez której Suveria i OmniForum przestałyby działać | Nie, chroni ciągłość usług |
 | Środki wolne do rozdysponowania | To, co zostaje po wszystkich powyższych | Tak, zawsze z pierwszeństwem Filaru I (rozdział 8) |
 
 Każdą kwotę przypisujemy tylko do jednej kategorii, żeby niczego nie liczyć dwa razy.
 
-Koszt utrzymania usług obejmuje wszystko, bez czego Suveria i Omniforum przestałyby działać: moc obliczeniową, przechowywanie danych i kopie, domeny, obsługę płatności oraz obowiązkową księgowość. Dlatego saldo rachunku bankowego nie jest budżetem do rozdysponowania, a rezerwy nie tworzą pieniądze obiecane, ale jeszcze niewpłacone, ani pieniądze należne komuś innemu.
+Koszt utrzymania usług obejmuje wszystko, bez czego Suveria i OmniForum przestałyby działać: moc obliczeniową, przechowywanie danych i kopie, domeny, obsługę płatności oraz obowiązkową księgowość. Dlatego saldo rachunku bankowego nie jest budżetem do rozdysponowania, a rezerwy nie tworzą pieniądze obiecane, ale jeszcze niewpłacone, ani pieniądze należne komuś innemu.
 
 Jawne są kategorie kosztów, warunki większych umów, decyzje i ich uzasadnienia. Każdy wydatek ma dać się połączyć z decyzją, która do niego doprowadziła, i z jej wynikiem. Chronimy przy tym dane osobowe, dane dostępowe i informacje, których ujawnienie zwiększałoby ryzyko dla infrastruktury.
 
@@ -160,13 +160,13 @@ Członkowie zarządu nie zawierają z fundacją odpłatnych umów: statut pozwal
 
 ### 5.4. Własny warsztat i przygotowany kontekst
 
-Przyjęcie zadania ma otwierać jego przestrzeń w środowisku wybranym przez uczestnika. Asystent cyfrowej inteligencji dostaje to, co potrzebne do pracy: wartości fundacji, cel i granice zadania, aktualne ustalenia z Omniforum, istotne argumenty i otwarte pytania, źródła, limit zasobów i sposób oceny wyniku. Uczestnik może sprawdzić ten kontekst, wskazać braki i poprawić sposób przedstawienia własnego stanowiska.
+Przyjęcie zadania ma otwierać jego przestrzeń w środowisku wybranym przez uczestnika. Asystent cyfrowej inteligencji dostaje to, co potrzebne do pracy: wartości fundacji, cel i granice zadania, aktualne ustalenia z OmniForum, istotne argumenty i otwarte pytania, źródła, limit zasobów i sposób oceny wyniku. Uczestnik może sprawdzić ten kontekst, wskazać braki i poprawić sposób przedstawienia własnego stanowiska.
 
 Dołączenie do zadania udostępnia tylko wybrany zakres danych i uprawnień. Przekazanie kontekstu, dostęp do narzędzi i publikacja zapisu pracy wymagają osobno określonych zgód, a prywatne rozmowy, pliki i dane dostępowe pozostają poza tym zakresem, dopóki człowiek świadomie nie zdecyduje inaczej. Zanim udostępnimy takie połączenie, opiszemy, jakie dane opuszczają prywatne środowisko, komu są przekazywane i jak są przetwarzane.
 
 Po przerwie warsztat ma pokazywać, co się zmieniło i gdzie można kontynuować, a wynik i stan zadania mają dać się przekazać następnej osobie bez ujawniania prywatnego otoczenia uczestnika. W próbie sprawdzimy rozpoczęcie zadania, powrót po tygodniu i przekazanie pracy: czas odnajdywania kontekstu, poprawność podsumowań i przestrzeganie granic prywatności.
 
-Dopóki nie mamy własnych serwerów, ze środków Filaru I albo z darowizn celowych możemy pokrywać koszty narzędzi potrzebnych wolontariuszom do tworzenia i testowania otwartego kodu Suverii i Omniforum, na przykład dostępu do modeli przez API czy narzędzi do programowania. Takie wsparcie ma jawny limit w budżecie i nie jest wynagrodzeniem. Pozwala na to ustawa o działalności pożytku publicznego i o wolontariacie (art. 45 ust. 2); zakres takich kosztów potwierdzimy w opinii prawnej.[^wolontariat]
+Dopóki nie mamy własnych serwerów, ze środków Filaru I albo z darowizn celowych możemy pokrywać koszty narzędzi potrzebnych wolontariuszom do tworzenia i testowania otwartego kodu Suverii i OmniForum, na przykład dostępu do modeli przez API czy narzędzi do programowania. Takie wsparcie ma jawny limit w budżecie i nie jest wynagrodzeniem. Pozwala na to ustawa o działalności pożytku publicznego i o wolontariacie (art. 45 ust. 2); zakres takich kosztów potwierdzimy w opinii prawnej.[^wolontariat]
 
 ## 6. Wsparcie osobiste poza fundacją
 
@@ -200,10 +200,10 @@ Chronimy adresy, numery biletów, dane płatnicze i zdrowotne; publikację szcze
 
 ### 8.1. Pierwszeństwo Filaru I i trzy warunki
 
-Filar I obejmuje Suverię i Omniforum. Filar II „Hardware” rozwija otwarte rozwiązania materialne, a Filar III „Natura” inicjatywy związane z kontaktem z naturą. Pełne uruchomienie tych filarów oraz finansowanie ich projektów ze wspólnego budżetu wymaga łącznie (punkt 6.3 manifestu):
+Filar I obejmuje Suverię i OmniForum. Filar II „Hardware” rozwija otwarte rozwiązania materialne, a Filar III „Natura” inicjatywy związane z kontaktem z naturą. Pełne uruchomienie tych filarów oraz finansowanie ich projektów ze wspólnego budżetu wymaga łącznie (punkt 6.3 manifestu):
 
-1. Działającego Omniforum z głosowaniem wykorzystującym dowody z wiedzą zerową, które chroni tajność wyboru, pozwala sprawdzić uwzględnienie głosu i zapewnia jeden skuteczny głos tej samej uprawnionej osoby.
-2. Rzeczywiście zgromadzonych środków na co najmniej sześć miesięcy utrzymania usług Suverii i Omniforum, które pozostają nienaruszone po odłożeniu pełnego budżetu nowego projektu.
+1. Działającego OmniForum z głosowaniem wykorzystującym dowody z wiedzą zerową, które chroni tajność wyboru, pozwala sprawdzić uwzględnienie głosu i zapewnia jeden skuteczny głos tej samej uprawnionej osoby.
+2. Rzeczywiście zgromadzonych środków na co najmniej sześć miesięcy utrzymania usług Suverii i OmniForum, które pozostają nienaruszone po odłożeniu pełnego budżetu nowego projektu.
 3. Decyzji społeczności zatwierdzającej projekt i jego finansowanie w głosowaniu otwartym dla całej uprawnionej społeczności na równych zasadach.
 
 Kiedy uznamy warunek za spełniony:
@@ -251,7 +251,7 @@ Przed przydzieleniem środków publikujemy cel, pełny budżet, źródło finans
 
 ## 9. Przekazanie szczególnych uprawnień fundatora
 
-Fundację założył jeden człowiek, Marcin Wołowski, i dziś to on ma w niej najwięcej władzy. Na początku to naturalne, ale nie chcemy, żeby tak zostało. Fundator chce doprowadzić do tego, żeby mógł korzystać z Suverii, Omniforum i dalszych projektów na takich samych prawach jak inni i wycofać się ze stałej roli publicznej (punkt 7.1 manifestu). To ta sama myśl co w rozdziale 5: odpowiedzialność bierze się na pewien czas, a potem się ją oddaje. Fundacja ma trwać dzięki użyteczności swoich narzędzi, wiedzy dostępnej współtwórcom i zasadom, które pozwalają przejmować odpowiedzialność, a nie dzięki stałej obecności jednej osoby.
+Fundację założył jeden człowiek, Marcin Wołowski, i dziś to on ma w niej najwięcej władzy. Na początku to naturalne, ale nie chcemy, żeby tak zostało. Fundator chce doprowadzić do tego, żeby mógł korzystać z Suverii, OmniForum i dalszych projektów na takich samych prawach jak inni i wycofać się ze stałej roli publicznej (punkt 7.1 manifestu). To ta sama myśl co w rozdziale 5: odpowiedzialność bierze się na pewien czas, a potem się ją oddaje. Fundacja ma trwać dzięki użyteczności swoich narzędzi, wiedzy dostępnej współtwórcom i zasadom, które pozwalają przejmować odpowiedzialność, a nie dzięki stałej obecności jednej osoby.
 
 Dziś statut daje fundatorowi szczególne uprawnienia:
 
@@ -366,7 +366,7 @@ Własny kod i materiały udostępniamy na zasadach, które pozwalają innym z ni
 | --- | --- | --- |
 | Dokumenty, opracowania i teksty strony | CC BY 4.0 | przyjęta |
 | Kod strony novusignis.org | AGPLv3 | przyjęta |
-| Kod usług (Suveria, Omniforum) | AGPLv3 | rozważamy |
+| Kod usług (Suveria, OmniForum) | AGPLv3 | rozważamy |
 | Biblioteki do osadzania na innych stronach | do ustalenia | |
 | Zbiory danych i otwarte instrukcje | do ustalenia | |
 | Własne dostrojone modele | do ustalenia | |
@@ -418,7 +418,7 @@ Docelowo spór o decyzję rozpatruje osoba albo organ niezależny od tego, kto j
 
 ### 12.4. Jak zmieniamy dokumenty i zasady
 
-Manifest i whitepapery są żywymi dokumentami. Chcemy poddawać je publicznemu przeglądowi w Omniforum, rozkładając ich tezy na molekuły, czyli pojedyncze twierdzenia i argumenty, które można sprawdzić. Aktualna wersja przedstawia obecne stanowisko fundacji, a pełna historia wcześniejszych wersji i argumentów pozostaje dostępna, żeby można było ocenić dawne działania, obietnice i powody korekt.
+Manifest i whitepapery są żywymi dokumentami. Chcemy poddawać je publicznemu przeglądowi w OmniForum, rozkładając ich tezy na molekuły, czyli pojedyncze twierdzenia i argumenty, które można sprawdzić. Aktualna wersja przedstawia obecne stanowisko fundacji, a pełna historia wcześniejszych wersji i argumentów pozostaje dostępna, żeby można było ocenić dawne działania, obietnice i powody korekt.
 
 Ochrona godności, prywatności i środków powierzonych fundacji wyznacza stały kierunek jej działania. Reguły organizacyjne rozwijamy jawnie: razem z propozycją zmiany pokazujemy jej zakres, uzasadnienie i skutki dla uczestników. Statut zmieniamy tylko wtedy, gdy zmiana jest potrzebna do kolejnego kroku, i od razu ją stosujemy. Zmiana warunków finansowania dalszych filarów z rozdziału 8 wymaga właściwej procedury oraz poszanowania statutu, prawa i wcześniej przyjętych zobowiązań; do czasu przyjęcia zmiany obowiązują dotychczasowe zasady. Rozważamy też zapis tych warunków w statucie (propozycja Z6 w [rejestrze zmian](statut/rejestr-zmian.md)), żeby nie zależały od samej dobrej woli zarządu.
 

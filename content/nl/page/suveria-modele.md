@@ -55,7 +55,7 @@ We zullen de beginselen volgens welke de assistent antwoordt volledig publiceren
 
 De gezamenlijke infrastructuur moet alleen modellen en instellingen beschikbaar stellen die de openbare benchmarkproeven doorstaan. Boven dat minimum kies jij de werkwijze, van rustig gedachten ordenen tot een veeleisend gesprek waarin de assistent op hiaten in je redenering wijst.
 
-We willen een open bibliotheek van getoetste instructies bijhouden die deelnemers in Omniforum (de gedeelde ruimte voor gesprek en besluiten) verbeteren en in de benchmark toetsen. Die bibliotheek bestaat nog niet.
+We willen een open bibliotheek van getoetste instructies bijhouden die deelnemers in OmniForum (de gedeelde ruimte voor gesprek en besluiten) verbeteren en in de benchmark toetsen. Die bibliotheek bestaat nog niet.
 
 Meer: [whitepaper Suveria, hoofdstuk 4](../whitepaper-suveria.md#s4) en [paragraaf 4.1](../whitepaper-suveria.md#s4-1).
 

@@ -1,19 +1,19 @@
 ---
-tytul: Omniforum’da ortak kararlar
+tytul: OmniForum’da ortak kararlar
 opis: Danışma oylamadan nasıl ayrılır, biyometri olmadan oy hakkı nasıl elde edilmeli, hangi ilkeler her zaman geçerli ve oylamaların bağlayıcılığı neden aşamalı artmalı
 grupa: omniforum
 kolejnosc: 3
 menu: Ortak kararlar
 ---
-# Omniforum’da ortak kararlar
+# OmniForum’da ortak kararlar
 
-Bu sayfa, [Omniforum nedir](omniforum.md) sayfasının ortak kararlar hakkında kısaca anlattıklarını derinleştiriyor: danışma oylamadan nasıl ayrılır, biyometri olmadan oy hakkını nasıl vermek istiyoruz, hangi ilkeler her zaman geçerli ve oylama sonuçları neden vakfı ancak aşamalı olarak bağlamalı.
+Bu sayfa, [OmniForum nedir](omniforum.md) sayfasının ortak kararlar hakkında kısaca anlattıklarını derinleştiriyor: danışma oylamadan nasıl ayrılır, biyometri olmadan oy hakkını nasıl vermek istiyoruz, hangi ilkeler her zaman geçerli ve oylama sonuçları neden vakfı ancak aşamalı olarak bağlamalı.
 
-Bugün hiçbir oylama veya danışma yapılmıyor. Omniforum prototipi yapım aşamasındadır; aşağıda anlattığımız her şey bir tasarımdır.
+Bugün hiçbir oylama veya danışma yapılmıyor. OmniForum prototipi yapım aşamasındadır; aşağıda anlattığımız her şey bir tasarımdır.
 
 Bu, bütün girişimin en zor bölümlerinden biridir; bu yüzden nelerin erişilebilir olduğunu, nelerin üzerinde uzun süre çalışacağımızı açıkça yazıyoruz.
 
-Daha fazlası: [Omniforum teknik raporu, 8. bölüm](../whitepaper-omniforum.md#s8).
+Daha fazlası: [OmniForum teknik raporu, 8. bölüm](../whitepaper-omniforum.md#s8).
 
 ## Olgular, değerler, hipotezler
 
@@ -36,7 +36,7 @@ Vakıf senedi, projelerin gelişim yönü hakkında oylama ve danışmalara izin
 
 Deneme, her oy verenin farklı kişi olduğunu doğrulamadıkça buna vakıf senedi anlamında oylama değil, danışma deriz.
 
-Daha fazlası: [vakıf senedi, § 8](../statut/statut-2026-09-28.md#par-8), [Omniforum teknik raporu, 8.1. madde](../whitepaper-omniforum.md#s8-1) ve [vakıf ilkeleri teknik raporu, 2. bölüm](../whitepaper-zasady-fundacji.md#s2).
+Daha fazlası: [vakıf senedi, § 8](../statut/statut-2026-09-28.md#par-8), [OmniForum teknik raporu, 8.1. madde](../whitepaper-omniforum.md#s8-1) ve [vakıf ilkeleri teknik raporu, 2. bölüm](../whitepaper-zasady-fundacji.md#s2).
 
 ## Oy hakkı nasıl elde edilir
 
@@ -53,7 +53,7 @@ Her yetkinin benzersiz bir belirteç alması amaçlanıyor; böylece aynı kişi
 
 Yolların birleştirilmesi, aynı kişinin ek yetkiler elde etmesi riskini bırakır. Başlangıçta dünyanın her yerinden mümkün olduğunca çok kişinin katılabilmesi için bunu bilinçli kabul ediyoruz; hedef, bir kişinin bir oya sahip olduğu sistem olmaya devam ediyor. Kabul etmeme kararının gerekçesi ve itiraz yolu vardır.
 
-Daha fazlası: [Omniforum teknik raporu, 8.3. madde](../whitepaper-omniforum.md#s8-3) ve [manifesto, 5.2. madde](../manifest.md#s5-2).
+Daha fazlası: [OmniForum teknik raporu, 8.3. madde](../whitepaper-omniforum.md#s8-3) ve [manifesto, 5.2. madde](../manifest.md#s5-2).
 
 ## Her zaman geçerli ilkeler
 
@@ -67,15 +67,15 @@ Bunlar oylama düzenlemesine yazacağımız tasarım ilkeleridir.
 - Harcama önerisi, manifestodaki “yeşil yolu”, yani planın olgusal dayanağını ve arkasındaki seçimlere topluluğun onayını gösteren bağlantılar zincirini gerektirir. Onay eşiğini meselenin önemine, harcamanın ölçeğine ve sonuçların geri döndürülebilirliğine göre önceden belirleriz.
 - Herkes oy vermeden önce, önceden yayımlanmış kısa ve anlaşılır tutum, çekince ve kaynak özetini görür. Anlaşmazlığın tarafları kendi tutumlarının atlandığını bildirebilir; o zaman kendi sunumlarını yanında gösteririz.
 
-Daha fazlası: [Omniforum teknik raporu, 8. bölüm](../whitepaper-omniforum.md#s8), [8.3. madde](../whitepaper-omniforum.md#s8-3) ve [manifesto, 5.3. madde](../manifest.md#s5-3).
+Daha fazlası: [OmniForum teknik raporu, 8. bölüm](../whitepaper-omniforum.md#s8), [8.3. madde](../whitepaper-omniforum.md#s8-3) ve [manifesto, 5.3. madde](../manifest.md#s5-3).
 
 ## Zor meseleler: üç adım
 
-1. Omniforum’da herkesin katılabileceği **açık mesele haritası**.
+1. OmniForum’da herkesin katılabileceği **açık mesele haritası**.
 2. **Kurayla seçilen danışma meclisi**: kamuya açıklanan verilerle herkesin sonucunu denetleyebildiği kurada, oy hakkına sahip kişilerin sicilinden seçilmiş kişiler grubu. Süre, materyal ve önerilerin yazarlarıyla konuşma olanağı elde eder; tavsiye verir, karar almaz.
 3. **Oy hakkına sahip herkesin oylaması.**
 
-Daha fazlası: [Omniforum teknik raporu, 8.4. madde](../whitepaper-omniforum.md#s8-4).
+Daha fazlası: [OmniForum teknik raporu, 8.4. madde](../whitepaper-omniforum.md#s8-4).
 
 ## Aşamalı ve ihtiyatlı
 
@@ -83,9 +83,9 @@ Oylama aşamalı olarak bağlayıcılık kazanacak: önce mali sonuçları olmay
 
 O zamana kadar vakıf çevik aşamada çalışır: yönetim kurulu günlük kararları alır, önemli meselelerde kendi tercihiyle topluluğun görüşünü sorar ve her önemli kararın gerekçesini yayımlar. Oylama ve danışmaların sonuçları resmen tavsiye niteliğindedir. Sonucun vakfı resmen bağlaması için, [vakıf senedi değişiklik sicilinde](../statut/rejestr-zmian.md) Z4 olarak anlatılan senet değişikliği gerekir.
 
-Sonraki sütunların tam başlatılması (dayanıklı nesnelerin açık tasarımları ve doğayla temas), üç koşulun birlikte sağlanmasını gerektirir: aynı kişinin bir geçerli oyunu sağlayan oylama, Suveria ve Omniforum’un altı ay sürdürülmesi için kaynaklar ve topluluğun kararı. İlk koşulu ancak ek oya izin veren yolların yerini tek bir sistem aldığında ve denemeler bunu doğruladığında sağlanmış sayacağız.
+Sonraki sütunların tam başlatılması (dayanıklı nesnelerin açık tasarımları ve doğayla temas), üç koşulun birlikte sağlanmasını gerektirir: aynı kişinin bir geçerli oyunu sağlayan oylama, Suveria ve OmniForum’un altı ay sürdürülmesi için kaynaklar ve topluluğun kararı. İlk koşulu ancak ek oya izin veren yolların yerini tek bir sistem aldığında ve denemeler bunu doğruladığında sağlanmış sayacağız.
 
-Daha fazlası: [Omniforum teknik raporu, 8.5. madde](../whitepaper-omniforum.md#s8-5), [vakıf ilkeleri teknik raporu, 2. bölüm](../whitepaper-zasady-fundacji.md#s2) ve [manifesto, 6.3. madde](../manifest.md#s6-3).
+Daha fazlası: [OmniForum teknik raporu, 8.5. madde](../whitepaper-omniforum.md#s8-5), [vakıf ilkeleri teknik raporu, 2. bölüm](../whitepaper-zasady-fundacji.md#s2) ve [manifesto, 6.3. madde](../manifest.md#s6-3).
 
 ## Bunlar neyi sağlamaz
 
@@ -96,10 +96,10 @@ Daha fazlası: [Omniforum teknik raporu, 8.5. madde](../whitepaper-omniforum.md#
 
 Merkezi kimlik tabanı olmadan kişi başına bir oy, gizlilik ve tüm dünyaya erişimi tam olarak nasıl bağdaştıracağımızı henüz bilmiyoruz. “Bu uzun sürebilir ve bunu açıkça söylüyoruz.”
 
-Daha fazlası: [Omniforum teknik raporu, 8.2. madde](../whitepaper-omniforum.md#s8-2), [8.6. madde](../whitepaper-omniforum.md#s8-6), [8.7. madde](../whitepaper-omniforum.md#s8-7) ve [manifesto, 5.2. madde](../manifest.md#s5-2).
+Daha fazlası: [OmniForum teknik raporu, 8.2. madde](../whitepaper-omniforum.md#s8-2), [8.6. madde](../whitepaper-omniforum.md#s8-6), [8.7. madde](../whitepaper-omniforum.md#s8-7) ve [manifesto, 5.2. madde](../manifest.md#s5-2).
 
 ## Oku ve düşünceni söyle
 
-Tam açıklamayı [Omniforum teknik raporunda](../whitepaper-omniforum.md), 8. bölümde ve [manifestoda](../manifest.md), 5. bölümde bulacaksın. Bir şey aklına takılırsa veya yanlış görünürse belgedeki o bölümü seçip “Bir yorumum var” düğmesini kullan ya da salve@novusignis.org adresine yaz.
+Tam açıklamayı [OmniForum teknik raporunda](../whitepaper-omniforum.md), 8. bölümde ve [manifestoda](../manifest.md), 5. bölümde bulacaksın. Bir şey aklına takılırsa veya yanlış görünürse belgedeki o bölümü seçip “Bir yorumum var” düğmesini kullan ya da salve@novusignis.org adresine yaz.
 
-Daha fazlası: [Omniforum teknik raporu, 5.5. madde](../whitepaper-omniforum.md#s5-5).
+Daha fazlası: [OmniForum teknik raporu, 5.5. madde](../whitepaper-omniforum.md#s5-5).

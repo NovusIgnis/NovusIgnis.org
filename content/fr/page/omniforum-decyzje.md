@@ -1,19 +1,19 @@
 ---
-tytul: Les décisions communes dans Omniforum
+tytul: Les décisions communes dans OmniForum
 opis: Ce qui distingue une consultation d’un vote, comment obtenir le droit de vote sans biométrie, quels principes s’appliquent toujours et pourquoi la force contraignante des votes doit croître progressivement
 grupa: omniforum
 kolejnosc: 3
 menu: Décisions communes
 ---
-# Les décisions communes dans Omniforum
+# Les décisions communes dans OmniForum
 
-Cette page approfondit ce que [Qu’est-ce qu’Omniforum](omniforum.md) présente brièvement au sujet des décisions communes : ce qui distingue une consultation d’un vote, comment nous voulons donner le droit de vote sans biométrie, quels principes s’appliquent toujours et pourquoi les résultats des votes ne doivent lier la fondation que progressivement.
+Cette page approfondit ce que [Qu’est-ce qu’OmniForum](omniforum.md) présente brièvement au sujet des décisions communes : ce qui distingue une consultation d’un vote, comment nous voulons donner le droit de vote sans biométrie, quels principes s’appliquent toujours et pourquoi les résultats des votes ne doivent lier la fondation que progressivement.
 
-Aucun vote ni aucune consultation n’a lieu aujourd’hui. Le prototype d’Omniforum est en construction, et tout ce que nous décrivons ci-dessous est un projet.
+Aucun vote ni aucune consultation n’a lieu aujourd’hui. Le prototype d’OmniForum est en construction, et tout ce que nous décrivons ci-dessous est un projet.
 
 C’est l’une des parties les plus difficiles de l’ensemble du projet ; nous décrivons donc ouvertement ce qui est à portée de main et ce sur quoi nous travaillerons longtemps.
 
-Pour en savoir plus : [livre blanc d’Omniforum, chapitre 8](../whitepaper-omniforum.md#s8).
+Pour en savoir plus : [livre blanc d’OmniForum, chapitre 8](../whitepaper-omniforum.md#s8).
 
 ## Faits, valeurs, hypothèses
 
@@ -36,7 +36,7 @@ Les statuts de la fondation autorisent les votes et les consultations sur l’or
 
 Tant qu’un essai ne confirme pas que chaque votant est une personne distincte, nous l’appelons consultation, et non vote au sens des statuts.
 
-Pour en savoir plus : [statuts, § 8](../statut/statut-2026-09-28.md#par-8), [livre blanc d’Omniforum, point 8.1](../whitepaper-omniforum.md#s8-1) et [livre blanc sur les principes de la fondation, chapitre 2](../whitepaper-zasady-fundacji.md#s2).
+Pour en savoir plus : [statuts, § 8](../statut/statut-2026-09-28.md#par-8), [livre blanc d’OmniForum, point 8.1](../whitepaper-omniforum.md#s8-1) et [livre blanc sur les principes de la fondation, chapitre 2](../whitepaper-zasady-fundacji.md#s2).
 
 ## Comment obtenir le droit de vote
 
@@ -53,7 +53,7 @@ Chaque habilitation doit recevoir un identifiant unique, afin qu’un nouveau do
 
 Combiner les voies laisse subsister le risque qu’une même personne obtienne des habilitations supplémentaires. Au début, nous acceptons ce risque consciemment pour permettre au plus grand nombre de personnes du monde entier de nous rejoindre ; le but reste un système dans lequel une personne a une voix. Tout refus d’admission est accompagné d’une justification et d’une voie de recours.
 
-Pour en savoir plus : [livre blanc d’Omniforum, point 8.3](../whitepaper-omniforum.md#s8-3) et [manifeste, point 5.2](../manifest.md#s5-2).
+Pour en savoir plus : [livre blanc d’OmniForum, point 8.3](../whitepaper-omniforum.md#s8-3) et [manifeste, point 5.2](../manifest.md#s5-2).
 
 ## Les principes qui s’appliquent toujours
 
@@ -67,15 +67,15 @@ Ce sont les principes du projet que nous inscrirons dans le règlement des votes
 - Une demande de dépense exige le « chemin vert » du manifeste, c’est-à-dire une chaîne de liens montrant l’ancrage du plan dans les faits et l’accord de la communauté sur les choix qui le fondent. Nous fixons le seuil d’accord à l’avance selon l’importance du dossier, l’ampleur de la dépense et la réversibilité des effets.
 - Avant de voter, chacun voit une synthèse brève et accessible des positions, des réserves et des sources, publiée à l’avance. Les parties au différend peuvent signaler l’omission de leur position ; nous présentons alors à côté leur propre formulation.
 
-Pour en savoir plus : [livre blanc d’Omniforum, chapitre 8](../whitepaper-omniforum.md#s8), [point 8.3](../whitepaper-omniforum.md#s8-3) et [manifeste, point 5.3](../manifest.md#s5-3).
+Pour en savoir plus : [livre blanc d’OmniForum, chapitre 8](../whitepaper-omniforum.md#s8), [point 8.3](../whitepaper-omniforum.md#s8-3) et [manifeste, point 5.3](../manifest.md#s5-3).
 
 ## Les dossiers difficiles : trois étapes
 
-1. **Une carte ouverte du dossier** dans Omniforum, à laquelle chacun peut participer.
+1. **Une carte ouverte du dossier** dans OmniForum, à laquelle chacun peut participer.
 2. **Une assemblée consultative tirée au sort** : un groupe de personnes tirées du registre des personnes habilitées lors d’un tirage dont chacun peut vérifier le résultat à partir des données publiées. Il reçoit du temps, des matériaux et la possibilité de parler avec les auteurs des demandes ; il conseille, il ne décide pas.
 3. **Un vote de toutes les personnes habilitées.**
 
-Pour en savoir plus : [livre blanc d’Omniforum, point 8.4](../whitepaper-omniforum.md#s8-4).
+Pour en savoir plus : [livre blanc d’OmniForum, point 8.4](../whitepaper-omniforum.md#s8-4).
 
 ## Progressivement et prudemment
 
@@ -83,9 +83,9 @@ Le vote acquerra progressivement une force contraignante : d’abord des essais
 
 D’ici là, la fondation fonctionne dans la phase agile : le conseil d’administration prend les décisions courantes, choisit de consulter la communauté sur les dossiers importants et publie une justification de chaque décision importante. Les résultats des votes et des consultations ont formellement un caractère consultatif. Pour qu’un résultat lie formellement la fondation, il faut une modification des statuts, décrite dans le [registre des modifications des statuts](../statut/rejestr-zmian.md) sous le code Z4.
 
-Le lancement complet des piliers suivants (plans ouverts d’objets durables et contact avec la nature) exige la réunion de trois conditions : un vote garantissant une seule voix effective pour une même personne, des fonds pour six mois d’entretien de Suveria et d’Omniforum et une décision de la communauté. Nous ne considérerons la première condition comme remplie que lorsque les voies permettant des voix supplémentaires auront été remplacées par un système unifié et que les essais l’auront confirmé.
+Le lancement complet des piliers suivants (plans ouverts d’objets durables et contact avec la nature) exige la réunion de trois conditions : un vote garantissant une seule voix effective pour une même personne, des fonds pour six mois d’entretien de Suveria et d’OmniForum et une décision de la communauté. Nous ne considérerons la première condition comme remplie que lorsque les voies permettant des voix supplémentaires auront été remplacées par un système unifié et que les essais l’auront confirmé.
 
-Pour en savoir plus : [livre blanc d’Omniforum, point 8.5](../whitepaper-omniforum.md#s8-5), [livre blanc sur les principes de la fondation, chapitre 2](../whitepaper-zasady-fundacji.md#s2) et [manifeste, point 6.3](../manifest.md#s6-3).
+Pour en savoir plus : [livre blanc d’OmniForum, point 8.5](../whitepaper-omniforum.md#s8-5), [livre blanc sur les principes de la fondation, chapitre 2](../whitepaper-zasady-fundacji.md#s2) et [manifeste, point 6.3](../manifest.md#s6-3).
 
 ## Ce que cela ne garantira pas
 
@@ -96,10 +96,10 @@ Pour en savoir plus : [livre blanc d’Omniforum, point 8.5](../whitepaper-omni
 
 Nous ne savons pas encore comment concilier pleinement une voix par personne sans base centrale d’identités, le secret du vote et l’accès pour le monde entier. « Cela peut prendre longtemps, et nous le disons clairement. »
 
-Pour en savoir plus : [livre blanc d’Omniforum, point 8.2](../whitepaper-omniforum.md#s8-2), [point 8.6](../whitepaper-omniforum.md#s8-6), [point 8.7](../whitepaper-omniforum.md#s8-7) et [manifeste, point 5.2](../manifest.md#s5-2).
+Pour en savoir plus : [livre blanc d’OmniForum, point 8.2](../whitepaper-omniforum.md#s8-2), [point 8.6](../whitepaper-omniforum.md#s8-6), [point 8.7](../whitepaper-omniforum.md#s8-7) et [manifeste, point 5.2](../manifest.md#s5-2).
 
 ## Lisez et dites-nous ce que vous en pensez
 
-Vous trouverez la description complète dans le [livre blanc d’Omniforum](../whitepaper-omniforum.md), chapitre 8, et dans le [manifeste](../manifest.md), chapitre 5. Si quelque chose vous intrigue ou vous paraît erroné, sélectionnez ce passage dans le document et utilisez le bouton « J’ai une remarque », ou écrivez à salve@novusignis.org.
+Vous trouverez la description complète dans le [livre blanc d’OmniForum](../whitepaper-omniforum.md), chapitre 8, et dans le [manifeste](../manifest.md), chapitre 5. Si quelque chose vous intrigue ou vous paraît erroné, sélectionnez ce passage dans le document et utilisez le bouton « J’ai une remarque », ou écrivez à salve@novusignis.org.
 
-Pour en savoir plus : [livre blanc d’Omniforum, point 5.5](../whitepaper-omniforum.md#s5-5).
+Pour en savoir plus : [livre blanc d’OmniForum, point 5.5](../whitepaper-omniforum.md#s5-5).

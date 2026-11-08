@@ -7,7 +7,7 @@ menu: Twoje dane
 ---
 # Twoje dane
 
-Ta strona mówi, jakie Twoje dane osobowe trafiają do fundacji, gdy korzystasz ze strony novusignis.org, i co możesz z nimi zrobić. Suveria i Omniforum są dziś projektami; o danych w tych usługach mówią ich whitepapery.
+Ta strona mówi, jakie Twoje dane osobowe trafiają do fundacji, gdy korzystasz ze strony novusignis.org, i co możesz z nimi zrobić. Suveria i OmniForum są dziś projektami; o danych w tych usługach mówią ich whitepapery.
 
 ## Kto odpowiada za Twoje dane
 
@@ -32,8 +32,8 @@ Wiadomość wysyłasz ze swojej skrzynki, także wtedy, gdy przycisk „Mam uwag
 
 ## Lista oczekujących
 
-- Zapisujesz się, wysyłając wiadomość z tematem „[Lista oczekujących] Suveria i Omniforum”. To Twoja zgoda (art. 6 ust. 1 lit. a RODO).
-- Adresu użyjemy tylko do jednej wiadomości: o tym, że ruszają pierwsze próby Suverii i Omniforum. Po jej wysłaniu usuwamy adres z listy.
+- Zapisujesz się, wysyłając wiadomość z tematem „[Lista oczekujących] Suveria i OmniForum”. To Twoja zgoda (art. 6 ust. 1 lit. a RODO).
+- Adresu użyjemy tylko do jednej wiadomości: o tym, że ruszają pierwsze próby Suverii i OmniForum. Po jej wysłaniu usuwamy adres z listy.
 - Zgodę możesz wycofać w każdej chwili, pisząc do nas; wtedy usuniemy adres od razu. Wycofanie zgody nie zmienia tego, co zrobiliśmy wcześniej na jej podstawie.
 
 ## Darowizny

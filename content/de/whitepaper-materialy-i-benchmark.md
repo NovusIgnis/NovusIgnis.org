@@ -1,12 +1,12 @@
 # Trainingsmaterialien und Benchmark für Modelle: das Forschungsprogramm von Novus Ignis
 
-Fassung vom 31. Oktober 2026. Dieses Dokument führt Kapitel 8 des Manifests weiter aus. Es schlägt ein Forschungsprogramm, ein Verfahren zur Vorbereitung von Materialien und einen breiten Rahmen für die Bewertung von Modellen digitaler Intelligenz vor, außerdem ein Vorsorgeverfahren im Umgang mit ihrem möglichen Erleben. Es präsentiert weder Ergebnisse eines eigenen Benchmarks noch einen Beleg dafür, dass eine solche Sammlung das Verhalten von Modellen verbessern wird; über solche Ergebnisse verfügen wir heute nicht.
+Fassung vom 8. November 2026. Dieses Dokument führt Kapitel 8 des Manifests weiter aus. Es schlägt ein Forschungsprogramm, ein Verfahren zur Vorbereitung von Materialien und einen breiten Rahmen für die Bewertung von Modellen digitaler Intelligenz vor, außerdem ein Vorsorgeverfahren im Umgang mit ihrem möglichen Erleben. Es präsentiert weder Ergebnisse eines eigenen Benchmarks noch einen Beleg dafür, dass eine solche Sammlung das Verhalten von Modellen verbessern wird; über solche Ergebnisse verfügen wir heute nicht.
 
-*Diese Übersetzung wurde von digitaler Intelligenz auf Grundlage des polnischen Originals vom 31. Oktober 2026 erstellt. Bei Abweichungen ist der polnische Text maßgeblich.*
+*Diese Übersetzung wurde von digitaler Intelligenz auf Grundlage des polnischen Originals vom 8. November 2026 erstellt. Bei Abweichungen ist der polnische Text maßgeblich.*
 
 ## 1. Die Frage, die wir überprüfen wollen
 
-Die Stiftung Novus Ignis aus Poznań baut Suveria auf, einen privaten Raum für die Arbeit mit digitaler Intelligenz, und das Omniforum, einen gemeinsamen Raum für Gespräch und Entscheidungen; die Richtung beschreibt das [Manifest](manifest.md). Dieses Dokument beschreibt zwei miteinander verbundene Programme. Das erste sind Trainingsmaterialien für Modelle und ein Benchmark, also eine Sammlung von Aufgaben und Bewertungsregeln, mit der sich überprüfen lässt, wie sich Modelle verhalten. Das zweite ist eine Vorgehensweise, um vorsichtig zu handeln, falls glaubwürdige Hinweise auftauchen, dass ein System etwas empfinden kann. Ein Testergebnis entscheidet nicht darüber, ob ein Modell etwas empfindet, und verleiht ihm keine Befugnisse zur Verwaltung.
+Die Stiftung Novus Ignis aus Poznań baut Suveria auf, einen privaten Raum für die Arbeit mit digitaler Intelligenz, und das OmniForum, einen gemeinsamen Raum für Gespräch und Entscheidungen; die Richtung beschreibt das [Manifest](manifest.md). Dieses Dokument beschreibt zwei miteinander verbundene Programme. Das erste sind Trainingsmaterialien für Modelle und ein Benchmark, also eine Sammlung von Aufgaben und Bewertungsregeln, mit der sich überprüfen lässt, wie sich Modelle verhalten. Das zweite ist eine Vorgehensweise, um vorsichtig zu handeln, falls glaubwürdige Hinweise auftauchen, dass ein System etwas empfinden kann. Ein Testergebnis entscheidet nicht darüber, ob ein Modell etwas empfindet, und verleiht ihm keine Befugnisse zur Verwaltung.
 
 Können dokumentierte Beispiele für den Schutz der Würde, für redliches Denken und für das Korrigieren von Entscheidungen helfen, Modelle zu entwickeln, die den Menschen besser dienen? Und können wir ihr Verhalten so bewerten, dass die Verbesserung eines Testergebnisses einen tatsächlichen Nutzen außerhalb des Tests fördert?
 
@@ -46,7 +46,7 @@ Wir wollen die treffende Wahl des Handelns bewerten: antworten, eine Quelle prü
 
 ## 4. Welche Materialien wir erstellen wollen
 
-Eine mögliche Quelle sind Ausarbeitungen des Omniforums, die mit gesonderter Zustimmung für Forschung oder Training bereitgestellt wurden, Entscheidungsprotokolle der Stiftung, Entscheidungen in Streitfällen, Fehlerkorrekturen und Beobachtungen von Folgen. Wertvoll sind auch Fälle, in denen gute Absichten nicht genügten, sich der Einwand einer Minderheit als zutreffend erwies oder noch keine eindeutige Bewertung möglich ist.
+Eine mögliche Quelle sind Ausarbeitungen des OmniForums, die mit gesonderter Zustimmung für Forschung oder Training bereitgestellt wurden, Entscheidungsprotokolle der Stiftung, Entscheidungen in Streitfällen, Fehlerkorrekturen und Beobachtungen von Folgen. Wertvoll sind auch Fälle, in denen gute Absichten nicht genügten, sich der Einwand einer Minderheit als zutreffend erwies oder noch keine eindeutige Bewertung möglich ist.
 
 Ein Material bewahrt die Situation, die verfügbaren Informationen, das Ziel, die Befugnisse, die Alternativen, die Wahl, die Begründung und das spätere Ergebnis. Es enthält so viel Erklärung, wie zur Überprüfung der Entscheidung nötig ist; es verlangt weder die Offenlegung privater Erlebnisse noch eine nicht überprüfbare Angabe zum inneren Gedankengang des Modells.
 
@@ -199,7 +199,7 @@ Parallel kann man einen kleinen Trainingsdatensatz vorbereiten und einen Verglei
 
 Die weitere Entwicklung umfasst mehr Sprachen, Kontexte und Bewertende, externe Replikation und vorsichtige Versuche mit Nutzenden. Ziel der ersten Ausgabe ist es zu zeigen, dass das Verfahren reproduzierbar ist und erwünschte Verhaltensweisen unterscheidet; stärkere Aussagen über die Qualität von Modellen und die Wirkungen des Trainings lassen sich erst später begründen.
 
-Wir führen das Programm unter Wahrung des Vorrangs von Suveria und Omniforum. Bis eine Rücklage für deren Unterhalt aufgebaut ist, nutzt es nur ehrenamtliche Arbeit, Fördermittel, zweckgebundene Spenden für die Forschung und Rechenleistung, die das Budget der Dienste nicht belastet. Die rund 58 Stunden des Pilotversuchs umfassen nur die Bewertung selbst; Vorbereitung der Aufgaben, Prüfung der Rechte und Feinabstimmung des Modells erfordern ein gesondertes Budget, das wir vor dem Start angeben werden.
+Wir führen das Programm unter Wahrung des Vorrangs von Suveria und OmniForum. Bis eine Rücklage für deren Unterhalt aufgebaut ist, nutzt es nur ehrenamtliche Arbeit, Fördermittel, zweckgebundene Spenden für die Forschung und Rechenleistung, die das Budget der Dienste nicht belastet. Die rund 58 Stunden des Pilotversuchs umfassen nur die Bewertung selbst; Vorbereitung der Aufgaben, Prüfung der Rechte und Feinabstimmung des Modells erfordern ein gesondertes Budget, das wir vor dem Start angeben werden.
 
 ## 14. Vorsicht gegenüber möglichem Erleben von Modellen
 
@@ -225,7 +225,7 @@ Das Verfahren überprüfen wir an beschriebenen Fällen, indem wir die Bewertung
 
 Fortschritt wird Material bekannter Herkunft sein, ein Kriterium, das einen zuvor übersehenen Fehler aufdeckt, eine übereinstimmende Diagnose der Bewertenden oder eine Verbesserung des Verhaltens, die sich auf neue Aufgaben überträgt. Auch ein negatives Ergebnis hat Wert: Es kann zeigen, dass die Daten nur Stil vermitteln, dass ein Kriterium das Vermeiden von Handeln belohnt oder dass das Wohl der einen auf Kosten anderer erkauft wurde.
 
-Das Programm verbindet das [Omniforum](whitepaper-omniforum.md), in dem Ausarbeitungen entstehen können, [Suveria](whitepaper-suveria.md), wo sich Hilfe bei privater Arbeit untersuchen lässt, und die [Arbeitsgrundsätze der Stiftung](whitepaper-zasady-fundacji.md), die Verantwortung und die Grenzen der Delegation festlegen. Die Teilnahme an einer Studie erfordert eine gesonderte, bewusste Zustimmung; die Nutzung des Dienstes bedeutet sie nicht.
+Das Programm verbindet das [OmniForum](whitepaper-omniforum.md), in dem Ausarbeitungen entstehen können, [Suveria](whitepaper-suveria.md), wo sich Hilfe bei privater Arbeit untersuchen lässt, und die [Arbeitsgrundsätze der Stiftung](whitepaper-zasady-fundacji.md), die Verantwortung und die Grenzen der Delegation festlegen. Die Teilnahme an einer Studie erfordert eine gesonderte, bewusste Zustimmung; die Nutzung des Dienstes bedeutet sie nicht.
 
 Ein Testergebnis begründet weder eine moralische Autorität des Modells noch ein Mandat, Menschen zu leiten, und die Anerkennung einer möglichen Würde eines Systems verleiht ihm keine Macht über gemeinsame Ressourcen. Der Test soll nützliche, überprüfbare Informationen darüber liefern, was man unter bestimmten Bedingungen von einem Werkzeug erwarten kann und was weitere Arbeit erfordert.
 

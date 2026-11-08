@@ -15,12 +15,12 @@ The Novus Ignis Foundation from Poznań (KRS 0001269575), founded by Marcin Woł
 
 ## What we want to do
 
-We want to co-create an alternative internet whose highest value is human dignity, together with the privacy and freedom that follow from it. Suveria is to be a private space for work with optional help from digital intelligence, protected by safeguards whose operation can be independently verified. Omniforum is to be a shared public space where anyone can speak and be heard. More: [manifesto, introduction](../manifest.md#top) and [Why Novus Ignis](dlaczego.md).
+We want to co-create an alternative internet whose highest value is human dignity, together with the privacy and freedom that follow from it. Suveria is to be a private space for work with optional help from digital intelligence, protected by safeguards whose operation can be independently verified. OmniForum is to be a shared public space where anyone can speak and be heard. More: [manifesto, introduction](../manifest.md#top) and [Why Novus Ignis](dlaczego.md).
 
 ## Where we are today
 
 - **Working:** the foundation is registered, and the manifesto and whitepapers are published. The foundation accepts donations by bank transfer and shows every payment in the [public register of contributions and expenses](fundacja-rejestr.md); the first one was the founding fund.
-- **Design:** Suveria is at the design stage, and Omniforum has a first prototype under construction.
+- **Design:** Suveria is at the design stage, and OmniForum has a first prototype under construction.
 - **Hypothesis:** we assume that shared servers paid for by actual use may deliver more digital intelligence for every dollar than closed services; we have not tested this yet (manifesto, section 2.4).
 - **Vision:** autonomous management by digital intelligence and further pillars. The full launch of further pillars is a distant direction; before that, only small initiatives with a defined end are possible. Today the foundation is run by people.
 
@@ -39,7 +39,7 @@ Full list: [manifesto, chapter 9](../manifest.md#s9).
 
 ## What we are looking for
 
-At the start, we are especially looking for a few people with whom we will build and test the first versions of Suveria and Omniforum:
+At the start, we are especially looking for a few people with whom we will build and test the first versions of Suveria and OmniForum:
 
 - people working in security, cryptography and infrastructure;
 - programmers and interface designers;

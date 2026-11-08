@@ -17,14 +17,14 @@ Pour en savoir plus : [livre blanc sur les principes de la fondation, chapitre 
 
 Nous n’affichons pas un montant unique sur le compte ; nous répartissons l’argent selon son propriétaire et sa destination. Le solde du compte bancaire n’est pas un budget à répartir.
 
-La réserve est l’argent mis de côté pour maintenir Suveria et Omniforum si les versements venaient à manquer ; le livre blanc l’appelle aussi provision du Pilier I (le Pilier I comprend Suveria et Omniforum).
+La réserve est l’argent mis de côté pour maintenir Suveria et OmniForum si les versements venaient à manquer ; le livre blanc l’appelle aussi provision du Pilier I (le Pilier I comprend Suveria et OmniForum).
 
 | Type de fonds | Origine | Utilisation autorisée |
 | --- | --- | --- |
 | Fonds dus aux utilisateurs | Prépaiements non utilisés des participants | Uniquement pour leurs services ; ils peuvent être récupérés |
 | Argent confié pour un but déterminé | Dons affectés, par exemple à la phase pilote de Suveria | Uniquement pour ce but |
 | Engagements pris | Argent déjà consacré aux dépenses prévues | Uniquement pour ces dépenses |
-| Provision pour l’entretien des services | Réserve constituée par les dons, y compris les arrondis des factures | Pour couvrir les dépenses sans lesquelles Suveria et Omniforum cesseraient de fonctionner |
+| Provision pour l’entretien des services | Réserve constituée par les dons, y compris les arrondis des factures | Pour couvrir les dépenses sans lesquelles Suveria et OmniForum cesseraient de fonctionner |
 | Fonds librement disponibles | Versements sans affectation précise (dons, aides non remboursables, subventions, collectes), après déduction de tout ce qui précède | Pour de nouveaux buts, toujours avec la priorité au Pilier I |
 
 Nous attribuons chaque montant à une seule catégorie pour ne rien compter deux fois. Nous ne comptons dans la réserve que l’argent réellement reçu et qui n’appartient à personne d’autre ; les promesses de versement ne comptent pas.
@@ -78,8 +78,8 @@ Pour en savoir plus : [livre blanc sur les principes de la fondation, chapitre 
 
 Le Pilier I est prioritaire. Le Pilier II « Hardware » (solutions matérielles ouvertes) et le Pilier III « Nature » (contact avec la nature) ne peuvent être financés par le budget commun qu’une fois les trois conditions suivantes réunies :
 
-1. Omniforum fonctionne avec un vote fondé sur des preuves à divulgation nulle de connaissance, dans lequel le choix est secret, on peut vérifier la prise en compte de sa voix et chaque personne habilitée dispose d’une seule voix ;
-2. un compte séparé contient des fonds réellement réunis pour au moins six mois d’entretien de Suveria et d’Omniforum, qui restent intacts après la mise de côté du budget complet du nouveau projet ;
+1. OmniForum fonctionne avec un vote fondé sur des preuves à divulgation nulle de connaissance, dans lequel le choix est secret, on peut vérifier la prise en compte de sa voix et chaque personne habilitée dispose d’une seule voix ;
+2. un compte séparé contient des fonds réellement réunis pour au moins six mois d’entretien de Suveria et d’OmniForum, qui restent intacts après la mise de côté du budget complet du nouveau projet ;
 3. la communauté a approuvé le projet et son financement dans un vote ouvert à toutes les personnes habilitées sur un pied d’égalité.
 
 Une maquette de vote, des promesses non versées ou les soldes d’autrui ne remplissent pas ces conditions.

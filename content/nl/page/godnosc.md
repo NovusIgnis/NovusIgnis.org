@@ -7,7 +7,7 @@ menu: Waardigheid
 ---
 # Waardigheid als uitgangspunt
 
-Deze pagina legt uit wat “waardigheid” in het manifest van Novus Ignis betekent en wat daaruit voortkomt: vrijheid, privacy, bescherming van aandacht en beginselen die door handelen worden ondersteund. Het is een samenvatting van hoofdstuk 2 van het manifest, waaruit Suveria en Omniforum voortkomen. Bij elk onderdeel vind je een link naar de volledige tekst.
+Deze pagina legt uit wat “waardigheid” in het manifest van Novus Ignis betekent en wat daaruit voortkomt: vrijheid, privacy, bescherming van aandacht en beginselen die door handelen worden ondersteund. Het is een samenvatting van hoofdstuk 2 van het manifest, waaruit Suveria en OmniForum voortkomen. Bij elk onderdeel vind je een link naar de volledige tekst.
 
 ## Wat waardigheid in het manifest betekent
 
@@ -73,9 +73,9 @@ Gedeelde beginselen vereisen begrijpelijke besluitmotiveringen en de mogelijkhei
 
 Meer: [manifest, paragraaf 2.5](../manifest.md#s2-5).
 
-## Wat dit betekent voor Suveria en Omniforum
+## Wat dit betekent voor Suveria en OmniForum
 
-Uit deze beginselen ontstaan twee elkaar aanvullende richtingen: Suveria moet een privéruimte worden om met hulp van digitale intelligentie te denken, creëren en plannen en Omniforum een gedeelde ruimte om je redenen uiteen te zetten en andere perspectieven te leren kennen. Suveria is nu een ontwerp en het eerste prototype van Omniforum is in aanbouw. Mensen moeten zelf kiezen wat ze voor zichzelf houden en wat ze met anderen delen. Zie: [Wat is Suveria](suveria.md) en [Wat is Omniforum](omniforum.md).
+Uit deze beginselen ontstaan twee elkaar aanvullende richtingen: Suveria moet een privéruimte worden om met hulp van digitale intelligentie te denken, creëren en plannen en OmniForum een gedeelde ruimte om je redenen uiteen te zetten en andere perspectieven te leren kennen. Suveria is nu een ontwerp en het eerste prototype van OmniForum is in aanbouw. Mensen moeten zelf kiezen wat ze voor zichzelf houden en wat ze met anderen delen. Zie: [Wat is Suveria](suveria.md) en [Wat is OmniForum](omniforum.md).
 
 Meer: [manifest, “Waar we nu staan”](../manifest.md#top).
 

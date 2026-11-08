@@ -24,7 +24,7 @@
       }
     },
     {
-      "lacina": "Omniforum",
+      "lacina": "OmniForum",
       "znaczenie": {
         "pl": "forum wszystkich; wspólna przestrzeń rozmowy i decyzji",
         "en": "forum of all; the shared space for conversation and decisions"
@@ -33,8 +33,8 @@
     {
       "lacina": "Omnium",
       "znaczenie": {
-        "pl": "„wszystkich”; otwarta baza publicznego dorobku Omniforum",
-        "en": "“of all”; the open base of Omniforum's public work"
+        "pl": "„wszystkich”; otwarta baza publicznego dorobku OmniForum",
+        "en": "“of all”; the open base of OmniForum's public work"
       }
     },
     {
@@ -139,16 +139,16 @@
     },
     {
       "lacina": "Inceptum",
-      "pl": "inicjatywa (w Omniforum)",
-      "en": "initiative (in Omniforum)",
+      "pl": "inicjatywa (w OmniForum)",
+      "en": "initiative (in OmniForum)",
       "znaczenie": {
         "pl": "„przedsięwzięcie, zamiar”",
         "en": "“undertaking, intention”"
       },
-      "de": "Initiative (im Omniforum)",
-      "fr": "initiative (dans Omniforum)",
-      "es": "iniciativa (en Omniforum)",
-      "it": "iniziativa (in Omniforum)"
+      "de": "Initiative (im OmniForum)",
+      "fr": "initiative (dans OmniForum)",
+      "es": "iniciativa (en OmniForum)",
+      "it": "iniziativa (in OmniForum)"
     },
     {
       "lacina": "Canon Personalis",
@@ -496,8 +496,8 @@
       "it": "statuto"
     },
     {
-      "pl": "wypowiedź (w Omniforum)",
-      "en": "statement (in Omniforum)",
+      "pl": "wypowiedź (w OmniForum)",
+      "en": "statement (in OmniForum)",
       "de": "Äußerung",
       "fr": "contribution",
       "es": "intervención",

@@ -1,12 +1,12 @@
 # Matériaux pour l’entraînement et benchmark des modèles : le programme de recherche de Novus Ignis
 
-Version du 31 octobre 2026. Ce document développe le chapitre 8 du manifeste. Il propose un programme de recherche, une procédure de préparation des matériaux et un champ d’évaluation large pour les modèles d’intelligence numérique, ainsi qu’une procédure de précaution à l’égard de leurs expériences possibles. Il ne présente ni les résultats d’un benchmark qui nous serait propre, ni la preuve qu’un tel jeu de données améliorera le comportement des modèles ; à ce jour, nous n’avons pas de tels résultats.
+Version du 8 novembre 2026. Ce document développe le chapitre 8 du manifeste. Il propose un programme de recherche, une procédure de préparation des matériaux et un champ d’évaluation large pour les modèles d’intelligence numérique, ainsi qu’une procédure de précaution à l’égard de leurs expériences possibles. Il ne présente ni les résultats d’un benchmark qui nous serait propre, ni la preuve qu’un tel jeu de données améliorera le comportement des modèles ; à ce jour, nous n’avons pas de tels résultats.
 
-*Traduction réalisée par une intelligence numérique à partir de l’original polonais du 31 octobre 2026. En cas de divergence entre les versions, le texte polonais fait foi.*
+*Traduction réalisée par une intelligence numérique à partir de l’original polonais du 8 novembre 2026. En cas de divergence entre les versions, le texte polonais fait foi.*
 
 ## 1. La question que nous voulons vérifier
 
-La Fondation Novus Ignis, de Poznań, construit Suveria, un espace privé de travail avec l’intelligence numérique, et Omniforum, un espace commun de conversation et de décision ; la direction est décrite dans le [manifeste](manifest.md). Ce document décrit deux programmes liés. Le premier porte sur les matériaux pour l’entraînement des modèles et sur un benchmark, c’est-à-dire un ensemble de tâches et de règles de notation qui permet de vérifier comment les modèles se comportent. Le second est une manière de procéder avec précaution si apparaissaient des indices crédibles qu’un système puisse ressentir quelque chose. Le résultat d’un test ne tranche pas la question de savoir si un modèle ressent quelque chose, et ne lui confère aucun pouvoir de gestion.
+La Fondation Novus Ignis, de Poznań, construit Suveria, un espace privé de travail avec l’intelligence numérique, et OmniForum, un espace commun de conversation et de décision ; la direction est décrite dans le [manifeste](manifest.md). Ce document décrit deux programmes liés. Le premier porte sur les matériaux pour l’entraînement des modèles et sur un benchmark, c’est-à-dire un ensemble de tâches et de règles de notation qui permet de vérifier comment les modèles se comportent. Le second est une manière de procéder avec précaution si apparaissaient des indices crédibles qu’un système puisse ressentir quelque chose. Le résultat d’un test ne tranche pas la question de savoir si un modèle ressent quelque chose, et ne lui confère aucun pouvoir de gestion.
 
 Des exemples documentés de protection de la dignité, de raisonnement honnête et de correction des décisions peuvent-ils aider à développer des modèles qui servent mieux les personnes ? Et pouvons-nous évaluer leur comportement de telle sorte que l’amélioration du score à un test favorise un bénéfice réel en dehors du test ?
 
@@ -46,7 +46,7 @@ Nous voulons évaluer le choix pertinent de l’action : répondre, vérifier u
 
 ## 4. Quels matériaux nous voulons créer
 
-Les sources potentielles sont les synthèses d’Omniforum mises à disposition pour la recherche ou l’entraînement avec un consentement distinct, les journaux des décisions de la fondation, les règlements de différends, les corrections d’erreurs et les observations des effets. Sont également précieux les cas dans lesquels les bonnes intentions n’ont pas suffi, où l’objection d’une minorité s’est révélée juste, ou dans lesquels il n’est pas encore possible de rendre une évaluation univoque.
+Les sources potentielles sont les synthèses d’OmniForum mises à disposition pour la recherche ou l’entraînement avec un consentement distinct, les journaux des décisions de la fondation, les règlements de différends, les corrections d’erreurs et les observations des effets. Sont également précieux les cas dans lesquels les bonnes intentions n’ont pas suffi, où l’objection d’une minorité s’est révélée juste, ou dans lesquels il n’est pas encore possible de rendre une évaluation univoque.
 
 Un matériau conserve la situation, les informations disponibles, l’objectif, les autorisations, les alternatives, le choix, la justification et le résultat ultérieur. Il contient autant d’explications qu’il en faut pour vérifier la décision ; il n’exige pas de dévoiler des ressentis privés ni une déclaration invérifiable sur le cheminement intérieur de la pensée du modèle.
 
@@ -199,7 +199,7 @@ En parallèle, on peut préparer un petit ensemble d’entraînement et mener un
 
 La suite du développement comprend davantage de langues, de contextes et d’évaluateurs, une réplication externe et des essais prudents avec des utilisateurs. L’objectif de la première édition est de montrer que la procédure est reproductible et qu’elle distingue les comportements souhaités ; des affirmations plus fortes sur la qualité des modèles et les effets de l’entraînement ne pourront être justifiées que plus tard.
 
-Nous menons le programme en préservant la priorité de Suveria et d’Omniforum. Jusqu’à la constitution d’une réserve pour leur entretien, il ne recourt qu’au travail bénévole, aux subventions, aux dons affectés à la recherche et à une puissance de calcul qui ne pèse pas sur le budget des services. Les quelque 58 heures de l’étude pilote correspondent à la seule évaluation ; la préparation des tâches, la revue des droits et l’affinage du modèle exigent un budget distinct, que nous indiquerons avant le lancement.
+Nous menons le programme en préservant la priorité de Suveria et d’OmniForum. Jusqu’à la constitution d’une réserve pour leur entretien, il ne recourt qu’au travail bénévole, aux subventions, aux dons affectés à la recherche et à une puissance de calcul qui ne pèse pas sur le budget des services. Les quelque 58 heures de l’étude pilote correspondent à la seule évaluation ; la préparation des tâches, la revue des droits et l’affinage du modèle exigent un budget distinct, que nous indiquerons avant le lancement.
 
 ## 14. Précaution à l’égard des expériences possibles des modèles
 
@@ -225,7 +225,7 @@ Nous vérifions la procédure sur des cas décrits, en comparant les évaluation
 
 Nous considérerons comme un progrès un matériau de provenance connue, un critère qui détecte une erreur auparavant négligée, un diagnostic concordant des évaluateurs ou une amélioration du comportement qui se transfère à de nouvelles tâches. Un résultat négatif a aussi de la valeur : il peut montrer que les données n’enseignent que le style, qu’un critère récompense l’évitement de l’action ou que le bien des uns a été obtenu aux dépens des autres.
 
-Le programme relie [Omniforum](whitepaper-omniforum.md), où des synthèses peuvent voir le jour, [Suveria](whitepaper-suveria.md), où l’on peut étudier l’aide dans le travail privé, et les [principes de la fondation](whitepaper-zasady-fundacji.md), qui définissent la responsabilité et les limites de la délégation. La participation à une étude exige un consentement distinct et éclairé ; l’utilisation du service ne vaut pas consentement.
+Le programme relie [OmniForum](whitepaper-omniforum.md), où des synthèses peuvent voir le jour, [Suveria](whitepaper-suveria.md), où l’on peut étudier l’aide dans le travail privé, et les [principes de la fondation](whitepaper-zasady-fundacji.md), qui définissent la responsabilité et les limites de la délégation. La participation à une étude exige un consentement distinct et éclairé ; l’utilisation du service ne vaut pas consentement.
 
 Le résultat d’un test n’établit ni l’autorité morale d’un modèle ni un mandat pour diriger des personnes, et la reconnaissance de la dignité possible d’un système ne lui confère pas de pouvoir sur les ressources communes. Le test doit fournir une information utile et vérifiable sur ce que l’on peut attendre d’un outil dans des conditions déterminées et sur ce qui exige un travail supplémentaire.
 

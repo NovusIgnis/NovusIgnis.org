@@ -27,7 +27,7 @@ Daha fazlası: [vakıf senedi, § 13](../statut/statut-2026-09-28.md#par-13) ve 
 
 ## Neden değişmesi amaçlanıyor
 
-Manifesto açıkça söylüyor: kurucunun özel yetkilerinin aşamalı sona ermesini, topluluğa vakfın yönü ve onu yönetenlerin seçimi üzerinde gerçek etki devredilmesini hedefliyoruz. Topluluğun kararlarının, hukuk, vakıf senedi ve hizmet güvenliğinin sınırları içinde yönetim kurulunu bağlaması amaçlanıyor. Kurucu, Suveria’yı, Omniforum’u ve sonraki projeleri başkalarıyla aynı haklarla kullanmak ve sürekli kamusal rolden çekilmek istiyor.
+Manifesto açıkça söylüyor: kurucunun özel yetkilerinin aşamalı sona ermesini, topluluğa vakfın yönü ve onu yönetenlerin seçimi üzerinde gerçek etki devredilmesini hedefliyoruz. Topluluğun kararlarının, hukuk, vakıf senedi ve hizmet güvenliğinin sınırları içinde yönetim kurulunu bağlaması amaçlanıyor. Kurucu, Suveria’yı, OmniForum’u ve sonraki projeleri başkalarıyla aynı haklarla kullanmak ve sürekli kamusal rolden çekilmek istiyor.
 
 Teknik rapor burada Cyncynat’ı anıyor: Liwiusz’a göre MÖ 458’de elçiler onu tarlada çalışırken bulup savaş süresince en yüksek yetkinin kendisine verildiğini bildirdi. On altıncı gün tehlike geçince yetkiyi bıraktı ve çiftliğine döndü. Sorumluluk bir süreliğine alınır, sonra devredilir.
 

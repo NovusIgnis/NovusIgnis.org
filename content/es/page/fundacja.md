@@ -9,7 +9,7 @@ menu: Quiénes somos
 
 Esta página explica brevemente qué es la Fundación Novus Ignis como organización. Los detalles se describen en el whitepaper de los principios de la fundación, al que llevan los enlaces de cada sección.
 
-Somos una fundación de Poznań (KRS 0001269575) que quiere construir un internet alternativo basado en la dignidad humana. Nuestro primer pilar son dos servicios que apenas estamos construyendo: Suveria, un espacio privado de trabajo con la inteligencia digital, y Omniforum, un espacio compartido de conversación, comprensión y decisiones. Estamos al principio: la fundación está registrada, los documentos están publicados y los servicios apenas están tomando forma.
+Somos una fundación de Poznań (KRS 0001269575) que quiere construir un internet alternativo basado en la dignidad humana. Nuestro primer pilar son dos servicios que apenas estamos construyendo: Suveria, un espacio privado de trabajo con la inteligencia digital, y OmniForum, un espacio compartido de conversación, comprensión y decisiones. Estamos al principio: la fundación está registrada, los documentos están publicados y los servicios apenas están tomando forma.
 
 Todo comenzó con una pregunta del fundador, Marcin Wołowski: ¿qué patrones de nuestra propia conducta transmitimos a la inteligencia digital durante su entrenamiento?
 
@@ -27,7 +27,7 @@ Novus Ignis es una entidad sin accionistas: no distribuye ganancias a nadie y su
 | Estatutos, manifiesto y whitepapers | publicados |
 | Registro de modificaciones de los estatutos | funciona |
 | Suveria | proyecto |
-| Omniforum | prototipo en construcción |
+| OmniForum | prototipo en construcción |
 | Reglamentos | se elaborarán |
 | Otros registros: de ingresos y gastos, beneficios, decisiones, errores y un registro al que solo se pueden añadir entradas (en el que las entradas no se pueden modificar ni eliminar sin que se sepa) | se crearán |
 
@@ -54,7 +54,7 @@ Para que el presupuesto se pueda entender, dividimos el dinero en cinco tipos:
 - **fondos que se deben a las personas usuarias:** pagos anticipados sin usar y saldos de los participantes;
 - **dinero confiado para un fin concreto:** donaciones con destino específico, que solo se pueden gastar en ese fin;
 - **compromisos asumidos:** dinero ya destinado a gastos planificados;
-- **cobertura del sostenimiento de los servicios:** la reserva sin la que Suveria y Omniforum dejarían de funcionar;
+- **cobertura del sostenimiento de los servicios:** la reserva sin la que Suveria y OmniForum dejarían de funcionar;
 - **fondos disponibles para asignar:** lo que queda después de descontar el resto y sobre lo que aún debemos decidir.
 
 Mantenemos el registro público de ingresos y gastos en la página [Registro de ingresos y gastos](fundacja-rejestr.md).
@@ -73,7 +73,7 @@ Más información: [whitepaper de los principios de la fundación, capítulo 5](
 
 ## Un poder que se puede transferir
 
-Una sola persona, Marcin Wołowski, creó la fundación y es quien hoy tiene más poder en ella: nombra y destituye a la junta directiva. Solo la junta directiva en pleno puede modificar los estatutos por unanimidad y, cuando el fundador no forma parte de ella, también se necesita su consentimiento. No queremos que esto siga así: el fundador quiere usar Suveria y Omniforum con los mismos derechos que las demás personas y dejar de desempeñar un papel público permanente.
+Una sola persona, Marcin Wołowski, creó la fundación y es quien hoy tiene más poder en ella: nombra y destituye a la junta directiva. Solo la junta directiva en pleno puede modificar los estatutos por unanimidad y, cuando el fundador no forma parte de ella, también se necesita su consentimiento. No queremos que esto siga así: el fundador quiere usar Suveria y OmniForum con los mismos derechos que las demás personas y dejar de desempeñar un papel público permanente.
 
 La transferencia ha de ser efectiva sobre el papel y en la práctica: además de modificar los estatutos, hay que transferir el acceso a las cuentas, los dominios y la infraestructura. El plan de transferencia de responsabilidades fijará la fecha de la primera revisión y los informes periódicos de progreso. Los nombramientos para la junta directiva se basan en las competencias y un rumbo común, nunca en una aportación económica.
 

@@ -2,6 +2,12 @@
  "dokument": "whitepaper-materialy-i-benchmark.md",
  "wersje": [
   {
+   "data": "2026-11-08",
+   "poprzednia": "2026-10-31",
+   "opis": "Zmieniliśmy zapis nazwy Omniforum na OmniForum, tak samo jak w nazwach OmniActa i OmniVox. Treść dokumentu poza tym się nie zmieniła. Wersja: 8 listopada 2026 r.",
+   "skrot": "8171b8f825f84cf9f1ff95243194b73c01c8962e"
+  },
+  {
    "data": "2026-10-31",
    "opis": "Pierwsza publiczna wersja.",
    "skrot": "e54b2289908b84f06166b3f65b049268568b5f86"

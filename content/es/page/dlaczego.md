@@ -13,7 +13,7 @@ Esta página explica brevemente para qué se creó la Fundación Novus Ignis y p
 
 La inteligencia digital aprende de lo que las personas escriben y hacen. Todo empezó con una pregunta del fundador, Marcin Wołowski: ¿qué patrones de nuestra propia conducta le transmitimos de esta manera? De ahí nace la idea de otro camino: primero organizamos nosotros mismos el mundo según los principios que más tarde esperamos de ella.
 
-Respondemos a esa pregunta con un intento, no solo con una descripción. Organizamos un pequeño pedazo del mundo según esos principios y anotamos cómo nos sale, errores incluidos. Suveria, Omniforum y la propia fundación son herramientas de ese intento. Se pueden usar estos espacios sin la obligación de participar en su desarrollo ni de compartir cada propuesta del manifiesto.
+Respondemos a esa pregunta con un intento, no solo con una descripción. Organizamos un pequeño pedazo del mundo según esos principios y anotamos cómo nos sale, errores incluidos. Suveria, OmniForum y la propia fundación son herramientas de ese intento. Se pueden usar estos espacios sin la obligación de participar en su desarrollo ni de compartir cada propuesta del manifiesto.
 
 Más información: [manifiesto, apartado 1.1](../manifest.md#s1-1) y [apartado 1.2](../manifest.md#s1-2).
 
@@ -39,7 +39,7 @@ De estos principios nacen dos líneas de trabajo.
 
 **Suveria** ha de ser un espacio digital privado para cada persona: un lugar para trabajar con la ayuda opcional de la inteligencia digital, en el que se puedan desarrollar ideas, hacer preguntas personales y elaborar planes. Su privacidad ha de depender de salvaguardas cuyo funcionamiento pueda comprobarse de forma independiente, y no de la confianza en la fundación ni en las personas que atienden el servicio. Hoy Suveria es un proyecto. Mira: [Qué es Suveria](suveria.md).
 
-**Omniforum** ha de ser un espacio público compartido en el que cualquiera pueda expresarse y donde se escuche su voz. Con ayuda de la inteligencia digital, siempre bajo el control y con el consentimiento de la persona autora, las intervenciones complejas han de poder descomponerse en pensamientos individuales, para que dos personas con opiniones aparentemente opuestas vean qué tienen en común y dónde se separan sus razonamientos. Omniforum tiene un primer prototipo en construcción. Mira: [Qué es Omniforum](omniforum.md).
+**OmniForum** ha de ser un espacio público compartido en el que cualquiera pueda expresarse y donde se escuche su voz. Con ayuda de la inteligencia digital, siempre bajo el control y con el consentimiento de la persona autora, las intervenciones complejas han de poder descomponerse en pensamientos individuales, para que dos personas con opiniones aparentemente opuestas vean qué tienen en común y dónde se separan sus razonamientos. OmniForum tiene un primer prototipo en construcción. Mira: [Qué es OmniForum](omniforum.md).
 
 Ambos espacios han de complementarse como un taller privado y una tribuna pública. Cada persona decide qué pensamientos se reserva y cuáles aporta al trabajo común.
 
@@ -49,7 +49,7 @@ Más información: [manifiesto, introducción](../manifest.md#top), [apartado 3.
 
 El manifiesto lo dice claramente:
 
-> La fundación está registrada, y el manifiesto y los whitepapers están publicados. Omniforum tiene un primer prototipo en construcción y Suveria es un proyecto. El cálculo de costos del apartado 2.4 es una hipótesis por comprobar, y la gestión autónoma por parte de la inteligencia digital (apartado 7.2) y los siguientes pilares (capítulo 9) son una visión.
+> La fundación está registrada, y el manifiesto y los whitepapers están publicados. OmniForum tiene un primer prototipo en construcción y Suveria es un proyecto. El cálculo de costos del apartado 2.4 es una hipótesis por comprobar, y la gestión autónoma por parte de la inteligencia digital (apartado 7.2) y los siguientes pilares (capítulo 9) son una visión.
 
 Los whitepapers son documentos que desarrollamos junto con los proyectos: describen las formas técnicas y organizativas de llevar estas ideas a la práctica, su justificación y las limitaciones conocidas.
 

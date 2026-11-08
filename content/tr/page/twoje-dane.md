@@ -7,7 +7,7 @@ menu: Verilerin
 ---
 # Verilerin
 
-Bu sayfa, novusignis.org sitesini kullanırken hangi kişisel verilerinin vakfa geldiğini ve bunlarla ne yapabileceğini anlatıyor. Suveria ve Omniforum bugün tasarımlardır; bu hizmetlerdeki verileri teknik raporları ele alır.
+Bu sayfa, novusignis.org sitesini kullanırken hangi kişisel verilerinin vakfa geldiğini ve bunlarla ne yapabileceğini anlatıyor. Suveria ve OmniForum bugün tasarımlardır; bu hizmetlerdeki verileri teknik raporları ele alır.
 
 ## Verilerinden kim sorumlu
 
@@ -32,8 +32,8 @@ Veri sorumlusu, Poznań merkezli, Krajowy Rejestr Sądowy sicilinde 0001269575 n
 
 ## Bekleme listesi
 
-- “[Bekleme listesi] Suveria ve Omniforum” konulu mesaj göndererek katılırsın. Bu senin rızandır (RODO 6(1)(a) maddesi).
-- Adresini yalnızca tek mesaj için kullanacağız: Suveria ve Omniforum’un ilk denemelerinin başladığına dair. Gönderdikten sonra adresi listeden sileriz.
+- “[Bekleme listesi] Suveria ve OmniForum” konulu mesaj göndererek katılırsın. Bu senin rızandır (RODO 6(1)(a) maddesi).
+- Adresini yalnızca tek mesaj için kullanacağız: Suveria ve OmniForum’un ilk denemelerinin başladığına dair. Gönderdikten sonra adresi listeden sileriz.
 - Bize yazarak rızanı her an geri çekebilirsin; o zaman adresi hemen sileriz. Rızayı geri çekmek, daha önce ona dayanarak yaptıklarımızı değiştirmez.
 
 ## Bağışlar

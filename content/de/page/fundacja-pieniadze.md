@@ -17,14 +17,14 @@ Mehr: [Whitepaper zu den Arbeitsgrundsätzen der Stiftung, Kapitel 1](../whitepa
 
 Wir zeigen nicht nur einen Betrag auf dem Konto, sondern teilen das Geld danach auf, wem es gehört und wofür es bestimmt ist. Der Kontostand ist kein frei verteilbares Budget.
 
-Die Reserve ist zurückgelegtes Geld, das Suveria und Omniforum aufrechterhalten soll, falls Einzahlungen ausbleiben; das Whitepaper nennt sie auch die Absicherung von Säule I (Säule I sind Suveria und Omniforum).
+Die Reserve ist zurückgelegtes Geld, das Suveria und OmniForum aufrechterhalten soll, falls Einzahlungen ausbleiben; das Whitepaper nennt sie auch die Absicherung von Säule I (Säule I sind Suveria und OmniForum).
 
 | Art des Geldes | Herkunft | Zulässiger Zweck |
 | --- | --- | --- |
 | Den Nutzenden zustehende Mittel | Nicht verbrauchte Vorauszahlungen der Teilnehmenden | Nur für ihre Dienste; sie lassen sich zurückerhalten |
 | Für einen bestimmten Zweck anvertrautes Geld | Zweckgebundene Spenden, etwa für die Pilotphase von Suveria | Nur für diesen Zweck |
 | Eingegangene Verpflichtungen | Bereits für geplante Ausgaben bestimmtes Geld | Nur für diese Ausgaben |
-| Absicherung des Betriebs der Dienste | Eine aus Spenden aufgebaute Reserve, auch aus Aufrundungen von Rechnungen | Für das, ohne das Suveria und Omniforum nicht mehr funktionieren würden |
+| Absicherung des Betriebs der Dienste | Eine aus Spenden aufgebaute Reserve, auch aus Aufrundungen von Rechnungen | Für das, ohne das Suveria und OmniForum nicht mehr funktionieren würden |
 | Frei verfügbare Mittel | Einzahlungen ohne bestimmten Zweck (Spenden, Fördermittel, Zuschüsse, Sammlungen), nach Abzug alles Obigen | Für neue Ziele, stets mit Vorrang für Säule I |
 
 Jeden Betrag ordnen wir nur einer Kategorie zu, damit nichts doppelt gezählt wird. Zur Reserve zählen wir nur Geld, das tatsächlich eingegangen ist und niemand anderem gehört; Zahlungszusagen zählen nicht.
@@ -78,8 +78,8 @@ Mehr: [Whitepaper zu den Arbeitsgrundsätzen der Stiftung, Kapitel 4](../whitepa
 
 Säule I hat Vorrang. Säule II „Hardware“ (offene materielle Lösungen) und Säule III „Natur“ (Kontakt mit der Natur) dürfen erst dann aus dem gemeinsamen Budget finanziert werden, wenn wir drei Bedingungen zusammen erfüllen:
 
-1. Das Omniforum funktioniert mit Abstimmungen auf Grundlage von Zero-Knowledge-Beweisen, bei denen die Wahl geheim bleibt, man prüfen kann, ob die Stimme gezählt wurde, und jede berechtigte Person eine Stimme hat;
-2. auf einem gesonderten Konto liegen tatsächlich gesammelte Mittel für mindestens sechs Monate Unterhalt von Suveria und Omniforum, die auch nach dem Zurücklegen des vollständigen Budgets für das neue Projekt unangetastet bleiben;
+1. Das OmniForum funktioniert mit Abstimmungen auf Grundlage von Zero-Knowledge-Beweisen, bei denen die Wahl geheim bleibt, man prüfen kann, ob die Stimme gezählt wurde, und jede berechtigte Person eine Stimme hat;
+2. auf einem gesonderten Konto liegen tatsächlich gesammelte Mittel für mindestens sechs Monate Unterhalt von Suveria und OmniForum, die auch nach dem Zurücklegen des vollständigen Budgets für das neue Projekt unangetastet bleiben;
 3. die Gemeinschaft hat das Projekt und seine Finanzierung in einer Abstimmung genehmigt, die allen Berechtigten zu gleichen Bedingungen offensteht.
 
 Ein Mock-up des Abstimmungssystems, nicht eingezahlte Zusagen und fremde Guthaben erfüllen diese Bedingungen nicht.

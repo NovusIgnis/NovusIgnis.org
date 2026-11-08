@@ -15,12 +15,12 @@ Stichting Novus Ignis uit Poznań (KRS 0001269575), opgericht door Marcin Wołow
 
 ## Wat we willen doen
 
-We willen samen een alternatief internet vormgeven waarin menselijke waardigheid en de daaruit voortvloeiende privacy en vrijheid de hoogste waarde vormen. Suveria moet een privéruimte worden om te werken met de optionele hulp van digitale intelligentie, beschermd door beveiligingsmaatregelen waarvan de werking onafhankelijk kan worden gecontroleerd. Omniforum moet een gedeelde openbare ruimte worden waar iedereen zich kan uitspreken en gehoord kan worden. Meer: [manifest, inleiding](../manifest.md#top) en [Waarom Novus Ignis](dlaczego.md).
+We willen samen een alternatief internet vormgeven waarin menselijke waardigheid en de daaruit voortvloeiende privacy en vrijheid de hoogste waarde vormen. Suveria moet een privéruimte worden om te werken met de optionele hulp van digitale intelligentie, beschermd door beveiligingsmaatregelen waarvan de werking onafhankelijk kan worden gecontroleerd. OmniForum moet een gedeelde openbare ruimte worden waar iedereen zich kan uitspreken en gehoord kan worden. Meer: [manifest, inleiding](../manifest.md#top) en [Waarom Novus Ignis](dlaczego.md).
 
 ## Waar we nu staan
 
 - **Werkt:** de stichting is geregistreerd en het manifest en de whitepapers zijn gepubliceerd. De stichting ontvangt donaties per overschrijving en toont elke bijdrage in het [openbare register van bijdragen en uitgaven](fundacja-rejestr.md); de eerste was het oprichtingskapitaal.
-- **Ontwerp:** Suveria is een ontwerp en het eerste prototype van Omniforum is in aanbouw.
+- **Ontwerp:** Suveria is een ontwerp en het eerste prototype van OmniForum is in aanbouw.
 - **Hypothese:** we nemen aan dat gezamenlijke servers die naar werkelijk gebruik worden betaald, per dollar meer digitale intelligentie kunnen bieden dan gesloten diensten; dit hebben we nog niet getoetst (manifest, paragraaf 2.4).
 - **Visie:** zelfstandig beheer door digitale intelligentie en de verdere pijlers. De volledige start van de verdere pijlers ligt nog ver weg; daarvóór zijn alleen kleine initiatieven met een duidelijk eindpunt mogelijk. Nu wordt de stichting door mensen bestuurd.
 
@@ -39,7 +39,7 @@ De volledige lijst: [manifest, hoofdstuk 9](../manifest.md#s9).
 
 ## Wie we zoeken
 
-Aanvankelijk zoeken we vooral enkele mensen met wie we de eerste versies van Suveria en Omniforum bouwen en toetsen:
+Aanvankelijk zoeken we vooral enkele mensen met wie we de eerste versies van Suveria en OmniForum bouwen en toetsen:
 
 - mensen met kennis van beveiliging, cryptografie en infrastructuur;
 - programmeurs en interfaceontwerpers;

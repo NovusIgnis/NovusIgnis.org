@@ -7,7 +7,7 @@ menu: Je gegevens
 ---
 # Je gegevens
 
-Deze pagina vertelt welke persoonsgegevens van jou de stichting ontvangt als je de website novusignis.org gebruikt en wat je ermee kunt doen. Suveria en Omniforum zijn nu ontwerpen; hun whitepapers beschrijven de gegevens in die diensten.
+Deze pagina vertelt welke persoonsgegevens van jou de stichting ontvangt als je de website novusignis.org gebruikt en wat je ermee kunt doen. Suveria en OmniForum zijn nu ontwerpen; hun whitepapers beschrijven de gegevens in die diensten.
 
 ## Wie verantwoordelijk is voor je gegevens
 
@@ -32,8 +32,8 @@ Je verstuurt het bericht vanuit je eigen postvak, ook als de knop “Ik heb een 
 
 ## Wachtlijst
 
-- Je meldt je aan door een bericht te sturen met het onderwerp “[Wachtlijst] Suveria en Omniforum”. Dat is je toestemming (artikel 6, lid 1, onder a, AVG).
-- Je adres gebruiken we voor slechts één bericht: dat de eerste proeven met Suveria en Omniforum beginnen. Daarna verwijderen we het adres van de lijst.
+- Je meldt je aan door een bericht te sturen met het onderwerp “[Wachtlijst] Suveria en OmniForum”. Dat is je toestemming (artikel 6, lid 1, onder a, AVG).
+- Je adres gebruiken we voor slechts één bericht: dat de eerste proeven met Suveria en OmniForum beginnen. Daarna verwijderen we het adres van de lijst.
 - Je kunt je toestemming op elk moment intrekken door ons te schrijven; dan verwijderen we het adres meteen. Intrekking verandert niet wat we eerder op basis van je toestemming hebben gedaan.
 
 ## Donaties

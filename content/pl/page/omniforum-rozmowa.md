@@ -1,19 +1,19 @@
 ---
-tytul: Jak działa rozmowa w Omniforum
+tytul: Jak działa rozmowa w OmniForum
 opis: Krok po kroku, jak wypowiedź zamienia się w pojedyncze myśli, co potwierdza autor, jaką rolę ma cyfrowa inteligencja i skąd wiadomo, kto co powiedział
 grupa: omniforum
 kolejnosc: 2
 menu: Jak działa rozmowa
 ---
-# Jak działa rozmowa w Omniforum
+# Jak działa rozmowa w OmniForum
 
-Ta strona jest dla osób, które przeczytały już stronę [Czym jest Omniforum](omniforum.md) i chcą zobaczyć dokładniej, co dzieje się z wypowiedzią od chwili, gdy ją napiszesz, do chwili, gdy inni mogą o niej rozmawiać: co potwierdza autor, jaką rolę ma cyfrowa inteligencja i skąd wiadomo, kto co powiedział.
+Ta strona jest dla osób, które przeczytały już stronę [Czym jest OmniForum](omniforum.md) i chcą zobaczyć dokładniej, co dzieje się z wypowiedzią od chwili, gdy ją napiszesz, do chwili, gdy inni mogą o niej rozmawiać: co potwierdza autor, jaką rolę ma cyfrowa inteligencja i skąd wiadomo, kto co powiedział.
 
 Dziś nie możesz jeszcze z tego korzystać: opisujemy plan i zbieramy uwagi.
 
-Prototyp Omniforum jest w budowie. Wszystko, co opisujemy niżej, jest projektem, a żadnej próby jeszcze nie zakończyliśmy.
+Prototyp OmniForum jest w budowie. Wszystko, co opisujemy niżej, jest projektem, a żadnej próby jeszcze nie zakończyliśmy.
 
-Więcej: [whitepaper Omniforum, rozdział 1](../whitepaper-omniforum.md#s1).
+Więcej: [whitepaper OmniForum, rozdział 1](../whitepaper-omniforum.md#s1).
 
 ## Jedno zdanie, wiele myśli
 
@@ -23,11 +23,11 @@ Weźmy zdanie „Warto posadzić drzewa na naszej ulicy, jeśli wybierzemy gatun
 
 Tego zdania nie wolno skrócić do bezwarunkowego „warto posadzić drzewa na naszej ulicy”, bo warunek jest częścią znaczenia. Jeśli cyfrowa inteligencja dopisze, że autor uważa suszę za problem w okolicy, zostanie to oznaczone jako wniosek modelu, a nie słowa autora. Dzielimy tylko tak głęboko, jak trzeba: tam, gdzie od pojedynczego pojęcia zależy sens albo może się o nie toczyć spór.
 
-Więcej: [whitepaper Omniforum, rozdział 2](../whitepaper-omniforum.md#s2), [rozdział 3](../whitepaper-omniforum.md#s3) i [słowniczek w punkcie 1.3](../whitepaper-omniforum.md#s1-3).
+Więcej: [whitepaper OmniForum, rozdział 2](../whitepaper-omniforum.md#s2), [rozdział 3](../whitepaper-omniforum.md#s3) i [słowniczek w punkcie 1.3](../whitepaper-omniforum.md#s1-3).
 
 ## Krok po kroku
 
-Tak ma wyglądać droga myśli, która powstaje w Omniforum:
+Tak ma wyglądać droga myśli, która powstaje w OmniForum:
 
 1. **Piszesz.** Zaczynasz od zwykłego tekstu albo fragmentu i określasz cel: zrozumienie, wyodrębnienie argumentów, własna odpowiedź albo porównanie stanowisk.
 2. **Cyfrowa inteligencja proponuje rozkład.** Przy każdej myśli pokazuje, z którego fragmentu ją wyprowadziła, i wskazuje miejsca, w których mogła odejść od Twojej intencji albo tekst da się odczytać na kilka sposobów.
@@ -39,7 +39,7 @@ Tak ma wyglądać droga myśli, która powstaje w Omniforum:
 
 Rozważamy też drugą, dobrowolną ceremonię: chwilę, w której nazywamy granicę tego, co dziś umiemy uzasadnić, i zaczynamy szukać odpowiedzi na nowe pytanie. To na razie pomysł bez ustalonej nazwy i formy.
 
-Więcej: [whitepaper Omniforum, rozdział 3](../whitepaper-omniforum.md#s3).
+Więcej: [whitepaper OmniForum, rozdział 3](../whitepaper-omniforum.md#s3).
 
 ## Co potwierdzasz, a czego nie
 
@@ -49,7 +49,7 @@ Czytelnicy mogą rozłożyć Twoją wypowiedź po swojemu, nie czekając na Cieb
 
 Rozmowa ma zostawiać miejsce na zmianę zdania bez upokorzenia: można przyznać się do błędu, zadać kolejne pytanie albo zakończyć bez deklaracji zgody. Godność uczestnika nie zależy od tego, czy przyjmie wniosek.
 
-Więcej: [whitepaper Omniforum, rozdział 2](../whitepaper-omniforum.md#s2) i [rozdział 1](../whitepaper-omniforum.md#s1).
+Więcej: [whitepaper OmniForum, rozdział 2](../whitepaper-omniforum.md#s2) i [rozdział 1](../whitepaper-omniforum.md#s1).
 
 ## Model pomaga, ale nie rządzi
 
@@ -57,13 +57,13 @@ Model (program cyfrowej inteligencji, który proponuje rozkład) ma własne nawy
 
 Przy każdym rozkładzie zapisujemy, kto go przygotował i kiedy, a jeśli pomagał model, to który i z jaką wersją instrukcji.
 
-Więcej: [whitepaper Omniforum, rozdział 3](../whitepaper-omniforum.md#s3) i [rozdział 2](../whitepaper-omniforum.md#s2).
+Więcej: [whitepaper OmniForum, rozdział 3](../whitepaper-omniforum.md#s3) i [rozdział 2](../whitepaper-omniforum.md#s2).
 
 ## Myśl z Suverii
 
 Myśl może też przyjść z Suverii, prywatnej przestrzeni do pracy z cyfrową inteligencją, w której dopracowujesz ją we własnym warsztacie. Wtedy publikujesz ją od razu, bez warsztatu Ignis. Momentem publikacji jest ta sama Ceremonia Ignis, a dalej zaczyna się Formatio, jak przy każdej innej myśli.
 
-Więcej: [whitepaper Omniforum, rozdział 3](../whitepaper-omniforum.md#s3).
+Więcej: [whitepaper OmniForum, rozdział 3](../whitepaper-omniforum.md#s3).
 
 ## Skąd wiadomo, co kto powiedział
 
@@ -71,7 +71,7 @@ Przy każdej myśli i każdym użyciu pojęcia zapisujemy, skąd pochodzą: z ja
 
 Atom to znaczenie, a nie słowo. Słowa, którymi go nazywamy, są jego etykietami, a jeden atom może mieć ich wiele, także w różnych językach: suszę po angielsku nazwiemy „drought”, a po niemiecku „Dürre”. Dzięki temu ludzie używający różnych słów mogą rozmawiać o tym samym. Powiązanie słowa z atomem jest propozycją, którą potwierdza autor. Bywa też informacją prywatną: to, że „nasza ulica” oznacza ulicę Warszawską, zdradza, gdzie ktoś mieszka, więc autor decyduje, czy inni to zobaczą.
 
-Więcej: [whitepaper Omniforum, rozdział 2](../whitepaper-omniforum.md#s2).
+Więcej: [whitepaper OmniForum, rozdział 2](../whitepaper-omniforum.md#s2).
 
 ## Co sprawdzimy w pierwszej próbie
 
@@ -79,10 +79,10 @@ Pierwszy krok prób to jedna pełna droga jednej myśli: ktoś wpisuje własny t
 
 Sprawdzamy, czy po drodze nic się nie zgubiło: brzmienie oryginału, jego znaczenie, kolejne wersje i to, kto ma do czego dostęp. Szukamy też błędów interpretacji, których model sam nie oznaczył, i porównujemy wynik z samym tekstem oraz ze zwykłym streszczeniem. Przed próbą publikujemy, jaki wynik uznamy za wystarczający, a jej wynik dopisujemy w dzienniku także wtedy, gdy próba się nie powiedzie.
 
-Więcej: [whitepaper Omniforum, rozdział 9](../whitepaper-omniforum.md#s9).
+Więcej: [whitepaper OmniForum, rozdział 9](../whitepaper-omniforum.md#s9).
 
 ## Przeczytaj i powiedz, co myślisz
 
-Pełny opis tej drogi znajdziesz w [whitepaperze Omniforum](../whitepaper-omniforum.md) (ok. 50 minut czytania), zwłaszcza w rozdziałach 2 i 3. Jeśli coś Cię zastanawia albo wydaje się błędne, zaznacz ten fragment w dokumencie i skorzystaj z przycisku „Mam uwagę” albo napisz na salve@novusignis.org.
+Pełny opis tej drogi znajdziesz w [whitepaperze OmniForum](../whitepaper-omniforum.md) (ok. 50 minut czytania), zwłaszcza w rozdziałach 2 i 3. Jeśli coś Cię zastanawia albo wydaje się błędne, zaznacz ten fragment w dokumencie i skorzystaj z przycisku „Mam uwagę” albo napisz na salve@novusignis.org.
 
-Więcej: [whitepaper Omniforum, punkt 5.5](../whitepaper-omniforum.md#s5-5).
+Więcej: [whitepaper OmniForum, punkt 5.5](../whitepaper-omniforum.md#s5-5).

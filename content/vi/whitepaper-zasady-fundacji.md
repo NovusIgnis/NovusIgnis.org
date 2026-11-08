@@ -1,12 +1,12 @@
 # Nguyên tắc hoạt động của Quỹ Novus Ignis: duy trì, hợp tác và chuyển giao quyền lực
 
-Phiên bản ngày 31 tháng 10 năm 2026. Tài liệu này phát triển tuyên ngôn về các vấn đề tổ chức: cách chúng tôi duy trì dịch vụ, quản lý tiền chung, hợp tác và muốn chuyển giao quyền lực. Nó mô tả những nguyên tắc chúng tôi dự định thông qua thành quy chế, cùng các thay đổi điều lệ mà chúng sẽ đòi hỏi. Bản thân sách trắng không thay đổi điều lệ, thẩm quyền các cơ quan của quỹ hay nguyên tắc hạch toán.
+Phiên bản ngày 8 tháng 11 năm 2026. Tài liệu này phát triển tuyên ngôn về các vấn đề tổ chức: cách chúng tôi duy trì dịch vụ, quản lý tiền chung, hợp tác và muốn chuyển giao quyền lực. Nó mô tả những nguyên tắc chúng tôi dự định thông qua thành quy chế, cùng các thay đổi điều lệ mà chúng sẽ đòi hỏi. Bản thân sách trắng không thay đổi điều lệ, thẩm quyền các cơ quan của quỹ hay nguyên tắc hạch toán.
 
-*Bản dịch do trí tuệ số thực hiện dựa trên bản gốc tiếng Ba Lan ngày 31 tháng 10 năm 2026. Khi có khác biệt, văn bản tiếng Ba Lan có giá trị quyết định.*
+*Bản dịch do trí tuệ số thực hiện dựa trên bản gốc tiếng Ba Lan ngày 8 tháng 11 năm 2026. Khi có khác biệt, văn bản tiếng Ba Lan có giá trị quyết định.*
 
 ## 1. Điều lệ, tuyên ngôn, quy chế và tài liệu này
 
-Quỹ Novus Ignis ở Poznań (KRS 0001269575) muốn xây dựng một internet thay thế dựa trên phẩm giá con người. Trụ cột đầu gồm hai dịch vụ: Suveria, không gian riêng tư làm việc với trí tuệ số, và Omniforum, không gian chung để trò chuyện, thấu hiểu và quyết định. Tài liệu này mô tả cách quỹ dự định quyết định, hạch toán tiền, tổ chức công việc và chuyển giao trách nhiệm; tuyên ngôn mô tả giá trị và phương hướng.
+Quỹ Novus Ignis ở Poznań (KRS 0001269575) muốn xây dựng một internet thay thế dựa trên phẩm giá con người. Trụ cột đầu gồm hai dịch vụ: Suveria, không gian riêng tư làm việc với trí tuệ số, và OmniForum, không gian chung để trò chuyện, thấu hiểu và quyết định. Tài liệu này mô tả cách quỹ dự định quyết định, hạch toán tiền, tổ chức công việc và chuyển giao trách nhiệm; tuyên ngôn mô tả giá trị và phương hướng.
 
 Novus Ignis là một quỹ của Ba Lan được đăng ký trong Liên minh châu Âu (Poznań). Theo cách phân loại quốc tế, đây là tổ chức không có cổ đông, không phân phối lợi nhuận cho bất kỳ ai: tài sản chỉ phục vụ mục tiêu trong điều lệ. Chúng tôi thu phí dịch vụ không cao hơn chi phí thực tế, còn phát triển và dự phòng được tài trợ từ các khoản hiến tặng tự nguyện.
 
@@ -39,11 +39,11 @@ Với các nguyên tắc dưới đây, hiện những quy định điều lệ 
 
 ## 2. Giai đoạn linh hoạt: cách quyết định trước khi biểu quyết hoạt động
 
-Đến khi biểu quyết cộng đồng có hiệu lực ràng buộc được khởi động, quỹ hoạt động trong giai đoạn linh hoạt. Ban điều hành quyết định công việc thường ngày trong giới hạn pháp luật, điều lệ, cả khi cần phản ứng nhanh với thay đổi công nghệ, tranh luận công khai và nhu cầu con người. Chúng tôi không dừng phát triển để chờ hệ thống biểu quyết đầy đủ: trong giai đoạn này, ban điều hành quyết chi duy trì, phát triển Trụ cột I, tức Suveria và Omniforum.
+Đến khi biểu quyết cộng đồng có hiệu lực ràng buộc được khởi động, quỹ hoạt động trong giai đoạn linh hoạt. Ban điều hành quyết định công việc thường ngày trong giới hạn pháp luật, điều lệ, cả khi cần phản ứng nhanh với thay đổi công nghệ, tranh luận công khai và nhu cầu con người. Chúng tôi không dừng phát triển để chờ hệ thống biểu quyết đầy đủ: trong giai đoạn này, ban điều hành quyết chi duy trì, phát triển Trụ cột I, tức Suveria và OmniForum.
 
 Điều lệ cho ban điều hành nhiều quyền hơn mức ban muốn sử dụng. Mục tiêu là mọi quyết định chúng tôi trao cộng đồng đều được cộng đồng biểu quyết và có hiệu lực ràng buộc. Muốn vậy cần cơ chế hoạt động được, chúng tôi biết duy trì, nên tiến từng bước. Đến khi ấy, bằng lựa chọn tự nguyện, không phải nghĩa vụ pháp lý, ban điều hành hỏi cộng đồng qua tham vấn việc quan trọng, công bố cơ sở mỗi quyết định quan trọng, cả từ chối. Tham vấn không đòi kiểm chứng người tham gia, nên một người có thể bỏ nhiều phiếu: cho thấy ý kiến người tham gia, không phải biểu quyết theo điều lệ. Trước mỗi tham vấn, ban báo cách sẽ xử lý kết quả. Người tham gia có thể đặt nghi vấn về bất kỳ quyết định nào của ban; ban trả lời công khai các ý kiến bảo lưu.
 
-Giai đoạn linh hoạt kết thúc dần khi hiệu lực biểu quyết tăng dần, và mỗi bước là một lần thử. Đầu tiên, chúng tôi tiến hành những lần thử không có hệ quả tài chính, tiếp đến là biểu quyết về quyết định thực tế đối với một khoản nhỏ được tách riêng và các hành động có thể đảo ngược, rồi mới mở rộng phạm vi. Trước mỗi lần thử, chúng tôi thông báo phạm vi, thời lượng và cách ban điều hành sẽ xử lý kết quả. Sau khi kết thúc, chúng tôi công bố tóm tắt: kết quả có thực hiện được hay không, lần thử ảnh hưởng thế nào đến việc vận hành Quỹ và ra quyết định, đã phát hiện những lỗi hoặc hành vi lạm dụng nào và chúng tôi thay đổi điều gì. Chỉ từ những tóm tắt này, chúng tôi mới mở rộng phạm vi, vì không muốn nhận cam kết mình không thể giữ. Các giai đoạn, việc kiểm chứng người tham gia và bảo vệ bí mật lá phiếu được mô tả trong [sách trắng Omniforum](whitepaper-omniforum.md). Để kết quả biểu quyết có hiệu lực ràng buộc chính thức đối với Quỹ, chứ không chỉ do ban điều hành lựa chọn thực hiện, cần sửa điều lệ (Z4 trong sổ ghi thay đổi), vì hiện § 8 chỉ cho phép biểu quyết và tham vấn. Cho đến khi lần thử xác nhận tính duy nhất của từng người bỏ phiếu, chúng tôi gọi đó là tham vấn, không phải biểu quyết theo nghĩa của § 8 khoản 2 điều lệ. Khi một loại quyết định đã được chuyển sang cơ chế biểu quyết, ban điều hành chỉ được phép tạm dừng thực hiện kết quả vì những lý do mô tả trước khi biểu quyết, chẳng hạn lỗi giao thức được phát hiện, hành vi lạm dụng quy mô lớn được ghi nhận bằng tài liệu hoặc sự cố hạ tầng, kèm lý do công khai và thời hạn xem xét lại.
+Giai đoạn linh hoạt kết thúc dần khi hiệu lực biểu quyết tăng dần, và mỗi bước là một lần thử. Đầu tiên, chúng tôi tiến hành những lần thử không có hệ quả tài chính, tiếp đến là biểu quyết về quyết định thực tế đối với một khoản nhỏ được tách riêng và các hành động có thể đảo ngược, rồi mới mở rộng phạm vi. Trước mỗi lần thử, chúng tôi thông báo phạm vi, thời lượng và cách ban điều hành sẽ xử lý kết quả. Sau khi kết thúc, chúng tôi công bố tóm tắt: kết quả có thực hiện được hay không, lần thử ảnh hưởng thế nào đến việc vận hành Quỹ và ra quyết định, đã phát hiện những lỗi hoặc hành vi lạm dụng nào và chúng tôi thay đổi điều gì. Chỉ từ những tóm tắt này, chúng tôi mới mở rộng phạm vi, vì không muốn nhận cam kết mình không thể giữ. Các giai đoạn, việc kiểm chứng người tham gia và bảo vệ bí mật lá phiếu được mô tả trong [sách trắng OmniForum](whitepaper-omniforum.md). Để kết quả biểu quyết có hiệu lực ràng buộc chính thức đối với Quỹ, chứ không chỉ do ban điều hành lựa chọn thực hiện, cần sửa điều lệ (Z4 trong sổ ghi thay đổi), vì hiện § 8 chỉ cho phép biểu quyết và tham vấn. Cho đến khi lần thử xác nhận tính duy nhất của từng người bỏ phiếu, chúng tôi gọi đó là tham vấn, không phải biểu quyết theo nghĩa của § 8 khoản 2 điều lệ. Khi một loại quyết định đã được chuyển sang cơ chế biểu quyết, ban điều hành chỉ được phép tạm dừng thực hiện kết quả vì những lý do mô tả trước khi biểu quyết, chẳng hạn lỗi giao thức được phát hiện, hành vi lạm dụng quy mô lớn được ghi nhận bằng tài liệu hoặc sự cố hạ tầng, kèm lý do công khai và thời hạn xem xét lại.
 
 ## 3. Dịch vụ gần với chi phí nhất có thể
 
@@ -104,12 +104,12 @@ Trong hạch toán, chúng tôi tách năm loại tiền:
 | Tiền phải trả người dùng | Khoản trả trước, số dư người tham gia chưa dùng | Không, thuộc về người tham gia |
 | Tiền được giao cho mục đích cụ thể | Hiến tặng có mục đích chỉ định, như sáng kiến cụ thể hay thí điểm Suveria | Chỉ cho mục đích ấy |
 | Cam kết đã nhận | Tiền đã dành cho chi tiêu dự kiến | Không, đã được dành |
-| Bảo đảm duy trì dịch vụ | Dự phòng mà thiếu nó Suveria, Omniforum sẽ ngừng hoạt động | Không, bảo vệ dịch vụ liên tục |
+| Bảo đảm duy trì dịch vụ | Dự phòng mà thiếu nó Suveria, OmniForum sẽ ngừng hoạt động | Không, bảo vệ dịch vụ liên tục |
 | Tiền có thể tự do phân bổ | Phần còn sau mọi khoản trên | Có, luôn ưu tiên Trụ cột I (chương 8) |
 
 Mỗi khoản chỉ vào một loại, để không tính hai lần.
 
-Chi phí duy trì gồm mọi thứ thiếu thì Suveria, Omniforum ngừng: năng lực tính toán, lưu dữ liệu, bản sao, tên miền, xử lý thanh toán, kế toán bắt buộc. Vì thế số dư ngân hàng không phải ngân sách tự do phân bổ; tiền hứa chưa nộp, tiền thuộc người khác không tạo dự phòng.
+Chi phí duy trì gồm mọi thứ thiếu thì Suveria, OmniForum ngừng: năng lực tính toán, lưu dữ liệu, bản sao, tên miền, xử lý thanh toán, kế toán bắt buộc. Vì thế số dư ngân hàng không phải ngân sách tự do phân bổ; tiền hứa chưa nộp, tiền thuộc người khác không tạo dự phòng.
 
 Loại chi phí, điều kiện hợp đồng lớn, quyết định, cơ sở đều công khai. Mỗi khoản chi cần truy được về quyết định dẫn đến nó, kết quả quyết định. Đồng thời bảo vệ dữ liệu cá nhân, thông tin truy cập, điều tiết lộ sẽ tăng rủi ro hạ tầng.
 
@@ -162,13 +162,13 @@ Thành viên ban không ký hợp đồng có trả phí với quỹ: điều l�
 
 ### 5.4. Xưởng riêng và bối cảnh chuẩn bị sẵn
 
-Nhận nhiệm vụ được dự kiến mở không gian của nó trong môi trường người tham gia chọn. Trợ lý trí tuệ số nhận những gì cần cho công việc: giá trị quỹ, mục tiêu, giới hạn nhiệm vụ, những nội dung hiện đã được xác lập trong Omniforum, luận điểm quan trọng, câu hỏi mở, nguồn, hạn tài nguyên, cách đánh giá kết quả. Người tham gia có thể kiểm tra bối cảnh, chỉ thiếu, sửa cách trình bày lập trường mình.
+Nhận nhiệm vụ được dự kiến mở không gian của nó trong môi trường người tham gia chọn. Trợ lý trí tuệ số nhận những gì cần cho công việc: giá trị quỹ, mục tiêu, giới hạn nhiệm vụ, những nội dung hiện đã được xác lập trong OmniForum, luận điểm quan trọng, câu hỏi mở, nguồn, hạn tài nguyên, cách đánh giá kết quả. Người tham gia có thể kiểm tra bối cảnh, chỉ thiếu, sửa cách trình bày lập trường mình.
 
 Tham gia nhiệm vụ chỉ mở phạm vi dữ liệu, quyền đã chọn. Chuyển bối cảnh, truy cập công cụ, công bố bản ghi công việc mỗi việc cần đồng ý được định riêng; trò chuyện riêng, tệp, thông tin truy cập ở ngoài, đến khi con người chủ động quyết khác. Trước cung cấp kết nối ấy, chúng tôi sẽ mô tả dữ liệu nào rời môi trường riêng, giao ai, xử lý thế nào.
 
 Sau nghỉ, xưởng cần cho thấy đổi gì, tiếp ở đâu; kết quả, trạng thái nhiệm vụ cần giao được người sau không lộ môi trường riêng người tham gia. Thử nghiệm sẽ kiểm tra bắt đầu, trở lại sau một tuần, chuyển giao công việc: thời gian tìm bối cảnh, đúng tóm tắt, giữ ranh giới riêng tư.
 
-Trong thời gian chưa có máy chủ riêng, chúng tôi có thể dùng tiền Trụ cột I hay hiến tặng có mục đích chỉ định trả công cụ tình nguyện viên cần để tạo, thử mã nguồn mở Suveria, Omniforum, như truy cập mô hình qua API, công cụ lập trình. Hỗ trợ này có hạn công khai trong ngân sách, không là thù lao. Luật về hoạt động vì lợi ích công cộng và tình nguyện cho phép (điều 45 khoản 2); phạm vi chi phí sẽ xác nhận bằng ý kiến pháp lý.[^wolontariat]
+Trong thời gian chưa có máy chủ riêng, chúng tôi có thể dùng tiền Trụ cột I hay hiến tặng có mục đích chỉ định trả công cụ tình nguyện viên cần để tạo, thử mã nguồn mở Suveria, OmniForum, như truy cập mô hình qua API, công cụ lập trình. Hỗ trợ này có hạn công khai trong ngân sách, không là thù lao. Luật về hoạt động vì lợi ích công cộng và tình nguyện cho phép (điều 45 khoản 2); phạm vi chi phí sẽ xác nhận bằng ý kiến pháp lý.[^wolontariat]
 
 ## 6. Hỗ trợ cá nhân bên ngoài quỹ
 
@@ -202,10 +202,10 @@ Chúng tôi bảo vệ địa chỉ, số vé, dữ liệu thanh toán, sức kh
 
 ### 8.1. Ưu tiên Trụ cột I và ba điều kiện
 
-Trụ cột I gồm Suveria và Omniforum. Trụ cột II “Hardware” phát triển giải pháp vật chất mở, Trụ cột III “Natura” phát triển sáng kiến liên quan tiếp xúc thiên nhiên. Khởi động đầy đủ các trụ cột này và tài trợ dự án từ ngân sách chung cần đồng thời (mục 6.3 tuyên ngôn):
+Trụ cột I gồm Suveria và OmniForum. Trụ cột II “Hardware” phát triển giải pháp vật chất mở, Trụ cột III “Natura” phát triển sáng kiến liên quan tiếp xúc thiên nhiên. Khởi động đầy đủ các trụ cột này và tài trợ dự án từ ngân sách chung cần đồng thời (mục 6.3 tuyên ngôn):
 
-1. Omniforum hoạt động với biểu quyết dùng bằng chứng không tiết lộ tri thức, bảo vệ lựa chọn kín, cho kiểm tra phiếu đã được tính, bảo đảm mỗi người có quyền chỉ có một phiếu hữu hiệu.
-2. Số tiền thực sự đã huy động đủ cho ít nhất sáu tháng duy trì dịch vụ Suveria và Omniforum, vẫn còn nguyên sau khi để riêng toàn bộ ngân sách dự án mới.
+1. OmniForum hoạt động với biểu quyết dùng bằng chứng không tiết lộ tri thức, bảo vệ lựa chọn kín, cho kiểm tra phiếu đã được tính, bảo đảm mỗi người có quyền chỉ có một phiếu hữu hiệu.
+2. Số tiền thực sự đã huy động đủ cho ít nhất sáu tháng duy trì dịch vụ Suveria và OmniForum, vẫn còn nguyên sau khi để riêng toàn bộ ngân sách dự án mới.
 3. Quyết định của cộng đồng phê duyệt dự án và việc tài trợ dự án qua biểu quyết mở cho toàn bộ cộng đồng có quyền theo những quy tắc bình đẳng.
 
 Khi nào chúng tôi coi điều kiện đạt:
@@ -253,7 +253,7 @@ Trước phân bổ, chúng tôi công bố mục tiêu, toàn ngân sách, ngu�
 
 ## 9. Chuyển giao quyền hạn đặc biệt của người sáng lập
 
-Quỹ được một người, Marcin Wołowski, thành lập; hiện người ấy có nhiều quyền lực nhất. Ban đầu tự nhiên, nhưng chúng tôi không muốn giữ vậy. Người sáng lập muốn tiến tới dùng Suveria, Omniforum, dự án tiếp theo với quyền như người khác, rút khỏi vai trò công khai thường trực (mục 7.1 tuyên ngôn). Cùng ý chương 5: nhận trách nhiệm một thời gian, rồi trao. Quỹ cần tồn tại nhờ công cụ hữu ích, kiến thức người cùng tạo lập tiếp cận được, nguyên tắc cho nhận trách nhiệm, không nhờ một người luôn có mặt.
+Quỹ được một người, Marcin Wołowski, thành lập; hiện người ấy có nhiều quyền lực nhất. Ban đầu tự nhiên, nhưng chúng tôi không muốn giữ vậy. Người sáng lập muốn tiến tới dùng Suveria, OmniForum, dự án tiếp theo với quyền như người khác, rút khỏi vai trò công khai thường trực (mục 7.1 tuyên ngôn). Cùng ý chương 5: nhận trách nhiệm một thời gian, rồi trao. Quỹ cần tồn tại nhờ công cụ hữu ích, kiến thức người cùng tạo lập tiếp cận được, nguyên tắc cho nhận trách nhiệm, không nhờ một người luôn có mặt.
 
 Hiện điều lệ trao người sáng lập quyền hạn đặc biệt:
 
@@ -368,7 +368,7 @@ Mã, tài liệu riêng được cung cấp theo điều kiện cho người kh�
 | --- | --- | --- |
 | Tài liệu, các bản biên soạn và văn bản trang web | CC BY 4.0 | đã quyết định áp dụng |
 | Mã trang novusignis.org | AGPLv3 | đã quyết định áp dụng |
-| Mã dịch vụ (Suveria, Omniforum) | AGPLv3 | đang cân nhắc |
+| Mã dịch vụ (Suveria, OmniForum) | AGPLv3 | đang cân nhắc |
 | Thư viện nhúng vào trang khác | cần xác định | |
 | Tập dữ liệu, chỉ dẫn mở | cần xác định | |
 | Mô hình tinh chỉnh riêng | cần xác định | |
@@ -420,7 +420,7 @@ Về sau, tranh chấp về một quyết định sẽ được xem xét bởi n
 
 ### 12.4. Cách đổi tài liệu và nguyên tắc
 
-Tuyên ngôn, sách trắng là tài liệu sống. Chúng tôi muốn đưa xem xét công khai trong Omniforum, tách luận đề thành phân tử, tức khẳng định, luận điểm riêng kiểm tra được. Phiên bản hiện tại cho lập trường quỹ hiện tại; toàn lịch sử trước, luận điểm còn để đánh giá hành động cũ, lời hứa, lý do sửa.
+Tuyên ngôn, sách trắng là tài liệu sống. Chúng tôi muốn đưa xem xét công khai trong OmniForum, tách luận đề thành phân tử, tức khẳng định, luận điểm riêng kiểm tra được. Phiên bản hiện tại cho lập trường quỹ hiện tại; toàn lịch sử trước, luận điểm còn để đánh giá hành động cũ, lời hứa, lý do sửa.
 
 Bảo vệ phẩm giá, riêng tư, tiền được giao định hướng cố định cho quỹ. Nguyên tắc tổ chức phát triển công khai: cùng đề xuất, cho phạm vi, cơ sở, ảnh hưởng người tham gia. Chỉ sửa điều lệ khi cần bước tiếp, áp ngay. Đổi điều kiện tài trợ trụ cột tiếp ở chương 8 cần thủ tục đúng, tôn trọng điều lệ, pháp luật, cam kết đã nhận; trước thông qua đổi, nguyên tắc cũ áp dụng. Cũng cân nhắc ghi điều kiện vào điều lệ (đề xuất Z6 trong [sổ thay đổi](statut/rejestr-zmian.md)) để không chỉ phụ thuộc thiện chí ban điều hành.
 

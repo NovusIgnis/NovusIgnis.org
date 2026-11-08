@@ -1,16 +1,16 @@
-# Omniforum: cùng thấu hiểu, trò chuyện và quyết định
+# OmniForum: cùng thấu hiểu, trò chuyện và quyết định
 
-Phiên bản ngày 31 tháng 10 năm 2026. Tài liệu phát triển các nguyên tắc tuyên ngôn về Omniforum: cách chúng tôi muốn giúp con người hiểu nhau, để lại thành quả lâu dài sau trò chuyện và cùng quyết định. Nó mô tả hướng phát triển nguyên mẫu. Mỗi khả năng được mô tả cần thử nghiệm nghiệm thu riêng; mô tả trải nghiệm đích không có nghĩa là nó đang có sẵn hôm nay. Chúng tôi thêm kết quả thử nghiệm ở chương 9.
+Phiên bản ngày 8 tháng 11 năm 2026. Tài liệu phát triển các nguyên tắc tuyên ngôn về OmniForum: cách chúng tôi muốn giúp con người hiểu nhau, để lại thành quả lâu dài sau trò chuyện và cùng quyết định. Nó mô tả hướng phát triển nguyên mẫu. Mỗi khả năng được mô tả cần thử nghiệm nghiệm thu riêng; mô tả trải nghiệm đích không có nghĩa là nó đang có sẵn hôm nay. Chúng tôi thêm kết quả thử nghiệm ở chương 9.
 
-*Bản dịch do trí tuệ số thực hiện dựa trên bản gốc tiếng Ba Lan ngày 31 tháng 10 năm 2026. Khi có khác biệt, văn bản tiếng Ba Lan có giá trị quyết định.*
+*Bản dịch do trí tuệ số thực hiện dựa trên bản gốc tiếng Ba Lan ngày 8 tháng 11 năm 2026. Khi có khác biệt, văn bản tiếng Ba Lan có giá trị quyết định.*
 
-## 1. Omniforum là gì và được tạo ra để làm gì
+## 1. OmniForum là gì và được tạo ra để làm gì
 
-Omniforum được dự kiến là không gian trò chuyện chung, nơi bất kỳ ai có thể phát biểu về bất kỳ chủ đề nào và được lắng nghe. Quỹ Novus Ignis ở Poznań thiết kế cho con người ở mọi nơi trên thế giới, muốn cung cấp như hàng hóa công cộng số với mã nguồn mở. Trong đó, trí tuệ số giúp tách phát biểu thành từng suy nghĩ, nối với nguồn và suy nghĩ người khác, luôn dưới kiểm soát tác giả. Từ những cuộc trò chuyện mà người tham gia muốn chia sẻ, còn lại một thành quả mà họ có thể quay lại tham khảo.
+OmniForum được dự kiến là không gian trò chuyện chung, nơi bất kỳ ai có thể phát biểu về bất kỳ chủ đề nào và được lắng nghe. Quỹ Novus Ignis ở Poznań thiết kế cho con người ở mọi nơi trên thế giới, muốn cung cấp như hàng hóa công cộng số với mã nguồn mở. Trong đó, trí tuệ số giúp tách phát biểu thành từng suy nghĩ, nối với nguồn và suy nghĩ người khác, luôn dưới kiểm soát tác giả. Từ những cuộc trò chuyện mà người tham gia muốn chia sẻ, còn lại một thành quả mà họ có thể quay lại tham khảo.
 
-Omniforum hình thành vì trong dòng bình luận nhanh, luận điểm hay dễ mất, những tranh luận giống nhau bắt đầu lại mãi. Một câu truyền nhiều giả định, giá trị, kỳ vọng. Khi còn hiểu nhau, như vậy đủ. Khi có hiểu lầm hay cần cùng quyết định làm gì, đáng xem mỗi người hiểu gì dưới cùng từ ngữ, điều nối chúng ta và điểm lập luận rẽ khác.
+OmniForum hình thành vì trong dòng bình luận nhanh, luận điểm hay dễ mất, những tranh luận giống nhau bắt đầu lại mãi. Một câu truyền nhiều giả định, giá trị, kỳ vọng. Khi còn hiểu nhau, như vậy đủ. Khi có hiểu lầm hay cần cùng quyết định làm gì, đáng xem mỗi người hiểu gì dưới cùng từ ngữ, điều nối chúng ta và điểm lập luận rẽ khác.
 
-Trong Omniforum, chúng tôi muốn có thể:
+Trong OmniForum, chúng tôi muốn có thể:
 
 - sắp xếp suy nghĩ riêng, kiểm tra trước công bố diễn giải mô hình đề xuất có nói đúng ý mình không;
 - hiểu phát biểu người khác cùng giả định, giá trị, nguồn của nó;
@@ -22,11 +22,11 @@ Trong Omniforum, chúng tôi muốn có thể:
 
 Mục đích không phải chọn người thắng tranh luận. Luận điểm đặt lại vấn đề với lập trường mình đôi khi quý ngang luận điểm ủng hộ; có thể mang ý tưởng đến cả để người khác giúp tìm ý tốt hơn. Có thể tìm hiểu vấn đề từ câu chuyện ngắn, đi sâu luận điểm chọn, kết thúc rõ lượt ghé thăm. Chúng tôi coi lượt ghé thành công khi sau đó ai ấy hiểu vấn đề hơn, bình thản trở lại việc riêng. Số lượt nhấp hay thời gian trên trang không phải thước đo lợi ích.
 
-Tách phát biểu thành từng suy nghĩ không nhằm biến trò chuyện thành sơ đồ khô. Khi tranh luận, chúng ta thường bực nhau không vì ác ý mà vì một câu mang vài giả định, mỗi người trả lời một giả định khác. Câu hỏi giản dị “Vậy bạn muốn nói điều này điều kia, tôi hiểu đúng bạn không?” đổi giọng trò chuyện ở cả hai bên. Toàn lớp kỹ thuật Omniforum được dự kiến hỗ trợ chính phản xạ ấy.
+Tách phát biểu thành từng suy nghĩ không nhằm biến trò chuyện thành sơ đồ khô. Khi tranh luận, chúng ta thường bực nhau không vì ác ý mà vì một câu mang vài giả định, mỗi người trả lời một giả định khác. Câu hỏi giản dị “Vậy bạn muốn nói điều này điều kia, tôi hiểu đúng bạn không?” đổi giọng trò chuyện ở cả hai bên. Toàn lớp kỹ thuật OmniForum được dự kiến hỗ trợ chính phản xạ ấy.
 
 Trò chuyện được dự kiến dành chỗ cho đổi ý không bị làm nhục: có thể nhận lỗi, hỏi tiếp hay kết thúc không tuyên bố đồng ý. Phẩm giá người tham gia không phụ thuộc họ nhận kết luận hay không; đánh giá khẳng định phụ thuộc cơ sở lập luận.
 
-Omniforum bổ sung Suveria, không gian riêng làm việc với trí tuệ số: trước hết hoàn thiện suy nghĩ riêng tư, sau chủ động đưa vào trò chuyện chung. Giá trị nền tảng hai bản thiết kế được [tuyên ngôn](manifest.md) quỹ mô tả. Tiếp theo lần lượt trình bày:
+OmniForum bổ sung Suveria, không gian riêng làm việc với trí tuệ số: trước hết hoàn thiện suy nghĩ riêng tư, sau chủ động đưa vào trò chuyện chung. Giá trị nền tảng hai bản thiết kế được [tuyên ngôn](manifest.md) quỹ mô tả. Tiếp theo lần lượt trình bày:
 
 - cách tách phát biểu thành suy nghĩ, giữ nguồn của chúng (chương 2 và 3);
 - trợ giúp này có thể hoạt động trong dịch vụ khác thế nào (4);
@@ -38,7 +38,7 @@ Omniforum bổ sung Suveria, không gian riêng làm việc với trí tuệ s�
 
 ### 1.1. Sở thích thường ngày và bình thản trở lại chủ đề
 
-Omniforum được dự kiến giúp cả việc công lẫn kiến thức thực hành, sở thích thường ngày: chăm cây, nấu ăn, sửa chữa, học kỹ năng mới. Hãy lấy người muốn cây thường xuân ra chồi dài nhất có thể. Trong Omniforum, họ có thể theo dõi chủ đề, đọc người khác đã thử gì: vị trí, tưới, bón nào thành công, điều gì thất bại. Mỗi kinh nghiệm ấy cần ghi cùng tác giả, nguồn; lời khuyên tương tự từ trò chuyện khác nhau cần gom một nơi, thay vì mất trong luồng riêng. Đó là cách bản đồ vấn đề hình thành: tập hợp có trật tự những kinh nghiệm, luận điểm và câu hỏi mở mà người tham gia có thể quay lại xem xét. Cách dựng từ suy nghĩ đơn lẻ, nối với nguồn được mô tả ở chương 2, 3 và 5.
+OmniForum được dự kiến giúp cả việc công lẫn kiến thức thực hành, sở thích thường ngày: chăm cây, nấu ăn, sửa chữa, học kỹ năng mới. Hãy lấy người muốn cây thường xuân ra chồi dài nhất có thể. Trong OmniForum, họ có thể theo dõi chủ đề, đọc người khác đã thử gì: vị trí, tưới, bón nào thành công, điều gì thất bại. Mỗi kinh nghiệm ấy cần ghi cùng tác giả, nguồn; lời khuyên tương tự từ trò chuyện khác nhau cần gom một nơi, thay vì mất trong luồng riêng. Đó là cách bản đồ vấn đề hình thành: tập hợp có trật tự những kinh nghiệm, luận điểm và câu hỏi mở mà người tham gia có thể quay lại xem xét. Cách dựng từ suy nghĩ đơn lẻ, nối với nguồn được mô tả ở chương 2, 3 và 5.
 
 Có thể so giải pháp theo tiêu chí riêng. Một người cần nhanh, người khác cần rẻ, người thứ ba cần cây chịu được bỏ bê, nên chúng tôi không tìm một trả lời cho tất cả. Mỗi kinh nghiệm giữ điều kiện đạt nó, như nắng, nhiệt độ nhà, loại đất. Cũng phân biệt điều người ấy quan sát với giải thích vì sao xảy ra. Nhờ thế có thể đặt cách khác nhau bên nhau, chọn cách hợp hoàn cảnh mình.
 
@@ -46,7 +46,7 @@ Khi ai trở lại chủ đề sau một tuần hay một năm, họ cần chỉ
 
 ### 1.2. Điều gì miễn phí
 
-Đọc Omniforum, công bố phát biểu, chia thủ công thành suy nghĩ, nguyên tử, thêm nguồn, tham vấn, biểu quyết đều miễn phí; tiền không đem tầm tiếp cận lớn hơn hay tiếng nói mạnh hơn. Chỉ có chi phí khi ai dùng mô hình trợ giúp, như tách văn bản dài. Chi phí được trang trải từ số dư riêng trong Suveria hoặc bằng cách dùng mô hình trên thiết bị riêng; người không có số dư có thể dùng hàng đợi miễn phí, được quỹ phục vụ bằng năng lực tính toán rảnh trong giới hạn ngân sách hỗ trợ, khoản hiến tặng có mục đích chỉ định. Khi quỹ duy trì máy riêng, năng lực rảnh dành việc ấy, theo hàng đợi, không bảo đảm thời gian. Khi chỉ dùng API bảo vệ tính bí mật, không có năng lực rảnh vì mỗi thao tác tốn tiền; khi ấy nhiệm vụ người không có số dư chỉ được tài trợ từ khoản hiến tặng dành mục đích ấy đến khi hết, hiển thị trong sổ. Một lần xác nhận, bản tách vào thành quả chung, nên không ai trả lần nữa để mở.
+Đọc OmniForum, công bố phát biểu, chia thủ công thành suy nghĩ, nguyên tử, thêm nguồn, tham vấn, biểu quyết đều miễn phí; tiền không đem tầm tiếp cận lớn hơn hay tiếng nói mạnh hơn. Chỉ có chi phí khi ai dùng mô hình trợ giúp, như tách văn bản dài. Chi phí được trang trải từ số dư riêng trong Suveria hoặc bằng cách dùng mô hình trên thiết bị riêng; người không có số dư có thể dùng hàng đợi miễn phí, được quỹ phục vụ bằng năng lực tính toán rảnh trong giới hạn ngân sách hỗ trợ, khoản hiến tặng có mục đích chỉ định. Khi quỹ duy trì máy riêng, năng lực rảnh dành việc ấy, theo hàng đợi, không bảo đảm thời gian. Khi chỉ dùng API bảo vệ tính bí mật, không có năng lực rảnh vì mỗi thao tác tốn tiền; khi ấy nhiệm vụ người không có số dư chỉ được tài trợ từ khoản hiến tặng dành mục đích ấy đến khi hết, hiển thị trong sổ. Một lần xác nhận, bản tách vào thành quả chung, nên không ai trả lần nữa để mở.
 
 ### 1.3. Bảng thuật ngữ
 
@@ -61,7 +61,7 @@ Tên quan trọng nhất dùng trong tài liệu, được giải thích rộng 
 - **Bản đồ vấn đề** (*Mappa Causae*): tập hợp chuỗi của người khác nhau, cả mâu thuẫn nhau, cùng nguồn và câu hỏi mở, để người tham gia có thể quay lại xem xét (chương 1.1 và 5).
 - **Phiếu ý tưởng** (*Charta Ideae*): khung nhìn cho thấy muốn đến đâu, bước gần nhất là gì, có trạng thái ý tưởng, trả lời tám câu hỏi (mục 5.2).
 - **Sáng kiến** (*Inceptum*): đề xuất hành động cụ thể phát triển từ bản đồ vấn đề, phiếu ý tưởng (mục 5.3).
-- **Omnium:** cơ sở dữ liệu mở thành quả công khai Omniforum, ứng dụng khác truy cập qua OmniAPI (chương 4).
+- **Omnium:** cơ sở dữ liệu mở thành quả công khai OmniForum, ứng dụng khác truy cập qua OmniAPI (chương 4).
 - **Ignis:** giai đoạn đầu chia sẻ suy nghĩ; chính thời điểm công bố được tuyên ngôn gọi Nghi lễ Ignis (*Caerimonia Ignis*; chương 3).
 - **Formatio:** giai đoạn sau công bố, cộng đồng cân nhắc suy nghĩ, thêm luận điểm, nguồn, ý kiến bảo lưu, tìm đồng thuận (chương 3).
 - **Consensus:** thống nhất chung cộng đồng, có phiên bản, phạm vi, người xác nhận, ý kiến khác biệt (chương 3).
@@ -76,7 +76,7 @@ Nguyên tử là ý nghĩa, không phải từ. Nó có mã định danh cố đ
 
 Gắn cách gọi với nguyên tử là đề xuất tác giả xác nhận, như toàn việc chia phát biểu họ. Đôi khi cũng là thông tin riêng: “đường của chúng tôi” nghĩa đường Warszawska tiết lộ nơi ai sống, nên tác giả quyết định người khác có thấy liên hệ không.
 
-Định nghĩa nguyên tử cũng được ghi trong Omniforum: gồm nguyên tử khác, quan hệ giữa chúng, như mục bách khoa được mô tả bằng từ khác. Nhờ thế thấy rõ hiểu gì dưới khái niệm, có thể cân nhắc, sửa định nghĩa như suy nghĩ khác. Bản ghi ấy không phụ thuộc ngôn ngữ nào; bên cạnh, định nghĩa còn có thể bằng văn bản thường ở nhiều ngôn ngữ. Khi nguyên tử dùng trong định nghĩa nguyên tử khác đổi, chúng tôi đánh dấu các định nghĩa ấy cần xem lại.
+Định nghĩa nguyên tử cũng được ghi trong OmniForum: gồm nguyên tử khác, quan hệ giữa chúng, như mục bách khoa được mô tả bằng từ khác. Nhờ thế thấy rõ hiểu gì dưới khái niệm, có thể cân nhắc, sửa định nghĩa như suy nghĩ khác. Bản ghi ấy không phụ thuộc ngôn ngữ nào; bên cạnh, định nghĩa còn có thể bằng văn bản thường ở nhiều ngôn ngữ. Khi nguyên tử dùng trong định nghĩa nguyên tử khác đổi, chúng tôi đánh dấu các định nghĩa ấy cần xem lại.
 
 Mọi việc tách, gán, nối đều có thể làm thủ công không có mô hình, cùng công cụ, cùng kết quả trong bản đồ. Tuy nhọc công, nó cho thấy đầy đủ điều hình thành thế nào. Mô hình đề xuất cùng bước cho thuận tiện; ở mỗi yếu tố thấy rõ làm thủ công hay từ đề xuất mô hình, mô hình nào. Chúng tôi không coi quy trình thủ công là chế độ dự phòng: giữ trong mọi phiên bản, thử xem còn đi qua toàn vấn đề bằng nó được không.
 
@@ -92,11 +92,11 @@ Xác nhận chỉ nói tác giả nhận ra suy nghĩ mình trong bản tách. K
 
 Người đọc có thể tự tách phát biểu người khác, không chờ tác giả. Bản ấy được hiển thị là diễn giải người đọc, đánh dấu bằng tên hay bút danh họ. Chỉ phiên bản tác giả xác nhận được hiển thị như bản tách phát biểu của tác giả. Sự im lặng của tác giả không có nghĩa là đồng ý.
 
-Tham chiếu cho di chuyển dữ liệu là tiêu chuẩn chú giải mở như mô hình dữ liệu W3C Web Annotation, mô tả nối chú giải với tài nguyên và đoạn của nó.[^web-annotation] Đây không phải mô hình sẵn cho mọi quan hệ Omniforum.
+Tham chiếu cho di chuyển dữ liệu là tiêu chuẩn chú giải mở như mô hình dữ liệu W3C Web Annotation, mô tả nối chú giải với tài nguyên và đoạn của nó.[^web-annotation] Đây không phải mô hình sẵn cho mọi quan hệ OmniForum.
 
 ## 3. Từ phát biểu tự nhiên đến cùng xử lý
 
-Suy nghĩ qua các giai đoạn trong Omniforum. Đầu là Ignis, tức chia sẻ suy nghĩ lần đầu. Suy nghĩ có thể sinh ở Omniforum: khi ấy tác giả trong xưởng Ignis (*Officina Ignis*) dùng trí tuệ số giúp tách thành phân tử, nguyên tử, xác nhận diễn giải đúng ý định, chủ động công bố; chương này mô tả diễn tiến ấy. Cũng có thể đến từ Suveria, nơi tác giả hoàn thiện trong xưởng suy nghĩ riêng tư; khi ấy công bố ngay, không qua xưởng Ignis. Cả hai, thời điểm công bố được tuyên ngôn gọi Nghi lễ Ignis; sau đó bắt đầu Formatio: cộng đồng cân nhắc suy nghĩ, thêm luận điểm, nguồn, ý kiến bảo lưu, tìm đồng thuận. Thống nhất chung được gọi Consensus; khi không đồng ý, tranh luận được mô tả trung thực cũng là kết quả công việc này. Với thống nhất chung, chúng tôi nêu phiên bản, phạm vi, người xác nhận, ý kiến khác biệt; không tính im lặng là đồng ý.
+Suy nghĩ qua các giai đoạn trong OmniForum. Đầu là Ignis, tức chia sẻ suy nghĩ lần đầu. Suy nghĩ có thể sinh ở OmniForum: khi ấy tác giả trong xưởng Ignis (*Officina Ignis*) dùng trí tuệ số giúp tách thành phân tử, nguyên tử, xác nhận diễn giải đúng ý định, chủ động công bố; chương này mô tả diễn tiến ấy. Cũng có thể đến từ Suveria, nơi tác giả hoàn thiện trong xưởng suy nghĩ riêng tư; khi ấy công bố ngay, không qua xưởng Ignis. Cả hai, thời điểm công bố được tuyên ngôn gọi Nghi lễ Ignis; sau đó bắt đầu Formatio: cộng đồng cân nhắc suy nghĩ, thêm luận điểm, nguồn, ý kiến bảo lưu, tìm đồng thuận. Thống nhất chung được gọi Consensus; khi không đồng ý, tranh luận được mô tả trung thực cũng là kết quả công việc này. Với thống nhất chung, chúng tôi nêu phiên bản, phạm vi, người xác nhận, ý kiến khác biệt; không tính im lặng là đồng ý.
 
 Chúng ta trò chuyện tự nhiên. Xưởng Ignis bắt đầu từ văn bản thường hay đoạn chọn, người dùng định mục tiêu: hiểu, tách luận điểm, chuẩn bị trả lời riêng hay so lập trường. Sắp bản đồ thủ công vẫn là lựa chọn cho ai muốn.
 
@@ -112,11 +112,11 @@ Chúng tôi cũng cân nhắc nghi lễ tự nguyện thứ hai: lúc gọi tên
 
 ## 4. Trợ giúp thấu hiểu ngay nơi mọi người đang trò chuyện
 
-Khi xem phim hay đọc bài, hôm nay trước hết ta là người tiếp nhận. Cùng lắm thêm bình luận dưới, dễ mất giữa bình luận khác. Chúng tôi muốn ở đoạn văn hay thời điểm bản ghi cụ thể, có thể nói: tôi không đồng ý điều này, có luận điểm hay nguồn về nó. Ý kiến ấy cần đến nơi có thể được thấy, cân nhắc: bản đồ vấn đề trong Omniforum; nếu tác giả hay dịch vụ dùng tiện ích chúng tôi, còn đến họ. Khi ấy người tiếp nhận thành người tham gia.
+Khi xem phim hay đọc bài, hôm nay trước hết ta là người tiếp nhận. Cùng lắm thêm bình luận dưới, dễ mất giữa bình luận khác. Chúng tôi muốn ở đoạn văn hay thời điểm bản ghi cụ thể, có thể nói: tôi không đồng ý điều này, có luận điểm hay nguồn về nó. Ý kiến ấy cần đến nơi có thể được thấy, cân nhắc: bản đồ vấn đề trong OmniForum; nếu tác giả hay dịch vụ dùng tiện ích chúng tôi, còn đến họ. Khi ấy người tiếp nhận thành người tham gia.
 
-Omniforum được dự kiến là nơi cuộc trò chuyện phân tán nối thành toàn thể: suy nghĩ từ phát biểu khác nhau, nguồn, luận điểm, quan hệ giữa chúng vào bản đồ vấn đề chung. Nhưng con người trò chuyện nhiều nơi cùng lúc: mạng xã hội, diễn đàn, dưới bài viết, danh sách thảo luận, nhiều nơi khác. Chúng tôi không muốn chuyển tất cả vào một dịch vụ. Muốn trợ giúp hiểu nhau sẵn ở mọi nơi con người muốn cùng hiểu, thành quả Omniforum cũng phục vụ ở đó.
+OmniForum được dự kiến là nơi cuộc trò chuyện phân tán nối thành toàn thể: suy nghĩ từ phát biểu khác nhau, nguồn, luận điểm, quan hệ giữa chúng vào bản đồ vấn đề chung. Nhưng con người trò chuyện nhiều nơi cùng lúc: mạng xã hội, diễn đàn, dưới bài viết, danh sách thảo luận, nhiều nơi khác. Chúng tôi không muốn chuyển tất cả vào một dịch vụ. Muốn trợ giúp hiểu nhau sẵn ở mọi nơi con người muốn cùng hiểu, thành quả OmniForum cũng phục vụ ở đó.
 
-Trợ giúp ấy theo hai hướng. Từ trò chuyện đến Omniforum: tác giả có thể tách phát biểu mình thành phân tử, nguyên tử, kiểm tra diễn giải mô hình đề xuất đúng ý định không, chủ động đưa vào bản đồ chung; người đọc có thể chuẩn bị diễn giải phát biểu người khác, đánh dấu là diễn giải người đọc, nối nguồn. Từ Omniforum đến trò chuyện: theo yêu cầu người dùng, tiện ích có thể chỉ vấn đề đã được thảo luận, luận điểm, nguồn nào đã nêu, điểm bắt đầu khác ý để tranh luận không phải bắt đầu lại. Nó dùng Omnium (tiếng Latinh “của tất cả”), cơ sở dữ liệu mở thành quả công khai Omniforum, qua OmniAPI, giao diện có tài liệu cho ứng dụng khác.
+Trợ giúp ấy theo hai hướng. Từ trò chuyện đến OmniForum: tác giả có thể tách phát biểu mình thành phân tử, nguyên tử, kiểm tra diễn giải mô hình đề xuất đúng ý định không, chủ động đưa vào bản đồ chung; người đọc có thể chuẩn bị diễn giải phát biểu người khác, đánh dấu là diễn giải người đọc, nối nguồn. Từ OmniForum đến trò chuyện: theo yêu cầu người dùng, tiện ích có thể chỉ vấn đề đã được thảo luận, luận điểm, nguồn nào đã nêu, điểm bắt đầu khác ý để tranh luận không phải bắt đầu lại. Nó dùng Omnium (tiếng Latinh “của tất cả”), cơ sở dữ liệu mở thành quả công khai OmniForum, qua OmniAPI, giao diện có tài liệu cho ứng dụng khác.
 
 Chúng tôi dự kiến hai đường. Quản trị viên dịch vụ có thể tích hợp tiện ích, như nút bên ô phát biểu hay mô-đun nhúng; có làm, phạm vi nào hoàn toàn tùy họ. Nơi dịch vụ không có tiện ích ấy, phần mở rộng trình duyệt mở được dự kiến hoạt động. Phần mở rộng chỉ giúp người cài, làm trên điều họ thấy, chọn, không đổi dịch vụ hay điều người dùng khác thấy. Nếu muốn đưa kết quả vào trò chuyện trên dịch vụ, người dùng tự làm theo quy tắc dịch vụ ấy. Công cụ chú giải hiện có như Hypothesis cho thấy có thể làm qua phần mở rộng, tích hợp trang.[^hypothesis] Tiêu chuẩn chú giải mở W3C nói ở chương 2 cho chỉ cả đoạn văn, khoảng thời gian bản ghi.[^web-annotation] Chia thành phân tử, nguyên tử, xác nhận ý định vẫn là nhiệm vụ thiết kế riêng của chúng tôi.
 
@@ -124,13 +124,13 @@ Cách hoạt động tiện ích được đề xuất:
 
 1. Người dùng chọn văn bản, thấy phạm vi được đọc, bởi mô hình nào, ở đâu.
 2. Nhận đề xuất xử lý riêng tư, có thể sửa hay bác bỏ.
-3. Có thể sao kết quả, giữ riêng hay chuẩn bị công bố trong Omniforum.
+3. Có thể sao kết quả, giữ riêng hay chuẩn bị công bố trong OmniForum.
 4. Trước công bố, thấy nguồn, tác giả của bản biên soạn, quyền với tài liệu, phạm vi hiển thị, dữ liệu người khác nếu có.
 5. Quyết định riêng về tham gia tập nghiên cứu, riêng về dùng huấn luyện mô hình.
 
 Quản trị viên tích hợp tiện ích không thay quyết định gửi nội dung của người dùng. Phần mở rộng xin quyền hẹp nhất có thể, không gửi ngầm lịch sử duyệt, cả hộp thư hay nội dung trò chuyện bên cạnh; mặc định chỉ xử lý tài liệu chọn. Chính người dùng cũng khởi động tìm trò chuyện trước về vấn đề. Phát biểu trong trò chuyện riêng còn liên quan người khác, nên trước chuyển gì ra ngoài, tiện ích cần nhắc rõ. Mô hình cục bộ có thể là một phương án nếu chất lượng, yêu cầu phần cứng cho phép.
 
-Omniforum được dự kiến là dự án cộng đồng: thành quả của nó đến từ những gì mọi người tự đóng góp. Chúng tôi không dự định tự động thu thập phát biểu trên internet để tách thành phân tử và nguyên tử mà tác giả không biết, hay xây dựng hồ sơ về con người từ những phát biểu ấy. Việc văn bản có sẵn trên internet không tự nó quyết định liệu có quyền chia sẻ tiếp, lập hồ sơ hay dùng văn bản đó để huấn luyện mô hình hay không. Chúng tôi sẽ chỉ cân nhắc việc tự động xử lý phát biểu từ dịch vụ khác nếu dịch vụ ấy cho phép và mọi tác giả có phát biểu liên quan đều đã đồng ý từ trước. Tuy vậy, bất kỳ ai cũng có thể đưa tài liệu hoặc phát biểu công khai vào cuộc trò chuyện và thảo luận với dẫn chiếu nguồn, trong phạm vi phù hợp và không gán cho tác giả sự tán thành đối với bản xử lý.
+OmniForum được dự kiến là dự án cộng đồng: thành quả của nó đến từ những gì mọi người tự đóng góp. Chúng tôi không dự định tự động thu thập phát biểu trên internet để tách thành phân tử và nguyên tử mà tác giả không biết, hay xây dựng hồ sơ về con người từ những phát biểu ấy. Việc văn bản có sẵn trên internet không tự nó quyết định liệu có quyền chia sẻ tiếp, lập hồ sơ hay dùng văn bản đó để huấn luyện mô hình hay không. Chúng tôi sẽ chỉ cân nhắc việc tự động xử lý phát biểu từ dịch vụ khác nếu dịch vụ ấy cho phép và mọi tác giả có phát biểu liên quan đều đã đồng ý từ trước. Tuy vậy, bất kỳ ai cũng có thể đưa tài liệu hoặc phát biểu công khai vào cuộc trò chuyện và thảo luận với dẫn chiếu nguồn, trong phạm vi phù hợp và không gán cho tác giả sự tán thành đối với bản xử lý.
 
 ## 5. Vấn đề, bản đồ của chúng và câu chuyện về ý tưởng
 
@@ -142,7 +142,7 @@ Bản đồ vấn đề mở bình thản: trước một kết luận chính, k
 
 Với kết luận, chúng tôi hiển thị riêng bằng chứng mạnh, độc lập đến đâu, bản thân kết luận có cơ sở tốt thế nào, sự đồng ý rộng đến đâu. Tất cả người tham gia đồng ý dựa một lời thuật lại chưa kiểm chứng vẫn là kết luận yếu. Chúng tôi sẽ xây dựng thang đánh giá này và kiểm tra trong bộ chuẩn đánh giá; không gắn điều chưa chắc giả tạo cho sự kiện đã xác lập vững.
 
-Tuyên ngôn (mục 5.1) chia suy ngẫm chung thành sự kiện, giá trị, giả thuyết. Trong Omniforum, tương ứng dấu trên phân tử: nói điều kiểm chứng được, nhu cầu hay giá trị, hay giả thuyết. Phiếu ý tưởng gom dấu ấy vào trạng thái (đang hoạt động, bản thiết kế, giả thuyết, tầm nhìn).
+Tuyên ngôn (mục 5.1) chia suy ngẫm chung thành sự kiện, giá trị, giả thuyết. Trong OmniForum, tương ứng dấu trên phân tử: nói điều kiểm chứng được, nhu cầu hay giá trị, hay giả thuyết. Phiếu ý tưởng gom dấu ấy vào trạng thái (đang hoạt động, bản thiết kế, giả thuyết, tầm nhìn).
 
 Từ bản đồ có thể hình thành câu chuyện về ý tưởng: hướng dẫn dễ tiếp cận dẫn người đọc lần lượt qua câu hỏi nói gì, những điều đã cùng xác định được, khác biệt ở đâu, dựa gì, điều có thể đổi đánh giá. Câu chuyện tốt cho thời điểm khép lại: biết điều đã xác lập, nơi còn tranh luận. Khi có nguồn mới, điều kiện quan trọng đổi hay lộ lỗi, có thể mở lại trò chuyện rõ ràng.
 
@@ -156,7 +156,7 @@ Vấn đề là câu hỏi hay việc ai muốn trở lại vì muốn hiểu, s
 
 Liên kết cố định đến vấn đề dẫn tới mọi điều liên quan: câu hỏi, bối cảnh, nguồn, luận điểm, trạng thái kiến thức hiện tại, lịch sử thay đổi. Với mỗi việc, ghi rõ sự kiện, phỏng đoán, chọn giá trị hay kế hoạch, liên quan thời gian, điều kiện nào, đánh giá dựa gì. Biểu quyết có thể cho thấy quyết định hay lập trường người tham gia; nguồn, kiểm tra quyết định sự thật khẳng định, không phải số phiếu.
 
-Ghi câu hỏi chưa phải quyết định hành động. Khi ai nhận nhiệm vụ, chúng tôi định riêng ai chịu trách nhiệm, bước tiếp, điều mong đợi. Hoãn hay từ chối để lại cơ sở, đường trở lại chủ đề. Người tham gia tự chọn ai thấy vấn đề mình: việc riêng trong Suveria tách khỏi tài liệu chủ động chia trong Omniforum. Vấn đề riêng tiến hành trong Suveria; chỉ đến Omniforum khi tác giả chia nhóm hay công khai. Sổ vấn đề chung là hướng sẽ kiểm tra trong bản thiết kế, thử nghiệm riêng.
+Ghi câu hỏi chưa phải quyết định hành động. Khi ai nhận nhiệm vụ, chúng tôi định riêng ai chịu trách nhiệm, bước tiếp, điều mong đợi. Hoãn hay từ chối để lại cơ sở, đường trở lại chủ đề. Người tham gia tự chọn ai thấy vấn đề mình: việc riêng trong Suveria tách khỏi tài liệu chủ động chia trong OmniForum. Vấn đề riêng tiến hành trong Suveria; chỉ đến OmniForum khi tác giả chia nhóm hay công khai. Sổ vấn đề chung là hướng sẽ kiểm tra trong bản thiết kế, thử nghiệm riêng.
 
 ### 5.2. Phiếu ý tưởng: từ hình dung tương lai đến thử nghiệm đầu
 
@@ -197,11 +197,11 @@ Chúng tôi muốn dùng cùng công cụ với tài liệu riêng quỹ, như t
 
 Phiên bản hiện tại trình bày lập trường hiện tại tác giả. Lịch sử giữ cách viết trước, lý do đổi, cam kết đã nhận, nên đánh giá hành động theo điều tuyên bố ở thời điểm ấy được. Viết lại cho sửa lỗi, không bỏ trách nhiệm quyết định cũ.
 
-Chúng tôi bắt đầu từ trang riêng. Trên novusignis.org, ở tuyên ngôn, sách trắng có thể chọn đoạn, một lượt nhấp chuẩn bị e-mail góp ý gửi chúng tôi, sẵn trích dẫn, liên kết đến chỗ ấy. Đây là bước đầu đơn giản: thư chỉ đến quỹ, không sinh trò chuyện công khai. Về đích, ý kiến tài liệu được dự kiến vào Omniforum, nơi người khác thấy, thảo luận. Ý kiến dẫn sửa được ghi trong lịch sử tài liệu.
+Chúng tôi bắt đầu từ trang riêng. Trên novusignis.org, ở tuyên ngôn, sách trắng có thể chọn đoạn, một lượt nhấp chuẩn bị e-mail góp ý gửi chúng tôi, sẵn trích dẫn, liên kết đến chỗ ấy. Đây là bước đầu đơn giản: thư chỉ đến quỹ, không sinh trò chuyện công khai. Về đích, ý kiến tài liệu được dự kiến vào OmniForum, nơi người khác thấy, thảo luận. Ý kiến dẫn sửa được ghi trong lịch sử tài liệu.
 
 ### 5.6. Bộ Nguyên tắc Cá nhân khi trò chuyện về giá trị
 
-Bộ Nguyên tắc Cá nhân là tập nguyên tắc con người nhận làm của mình. Nó hình thành trong không gian riêng Suveria; chỉ nguyên tắc chủ động chia đến Omniforum. Nhận nguyên tắc làm của mình gọi Principium. Có thể ở mọi giai đoạn chương 3: suy nghĩ mới chia (Ignis), khi cộng đồng cân nhắc (Formatio), sau thống nhất chung (Consensus). Principium vẫn có chỗ trong bộ nguyên tắc khi còn ý kiến khác đa số.
+Bộ Nguyên tắc Cá nhân là tập nguyên tắc con người nhận làm của mình. Nó hình thành trong không gian riêng Suveria; chỉ nguyên tắc chủ động chia đến OmniForum. Nhận nguyên tắc làm của mình gọi Principium. Có thể ở mọi giai đoạn chương 3: suy nghĩ mới chia (Ignis), khi cộng đồng cân nhắc (Formatio), sau thống nhất chung (Consensus). Principium vẫn có chỗ trong bộ nguyên tắc khi còn ý kiến khác đa số.
 
 Các bộ nguyên tắc có thể lớn hơn hoặc nhỏ hơn, bao hàm nhau và trùng nhau một phần. Ngoài bộ nguyên tắc cá nhân, có thể có bộ nguyên tắc cộng đồng hoặc bản mô tả các nguyên tắc của một truyền thống cụ thể; đặt chúng cạnh nhau cho thấy điểm gặp nhau và nơi còn bất đồng. Chúng tôi phân biệt nguyên tắc được chấp nhận làm điểm xuất phát với kết luận có tiền đề và chuỗi lập luận nhìn thấy được. Thiếu lý do hoặc có bước chuyển còn tranh luận không bác bỏ nguyên tắc mà chỉ ra nơi cần suy nghĩ tiếp. Những sự kiện làm cơ sở cho nguyên tắc đến từ bản đồ và các nguồn của nó; đưa chúng vào bộ nguyên tắc không xác định dứt khoát liệu chúng có đúng hay không.
 
@@ -209,7 +209,7 @@ Bộ nguyên tắc không để đánh giá con người. Có thể có mức x�
 
 ## 6. Phương tiện truyền thông mới để giải thích và trò chuyện
 
-Như YouTube khởi sinh người làm YouTube, podcast khởi sinh người làm podcast, Omniforum có thể khởi sinh nhóm sáng tạo mới. Tên gọi chắc họ tự định; họ là người không chỉ kể thế giới mà dẫn khán giả qua vấn đề từng bước, từ nguồn, qua luận điểm, đến nơi bắt đầu tranh luận. Công việc không hết khi công bố. Mỗi bước giải thích nối phân tử, nguồn, nên người xem có thể dừng bất kỳ đâu, kiểm tra vì sao biết, tham gia trò chuyện.
+Như YouTube khởi sinh người làm YouTube, podcast khởi sinh người làm podcast, OmniForum có thể khởi sinh nhóm sáng tạo mới. Tên gọi chắc họ tự định; họ là người không chỉ kể thế giới mà dẫn khán giả qua vấn đề từng bước, từ nguồn, qua luận điểm, đến nơi bắt đầu tranh luận. Công việc không hết khi công bố. Mỗi bước giải thích nối phân tử, nguồn, nên người xem có thể dừng bất kỳ đâu, kiểm tra vì sao biết, tham gia trò chuyện.
 
 Phương tiện này bản chất là trò chuyện. Trả lời không vào cuối danh sách bình luận dài, mà đúng chỗ liên quan: phân tử, bước chuyển trong chuỗi hay nguồn cụ thể. Quanh nơi ấy có thể có tranh luận nhỏ, tức trao đổi luận điểm ngắn, có trật tự, kết thúc trạng thái rõ: đã xác lập, còn tranh luận hay thiếu dữ liệu. Người sáng tạo có thể đáp, sửa giải thích hay nói trung thực nơi không đồng ý; người xem thấy câu chuyện cùng trả lời ở mỗi bước. Mỗi người cũng có thể kiểm tra quan điểm mình ra sao khi gặp luận điểm người khác: đầu riêng tư trong Suveria, sau công khai nếu muốn.
 
@@ -225,7 +225,7 @@ Tầm tiếp cận người sáng tạo, hỗ trợ người xem không chứng 
 
 ## 7. Quyền riêng tư, trích dẫn và sửa chữa
 
-Mỗi suy nghĩ có thể ở một trong ba nơi: không gian riêng Suveria, nhóm tự chọn hay công khai trong Omniforum. Nhóm tự chọn định ai thấy tài liệu, không phải nhóm ý kiến chương 6. Quyền truy cập được xác định riêng cho từng nơi; chuyển suy nghĩ tiếp, như từ Suveria đến Omniforum, luôn cần xác nhận rõ. Dữ liệu người khác hạn chế đến điều thực sự cần trong vấn đề ấy.
+Mỗi suy nghĩ có thể ở một trong ba nơi: không gian riêng Suveria, nhóm tự chọn hay công khai trong OmniForum. Nhóm tự chọn định ai thấy tài liệu, không phải nhóm ý kiến chương 6. Quyền truy cập được xác định riêng cho từng nơi; chuyển suy nghĩ tiếp, như từ Suveria đến OmniForum, luôn cần xác nhận rõ. Dữ liệu người khác hạn chế đến điều thực sự cần trong vấn đề ấy.
 
 Đọc không cần tài khoản; tham gia nói trong trò chuyện cũng có thể không tài khoản (mục 8.1). Người công bố từ tài khoản có thể dùng bút danh cố định. Tác giả chịu trách nhiệm nội dung; với phát biểu được một người bảo chứng và đưa vào, người ấy cũng chịu trách nhiệm. Nghĩa vụ quỹ với tư cách bên vận hành về báo cáo sẽ được mô tả trước khởi động.
 
@@ -233,7 +233,7 @@ Phát biểu gốc, trích dẫn, bình luận, phần mô hình xử lý có th
 
 Con người có quyền riêng tư cả khi bị người khác trích. Nếu ai gán phát biểu cho người khác không nguồn công khai, như từ trò chuyện riêng, người được nêu tác giả có thể báo. Ai cũng báo thiếu nguồn công khai được, không lộ danh tính. Chờ làm rõ, phát biểu ấy không công khai. Nếu bịa hay từ trò chuyện riêng không có sự đồng ý người ấy, chúng tôi hạn chế truy cập. Chỉ đòi xác nhận người báo đúng người liên quan khi họ muốn sửa lời bị gán, để không ai sửa lời người khác.
 
-Khác với phát biểu có nguồn công khai, như bài hay bản ghi nhiều năm trước. Bản gốc còn, vì phải chịu trách nhiệm lời công khai, có thể thảo luận chúng. Nhưng tác giả có thể thêm đính chính hay lập trường hôm nay; người đọc thấy hai phiên bản cạnh nhau: điều đã nói, điều nghĩ nay. Theo yêu cầu người đọc, tiện ích chương 4 có thể cho lập trường mới cả bên trích dẫn trong bài ngoài Omniforum. Quyền đổi ý không xóa lịch sử, cho phép bổ sung.
+Khác với phát biểu có nguồn công khai, như bài hay bản ghi nhiều năm trước. Bản gốc còn, vì phải chịu trách nhiệm lời công khai, có thể thảo luận chúng. Nhưng tác giả có thể thêm đính chính hay lập trường hôm nay; người đọc thấy hai phiên bản cạnh nhau: điều đã nói, điều nghĩ nay. Theo yêu cầu người đọc, tiện ích chương 4 có thể cho lập trường mới cả bên trích dẫn trong bài ngoài OmniForum. Quyền đổi ý không xóa lịch sử, cho phép bổ sung.
 
 Mô hình có thể công khai đánh giá khác lập trường chung. Khi ấy nêu cơ sở khác biệt, kiểm tra luận điểm đã có trong bản đồ chưa. Chưa có, đề xuất mục ghi đánh dấu là đề xuất mô hình cần kiểm tra; công bố nó hay phát biểu tương tự từ mô hình khác đều không là bằng chứng hay đồng ý cộng đồng.
 
@@ -241,17 +241,17 @@ Khi ai rút tài liệu mình, chúng tôi xóa hay hạn chế truy cập trong
 
 ### 7.1. Sổ tay riêng trong Suveria và chủ động công bố
 
-Tài liệu riêng được lưu theo [sách trắng Suveria](whitepaper-suveria.md): chủ yếu trên thiết bị người dùng, trong vùng chứa mã hóa, bản sao mã hóa tùy chọn trên máy chủ. Chỉ điều chủ động chọn đến Omniforum. Suy nghĩ hoàn thiện trong xưởng riêng Suveria công bố ngay, không qua xưởng Ignis chương 3; thời điểm công bố được tuyên ngôn gọi Nghi lễ Ignis. Sau công bố, quy tắc không gian công hay nhóm chọn áp dụng; bản ghi gốc riêng không cho kiểm soát bản sao có thể đã sinh.
+Tài liệu riêng được lưu theo [sách trắng Suveria](whitepaper-suveria.md): chủ yếu trên thiết bị người dùng, trong vùng chứa mã hóa, bản sao mã hóa tùy chọn trên máy chủ. Chỉ điều chủ động chọn đến OmniForum. Suy nghĩ hoàn thiện trong xưởng riêng Suveria công bố ngay, không qua xưởng Ignis chương 3; thời điểm công bố được tuyên ngôn gọi Nghi lễ Ignis. Sau công bố, quy tắc không gian công hay nhóm chọn áp dụng; bản ghi gốc riêng không cho kiểm soát bản sao có thể đã sinh.
 
 ### 7.2. Di chuyển thành quả và OmniAPI
 
-Chúng tôi muốn phát triển Omniforum thành hàng hóa công cộng số: mã nguồn, tài liệu, định dạng dữ liệu mở, hướng đến tiêu chuẩn Digital Public Goods Alliance.[^dpga] Qua OmniAPI, chương trình khác có thể đọc, trao đổi tài liệu chọn, chỉ với sự đồng ý người sở hữu. Tài liệu giao diện công khai không mở truy cập dữ liệu riêng.
+Chúng tôi muốn phát triển OmniForum thành hàng hóa công cộng số: mã nguồn, tài liệu, định dạng dữ liệu mở, hướng đến tiêu chuẩn Digital Public Goods Alliance.[^dpga] Qua OmniAPI, chương trình khác có thể đọc, trao đổi tài liệu chọn, chỉ với sự đồng ý người sở hữu. Tài liệu giao diện công khai không mở truy cập dữ liệu riêng.
 
 Mỗi người có thể mang thành quả sang công cụ khác. Gói chuyển gồm phát biểu gốc có phiên bản, đoạn chỉ định, phân tử, nguyên tử kèm nhãn, quan hệ giữa chúng, tác giả, nguồn, thông tin diễn giải nào tác giả xác nhận, điều kiện dùng. Nhờ mã định danh, lịch sử sửa, nhận ra cùng yếu tố sau nhập được; công cụ khác cần cho phát biểu gốc cạnh phân tử tách, nguồn, trạng thái xác nhận. Điều kiện dùng ghi điều được phép, không ép bên nhận ngoài tuân thủ. Xuất riêng tư, công bố, chia cho nghiên cứu, chia huấn luyện mô hình là bốn quyết định riêng.
 
 ### 7.3. Nguồn và tệp đính kèm trong trò chuyện công khai
 
-Bản ghi lớn không phải lưu trong Omniforum. Bản đồ vấn đề, mô tả nguồn được giữ riêng; phim, bản ghi có thể ở nhà cung cấp của nó. Khi ấy tham chiếu ghi địa chỉ, tác giả, ngày truy cập, đoạn ghi phù hợp; bên cạnh thấy rõ phụ thuộc nhà cung cấp còn giữ tài liệu không, có quy tắc gì.
+Bản ghi lớn không phải lưu trong OmniForum. Bản đồ vấn đề, mô tả nguồn được giữ riêng; phim, bản ghi có thể ở nhà cung cấp của nó. Khi ấy tham chiếu ghi địa chỉ, tác giả, ngày truy cập, đoạn ghi phù hợp; bên cạnh thấy rõ phụ thuộc nhà cung cấp còn giữ tài liệu không, có quy tắc gì.
 
 Tài liệu được phép lưu có thể giữ đoạn cần, làm bản sao nguồn hay hình nhẹ kèm bản văn. Mỗi tài liệu ghi nguồn gốc, cơ sở dùng, phiên bản, mã băm mật mã, tức một dạng dấu vân tay số tệp cho phát hiện tệp đổi. Mã băm chỉ xác nhận cùng tệp, không xác nhận nội dung đáng tin. Khi nguồn đổi hay mất, thấy bên khẳng định dựa nó.
 
@@ -259,7 +259,7 @@ Chúng tôi sẽ chọn định dạng, hạn, thời gian lưu để hữu dụ
 
 ### 7.4. Lạm dụng và nội dung trái pháp luật
 
-Trò chuyện mở cho mọi người cần quy tắc công khai. Ban đầu Omniforum sẽ qua lời mời, mỗi lời mời thấy tác giả. Không ai duyệt phát biểu trước công bố. Kiểm duyệt sau công bố, theo danh sách lý do ngắn, công khai: thư rác, quấy rối, mạo danh, bóp méo bản đồ có tổ chức, dữ liệu người thứ ba chưa đồng ý, nội dung trái pháp luật. Quy tắc kiểm duyệt, hạn chế lạm dụng sẽ công bố trước vấn đề đầu, không chờ tranh luận đầu. Khi người kiểm duyệt còn là tình nguyện viên, danh sách họ công khai.
+Trò chuyện mở cho mọi người cần quy tắc công khai. Ban đầu OmniForum sẽ qua lời mời, mỗi lời mời thấy tác giả. Không ai duyệt phát biểu trước công bố. Kiểm duyệt sau công bố, theo danh sách lý do ngắn, công khai: thư rác, quấy rối, mạo danh, bóp méo bản đồ có tổ chức, dữ liệu người thứ ba chưa đồng ý, nội dung trái pháp luật. Quy tắc kiểm duyệt, hạn chế lạm dụng sẽ công bố trước vấn đề đầu, không chờ tranh luận đầu. Khi người kiểm duyệt còn là tình nguyện viên, danh sách họ công khai.
 
 Ai cũng sẽ có thể báo nội dung trái pháp luật. Mỗi hạn chế, như ẩn hay xóa, có tác giả quyết định, cơ sở, đường khiếu nại, theo Đạo luật Dịch vụ số của Liên minh châu Âu. Cơ sở được ghi, hiển thị cho tác giả phát biểu, trong nhật ký công khai; khiếu nại được người không liên quan vụ việc xét, khác người áp hạn chế. Phát hiện tự động chỉ được báo nội dung nghi ngờ, con người quyết. Nội dung trái pháp luật cũng bị ẩn trong lịch sử phiên bản, giữ dấu công khai rằng bị ẩn, vì sao.
 
@@ -287,9 +287,9 @@ Câu hỏi biểu quyết từ sáng kiến (5.3): người nộp đề xuất �
 
 ### 8.1. Trò chuyện cho mọi người, phiếu có hiệu lực ràng buộc sau gia nhập
 
-Trong Omniforum, ai cũng có thể phát biểu, góp luận điểm, mô tả quyết định ảnh hưởng đời mình thế nào, cả không liên quan quỹ. Luận điểm mới, tốt có thể chuyển trò chuyện bất kể ai mang đến. Ai cũng có thể tham vấn, tức hỏi ý kiến không kiểm chứng người tham gia. Tham vấn cho thấy người tham gia nghĩ gì, không phải biểu quyết theo điều lệ quỹ, vốn đòi xác nhận tính duy nhất của mỗi người bỏ phiếu (§ 8 khoản 2). Không kiểm chứng, ai có vài tài khoản có thể làm méo kết quả; vì thế chúng tôi coi là tiếng nói trong trò chuyện, không phép đo. Ai muốn biểu quyết có hiệu lực ràng buộc về tài nguyên chung tự nguyện, miễn phí gia nhập cộng đồng ra quyết định theo tiêu chí công khai: báo muốn tham gia, nhận quyền qua đường kiểm chứng chọn.
+Trong OmniForum, ai cũng có thể phát biểu, góp luận điểm, mô tả quyết định ảnh hưởng đời mình thế nào, cả không liên quan quỹ. Luận điểm mới, tốt có thể chuyển trò chuyện bất kể ai mang đến. Ai cũng có thể tham vấn, tức hỏi ý kiến không kiểm chứng người tham gia. Tham vấn cho thấy người tham gia nghĩ gì, không phải biểu quyết theo điều lệ quỹ, vốn đòi xác nhận tính duy nhất của mỗi người bỏ phiếu (§ 8 khoản 2). Không kiểm chứng, ai có vài tài khoản có thể làm méo kết quả; vì thế chúng tôi coi là tiếng nói trong trò chuyện, không phép đo. Ai muốn biểu quyết có hiệu lực ràng buộc về tài nguyên chung tự nguyện, miễn phí gia nhập cộng đồng ra quyết định theo tiêu chí công khai: báo muốn tham gia, nhận quyền qua đường kiểm chứng chọn.
 
-Bất kỳ ai cũng có thể đọc mà không cần tài khoản. Có ba cách phát biểu trong cuộc trò chuyện. Qua tài khoản: phát biểu có tác giả và tài khoản có giới hạn tốc độ công khai. Không cần tài khoản, qua bảo chứng cho phát biểu: người tham gia có tài khoản đưa phát biểu của người khác vào, được hiển thị bên cạnh với tư cách người đưa vào và chịu trách nhiệm như với phát biểu của chính mình; tác giả vẫn không có tài khoản, có thể ghi tên hoặc không ghi tên. Không cần tài khoản, qua hộp thư mở: phát biểu được đưa vào lớp “không có bảo chứng”, hiển thị với bất kỳ ai chọn lớp đó và nằm sau phát biểu có bảo chứng trong thứ tự hiển thị; bất kỳ người tham gia có tài khoản nào cũng có thể bảo chứng và chuyển phát biểu vào cuộc trò chuyện bằng một thao tác. Hộp thư mở có giới hạn tốc độ; nếu bị thư rác tự động làm tràn, nó có thể tạm đóng, và chúng tôi công bố ngày cùng lý do. Chúng tôi không dùng CAPTCHA và không duyệt phát biểu trước khi công bố. Không có cách tham gia không cần tài khoản nào trao quyền bỏ phiếu trong biểu quyết. Trong thời gian đầu, khi Omniforum chỉ dành cho người được mời (mục 7.4), có thể phát biểu không cần tài khoản qua bảo chứng cho phát biểu; chúng tôi sẽ mở hộp thư mở khi mở rộng Omniforum hơn. Cả hai cách không cần tài khoản đều là bản thiết kế mà chúng tôi sẽ kiểm tra trong lần thử đầu tiên.
+Bất kỳ ai cũng có thể đọc mà không cần tài khoản. Có ba cách phát biểu trong cuộc trò chuyện. Qua tài khoản: phát biểu có tác giả và tài khoản có giới hạn tốc độ công khai. Không cần tài khoản, qua bảo chứng cho phát biểu: người tham gia có tài khoản đưa phát biểu của người khác vào, được hiển thị bên cạnh với tư cách người đưa vào và chịu trách nhiệm như với phát biểu của chính mình; tác giả vẫn không có tài khoản, có thể ghi tên hoặc không ghi tên. Không cần tài khoản, qua hộp thư mở: phát biểu được đưa vào lớp “không có bảo chứng”, hiển thị với bất kỳ ai chọn lớp đó và nằm sau phát biểu có bảo chứng trong thứ tự hiển thị; bất kỳ người tham gia có tài khoản nào cũng có thể bảo chứng và chuyển phát biểu vào cuộc trò chuyện bằng một thao tác. Hộp thư mở có giới hạn tốc độ; nếu bị thư rác tự động làm tràn, nó có thể tạm đóng, và chúng tôi công bố ngày cùng lý do. Chúng tôi không dùng CAPTCHA và không duyệt phát biểu trước khi công bố. Không có cách tham gia không cần tài khoản nào trao quyền bỏ phiếu trong biểu quyết. Trong thời gian đầu, khi OmniForum chỉ dành cho người được mời (mục 7.4), có thể phát biểu không cần tài khoản qua bảo chứng cho phát biểu; chúng tôi sẽ mở hộp thư mở khi mở rộng OmniForum hơn. Cả hai cách không cần tài khoản đều là bản thiết kế mà chúng tôi sẽ kiểm tra trong lần thử đầu tiên.
 
 Có thể tạo tài khoản theo vài cách, từ hoàn toàn riêng tư (khóa trên thiết bị riêng, không địa chỉ e-mail) đến thuận tiện (đăng nhập nhà cung cấp ngoài). Với mỗi cách, trước chọn, chúng tôi cho thấy ai ngoài quỹ biết tạo tài khoản, thấy dữ liệu gì, điều xảy ra nếu nhà cung cấp mất. Cách tạo tài khoản không ảnh hưởng quyền người tham gia; quyền biểu quyết là chứng nhận riêng thêm vào tài khoản.
 
@@ -317,7 +317,7 @@ Mọi thứ cần biểu quyết đều miễn phí. Phần miễn phí Suveria 
 
 ### 8.4. Ai quyết định việc khó
 
-Trong việc khó, chúng tôi đề xuất ba bước. Đầu bản đồ vấn đề mở trong Omniforum, ai cũng tham gia. Sau hội đồng tư vấn chọn ngẫu nhiên: nhóm người bốc thăm nhận thời gian, tài liệu, cơ hội nói với tác giả đề xuất. Cuối tất cả người có quyền bỏ phiếu. Chúng tôi bốc từ sổ người có quyền, dùng ngẫu nhiên công khai ai cũng kiểm tra. Nếu chính hội đồng ra quyết định có hiệu lực ràng buộc, cần ủy quyền riêng, giới hạn.
+Trong việc khó, chúng tôi đề xuất ba bước. Đầu bản đồ vấn đề mở trong OmniForum, ai cũng tham gia. Sau hội đồng tư vấn chọn ngẫu nhiên: nhóm người bốc thăm nhận thời gian, tài liệu, cơ hội nói với tác giả đề xuất. Cuối tất cả người có quyền bỏ phiếu. Chúng tôi bốc từ sổ người có quyền, dùng ngẫu nhiên công khai ai cũng kiểm tra. Nếu chính hội đồng ra quyết định có hiệu lực ràng buộc, cần ủy quyền riêng, giới hạn.
 
 Cũng có thể dùng mẫu ngẫu nhiên cho thăm dò tư vấn. Người tự nguyện tự đến không là mẫu đại diện; bốc từ sổ cho ý kiến cộng đồng ấy, không toàn nhân loại. Chúng tôi còn tính người từ chối tham gia.
 
@@ -327,7 +327,7 @@ Biểu quyết sẽ dần có hiệu lực ràng buộc. Bắt đầu thử khô
 
 Trước khi giai đoạn tiếp theo bắt đầu có hiệu lực ràng buộc, chúng tôi thông báo cho người tham gia phạm vi quyết định, hạn mức, ngưỡng, cách nêu ý kiến bảo lưu và cách thực hiện kết quả; hệ thống trải qua kiểm tra đăng ký, đếm phiếu, khôi phục quyền và khả năng chống lạm dụng. Chúng tôi còn kiểm tra phạm vi quyết định có phù hợp điều lệ hiện hành và pháp luật hay không, đồng thời xác định ai sẽ thực hiện kết quả và bằng cách nào. Để kết quả có hiệu lực ràng buộc chính thức đối với Quỹ, cần sửa điều lệ, được mô tả trong sổ ghi thay đổi điều lệ là Z4 (biểu quyết và tham vấn, § 8 điều lệ). Cho đến khi lần thử xác nhận tính duy nhất của từng người bỏ phiếu, chúng tôi gọi đó là tham vấn, không phải biểu quyết theo nghĩa của § 8 khoản 2 điều lệ. Chúng tôi đánh giá riêng hai việc: người bỏ phiếu có phải là những con người riêng biệt hay không, và chứng nhận có được đếm đúng hay không. Đến thời điểm đó, Quỹ hoạt động trong giai đoạn linh hoạt mô tả ở [sách trắng về nguyên tắc của Quỹ](whitepaper-zasady-fundacji.md): kết quả biểu quyết và tham vấn về hình thức là tư vấn, còn ban điều hành tiến tới các quyết định cộng đồng có hiệu lực ràng buộc qua những lần thử kế tiếp, trong đó ban điều hành công bố trước phạm vi sẽ thực hiện kết quả và công bố tóm tắt sau mỗi lần thử.
 
-Việc khởi động đầy đủ các trụ cột tiếp theo (II: thiết kế mở các đồ vật bền, III: tiếp xúc với thiên nhiên) vẫn cần đồng thời ba điều kiện ở mục 6.3 của tuyên ngôn: biểu quyết bảo đảm cùng một người chỉ có một phiếu có hiệu lực, kinh phí duy trì Suveria và Omniforum trong sáu tháng, cùng quyết định của cộng đồng. Điều kiện thứ nhất, cùng một người có quyền bỏ phiếu chỉ có một phiếu có hiệu lực, chỉ được coi là đạt khi những cách cho phép bỏ thêm phiếu được thay bằng một hệ thống thống nhất, mỗi người một phiếu, và các lần thử xác nhận điều đó. Việc này có thể mất nhiều thời gian, và chúng tôi nói rõ điều ấy.
+Việc khởi động đầy đủ các trụ cột tiếp theo (II: thiết kế mở các đồ vật bền, III: tiếp xúc với thiên nhiên) vẫn cần đồng thời ba điều kiện ở mục 6.3 của tuyên ngôn: biểu quyết bảo đảm cùng một người chỉ có một phiếu có hiệu lực, kinh phí duy trì Suveria và OmniForum trong sáu tháng, cùng quyết định của cộng đồng. Điều kiện thứ nhất, cùng một người có quyền bỏ phiếu chỉ có một phiếu có hiệu lực, chỉ được coi là đạt khi những cách cho phép bỏ thêm phiếu được thay bằng một hệ thống thống nhất, mỗi người một phiếu, và các lần thử xác nhận điều đó. Việc này có thể mất nhiều thời gian, và chúng tôi nói rõ điều ấy.
 
 ### 8.6. Ép buộc và mua phiếu
 
@@ -341,29 +341,29 @@ Phép thử khó nhất toàn hệ thống là cách đối xử người không
 
 Nhật ký quyết định ghi phương án cân nhắc, lý do chọn, ý kiến khác biệt, ngân sách, hệ quả sau; kết luận từ đó trở lại bản đồ vấn đề. Ai chịu trách nhiệm gì khi thực hiện, trong việc pháp lý được [sách trắng nguyên tắc quỹ](whitepaper-zasady-fundacji.md) mô tả.
 
-## 9. Cách kiểm tra Omniforum giúp ích không
+## 9. Cách kiểm tra OmniForum giúp ích không
 
-Mọi điều mô tả trên là bản thiết kế. Trước xây toàn bộ, chúng tôi muốn thử từng bước nhỏ Omniforum có thực sự giúp con người hiểu nhau hơn. Bắt đầu ứng dụng đơn giản nhất, chỉ thêm tiếp khi bước trước vượt thử.
+Mọi điều mô tả trên là bản thiết kế. Trước xây toàn bộ, chúng tôi muốn thử từng bước nhỏ OmniForum có thực sự giúp con người hiểu nhau hơn. Bắt đầu ứng dụng đơn giản nhất, chỉ thêm tiếp khi bước trước vượt thử.
 
 Bước đầu là toàn đường một suy nghĩ. Ai nhập văn bản mình, trí tuệ số đề xuất tách thành phân tử, nguyên tử, tác giả sửa chỗ hiểu sai, lưu kết quả cùng nguồn. Sau trở lại, mở bản ghi, dùng trò chuyện tiếp. Chúng tôi kiểm tra dọc đường có mất gì không: nguyên văn chính xác, ý nghĩa, phiên bản kế tiếp, ai có quyền gì. Trong thử này còn kiểm tra lỗi diễn giải mô hình không tự đánh dấu, so kết quả với riêng văn bản, tóm tắt thường. Mở lại bản ghi không nên cần phân tích trả phí lại chỉ để lấy kết quả trước.
 
 Bước tiếp là tiện ích đơn giản cho một nền tảng người đang trò chuyện, rồi nhóm nhỏ cùng làm một vấn đề, rồi câu chuyện về ý tưởng bằng văn bản, cuối cùng mới riêng việc cùng quyết định. Không thêm tích hợp mới trước kiểm tra trợ giúp thực sự làm việc dễ hơn.
 
-Chúng tôi muốn mở bản đồ vấn đề công khai đầu ở hai loại chủ đề. Loại thứ nhất là khẳng định, giả thuyết trong tuyên ngôn, sách trắng mình để ai cũng kiểm tra Omniforum bằng đặt nghi vấn hay cải thiện giả định chúng tôi. Loại thứ hai là câu hỏi thường ngày, từ chăm cây đến công thức nấu: dễ thấy bình thản hơn điều kiện, nguồn, kinh nghiệm khác nhau hoạt động thế nào.
+Chúng tôi muốn mở bản đồ vấn đề công khai đầu ở hai loại chủ đề. Loại thứ nhất là khẳng định, giả thuyết trong tuyên ngôn, sách trắng mình để ai cũng kiểm tra OmniForum bằng đặt nghi vấn hay cải thiện giả định chúng tôi. Loại thứ hai là câu hỏi thường ngày, từ chăm cây đến công thức nấu: dễ thấy bình thản hơn điều kiện, nguồn, kinh nghiệm khác nhau hoạt động thế nào.
 
-Chúng tôi còn phân tích ý như SETI@home, chương trình người khắp thế giới chia năng lực máy tính phân tích dữ liệu kính thiên văn vô tuyến. Công việc công khai Omniforum, như tách văn bản công khai thành phân tử, nguyên tử, dịch câu chuyện, soạn tóm tắt bản đồ, có thể dùng năng lực tình nguyện viên. Khi ấy ai muốn có thể góp không bỏ thời gian riêng, chia phần năng lực máy, trả điện dùng. Chỉ dữ liệu công khai, vì máy tình nguyện viên thấy điều xử lý; khi ấy chúng tôi sẽ kiểm tra kết quả bằng cách tính cùng nhiệm vụ trên máy của hơn một người. Đây là ý mới đang phân tích, nhưng là một đường muốn khảo sát.
+Chúng tôi còn phân tích ý như SETI@home, chương trình người khắp thế giới chia năng lực máy tính phân tích dữ liệu kính thiên văn vô tuyến. Công việc công khai OmniForum, như tách văn bản công khai thành phân tử, nguyên tử, dịch câu chuyện, soạn tóm tắt bản đồ, có thể dùng năng lực tình nguyện viên. Khi ấy ai muốn có thể góp không bỏ thời gian riêng, chia phần năng lực máy, trả điện dùng. Chỉ dữ liệu công khai, vì máy tình nguyện viên thấy điều xử lý; khi ấy chúng tôi sẽ kiểm tra kết quả bằng cách tính cùng nhiệm vụ trên máy của hơn một người. Đây là ý mới đang phân tích, nhưng là một đường muốn khảo sát.
 
-Ở mỗi bước, chúng tôi kiểm tra sự trợ giúp có ích hay không: mất bao lâu để có bản xử lý hữu dụng, tác giả phải sửa bao nhiêu chỗ và mức độ quan trọng của chúng, mô hình hiểu sai ý định thường xuyên đến đâu, có dễ tìm nguồn hay không, những người khác nhau có dùng được công cụ hay không, chi phí bao nhiêu và sau đó con người có thể tự giải thích vấn đề cho người khác hay không. Trước mỗi lần thử, chúng tôi công bố kết quả nào sẽ được coi là đủ để thêm bước tiếp theo và giữ tiêu chí đó khi đánh giá. Việc quay lại Omniforum chỉ được coi là dấu hiệu tốt khi phục vụ nhu cầu mới, thay vì do bị buộc phải liên tục trông nom hệ thống.
+Ở mỗi bước, chúng tôi kiểm tra sự trợ giúp có ích hay không: mất bao lâu để có bản xử lý hữu dụng, tác giả phải sửa bao nhiêu chỗ và mức độ quan trọng của chúng, mô hình hiểu sai ý định thường xuyên đến đâu, có dễ tìm nguồn hay không, những người khác nhau có dùng được công cụ hay không, chi phí bao nhiêu và sau đó con người có thể tự giải thích vấn đề cho người khác hay không. Trước mỗi lần thử, chúng tôi công bố kết quả nào sẽ được coi là đủ để thêm bước tiếp theo và giữ tiêu chí đó khi đánh giá. Việc quay lại OmniForum chỉ được coi là dấu hiệu tốt khi phục vụ nhu cầu mới, thay vì do bị buộc phải liên tục trông nom hệ thống.
 
 Chúng tôi kiểm tra riêng người tham gia nhận sự kiện, điều chưa biết tốt hơn không, dễ thống nhất cùng làm hơn không, quyết định đạt mục tiêu công bố không. Tốt hơn điều đầu không chứng minh điều khác; đồng quan điểm quỹ không là thước đo thành công.
 
 Chúng tôi chỉ nhận tiện ích dịch vụ khác khi đạt vài điều: không gửi gì trước người dùng chọn, tôn trọng từ chối, cho dừng mọi lúc, xóa dữ liệu làm việc, hỏi riêng mỗi đồng ý. Thử với người dùng lần đầu cần cho thấy họ hiểu khác biệt diễn giải mô hình với lời tác giả không.
 
-Còn kiểm tra thành quả thực mang đi được không. Trong thử này, mở bản biên soạn được chọn ở công cụ độc lập, không nối Omniforum, so nguồn, đoạn, quan hệ, lịch sử, xác nhận. Nếu công cụ khác không hỗ trợ gì, nhập cần báo rõ, không âm thầm xóa hay đổi nghĩa.
+Còn kiểm tra thành quả thực mang đi được không. Trong thử này, mở bản biên soạn được chọn ở công cụ độc lập, không nối OmniForum, so nguồn, đoạn, quan hệ, lịch sử, xác nhận. Nếu công cụ khác không hỗ trợ gì, nhập cần báo rõ, không âm thầm xóa hay đổi nghĩa.
 
 Trong thử chủ đề theo dõi ở mục 1.1, chúng tôi sẽ kiểm tra khi trở lại chỉ thấy thay đổi thực từ lần cuối, nội dung đã thấy vẫn được đánh dấu cả sau đính chính, nguồn đổi, luận điểm bị xóa. Người tham gia cần nói được xem mới đem gì, tự chọn đi sâu hay kết thúc. Cũng sẽ kiểm tra so giải pháp khác có giữ tiêu chí, điều kiện thử không.
 
-**Nhật ký kết quả.** Tình trạng ngày 30 tháng 10 năm 2026: nguyên mẫu Omniforum đang được xây dựng và chúng tôi chưa hoàn thành bất kỳ thử nghiệm nghiệm thu nào mô tả ở đây. Mỗi kết quả tiếp được thêm có ngày, phiên bản nguyên mẫu, mô tả thử, kết luận, cả khi không thành.
+**Nhật ký kết quả.** Tình trạng ngày 30 tháng 10 năm 2026: nguyên mẫu OmniForum đang được xây dựng và chúng tôi chưa hoàn thành bất kỳ thử nghiệm nghiệm thu nào mô tả ở đây. Mỗi kết quả tiếp được thêm có ngày, phiên bản nguyên mẫu, mô tả thử, kết luận, cả khi không thành.
 
 Trò chuyện tốt cũng có thể sinh tài liệu nghiên cứu hữu ích, chỉ trong phạm vi người tham gia đồng ý. Cách chuẩn bị, quyền dùng, cách tách chúng khỏi kiểm tra được [sách trắng tài liệu và bộ chuẩn đánh giá](whitepaper-materialy-i-benchmark.md) mô tả.
 

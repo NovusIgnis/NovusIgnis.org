@@ -1,6 +1,6 @@
 ---
 tytul: Mesele haritası ve fikir kartı
-opis: Omniforum’un farklı kişilerin akıl yürütmelerini tek haritada nasıl yan yana getirmesi, sonucun gücünü göstermesi ve gelecek tasvirinden en yakın adıma götürmesi amaçlanıyor
+opis: OmniForum’un farklı kişilerin akıl yürütmelerini tek haritada nasıl yan yana getirmesi, sonucun gücünü göstermesi ve gelecek tasvirinden en yakın adıma götürmesi amaçlanıyor
 grupa: omniforum
 kolejnosc: 4
 menu: Mesele haritası
@@ -11,9 +11,9 @@ menu: Mesele haritası
 
 Mesele haritası, tek soru etrafındaki argümanların, deneyimlerin ve açık soruların düzenli derlemesidir. Fikir kartı, fikrin açıklamasıdır: nereye götürüyor ve en yakın adım nedir.
 
-Omniforum prototipi yapım aşamasındadır. Aşağıda anlattığımız her şey bir tasarımdır; henüz hiçbir denemeyi tamamlamadık.
+OmniForum prototipi yapım aşamasındadır. Aşağıda anlattığımız her şey bir tasarımdır; henüz hiçbir denemeyi tamamlamadık.
 
-Daha fazlası: [Omniforum teknik raporu, 1. bölüm](../whitepaper-omniforum.md#s1).
+Daha fazlası: [OmniForum teknik raporu, 1. bölüm](../whitepaper-omniforum.md#s1).
 
 ## Düşünce zincirinden haritaya
 
@@ -23,7 +23,7 @@ Mesele haritası, farklı kişilerin, birbirine aykırı olanlar dâhil zincirle
 
 Mesele, kişinin bir şeyi anlamak, karşılaştırmak veya birlikte yapmak istediği için dönmek istediği sorudur. Kalıcı bağlantı, ilgili her şeye götürür: soruya, kaynaklara, argümanlara, bilgi durumuna ve değişiklik geçmişine. Özel mesele Suveria’da (dijital zekâyla çalışmak için özel alanda) yürütülür; ortak mesele sicili, ayrı denemede sınayacağımız bir yöndür.
 
-Daha fazlası: [Omniforum teknik raporu, 5. bölüm](../whitepaper-omniforum.md#s5) ve [5.1. madde](../whitepaper-omniforum.md#s5-1).
+Daha fazlası: [OmniForum teknik raporu, 5. bölüm](../whitepaper-omniforum.md#s5) ve [5.1. madde](../whitepaper-omniforum.md#s5-1).
 
 ## Harita nasıl okunur
 
@@ -31,7 +31,7 @@ Haritanın sakin biçimde açılması amaçlanıyor. Önce gücünün kısa aç�
 
 Konuya bir hafta veya bir yıl sonra döndüğünde yalnızca değişenleri görmen amaçlanıyor: yeni deneyimler, düzeltmeler, deneme sonuçları ve hâlâ açık sorular. Değişiklikleri inceledikten sonra hepsinin bu olduğu açıkça bildirilir; kendi işlerine sakince dönebilirsin.
 
-Daha fazlası: [Omniforum teknik raporu, 5. bölüm](../whitepaper-omniforum.md#s5) ve [1.1. madde](../whitepaper-omniforum.md#s1-1).
+Daha fazlası: [OmniForum teknik raporu, 5. bölüm](../whitepaper-omniforum.md#s5) ve [1.1. madde](../whitepaper-omniforum.md#s1-1).
 
 ## Sonuç ne kadar güçlü
 
@@ -43,9 +43,9 @@ Sonucun yanında üç şeyi ayrı göstermek istiyoruz:
 
 Bir ölçüt diğerinin yerini almaz: doğrulanmamış tek bir anlatıya dayanan tam katılımcı uzlaşısı, hâlâ zayıf bir sonuçtur. Bu değerlendirmelerin ölçeğini henüz geliştireceğiz; iyi saptanmış olgulara yapay belirsizlik eklemeyiz.
 
-Manifesto ortak düşünme sürecini; olgulara (denetlenebilenler), değerlere (ihtiyaçlar ve neyin doğru olduğuna ilişkin inançlar) ve “bunun işlemesi için neyin mümkün hâle gelmesi gerekir” koşuluyla işaretlenen cesur fikirler olan hipotezlere ayırır. Olgularda belirleyici oy sayısı değil kaynaklardır; değerler konusunda her insan eşit referans noktasıdır. Omniforum’da her düşüncenin böyle işaretlenmesi amaçlanıyor.
+Manifesto ortak düşünme sürecini; olgulara (denetlenebilenler), değerlere (ihtiyaçlar ve neyin doğru olduğuna ilişkin inançlar) ve “bunun işlemesi için neyin mümkün hâle gelmesi gerekir” koşuluyla işaretlenen cesur fikirler olan hipotezlere ayırır. Olgularda belirleyici oy sayısı değil kaynaklardır; değerler konusunda her insan eşit referans noktasıdır. OmniForum’da her düşüncenin böyle işaretlenmesi amaçlanıyor.
 
-Daha fazlası: [Omniforum teknik raporu, 5. bölüm](../whitepaper-omniforum.md#s5) ve [manifesto, 5.1. madde](../manifest.md#s5-1).
+Daha fazlası: [OmniForum teknik raporu, 5. bölüm](../whitepaper-omniforum.md#s5) ve [manifesto, 5.1. madde](../manifest.md#s5-1).
 
 ## Fikir kartı
 
@@ -62,7 +62,7 @@ Cesur vizyonlar gerçeklikten kopuk, ihtiyatlı planlar ise amaçsız diye kolay
 
 Kart tek bir düşünce değil; birçok bağlantılı kavramın, iddianın, kaynağın, koşulun ve denemenin görünümüdür. İlk kartların manifestomuzdaki fikirler olması amaçlanıyor.
 
-Daha fazlası: [Omniforum teknik raporu, 5.2. madde](../whitepaper-omniforum.md#s5-2).
+Daha fazlası: [OmniForum teknik raporu, 5.2. madde](../whitepaper-omniforum.md#s5-2).
 
 ## Fikirden girişime
 
@@ -70,7 +70,7 @@ Konuşma ne yapmaya değer olduğuna ilişkin ortak uzlaşmaya ulaştığında, 
 
 Ortak para hakkında karara sunulmadan önce, manifestonun yeşil yol dediğine ihtiyaç duyar: olgusal dayanağı ve topluluğun dayandığı değerlere onayını gösteren bağlantılar dizisine. Sonra ayrı kararlar gelir: amaç, sonraki çalışma, maliyet tahmini ve uygulama hakkında. Amaca onay, maliyeti veya tarihi belirlemez. Bağlayıcı oylamaya kadar bunları danışmalardan sonra yönetim kurulu alır. Tamamlanınca gerçek maliyeti, sonucu ve çıkarımları, deneme başarısız olduğunda da yayımlarız.
 
-Daha fazlası: [Omniforum teknik raporu, 5.3. madde](../whitepaper-omniforum.md#s5-3) ve [manifesto, 5.3. madde](../manifest.md#s5-3).
+Daha fazlası: [OmniForum teknik raporu, 5.3. madde](../whitepaper-omniforum.md#s5-3) ve [manifesto, 5.3. madde](../manifest.md#s5-3).
 
 ## Neyi daha yukarıda gösteririz, neyi göstermeyiz
 
@@ -85,10 +85,10 @@ Sonuncusunda argüman, başka meselelerde farklı değerlendiren kişiler kabul 
 
 İçeriğin ve tarihiyle kaynağın ön planda olması amaçlanıyor. Yarışı ve botlarla da haritayı kayıtlarla doldurmayı teşvik ettikleri için kamusal katkı sayaçları veya kişi sıralamaları tutmayız. İlginin, duyguları en güçlü harekete geçirene değil, meseleyi aydınlatana yönelmesini istiyoruz.
 
-Daha fazlası: [Omniforum teknik raporu, 6. bölüm](../whitepaper-omniforum.md#s6).
+Daha fazlası: [OmniForum teknik raporu, 6. bölüm](../whitepaper-omniforum.md#s6).
 
 ## Oku ve düşünceni söyle
 
-Haritaların, kartların ve girişimlerin tam açıklamasını [Omniforum teknik raporunda](../whitepaper-omniforum.md), özellikle 5. ve 6. bölümlerde bulacaksın. Bir şey aklına takılırsa veya yanlış görünürse belgedeki o bölümü seçip “Bir yorumum var” düğmesini kullan ya da salve@novusignis.org adresine yaz.
+Haritaların, kartların ve girişimlerin tam açıklamasını [OmniForum teknik raporunda](../whitepaper-omniforum.md), özellikle 5. ve 6. bölümlerde bulacaksın. Bir şey aklına takılırsa veya yanlış görünürse belgedeki o bölümü seçip “Bir yorumum var” düğmesini kullan ya da salve@novusignis.org adresine yaz.
 
-Daha fazlası: [Omniforum teknik raporu, 5.5. madde](../whitepaper-omniforum.md#s5-5).
+Daha fazlası: [OmniForum teknik raporu, 5.5. madde](../whitepaper-omniforum.md#s5-5).

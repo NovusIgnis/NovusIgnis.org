@@ -1,6 +1,6 @@
 # Suveria: prywatna praca z cyfrową inteligencją
 
-Wersja z 31 października 2026 r. Dokument rozwija zasady manifestu dotyczące Suverii: jak chcemy chronić prywatność, jak ma działać praca z cyfrową inteligencją, ile to kosztuje i jak to sprawdzimy. Opisana architektura jest projektem. Wskazanie istniejącej technologii lub dokumentacji dostawcy nie oznacza, że uruchomiliśmy ją w Suverii. Wyniki naszych prób dopisujemy w rozdziale 9, zawsze z datą, wersją konfiguracji i zakresem pomiaru.
+Wersja z 8 listopada 2026 r. Dokument rozwija zasady manifestu dotyczące Suverii: jak chcemy chronić prywatność, jak ma działać praca z cyfrową inteligencją, ile to kosztuje i jak to sprawdzimy. Opisana architektura jest projektem. Wskazanie istniejącej technologii lub dokumentacji dostawcy nie oznacza, że uruchomiliśmy ją w Suverii. Wyniki naszych prób dopisujemy w rozdziale 9, zawsze z datą, wersją konfiguracji i zakresem pomiaru.
 
 ## 1. Czym jest Suveria i po co powstaje
 
@@ -16,7 +16,7 @@ W Suverii chcemy, żeby można było:
 - za własną zgodą korzystać z pamięci wcześniejszych rozmów, wracać do dawnych powodów decyzji i budować Osobisty Kanon (*Canon Personalis*), czyli zbiór własnych zasad i wartości;
 - wybrać sposób pracy, od modelu na własnym urządzeniu po poufne środowisko na serwerze, z jasną informacją, przed czym chroni każdy z nich;
 - płacić za rzeczywiste użycie, z limitem wydatków ustalonym przez siebie;
-- dopracować myśl prywatnie, a potem świadomie wnieść ją do wspólnej rozmowy w Omniforum.
+- dopracować myśl prywatnie, a potem świadomie wnieść ją do wspólnej rozmowy w OmniForum.
 
 Pierwsze wydanie kierujemy do osób, dla których sprawdzalna prywatność jest powodem wyboru.
 
@@ -32,7 +32,7 @@ Z czego skorzysta pierwsze wydanie, zależy od tego, ile środków fundacja zbie
 
 Korzystanie z Suverii nie jest zgodą na użycie rozmów do szkolenia modeli. Treści użytkowników trafiają do materiałów badawczych wyłącznie za osobną, świadomą zgodą, a pozostałe materiały pochodzą z jawnego dorobku fundacji i innych źródeł o jasnej podstawie użycia, jak opisuje [whitepaper materiałów i benchmarku](whitepaper-materialy-i-benchmark.md).
 
-Suveria uzupełnia Omniforum, wspólną przestrzeń rozmowy i decyzji: jedna daje prywatny warsztat, druga publiczną mównicę. Wartości, z których wyrastają oba projekty, opisuje manifest fundacji. Dalej pokazujemy kolejno:
+Suveria uzupełnia OmniForum, wspólną przestrzeń rozmowy i decyzji: jedna daje prywatny warsztat, druga publiczną mównicę. Wartości, z których wyrastają oba projekty, opisuje manifest fundacji. Dalej pokazujemy kolejno:
 
 - co chronimy i przed czym, gdzie są dane i klucze (rozdział 2);
 - jak wiadomość przechodzi od urządzenia do modelu i jak to sprawdzić (3);
@@ -171,7 +171,7 @@ Wszystko, co wiemy o działaniu Suverii, może wiedzieć każdy. Wraz z uruchomi
 
 Ochronę godności odnosimy także do ludzi, których mogą dotknąć skutki używania naszych narzędzi. Nadużyciom chcemy przeciwdziałać bez czytania prywatnych rozmów: przez zasady, którymi kieruje się sam asystent, granice uprawnień narzędzi i połączeń sieciowych, limity zasobów oraz ochronę przed masowym zakładaniem kont. Nie tworzymy ukrytych dostępów do prywatnych treści, bo osłabiałyby ochronę wszystkich.
 
-Konto będzie można założyć na kilka sposobów, od całkowicie prywatnego (klucz na własnym urządzeniu, bez adresu e-mail) po wygodne (logowanie przez zewnętrznego dostawcę). Przy każdym sposobie pokażemy przed wyborem, kto poza fundacją dowiaduje się o założeniu konta i jakie dane widzi, oraz co się dzieje, gdy ten dostawca zniknie. Sposób założenia konta nie wpływa na prawa uczestnika; prawo głosu w Omniforum jest osobnym poświadczeniem dodawanym do konta.
+Konto będzie można założyć na kilka sposobów, od całkowicie prywatnego (klucz na własnym urządzeniu, bez adresu e-mail) po wygodne (logowanie przez zewnętrznego dostawcę). Przy każdym sposobie pokażemy przed wyborem, kto poza fundacją dowiaduje się o założeniu konta i jakie dane widzi, oraz co się dzieje, gdy ten dostawca zniknie. Sposób założenia konta nie wpływa na prawa uczestnika; prawo głosu w OmniForum jest osobnym poświadczeniem dodawanym do konta.
 
 Prywatność i ograniczanie nadużyć oceniamy osobno. Projektujemy Suverię tak, żeby fundacja nie miała danych, które mogłaby wydać o konkretnej osobie: treści są zaszyfrowane kluczami użytkownika, dane o działaniu usługi zbieramy tylko w jawnym zakresie opisanym w rozdziale 3, a dane osobowe ograniczamy do minimum, którego wymaga prawo przy płatnościach i księgowości; ich zakres też publikujemy. Jeśli ktoś zażąda od nas danych konkretnej osoby, chcemy móc uczciwie odpowiedzieć, że poza tym jawnie opisanym minimum ich nie mamy. Dla każdego zabezpieczenia przed nadużyciami opiszemy, jakich danych potrzebuje, jak długo je przechowujemy, jakie ma skutki dla uczciwego uczestnika i jak można zakwestionować błędną blokadę.
 
@@ -183,7 +183,7 @@ Gdy rozmowa dotyczy zagrożenia życia lub zdrowia, asystent ma podać informacj
 
 ### 4.1. Jawne instrukcje asystenta i wspólna biblioteka
 
-O tym, jak zachowuje się asystent, decyduje też jego instrukcja główna i sposób pracy: jak dzieli zadanie na kroki, korzysta z pamięci i sprawdza odpowiedzi. W Suverii człowiek ma zawsze móc przeczytać pełną instrukcję swojego asystenta. Wspólna infrastruktura ma udostępniać tylko modele i ustawienia, które przejdą jawne próby benchmarku; powyżej tego minimum to użytkownik wybiera styl pracy, od spokojnego porządkowania myśli po wymagającą rozmowę, w której asystent wytyka luki w rozumowaniu. Chcemy prowadzić otwartą bibliotekę sprawdzonych instrukcji, którą uczestnicy ulepszają w Omniforum i sprawdzają w benchmarku.
+O tym, jak zachowuje się asystent, decyduje też jego instrukcja główna i sposób pracy: jak dzieli zadanie na kroki, korzysta z pamięci i sprawdza odpowiedzi. W Suverii człowiek ma zawsze móc przeczytać pełną instrukcję swojego asystenta. Wspólna infrastruktura ma udostępniać tylko modele i ustawienia, które przejdą jawne próby benchmarku; powyżej tego minimum to użytkownik wybiera styl pracy, od spokojnego porządkowania myśli po wymagającą rozmowę, w której asystent wytyka luki w rozumowaniu. Chcemy prowadzić otwartą bibliotekę sprawdzonych instrukcji, którą uczestnicy ulepszają w OmniForum i sprawdzają w benchmarku.
 
 ## 5. Obliczenia na wielu kartach graficznych
 
@@ -237,7 +237,7 @@ Eksport obejmuje wybrane oryginały, historię, źródła i powiązania oraz roz
 
 API, czyli udokumentowane sposoby komunikowania się programów, mają umożliwiać pracę z materiałami w innych narzędziach, także budowanych samodzielnie. Użytkownik wybiera zakres danych i dozwolone czynności, a uprawnienia integracji może wycofać. Cofnięcie uprawnienia zatrzymuje dalszy dostęp; los wcześniej przekazanych kopii zależy również od odbiorcy.
 
-Prywatna przestrzeń może służyć także pracy na rzecz wspólnych projektów. Użytkownik wybiera materiały, które chce przekazać do odbioru lub publikacji, a narzędzie pomaga lokalnie usunąć z nich klucze dostępowe, hasła, dane osobowe i informacje o niezałatanych podatnościach. Korzystanie z prywatnie opłaconych zasobów nie wymaga ujawniania roboczych rozmów. Przy zadaniu finansowanym ze wspólnych zasobów fundacji zakres publicznego zapisu, wybór pseudonimu i przygotowanie materiałów określają z góry [zasady warsztatów fundacji](whitepaper-zasady-fundacji.md) (rozdział 11.1). Z przemyśleń w Suverii można też świadomie wyłonić jedno pytanie lub argument i opublikować je w Omniforum; ten krok, opisany w manifeście jako Ceremonia Ignis (*Caerimonia Ignis*), zawsze wymaga osobnej decyzji.
+Prywatna przestrzeń może służyć także pracy na rzecz wspólnych projektów. Użytkownik wybiera materiały, które chce przekazać do odbioru lub publikacji, a narzędzie pomaga lokalnie usunąć z nich klucze dostępowe, hasła, dane osobowe i informacje o niezałatanych podatnościach. Korzystanie z prywatnie opłaconych zasobów nie wymaga ujawniania roboczych rozmów. Przy zadaniu finansowanym ze wspólnych zasobów fundacji zakres publicznego zapisu, wybór pseudonimu i przygotowanie materiałów określają z góry [zasady warsztatów fundacji](whitepaper-zasady-fundacji.md) (rozdział 11.1). Z przemyśleń w Suverii można też świadomie wyłonić jedno pytanie lub argument i opublikować je w OmniForum; ten krok, opisany w manifeście jako Ceremonia Ignis (*Caerimonia Ignis*), zawsze wymaga osobnej decyzji.
 
 ## 7. Skala: od 30 osób do całej ludzkości
 
@@ -318,7 +318,7 @@ Infrastrukturę rozwijamy krokami, z których każdy daje uczestnikom samodzieln
 
 Każde przejście opisujemy kartą decyzji: co zyskujemy, pełny koszt, ryzyka, warunki rozpoczęcia i wycofania, sposób przeniesienia danych i kluczy oraz zgodność z [zasadami rezerwy i uruchamiania dalszych filarów](whitepaper-zasady-fundacji.md) (rozdział 8 whitepapera zasad fundacji). Łączenie własnej maszyny z poufnym API na szczyty ruchu dopuszczamy tylko wtedy, gdy każda z dróg ma zaakceptowany poziom ochrony; przejście do słabszego wariantu wymaga osobnej, świadomej decyzji użytkownika. Pierwszy pomiar planujemy na jednej poufnej karcie z mniejszym modelem, a następny na maszynie mieszczącej pełny model.
 
-Moc dopasowujemy do ruchu bez wymiarowania wszystkiego na najwyższy szczyt. Projektujemy krótką kolejkę z widocznym czasem oczekiwania; jej rzeczywisty czas, granicę i zachowanie po wyczerpaniu zmierzymy w pilotażu. Elastyczną moc na dłuższe szczyty daje w pierwszej kolejności poufne API, pod warunkiem że zachowuje zaakceptowany poziom ochrony, zgodę i limit wydatków użytkownika; gdy takiej drogi nie ma, uczciwie informujemy o oczekiwaniu albo niedostępności. Wynajem godzinowy ma sens dla modeli, których nie ma w poufnym API albo które są w nim wyraźnie droższe, i tylko tam, gdzie dostawca rzeczywiście pozwala szybko uruchamiać i zwalniać poufne maszyny. Wolną moc własnej maszyny w spokojniejszych godzinach chcemy wykorzystywać na zadania fundacji, takie jak opracowania dla Omniforum; jej wartość w cenach API nie jest wpływem do budżetu, więc takie zadania mają własny cel i budżet. Po pierwszym pilotażu chcemy sprawdzić dwa tryby: „Rozmowa” dla zwykłej pracy z asystentem oraz „Bez pośpiechu” dla zadań, które mogą poczekać, na przykład tłumaczenia dokumentu. W trybie „Bez pośpiechu” pokazujemy orientacyjne okno rozpoczęcia, szacunek kosztu, maksymalny budżet, możliwość anulowania z rozliczeniem wykonanej pracy i tę samą informację o ochronie. Niższa cena takiej pracy jest możliwa tylko wtedy, gdy wynika z jawnej metody podziału kosztów, bez podwójnego liczenia kosztu stałego.
+Moc dopasowujemy do ruchu bez wymiarowania wszystkiego na najwyższy szczyt. Projektujemy krótką kolejkę z widocznym czasem oczekiwania; jej rzeczywisty czas, granicę i zachowanie po wyczerpaniu zmierzymy w pilotażu. Elastyczną moc na dłuższe szczyty daje w pierwszej kolejności poufne API, pod warunkiem że zachowuje zaakceptowany poziom ochrony, zgodę i limit wydatków użytkownika; gdy takiej drogi nie ma, uczciwie informujemy o oczekiwaniu albo niedostępności. Wynajem godzinowy ma sens dla modeli, których nie ma w poufnym API albo które są w nim wyraźnie droższe, i tylko tam, gdzie dostawca rzeczywiście pozwala szybko uruchamiać i zwalniać poufne maszyny. Wolną moc własnej maszyny w spokojniejszych godzinach chcemy wykorzystywać na zadania fundacji, takie jak opracowania dla OmniForum; jej wartość w cenach API nie jest wpływem do budżetu, więc takie zadania mają własny cel i budżet. Po pierwszym pilotażu chcemy sprawdzić dwa tryby: „Rozmowa” dla zwykłej pracy z asystentem oraz „Bez pośpiechu” dla zadań, które mogą poczekać, na przykład tłumaczenia dokumentu. W trybie „Bez pośpiechu” pokazujemy orientacyjne okno rozpoczęcia, szacunek kosztu, maksymalny budżet, możliwość anulowania z rozliczeniem wykonanej pracy i tę samą informację o ochronie. Niższa cena takiej pracy jest możliwa tylko wtedy, gdy wynika z jawnej metody podziału kosztów, bez podwójnego liczenia kosztu stałego.
 
 ### 8.3. Pomiar użycia bez treści rozmów
 

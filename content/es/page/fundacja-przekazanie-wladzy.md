@@ -27,7 +27,7 @@ Más información: [estatutos, § 13](../statut/statut-2026-09-28.md#par-13) y [
 
 ## Por qué ha de cambiar esto
 
-El manifiesto lo dice claramente: aspiramos a la extinción gradual de las facultades especiales del fundador y a dar a la comunidad una influencia real sobre el rumbo de la fundación y la elección de quienes la gestionan. Las decisiones de la comunidad han de vincular a la junta directiva dentro de los límites de la ley, los estatutos y la seguridad de los servicios. El fundador quiere usar Suveria, Omniforum y los siguientes proyectos con los mismos derechos que las demás personas y dejar de desempeñar un papel público permanente.
+El manifiesto lo dice claramente: aspiramos a la extinción gradual de las facultades especiales del fundador y a dar a la comunidad una influencia real sobre el rumbo de la fundación y la elección de quienes la gestionan. Las decisiones de la comunidad han de vincular a la junta directiva dentro de los límites de la ley, los estatutos y la seguridad de los servicios. El fundador quiere usar Suveria, OmniForum y los siguientes proyectos con los mismos derechos que las demás personas y dejar de desempeñar un papel público permanente.
 
 El whitepaper recuerda aquí a Cincinato: según Tito Livio, en el 458 a. C. los enviados lo encontraron trabajando en el campo con la noticia de que, mientras durara la guerra, se le confiaba el poder supremo. Al decimosexto día, cuando el peligro había pasado, lo devolvió y regresó a su granja. Se asume la responsabilidad durante un tiempo y después se cede.
 

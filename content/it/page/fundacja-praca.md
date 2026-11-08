@@ -46,7 +46,7 @@ Per saperne di più: [whitepaper sui principi di funzionamento della fondazione,
 
 ## Strumenti per chi fa volontariato
 
-Finché non abbiamo server nostri, possiamo coprire i costi degli strumenti necessari a chi fa volontariato per creare e verificare il codice aperto di Suveria (lo spazio privato per lavorare con l'intelligenza digitale) e Omniforum (lo spazio comune di conversazione, comprensione e decisione), per esempio l'accesso ai modelli di intelligenza digitale. La condizione è disporre dei fondi del Pilastro I, cioè della prima fase del lavoro della fondazione costituita da questi due servizi, oppure di donazioni vincolate. Questo sostegno ha un limite pubblico nel budget e non è un compenso; ne confermeremo l'ambito con un parere legale.
+Finché non abbiamo server nostri, possiamo coprire i costi degli strumenti necessari a chi fa volontariato per creare e verificare il codice aperto di Suveria (lo spazio privato per lavorare con l'intelligenza digitale) e OmniForum (lo spazio comune di conversazione, comprensione e decisione), per esempio l'accesso ai modelli di intelligenza digitale. La condizione è disporre dei fondi del Pilastro I, cioè della prima fase del lavoro della fondazione costituita da questi due servizi, oppure di donazioni vincolate. Questo sostegno ha un limite pubblico nel budget e non è un compenso; ne confermeremo l'ambito con un parere legale.
 
 Per saperne di più: [whitepaper sui principi di funzionamento della fondazione, punto 5.4](../whitepaper-zasady-fundacji.md#s5-4).
 

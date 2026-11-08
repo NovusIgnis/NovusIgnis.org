@@ -25,7 +25,7 @@ In Suveria willen we het mogelijk maken om:
 - met eigen toestemming het geheugen van eerdere gesprekken te gebruiken en een Persoonlijke Canon op te bouwen, een verzameling eigen beginselen en waarden;
 - een werkwijze te kiezen, van een model op het eigen apparaat tot een vertrouwelijke omgeving op een server, met kennis van waartegen elke werkwijze beschermt;
 - voor werkelijk gebruik te betalen, met een zelf ingestelde uitgavenlimiet;
-- een gedachte privé uit te werken en daarna bewust in te brengen in het gezamenlijke gesprek in Omniforum, de openbare ruimte voor gesprek en besluiten.
+- een gedachte privé uit te werken en daarna bewust in te brengen in het gezamenlijke gesprek in OmniForum, de openbare ruimte voor gesprek en besluiten.
 
 Al op de eerste dag moet er een rustig gevoel van thuiskomen zijn. We willen ook het meenemen van eigen notities en gespreksarchieven uit andere diensten voor digitale intelligentie mogelijk maken. Gebruik van Suveria is geen toestemming om gesprekken voor modeltraining te gebruiken.
 

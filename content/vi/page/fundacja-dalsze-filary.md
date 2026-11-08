@@ -7,11 +7,11 @@ menu: Các trụ cột tiếp theo
 ---
 # Các trụ cột tiếp theo
 
-Trang này kể quỹ muốn đi đâu ngoài phần mềm, cách giữ không đi quá sớm. Hiện chỉ hoạt động trong Trụ cột I: Suveria là bản thiết kế, Omniforum có nguyên mẫu đang xây dựng. Trụ cột II, III là tầm nhìn, không phải công việc đang làm.
+Trang này kể quỹ muốn đi đâu ngoài phần mềm, cách giữ không đi quá sớm. Hiện chỉ hoạt động trong Trụ cột I: Suveria là bản thiết kế, OmniForum có nguyên mẫu đang xây dựng. Trụ cột II, III là tầm nhìn, không phải công việc đang làm.
 
 ## Nhìn ba trụ cột
 
-- **Trụ cột I “Software”: bắt đầu ở đây.** Phần mềm và dịch vụ số, tức Suveria, không gian làm việc riêng tư với trí tuệ số, và Omniforum, không gian chung cho trò chuyện, thấu hiểu, quyết định.
+- **Trụ cột I “Software”: bắt đầu ở đây.** Phần mềm và dịch vụ số, tức Suveria, không gian làm việc riêng tư với trí tuệ số, và OmniForum, không gian chung cho trò chuyện, thấu hiểu, quyết định.
 - **Trụ cột II “Hardware”: tầm nhìn.** Thiết kế mở đồ vật bền, sửa được.
 - **Trụ cột III “Natura”: tầm nhìn.** Gắn bó gần hơn với thiên nhiên.
 
@@ -36,8 +36,8 @@ Xem thêm: [điều lệ, § 5](../statut/statut-2026-09-28.md#par-5) và [sổ 
 
 Phát triển bắt đầu Trụ cột I; tiền đầu từ ngân sách chung và tài nguyên tính toán trống sẽ dành cho cam kết nền tảng của nó. Khởi động đầy đủ II, III và tài trợ dự án từ ngân sách chung đòi đồng thời ba điều kiện. Mỗi điều ghi khi nào được coi đạt.
 
-1. **Biểu quyết hoạt động.** Omniforum có biểu quyết có hiệu lực ràng buộc, tức quỹ thực hiện kết quả (tham vấn chưa đủ). Chúng tôi muốn dựa vào bằng chứng không tiết lộ tri thức: xác nhận quyền biểu quyết không tiết lộ ai bỏ thế nào. Lựa chọn cần bí mật, kiểm tra được phiếu đã tính, mỗi người đủ điều kiện có một phiếu có hiệu lực. Đạt sau ít nhất một biểu quyết ràng buộc mà phép thử công khai có thưởng không thể bỏ phiếu thứ hai bằng cùng quyền hoặc nối phiếu với người.
-2. **Dự phòng.** Tiền thực tích lũy đủ duy trì Suveria, Omniforum ít nhất sáu tháng, còn nguyên sau khi dành đủ ngân sách dự án mới. Đạt khi tài khoản riêng có sáu lần chi phí duy trì tháng trung bình của ba tháng qua, số tiền được hiện mỗi tháng trong sổ.
+1. **Biểu quyết hoạt động.** OmniForum có biểu quyết có hiệu lực ràng buộc, tức quỹ thực hiện kết quả (tham vấn chưa đủ). Chúng tôi muốn dựa vào bằng chứng không tiết lộ tri thức: xác nhận quyền biểu quyết không tiết lộ ai bỏ thế nào. Lựa chọn cần bí mật, kiểm tra được phiếu đã tính, mỗi người đủ điều kiện có một phiếu có hiệu lực. Đạt sau ít nhất một biểu quyết ràng buộc mà phép thử công khai có thưởng không thể bỏ phiếu thứ hai bằng cùng quyền hoặc nối phiếu với người.
+2. **Dự phòng.** Tiền thực tích lũy đủ duy trì Suveria, OmniForum ít nhất sáu tháng, còn nguyên sau khi dành đủ ngân sách dự án mới. Đạt khi tài khoản riêng có sáu lần chi phí duy trì tháng trung bình của ba tháng qua, số tiền được hiện mỗi tháng trong sổ.
 3. **Quyết định cộng đồng.** Biểu quyết mở cho toàn cộng đồng đủ điều kiện trên nguyên tắc bình đẳng. Đạt khi cộng đồng thông qua đề xuất cụ thể có ngân sách, ảnh hưởng dự phòng và tiêu chí dừng.
 
 Cam kết chưa nộp, số dư thuộc người dùng hay tiền chỉ định không tạo dự phòng; mô hình mẫu biểu quyết không đáp ứng điều kiện đầu. Nếu biểu quyết ngừng hoặc dự phòng dưới sáu tháng, chúng tôi ngừng cam kết mới trụ cột tiếp theo, trước hết khôi phục điều kiện.

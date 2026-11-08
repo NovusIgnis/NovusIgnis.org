@@ -13,7 +13,7 @@ Trang này kể ngắn gọn vì sao Quỹ Novus Ignis ra đời và chúng tôi
 
 Trí tuệ số học từ những gì con người viết và làm. Tất cả bắt đầu từ câu hỏi của người sáng lập, Marcin Wołowski: bằng cách ấy, chúng ta đang truyền cho nó những khuôn mẫu hành xử nào của chính mình? Từ đó hình thành ý tưởng về một con đường khác: trước hết chính chúng ta tổ chức thế giới theo những nguyên tắc mà sau này chúng ta mong đợi ở nó.
 
-Chúng tôi trả lời câu hỏi ấy bằng một nỗ lực thử làm, chứ không chỉ mô tả. Chúng tôi tổ chức một phần nhỏ của thế giới theo các nguyên tắc này và ghi lại kết quả, kể cả sai lầm. Suveria, Omniforum và chính quỹ là công cụ của nỗ lực ấy. Có thể dùng những không gian này mà không có nghĩa vụ tham gia phát triển hay đồng tình với mọi đề xuất trong tuyên ngôn.
+Chúng tôi trả lời câu hỏi ấy bằng một nỗ lực thử làm, chứ không chỉ mô tả. Chúng tôi tổ chức một phần nhỏ của thế giới theo các nguyên tắc này và ghi lại kết quả, kể cả sai lầm. Suveria, OmniForum và chính quỹ là công cụ của nỗ lực ấy. Có thể dùng những không gian này mà không có nghĩa vụ tham gia phát triển hay đồng tình với mọi đề xuất trong tuyên ngôn.
 
 Xem thêm: [tuyên ngôn, mục 1.1](../manifest.md#s1-1) và [mục 1.2](../manifest.md#s1-2).
 
@@ -39,7 +39,7 @@ Từ những nguyên tắc ấy hình thành hai hướng làm việc.
 
 **Suveria** được dự kiến là không gian số riêng tư dành cho con người: nơi làm việc với sự trợ giúp tùy chọn của trí tuệ số, có thể phát triển ý tưởng, đặt câu hỏi cá nhân và lập kế hoạch. Quyền riêng tư ở đây cần dựa vào các biện pháp có thể kiểm tra độc lập về cách hoạt động, thay vì lòng tin đối với quỹ hay người vận hành dịch vụ. Suveria hiện là một bản thiết kế. Xem: [Suveria là gì](suveria.md).
 
-**Omniforum** được dự kiến là không gian công cộng chung, nơi mỗi người có thể phát biểu và được lắng nghe. Với sự trợ giúp của trí tuệ số, luôn dưới sự kiểm soát và với sự đồng ý của tác giả, các phát biểu phức tạp cần có thể được tách thành những ý riêng, để hai người có quan điểm dường như đối lập thấy điều chung và nơi suy luận tách nhau. Nguyên mẫu đầu tiên của Omniforum đang được xây dựng. Xem: [Omniforum là gì](omniforum.md).
+**OmniForum** được dự kiến là không gian công cộng chung, nơi mỗi người có thể phát biểu và được lắng nghe. Với sự trợ giúp của trí tuệ số, luôn dưới sự kiểm soát và với sự đồng ý của tác giả, các phát biểu phức tạp cần có thể được tách thành những ý riêng, để hai người có quan điểm dường như đối lập thấy điều chung và nơi suy luận tách nhau. Nguyên mẫu đầu tiên của OmniForum đang được xây dựng. Xem: [OmniForum là gì](omniforum.md).
 
 Hai không gian này được định hướng bổ sung cho nhau như xưởng làm việc riêng tư và diễn đàn công cộng. Mỗi người tự quyết định suy nghĩ nào giữ cho mình, suy nghĩ nào đưa vào công việc chung.
 
@@ -49,7 +49,7 @@ Xem thêm: [tuyên ngôn, phần mở đầu](../manifest.md#top), [mục 3.1](.
 
 Tuyên ngôn nói rõ:
 
-> Quỹ đã được đăng ký, còn tuyên ngôn và các sách trắng đã được công bố. Nguyên mẫu đầu tiên của Omniforum đang được xây dựng, còn Suveria là một bản thiết kế. Phép tính chi phí ở mục 2.4 là giả thuyết cần kiểm tra, còn việc trí tuệ số tự quản lý (mục 7.2) và các trụ cột tiếp theo (chương 9) là tầm nhìn.
+> Quỹ đã được đăng ký, còn tuyên ngôn và các sách trắng đã được công bố. Nguyên mẫu đầu tiên của OmniForum đang được xây dựng, còn Suveria là một bản thiết kế. Phép tính chi phí ở mục 2.4 là giả thuyết cần kiểm tra, còn việc trí tuệ số tự quản lý (mục 7.2) và các trụ cột tiếp theo (chương 9) là tầm nhìn.
 
 Các sách trắng là tài liệu được phát triển cùng dự án: mô tả cách hiện thực hóa những ý tưởng này về kỹ thuật và tổ chức, cơ sở lý giải cùng hạn chế đã biết.
 

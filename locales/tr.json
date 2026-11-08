@@ -72,7 +72,7 @@
     "grid_title": "ÜÇ SÜTUN",
     "col1": {
       "badge": "I. SÜTUN · BURADAN BAŞLIYORUZ",
-      "title": "Suveria ve Omniforum",
+      "title": "Suveria ve OmniForum",
       "r1_h": "Özel bir alan",
       "r2_h": "Ortak anlayış",
       "r3_h": "Maliyete yakın hizmetler"
@@ -103,12 +103,12 @@
   },
   "meta": {
     "title": "Novus Ignis · İnsan onuruna dayanan bir internet",
-    "description": "Novus Ignis Vakfı, en yüce değeri insan onuru olan alternatif bir interneti birlikte oluşturuyor. Suveria: özel bir dijital alan. Omniforum: konuşma ve kararlar için ortak bir alan."
+    "description": "Novus Ignis Vakfı, en yüce değeri insan onuru olan alternatif bir interneti birlikte oluşturuyor. Suveria: özel bir dijital alan. OmniForum: konuşma ve kararlar için ortak bir alan."
   },
   "hub": {
     "badge": "NOVUS IGNIS VAKFI",
     "title": "İnternetin temeli:<br><span class=\"gradient-text--fire\">insan onuru</span>",
-    "subtitle": "Çalışmalarımıza, en yüce değeri insan onuru ve bundan doğan mahremiyet ile özgürlük ihtiyaçları olan alternatif bir interneti birlikte oluşturarak başlıyoruz. Bu değerlerden iki çalışma yönü çıkarıyoruz: kişinin özel dijital alanı olan <strong>Suveria</strong> ve insanların buluşabileceği, birbirini anlayabileceği ve birlikte hareket edebileceği ortak, kamusal bir alan olan <strong>Omniforum</strong>.",
+    "subtitle": "Çalışmalarımıza, en yüce değeri insan onuru ve bundan doğan mahremiyet ile özgürlük ihtiyaçları olan alternatif bir interneti birlikte oluşturarak başlıyoruz. Bu değerlerden iki çalışma yönü çıkarıyoruz: kişinin özel dijital alanı olan <strong>Suveria</strong> ve insanların buluşabileceği, birbirini anlayabileceği ve birlikte hareket edebileceği ortak, kamusal bir alan olan <strong>OmniForum</strong>.",
     "cta_manifesto": "Manifestoyu oku",
     "cta_docs": "Manifesto ve teknik raporlar",
     "docs_title": "Manifesto, teknik raporlar ve vakıf senedi",
@@ -162,7 +162,7 @@
       "works": "Çalışıyor",
       "works_text": "Vakıf tescil edildi; manifesto ve teknik raporlar yayımlandı. Belgelerdeki her cümlenin yanında “Bir yorumum var” düğmesi çalışıyor.",
       "project": "Tasarım",
-      "project_text": "Omniforum’un ilk prototipi yapım aşamasında; Suveria ise bir tasarım.",
+      "project_text": "OmniForum’un ilk prototipi yapım aşamasında; Suveria ise bir tasarım.",
       "hypothesis": "Hipotez",
       "hypothesis_text": "Maliyet hesabı sınanacak bir hipotezdir: küçük bir grup bile, doğrulanabilir mahremiyetle, harcadığı her dolar karşılığında kapalı hizmetlerdekinden daha fazla dijital zekâya erişebilir.",
       "vision": "Vizyon",
@@ -174,9 +174,9 @@
       "suveria_title": "Suveria",
       "suveria_text": "Suveria’nın internette, insanın dijital zekâyla konuştuğu, kendi materyalleri üzerinde çalıştığı ve önceki düşüncelerine döndüğü, tıpkı kapısı kapalı kendi evindeymiş gibi özel bir alan olması amaçlanıyor. Suveria bugün dijital zekâyla özel çalışma için en iyi yolumuz; başlı başına bir amaç değil.",
       "suveria_link": "Suveria nedir →",
-      "omniforum_title": "Omniforum",
-      "omniforum_text": "Omniforum’un herkesin her konuda söz alabileceği ve sesini duyurabileceği bir yer olması amaçlanıyor. Basit bir soru, “yani şunu şunu demek istiyorsun, seni doğru mu anlıyorum?”, konuşmanın tonunu her iki taraf için de değiştirir. Omniforum’un bütün teknik katmanının tam da bu refleksi desteklemesi amaçlanıyor.",
-      "omniforum_link": "Omniforum nedir →"
+      "omniforum_title": "OmniForum",
+      "omniforum_text": "OmniForum’un herkesin her konuda söz alabileceği ve sesini duyurabileceği bir yer olması amaçlanıyor. Basit bir soru, “yani şunu şunu demek istiyorsun, seni doğru mu anlıyorum?”, konuşmanın tonunu her iki taraf için de değiştirir. OmniForum’un bütün teknik katmanının tam da bu refleksi desteklemesi amaçlanıyor.",
+      "omniforum_link": "OmniForum nedir →"
     },
     "help": {
       "title": "Nasıl yardımcı olabilirsin",
@@ -184,7 +184,7 @@
       "m5_text": "Manifestonun girişini oku; anlaşılmayan ya da katılmadığın bir cümleyi seç, ardından “Bir yorumum var” düğmesine tıkla.",
       "m5_model": "Bizi bir model aracılığıyla okuyorsan, ona en zayıf yanlarımızı da sor ve bulduklarını bize gönder.",
       "h1_title": "Bir saat",
-      "h1_text": "Kendi alanındaki teknik rapora göz at: <a href=\"#\" data-doc-link=\"suveria\">güvenlik ve altyapı (Suveria)</a>, <a href=\"#\" data-doc-link=\"fundacja\">hukuk ve mali işler (vakfın işleyiş ilkeleri)</a>, <a href=\"#\" data-doc-link=\"benchmark\">araştırma (materyaller ve kıyaslama testi)</a>, <a href=\"#\" data-doc-link=\"omniforum\">konuşma ve kararlar (Omniforum)</a>.",
+      "h1_text": "Kendi alanındaki teknik rapora göz at: <a href=\"#\" data-doc-link=\"suveria\">güvenlik ve altyapı (Suveria)</a>, <a href=\"#\" data-doc-link=\"fundacja\">hukuk ve mali işler (vakfın işleyiş ilkeleri)</a>, <a href=\"#\" data-doc-link=\"benchmark\">araştırma (materyaller ve kıyaslama testi)</a>, <a href=\"#\" data-doc-link=\"omniforum\">konuşma ve kararlar (OmniForum)</a>.",
       "more_title": "Daha fazla zaman",
       "more_text": "İlk sürümlerin oluşturulmasına katıl: roller ve ihtiyaçlarımız <a href=\"#\" data-page-link=\"dolacz\">Katıl</a> sayfasında anlatılıyor.",
       "money_title": "Mali destek",
@@ -194,9 +194,9 @@
     "join_page": "Rollere göz at ve bize yaz",
     "next": {
       "title": "Bundan sonra ne yapabilirsin",
-      "status": "Vakıf, belgeler ve kamuya açık gelen ödemeler sicili çalışıyor. Suveria ve Omniforum üzerinde çalıştığımız tasarımlar.",
+      "status": "Vakıf, belgeler ve kamuya açık gelen ödemeler sicili çalışıyor. Suveria ve OmniForum üzerinde çalıştığımız tasarımlar.",
       "wait_title": "Denemek istediğini bildir",
-      "wait_text": "Bekleme listesine katıl. Suveria ve Omniforum’un ilk denemeleri başladığında sana yazacağız.",
+      "wait_text": "Bekleme listesine katıl. Suveria ve OmniForum’un ilk denemeleri başladığında sana yazacağız.",
       "wait_btn": "Listeye katıl",
       "wait_note": "Konusu hazır mesajı göndermen yeterli. Adresini yalnızca o tek mesaj için kullanacak, isteğin üzerine hemen sileceğiz. <a href=\"twoje-dane.html\">Verilerin</a>",
       "read_title": "Daha fazla oku",
@@ -226,7 +226,7 @@
     "docs": {
       "manifest": "Manifesto",
       "suveria": "Suveria teknik raporu",
-      "omniforum": "Omniforum teknik raporu",
+      "omniforum": "OmniForum teknik raporu",
       "fundacja": "Vakfın işleyiş ilkeleri",
       "benchmark": "Materyaller ve kıyaslama testi",
       "statut": "Vakıf senedi ve değişiklik sicili"
@@ -244,7 +244,7 @@
     "groups": {
       "dlaczego": "Neden",
       "suveria": "Suveria",
-      "omniforum": "Omniforum",
+      "omniforum": "OmniForum",
       "fundacja": "Vakıf",
       "dokumenty": "Belgeler",
       "dolacz": "Katıl",
@@ -260,7 +260,7 @@
     "overview": {
       "dlaczego": "Neden Novus Ignis",
       "suveria": "Suveria nedir",
-      "omniforum": "Omniforum nedir",
+      "omniforum": "OmniForum nedir",
       "fundacja": "Biz kimiz",
       "dokumenty": "Tüm belgeler",
       "dolacz": "Kimleri arıyoruz ve nasıl başlayabilirsin"

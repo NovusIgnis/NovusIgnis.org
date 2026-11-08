@@ -9,6 +9,10 @@ menu: Dziennik zmian
 
 Dokumenty rozwijamy wraz z wiedzą i doświadczeniem, zachowując historię zmian. Tu zapisujemy, co i kiedy zmieniło się na stronie i w dokumentach, także wtedy, gdy zmiana wynika z uwagi czytelnika. Historia zmian samego statutu jest osobno, w [rejestrze zmian statutu](../statut/rejestr-zmian.md).
 
+## 8 listopada 2026 r.: zapis nazwy OmniForum
+
+- W manifeście, w czterech whitepaperach i na całej stronie zmieniliśmy zapis nazwy Omniforum na OmniForum, tak samo jak w nazwach OmniActa i OmniVox. Treść dokumentów poza tym się nie zmieniła. Poprzednie brzmienie każdego dokumentu jest zachowane w jego historii wersji.
+
 ## 3 listopada 2026 r.: nazwa zasady uczciwego przykładu w manifeście
 
 - W manifeście, w punkcie 8.1, dopisaliśmy akapit o zasadzie, którą nazywamy wychowaniem przez uczciwy przykład (*Alignment by Honest Example*): fundację staramy się prowadzić tak, jak chcielibyśmy, żeby cyfrowa inteligencja prowadziła kiedyś powierzone jej sprawy. Zasada była w naszych wcześniejszych szkicach z września 2026 r.; w redakcji przed publikacją zostały jej skutki (punkty 1.1 i 8.1), a zgubiliśmy nazwę i uzasadnienie. Dlaczego: bez uzasadnienia trudno zrozumieć, po co prowadzimy tak szczegółowe zapisy decyzji i błędów. Wersja manifestu: 3 listopada 2026 r.

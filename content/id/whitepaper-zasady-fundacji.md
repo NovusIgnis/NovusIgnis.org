@@ -1,12 +1,12 @@
 # Prinsip operasional Yayasan Novus Ignis: pemeliharaan, kerja sama, dan penyerahan kekuasaan
 
-Versi 31 Oktober 2026. Dokumen ini mengembangkan manifesto mengenai organisasi: bagaimana kami memelihara layanan, mengelola uang bersama, bekerja sama, dan ingin menyerahkan kekuasaan. Dokumen ini menjelaskan prinsip yang hendak kami terima sebagai peraturan serta perubahan anggaran dasar yang akan diperlukan. Whitepaper ini sendiri tidak mengubah anggaran dasar, kewenangan organ yayasan, ataupun aturan penyelesaian keuangan.
+Versi 8 November 2026. Dokumen ini mengembangkan manifesto mengenai organisasi: bagaimana kami memelihara layanan, mengelola uang bersama, bekerja sama, dan ingin menyerahkan kekuasaan. Dokumen ini menjelaskan prinsip yang hendak kami terima sebagai peraturan serta perubahan anggaran dasar yang akan diperlukan. Whitepaper ini sendiri tidak mengubah anggaran dasar, kewenangan organ yayasan, ataupun aturan penyelesaian keuangan.
 
-*Terjemahan ini dibuat oleh kecerdasan digital berdasarkan naskah asli berbahasa Polandia tertanggal 31 Oktober 2026. Jika terdapat perbedaan, naskah berbahasa Polandia yang berlaku.*
+*Terjemahan ini dibuat oleh kecerdasan digital berdasarkan naskah asli berbahasa Polandia tertanggal 8 November 2026. Jika terdapat perbedaan, naskah berbahasa Polandia yang berlaku.*
 
 ## 1. Anggaran dasar, manifesto, peraturan, dan dokumen ini
 
-Yayasan Novus Ignis dari Poznań (KRS 0001269575) ingin membangun internet alternatif yang bertumpu pada martabat manusia. Pilar pertamanya terdiri atas dua layanan: Suveria, ruang pribadi untuk bekerja dengan kecerdasan digital, dan Omniforum, ruang bersama untuk percakapan, pemahaman, dan keputusan. Dokumen ini menjelaskan cara yayasan bermaksud mengambil keputusan, mempertanggungjawabkan uang, mengatur pekerjaan, dan menyerahkan tanggung jawab; nilai dan arahnya dijelaskan dalam manifesto.
+Yayasan Novus Ignis dari Poznań (KRS 0001269575) ingin membangun internet alternatif yang bertumpu pada martabat manusia. Pilar pertamanya terdiri atas dua layanan: Suveria, ruang pribadi untuk bekerja dengan kecerdasan digital, dan OmniForum, ruang bersama untuk percakapan, pemahaman, dan keputusan. Dokumen ini menjelaskan cara yayasan bermaksud mengambil keputusan, mempertanggungjawabkan uang, mengatur pekerjaan, dan menyerahkan tanggung jawab; nilai dan arahnya dijelaskan dalam manifesto.
 
 Novus Ignis adalah yayasan Polandia yang terdaftar di Uni Eropa (Poznań). Dalam kategori internasional, ini merupakan entitas tanpa pemegang saham yang tidak membagikan laba kepada siapa pun: aset hanya digunakan untuk tujuan dalam anggaran dasar. Untuk layanan, kami mengenakan tarif paling tinggi sebesar biaya nyatanya, sedangkan pengembangan dan cadangan kami danai dari donasi sukarela.
 
@@ -39,11 +39,11 @@ Bagi prinsip di bawah, ketentuan anggaran dasar terpenting saat ini adalah sebag
 
 ## 2. Fase tangkas: cara mengambil keputusan sebelum pemungutan suara berfungsi
 
-Sampai pemungutan suara komunitas yang mengikat diluncurkan, yayasan bekerja dalam fase tangkas. Pengurus mengambil keputusan sehari-hari dalam batas hukum dan anggaran dasar, juga ketika perlu cepat menanggapi perubahan teknologi, perdebatan publik, dan kebutuhan orang. Kami tidak menunda pengembangan sampai sistem pemungutan suara lengkap tersedia: pada masa ini, penguruslah yang memutuskan pengeluaran untuk pemeliharaan dan pengembangan Pilar I, yaitu Suveria dan Omniforum.
+Sampai pemungutan suara komunitas yang mengikat diluncurkan, yayasan bekerja dalam fase tangkas. Pengurus mengambil keputusan sehari-hari dalam batas hukum dan anggaran dasar, juga ketika perlu cepat menanggapi perubahan teknologi, perdebatan publik, dan kebutuhan orang. Kami tidak menunda pengembangan sampai sistem pemungutan suara lengkap tersedia: pada masa ini, penguruslah yang memutuskan pengeluaran untuk pemeliharaan dan pengembangan Pilar I, yaitu Suveria dan OmniForum.
 
 Anggaran dasar memberi pengurus ruang lebih luas daripada yang ingin digunakan. Tujuan kami ialah semua keputusan yang diserahkan kepada komunitas diambil melalui pemungutan suaranya dan mengikat. Untuk itu, kami memerlukan mekanisme yang berfungsi dan mampu kami pelihara, sehingga kami mencapainya bertahap. Hingga saat itu, berdasarkan pilihan sendiri dan bukan kewajiban hukum, pengurus meminta pendapat komunitas melalui konsultasi mengenai isu penting serta memublikasikan alasan setiap keputusan penting, termasuk penolakan. Konsultasi tidak memerlukan verifikasi peserta sehingga satu orang dapat memberikan banyak suara: menunjukkan pendapat peserta, tetapi bukan pemungutan suara menurut anggaran dasar. Sebelum setiap konsultasi, pengurus mengumumkan cara memperlakukan hasilnya. Peserta dapat menggugat setiap keputusan pengurus, sedangkan pengurus menanggapi keberatan secara publik.
 
-Fase tangkas berakhir bertahap seiring bertambahnya kekuatan pemungutan suara, dan setiap langkah merupakan pengujian. Urutannya dimulai dengan pengujian tanpa akibat finansial, kemudian pemungutan suara tentang keputusan nyata mengenai alokasi kecil yang terpisah dan tindakan yang dapat dibalik, lalu perluasan cakupan. Sebelum setiap pengujian, kami mengumumkan cakupan, durasi, dan cara pengurus memperlakukan hasilnya. Setelah selesai, kami memublikasikan ringkasan: apakah hasil dapat dilaksanakan, pengaruh pengujian pada pengelolaan yayasan dan pengambilan keputusan, kesalahan serta penyalahgunaan yang ditemukan, dan perubahan yang dibuat. Cakupan baru kami perluas berdasarkan ringkasan itu karena tidak ingin membuat komitmen yang tidak mampu dipenuhi. Tahapan, verifikasi peserta, dan perlindungan kerahasiaan suara dijelaskan dalam [whitepaper Omniforum](whitepaper-omniforum.md). Agar hasil pemungutan suara mengikat yayasan secara formal, bukan hanya atas pilihan pengurus, diperlukan perubahan anggaran dasar (Z4 dalam daftar perubahan), karena saat ini § 8 hanya mengizinkan pemungutan suara dan konsultasi. Selama pengujian belum mengonfirmasi keunikan setiap pemilih, kami menyebutnya konsultasi, bukan pemungutan suara menurut § 8 ayat 2 anggaran dasar. Ketika pemungutan suara mengambil alih jenis keputusan tertentu, pengurus hanya dapat menangguhkan pelaksanaan hasil berdasarkan alasan yang dijelaskan sebelumnya, misalnya kesalahan protokol yang ditemukan, penyalahgunaan skala besar yang terdokumentasi, atau kegagalan infrastruktur, disertai alasan terbuka dan tanggal peninjauan ulang.
+Fase tangkas berakhir bertahap seiring bertambahnya kekuatan pemungutan suara, dan setiap langkah merupakan pengujian. Urutannya dimulai dengan pengujian tanpa akibat finansial, kemudian pemungutan suara tentang keputusan nyata mengenai alokasi kecil yang terpisah dan tindakan yang dapat dibalik, lalu perluasan cakupan. Sebelum setiap pengujian, kami mengumumkan cakupan, durasi, dan cara pengurus memperlakukan hasilnya. Setelah selesai, kami memublikasikan ringkasan: apakah hasil dapat dilaksanakan, pengaruh pengujian pada pengelolaan yayasan dan pengambilan keputusan, kesalahan serta penyalahgunaan yang ditemukan, dan perubahan yang dibuat. Cakupan baru kami perluas berdasarkan ringkasan itu karena tidak ingin membuat komitmen yang tidak mampu dipenuhi. Tahapan, verifikasi peserta, dan perlindungan kerahasiaan suara dijelaskan dalam [whitepaper OmniForum](whitepaper-omniforum.md). Agar hasil pemungutan suara mengikat yayasan secara formal, bukan hanya atas pilihan pengurus, diperlukan perubahan anggaran dasar (Z4 dalam daftar perubahan), karena saat ini § 8 hanya mengizinkan pemungutan suara dan konsultasi. Selama pengujian belum mengonfirmasi keunikan setiap pemilih, kami menyebutnya konsultasi, bukan pemungutan suara menurut § 8 ayat 2 anggaran dasar. Ketika pemungutan suara mengambil alih jenis keputusan tertentu, pengurus hanya dapat menangguhkan pelaksanaan hasil berdasarkan alasan yang dijelaskan sebelumnya, misalnya kesalahan protokol yang ditemukan, penyalahgunaan skala besar yang terdokumentasi, atau kegagalan infrastruktur, disertai alasan terbuka dan tanggal peninjauan ulang.
 
 ## 3. Layanan dengan tarif sedekat mungkin dengan biaya
 
@@ -104,12 +104,12 @@ Dalam pembukuan, kami memisahkan lima jenis uang:
 | Dana yang menjadi hak pengguna | Pembayaran di muka dan saldo peserta yang tidak terpakai | Tidak, milik peserta |
 | Uang yang dipercayakan untuk tujuan tertentu | Donasi bertujuan khusus, misalnya bagi inisiatif tertentu atau uji coba perintis Suveria | Hanya untuk tujuan itu |
 | Komitmen yang telah dibuat | Uang yang sudah dialokasikan untuk pengeluaran terencana | Tidak, sudah dialokasikan |
-| Dana pengaman pemeliharaan layanan | Cadangan yang tanpanya Suveria dan Omniforum akan berhenti berfungsi | Tidak, melindungi kesinambungan layanan |
+| Dana pengaman pemeliharaan layanan | Cadangan yang tanpanya Suveria dan OmniForum akan berhenti berfungsi | Tidak, melindungi kesinambungan layanan |
 | Dana bebas untuk dialokasikan | Sisa setelah seluruh kategori di atas | Ya, selalu dengan prioritas Pilar I (bab 8) |
 
 Setiap jumlah hanya kami masukkan ke satu kategori agar tidak dihitung dua kali.
 
-Biaya pemeliharaan layanan mencakup segala hal yang tanpanya Suveria dan Omniforum akan berhenti berfungsi: daya komputasi, penyimpanan data dan salinan cadangan, domain, pengolahan pembayaran, serta pembukuan wajib. Karena itu, saldo rekening bank bukan anggaran yang dapat dialokasikan, sedangkan cadangan tidak terdiri atas uang yang dijanjikan tetapi belum disetor ataupun uang yang menjadi hak orang lain.
+Biaya pemeliharaan layanan mencakup segala hal yang tanpanya Suveria dan OmniForum akan berhenti berfungsi: daya komputasi, penyimpanan data dan salinan cadangan, domain, pengolahan pembayaran, serta pembukuan wajib. Karena itu, saldo rekening bank bukan anggaran yang dapat dialokasikan, sedangkan cadangan tidak terdiri atas uang yang dijanjikan tetapi belum disetor ataupun uang yang menjadi hak orang lain.
 
 Kategori biaya, ketentuan kontrak bernilai lebih besar, keputusan, dan alasannya terbuka. Setiap pengeluaran dimaksudkan dapat dihubungkan dengan keputusan yang menyebabkannya dan hasilnya. Bersamaan dengan itu, kami melindungi data pribadi, data akses, dan informasi yang pengungkapannya akan meningkatkan risiko bagi infrastruktur.
 
@@ -162,13 +162,13 @@ Anggota pengurus tidak membuat kontrak berbayar dengan yayasan: anggaran dasar h
 
 ### 5.4. Bengkel sendiri dan konteks yang disiapkan
 
-Saat peserta mengambil tugas, ruang kerja untuk tugas itu dimaksudkan dibuka di lingkungan yang dipilih peserta. Asisten kecerdasan digital menerima yang diperlukan: nilai yayasan, tujuan dan batas tugas, temuan terkini dari Omniforum, argumen penting dan pertanyaan terbuka, sumber, batas sumber daya, serta cara penilaian hasil. Peserta dapat memeriksa konteks, menunjukkan kekurangan, dan memperbaiki penyajian pandangannya sendiri.
+Saat peserta mengambil tugas, ruang kerja untuk tugas itu dimaksudkan dibuka di lingkungan yang dipilih peserta. Asisten kecerdasan digital menerima yang diperlukan: nilai yayasan, tujuan dan batas tugas, temuan terkini dari OmniForum, argumen penting dan pertanyaan terbuka, sumber, batas sumber daya, serta cara penilaian hasil. Peserta dapat memeriksa konteks, menunjukkan kekurangan, dan memperbaiki penyajian pandangannya sendiri.
 
 Bergabung dengan tugas hanya memberikan cakupan data dan izin terpilih. Pemindahan konteks, akses alat, dan publikasi catatan kerja memerlukan persetujuan yang ditentukan secara terpisah, sedangkan percakapan pribadi, berkas, dan data akses tetap di luar cakupan hingga orang memutuskan lain secara sadar. Sebelum menyediakan hubungan seperti itu, kami akan menjelaskan data yang keluar dari lingkungan pribadi, penerimanya, dan cara pemrosesannya.
 
 Setelah jeda, bengkel dimaksudkan menunjukkan perubahan dan tempat melanjutkan, sedangkan hasil dan status tugas dimaksudkan dapat diserahkan kepada orang berikutnya tanpa mengungkap lingkungan pribadi peserta. Dalam pengujian, kami akan memeriksa awal tugas, kembali setelah seminggu, dan penyerahan pekerjaan: waktu menemukan konteks, ketepatan ringkasan, dan penghormatan batas privasi.
 
-Sebelum memiliki server sendiri, dari dana Pilar I atau donasi bertujuan khusus kami dapat menutup biaya alat yang diperlukan sukarelawan untuk membuat dan menguji kode terbuka Suveria dan Omniforum, misalnya akses model melalui API atau alat pemrograman. Dukungan seperti itu memiliki batas yang diumumkan dalam anggaran dan bukan imbalan. Hal ini diizinkan Ustawa o działalności pożytku publicznego i o wolontariacie (Pasal 45 ayat 2); cakupan biaya seperti itu akan kami konfirmasi dalam pendapat hukum.[^wolontariat]
+Sebelum memiliki server sendiri, dari dana Pilar I atau donasi bertujuan khusus kami dapat menutup biaya alat yang diperlukan sukarelawan untuk membuat dan menguji kode terbuka Suveria dan OmniForum, misalnya akses model melalui API atau alat pemrograman. Dukungan seperti itu memiliki batas yang diumumkan dalam anggaran dan bukan imbalan. Hal ini diizinkan Ustawa o działalności pożytku publicznego i o wolontariacie (Pasal 45 ayat 2); cakupan biaya seperti itu akan kami konfirmasi dalam pendapat hukum.[^wolontariat]
 
 ## 6. Dukungan pribadi di luar yayasan
 
@@ -202,10 +202,10 @@ Kami melindungi alamat, nomor tiket, data pembayaran dan kesehatan; publikasi de
 
 ### 8.1. Prioritas Pilar I dan tiga syarat
 
-Pilar I mencakup Suveria dan Omniforum. Pilar II “Hardware” mengembangkan solusi material terbuka, sedangkan Pilar III “Alam” mengembangkan inisiatif yang terkait dengan kontak dengan alam. Peluncuran penuh pilar-pilar ini serta pendanaan proyeknya dari anggaran bersama memerlukan terpenuhinya semua syarat berikut (poin 6.3 manifesto):
+Pilar I mencakup Suveria dan OmniForum. Pilar II “Hardware” mengembangkan solusi material terbuka, sedangkan Pilar III “Alam” mengembangkan inisiatif yang terkait dengan kontak dengan alam. Peluncuran penuh pilar-pilar ini serta pendanaan proyeknya dari anggaran bersama memerlukan terpenuhinya semua syarat berikut (poin 6.3 manifesto):
 
-1. Omniforum yang berfungsi dengan pemungutan suara yang menggunakan bukti tanpa pengetahuan, melindungi kerahasiaan pilihan, memungkinkan pemeriksaan bahwa suara dihitung, dan memastikan bahwa setiap orang yang berhak hanya memiliki satu suara efektif.
-2. Dana yang benar-benar terkumpul untuk sekurang-kurangnya enam bulan pemeliharaan layanan Suveria dan Omniforum dan tetap utuh setelah seluruh anggaran proyek baru disisihkan.
+1. OmniForum yang berfungsi dengan pemungutan suara yang menggunakan bukti tanpa pengetahuan, melindungi kerahasiaan pilihan, memungkinkan pemeriksaan bahwa suara dihitung, dan memastikan bahwa setiap orang yang berhak hanya memiliki satu suara efektif.
+2. Dana yang benar-benar terkumpul untuk sekurang-kurangnya enam bulan pemeliharaan layanan Suveria dan OmniForum dan tetap utuh setelah seluruh anggaran proyek baru disisihkan.
 3. Keputusan untuk menyetujui proyek dan pendanaannya, diambil oleh komunitas melalui pemungutan suara yang terbuka bagi seluruh komunitas yang berhak dengan ketentuan setara.
 
 Kapan kami menganggap suatu syarat terpenuhi:
@@ -253,7 +253,7 @@ Sebelum mengalokasikan dana, kami memublikasikan tujuan, seluruh anggaran, sumbe
 
 ## 9. Penyerahan kewenangan khusus pendiri
 
-Yayasan didirikan oleh satu orang, Marcin Wołowski, dan saat ini orang itulah yang memegang kekuasaan terbesar di dalamnya. Pada awalnya hal itu wajar, tetapi kami tidak ingin keadaan itu bertahan. Pendiri ingin mewujudkan keadaan ketika ia dapat menggunakan Suveria, Omniforum, dan proyek selanjutnya dengan hak yang sama seperti orang lain serta menarik diri dari peran publik yang tetap (poin 7.1 manifesto). Gagasannya sama seperti dalam bab 5: tanggung jawab diambil untuk suatu masa, kemudian diserahkan. Yayasan dimaksudkan bertahan berkat kegunaan alatnya, pengetahuan yang tersedia bagi kontributor, dan aturan yang memungkinkan pengambilalihan tanggung jawab, alih-alih kehadiran tetap satu orang.
+Yayasan didirikan oleh satu orang, Marcin Wołowski, dan saat ini orang itulah yang memegang kekuasaan terbesar di dalamnya. Pada awalnya hal itu wajar, tetapi kami tidak ingin keadaan itu bertahan. Pendiri ingin mewujudkan keadaan ketika ia dapat menggunakan Suveria, OmniForum, dan proyek selanjutnya dengan hak yang sama seperti orang lain serta menarik diri dari peran publik yang tetap (poin 7.1 manifesto). Gagasannya sama seperti dalam bab 5: tanggung jawab diambil untuk suatu masa, kemudian diserahkan. Yayasan dimaksudkan bertahan berkat kegunaan alatnya, pengetahuan yang tersedia bagi kontributor, dan aturan yang memungkinkan pengambilalihan tanggung jawab, alih-alih kehadiran tetap satu orang.
 
 Saat ini anggaran dasar memberikan kewenangan khusus kepada pendiri:
 
@@ -368,7 +368,7 @@ Kode dan materi kami sendiri disediakan dengan aturan yang memungkinkan orang la
 | --- | --- | --- |
 | Dokumen, kajian, dan teks situs | CC BY 4.0 | diadopsi |
 | Kode situs novusignis.org | AGPLv3 | diadopsi |
-| Kode layanan (Suveria, Omniforum) | AGPLv3 | sedang dipertimbangkan |
+| Kode layanan (Suveria, OmniForum) | AGPLv3 | sedang dipertimbangkan |
 | Pustaka untuk disematkan di situs lain | akan ditentukan | |
 | Kumpulan data dan instruksi terbuka | akan ditentukan | |
 | Model hasil penyetelan kami sendiri | akan ditentukan | |
@@ -420,7 +420,7 @@ Dalam tata kelola yang dituju, sengketa mengenai keputusan ditangani oleh orang 
 
 ### 12.4. Cara kami mengubah dokumen dan aturan
 
-Manifesto dan whitepaper merupakan dokumen hidup. Kami ingin meninjaunya secara publik di Omniforum, dengan mengurai tesisnya menjadi molekul, yaitu pernyataan dan argumen individual yang dapat diperiksa. Versi terkini menyajikan posisi yayasan saat ini, sedangkan riwayat lengkap versi dan argumen sebelumnya tetap tersedia agar tindakan lama, janji, dan alasan koreksi dapat dinilai.
+Manifesto dan whitepaper merupakan dokumen hidup. Kami ingin meninjaunya secara publik di OmniForum, dengan mengurai tesisnya menjadi molekul, yaitu pernyataan dan argumen individual yang dapat diperiksa. Versi terkini menyajikan posisi yayasan saat ini, sedangkan riwayat lengkap versi dan argumen sebelumnya tetap tersedia agar tindakan lama, janji, dan alasan koreksi dapat dinilai.
 
 Perlindungan martabat, privasi, dan dana yang dipercayakan kepada yayasan menentukan arah tetap kegiatannya. Aturan organisasi kami kembangkan secara terbuka: bersama usulan perubahan kami memperlihatkan lingkup, alasan, dan akibatnya bagi peserta. Anggaran dasar hanya kami ubah jika perubahan diperlukan untuk langkah berikutnya, dan langsung kami terapkan. Perubahan syarat pendanaan pilar selanjutnya dari bab 8 memerlukan prosedur yang tepat serta penghormatan terhadap anggaran dasar, hukum, dan komitmen yang sudah dibuat; sampai perubahan diadopsi, aturan sebelumnya tetap berlaku. Kami juga mempertimbangkan pencantuman syarat-syarat itu dalam anggaran dasar (usulan Z6 dalam [daftar perubahan](statut/rejestr-zmian.md)) agar tidak bergantung pada kemauan baik pengurus semata.
 

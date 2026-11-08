@@ -11,7 +11,7 @@ Konsep yang khas bagi Novus Ignis memiliki satu nama Latin yang sama dalam setia
 
 Istilah lain memiliki satu terjemahan tetap dalam setiap bahasa agar semua terjemahan membahas hal yang sama dengan kata yang sama.
 
-**Status pada 31 Oktober 2026.** Glosarium ini masih disusun: kami terus menambahkan bahasa dan konsep. Jika terjemahan dalam bahasa Anda terdengar keliru, tandai dan kirim masukan tentang terjemahannya. Kami ingin konsep ini menjadi salah satu isu pertama di Omniforum: di sana orang akan dapat membahas definisi dan apakah namanya menyampaikan makna dengan baik.
+**Status pada 31 Oktober 2026.** Glosarium ini masih disusun: kami terus menambahkan bahasa dan konsep. Jika terjemahan dalam bahasa Anda terdengar keliru, tandai dan kirim masukan tentang terjemahannya. Kami ingin konsep ini menjadi salah satu isu pertama di OmniForum: di sana orang akan dapat membahas definisi dan apakah namanya menyampaikan makna dengan baik.
 
 ## Nama Latin
 
@@ -21,4 +21,4 @@ Istilah lain memiliki satu terjemahan tetap dalam setiap bahasa agar semua terje
 
 {{terminologia:przeklady}}
 
-Definisi konsep Omniforum tersedia dalam [whitepaper Omniforum, bagian 1.3](../whitepaper-omniforum.md#s1-3).
+Definisi konsep OmniForum tersedia dalam [whitepaper OmniForum, bagian 1.3](../whitepaper-omniforum.md#s1-3).

@@ -24,7 +24,7 @@ Vous pouvez faire un don à la fondation par virement en zlotys, en euros ou en 
 
 ## Ce que devient le don
 
-- Un don sans affectation précise rejoint les fonds librement disponibles, toujours avec la priorité au Pilier I, c’est-à-dire à Suveria et à Omniforum.
+- Un don sans affectation précise rejoint les fonds librement disponibles, toujours avec la priorité au Pilier I, c’est-à-dire à Suveria et à OmniForum.
 - Un don ne confère ni voix, ni pouvoirs de gestion, ni accès aux données des utilisateurs, ni droit à une promotion dans nos services et notre communication.
 - Nous ne nommons les donateurs dans le registre que s’ils le souhaitent ; nous décrivons les autres versements de manière générale, par exemple « don d’un particulier ». Nous ne publions pas les motifs des virements tels quels, car ils contiennent souvent des données personnelles. Si vous souhaitez que nous indiquions votre prénom ou le nom de votre entreprise, écrivez-nous.
 - Nous n’acceptons pas d’avantages conditionnés par une promotion, une recommandation ou une concession dans les décisions.

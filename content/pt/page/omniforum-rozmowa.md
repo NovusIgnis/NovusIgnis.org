@@ -1,19 +1,19 @@
 ---
-tytul: Como funciona a conversa no Omniforum
+tytul: Como funciona a conversa no OmniForum
 opis: Passo a passo, como uma declaração se transforma em pensamentos individuais, o que o autor confirma, qual é o papel da inteligência digital e como sabemos quem disse o quê
 grupa: omniforum
 kolejnosc: 2
 menu: Como funciona a conversa
 ---
-# Como funciona a conversa no Omniforum
+# Como funciona a conversa no OmniForum
 
-Esta página é para quem já leu a página [O que é o Omniforum](omniforum.md) e quer ver com mais detalhes o que acontece com uma declaração desde o momento em que você a escreve até o momento em que outras pessoas podem conversar sobre ela: o que o autor confirma, qual é o papel da inteligência digital e como sabemos quem disse o quê.
+Esta página é para quem já leu a página [O que é o OmniForum](omniforum.md) e quer ver com mais detalhes o que acontece com uma declaração desde o momento em que você a escreve até o momento em que outras pessoas podem conversar sobre ela: o que o autor confirma, qual é o papel da inteligência digital e como sabemos quem disse o quê.
 
 Hoje, você ainda não pode usar isso: descrevemos um plano e recolhemos observações.
 
-O protótipo do Omniforum está em construção. Tudo o que descrevemos abaixo é um projeto, e ainda não concluímos nenhum teste.
+O protótipo do OmniForum está em construção. Tudo o que descrevemos abaixo é um projeto, e ainda não concluímos nenhum teste.
 
-Saiba mais: [whitepaper do Omniforum, capítulo 1](../whitepaper-omniforum.md#s1).
+Saiba mais: [whitepaper do OmniForum, capítulo 1](../whitepaper-omniforum.md#s1).
 
 ## Uma frase, muitos pensamentos
 
@@ -23,11 +23,11 @@ Tomemos a frase “Vale a pena plantar árvores na nossa rua, se escolhermos esp
 
 Essa frase não pode ser reduzida a um “vale a pena plantar árvores na nossa rua” incondicional, pois a condição faz parte do significado. Se a inteligência digital acrescentar que o autor considera a seca um problema na região, isso será identificado como uma conclusão do modelo, e não como palavras do autor. Dividimos apenas até onde for necessário: onde o sentido depende de um conceito individual ou pode haver divergência sobre ele.
 
-Saiba mais: [whitepaper do Omniforum, capítulo 2](../whitepaper-omniforum.md#s2), [capítulo 3](../whitepaper-omniforum.md#s3) e [glossário na seção 1.3](../whitepaper-omniforum.md#s1-3).
+Saiba mais: [whitepaper do OmniForum, capítulo 2](../whitepaper-omniforum.md#s2), [capítulo 3](../whitepaper-omniforum.md#s3) e [glossário na seção 1.3](../whitepaper-omniforum.md#s1-3).
 
 ## Passo a passo
 
-Assim deverá ser o percurso de um pensamento que surge no Omniforum:
+Assim deverá ser o percurso de um pensamento que surge no OmniForum:
 
 1. **Você escreve.** Começa com um texto comum ou um trecho e define o objetivo: compreensão, identificação de argumentos, resposta própria ou comparação de posições.
 2. **A inteligência digital propõe uma decomposição.** Para cada pensamento, mostra de que trecho o extraiu e aponta os lugares em que pode ter se afastado da sua intenção ou em que o texto admite várias leituras.
@@ -39,7 +39,7 @@ Assim deverá ser o percurso de um pensamento que surge no Omniforum:
 
 Também consideramos uma segunda cerimônia, voluntária: o momento em que nomeamos o limite do que sabemos justificar hoje e começamos a buscar uma resposta para uma nova pergunta. Por enquanto, é uma ideia sem nome nem forma definidos.
 
-Saiba mais: [whitepaper do Omniforum, capítulo 3](../whitepaper-omniforum.md#s3).
+Saiba mais: [whitepaper do OmniForum, capítulo 3](../whitepaper-omniforum.md#s3).
 
 ## O que você confirma e o que não confirma
 
@@ -49,7 +49,7 @@ Os leitores podem decompor sua declaração à sua maneira, sem esperar por voc�
 
 A conversa deverá deixar espaço para mudar de opinião sem humilhação: é possível admitir um erro, fazer outra pergunta ou encerrar sem declarar concordância. A dignidade do participante não depende de aceitar a conclusão.
 
-Saiba mais: [whitepaper do Omniforum, capítulo 2](../whitepaper-omniforum.md#s2) e [capítulo 1](../whitepaper-omniforum.md#s1).
+Saiba mais: [whitepaper do OmniForum, capítulo 2](../whitepaper-omniforum.md#s2) e [capítulo 1](../whitepaper-omniforum.md#s1).
 
 ## O modelo ajuda, mas não governa
 
@@ -57,13 +57,13 @@ O modelo (o programa de inteligência digital que propõe a decomposição) tem 
 
 Registramos em cada decomposição quem a preparou e quando e, se um modelo ajudou, qual modelo e com qual versão da instrução.
 
-Saiba mais: [whitepaper do Omniforum, capítulo 3](../whitepaper-omniforum.md#s3) e [capítulo 2](../whitepaper-omniforum.md#s2).
+Saiba mais: [whitepaper do OmniForum, capítulo 3](../whitepaper-omniforum.md#s3) e [capítulo 2](../whitepaper-omniforum.md#s2).
 
 ## Um pensamento da Suveria
 
 O pensamento também pode vir da Suveria, o espaço privado para trabalhar com inteligência digital, no qual você o aperfeiçoa na própria oficina. Nesse caso, publica-o diretamente, sem passar pela oficina Ignis. O momento da publicação é a mesma Cerimônia Ignis, e depois começa a Formatio, como com qualquer outro pensamento.
 
-Saiba mais: [whitepaper do Omniforum, capítulo 3](../whitepaper-omniforum.md#s3).
+Saiba mais: [whitepaper do OmniForum, capítulo 3](../whitepaper-omniforum.md#s3).
 
 ## Como sabemos quem disse o quê
 
@@ -71,7 +71,7 @@ Registramos a origem de cada pensamento e de cada uso de um conceito: de que tex
 
 Um átomo é um significado, e não uma palavra. As palavras com que o nomeamos são seus rótulos, e um átomo pode ter muitos deles, inclusive em idiomas diferentes: a seca se chama “drought” em inglês e “Dürre” em alemão. Assim, pessoas que usam palavras diferentes podem conversar sobre a mesma coisa. A ligação entre uma palavra e um átomo é uma proposta que o autor confirma. Também pode ser uma informação privada: o fato de “nossa rua” significar a rua Warszawska revela onde alguém mora, portanto o autor decide se outras pessoas verão isso.
 
-Saiba mais: [whitepaper do Omniforum, capítulo 2](../whitepaper-omniforum.md#s2).
+Saiba mais: [whitepaper do OmniForum, capítulo 2](../whitepaper-omniforum.md#s2).
 
 ## O que verificaremos no primeiro teste
 
@@ -79,10 +79,10 @@ A primeira etapa dos testes é um percurso completo de um único pensamento: alg
 
 Verificamos se nada se perdeu pelo caminho: a formulação original, seu significado, as versões sucessivas e quem tem acesso a quê. Também buscamos erros de interpretação que o próprio modelo não identificou e comparamos o resultado com o texto por si só e com um resumo comum. Antes do teste, publicamos qual resultado consideraremos suficiente e acrescentamos seu resultado ao registro mesmo quando o teste não dá certo.
 
-Saiba mais: [whitepaper do Omniforum, capítulo 9](../whitepaper-omniforum.md#s9).
+Saiba mais: [whitepaper do OmniForum, capítulo 9](../whitepaper-omniforum.md#s9).
 
 ## Leia e diga o que pensa
 
-A descrição completa desse percurso está no [whitepaper do Omniforum](../whitepaper-omniforum.md) (cerca de 50 minutos de leitura), especialmente nos capítulos 2 e 3. Se algo fizer você refletir ou parecer errado, selecione esse trecho no documento e use o botão “Tenho uma observação” ou escreva para salve@novusignis.org.
+A descrição completa desse percurso está no [whitepaper do OmniForum](../whitepaper-omniforum.md) (cerca de 50 minutos de leitura), especialmente nos capítulos 2 e 3. Se algo fizer você refletir ou parecer errado, selecione esse trecho no documento e use o botão “Tenho uma observação” ou escreva para salve@novusignis.org.
 
-Saiba mais: [whitepaper do Omniforum, seção 5.5](../whitepaper-omniforum.md#s5-5).
+Saiba mais: [whitepaper do OmniForum, seção 5.5](../whitepaper-omniforum.md#s5-5).

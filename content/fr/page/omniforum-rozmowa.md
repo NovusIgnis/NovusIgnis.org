@@ -1,19 +1,19 @@
 ---
-tytul: Comment fonctionne la conversation dans Omniforum
+tytul: Comment fonctionne la conversation dans OmniForum
 opis: Pas à pas, comment une contribution devient des pensées individuelles, ce que confirme l’auteur, le rôle de l’intelligence numérique et comment savoir qui a dit quoi
 grupa: omniforum
 kolejnosc: 2
 menu: Comment fonctionne la conversation
 ---
-# Comment fonctionne la conversation dans Omniforum
+# Comment fonctionne la conversation dans OmniForum
 
-Cette page s’adresse aux personnes qui ont déjà lu [Qu’est-ce qu’Omniforum](omniforum.md) et veulent voir plus précisément ce qui arrive à une contribution, du moment où vous l’écrivez à celui où les autres peuvent en discuter : ce que confirme l’auteur, le rôle de l’intelligence numérique et comment savoir qui a dit quoi.
+Cette page s’adresse aux personnes qui ont déjà lu [Qu’est-ce qu’OmniForum](omniforum.md) et veulent voir plus précisément ce qui arrive à une contribution, du moment où vous l’écrivez à celui où les autres peuvent en discuter : ce que confirme l’auteur, le rôle de l’intelligence numérique et comment savoir qui a dit quoi.
 
 Vous ne pouvez pas encore utiliser cela aujourd’hui : nous décrivons un plan et recueillons les remarques.
 
-Le prototype d’Omniforum est en construction. Tout ce que nous décrivons ci-dessous est un projet, et nous n’avons encore terminé aucun essai.
+Le prototype d’OmniForum est en construction. Tout ce que nous décrivons ci-dessous est un projet, et nous n’avons encore terminé aucun essai.
 
-Pour en savoir plus : [livre blanc d’Omniforum, chapitre 1](../whitepaper-omniforum.md#s1).
+Pour en savoir plus : [livre blanc d’OmniForum, chapitre 1](../whitepaper-omniforum.md#s1).
 
 ## Une phrase, plusieurs pensées
 
@@ -23,11 +23,11 @@ Prenons la phrase « Il vaut la peine de planter des arbres dans notre rue si n
 
 Cette phrase ne doit pas être réduite à un « il vaut la peine de planter des arbres dans notre rue » inconditionnel, car la condition fait partie du sens. Si l’intelligence numérique ajoute que l’auteur considère la sécheresse comme un problème dans le quartier, cela sera signalé comme une déduction du modèle, et non comme les mots de l’auteur. Nous ne divisons que jusqu’au degré nécessaire : là où le sens dépend d’une notion individuelle ou là où elle peut faire l’objet d’un différend.
 
-Pour en savoir plus : [livre blanc d’Omniforum, chapitre 2](../whitepaper-omniforum.md#s2), [chapitre 3](../whitepaper-omniforum.md#s3) et [glossaire du point 1.3](../whitepaper-omniforum.md#s1-3).
+Pour en savoir plus : [livre blanc d’OmniForum, chapitre 2](../whitepaper-omniforum.md#s2), [chapitre 3](../whitepaper-omniforum.md#s3) et [glossaire du point 1.3](../whitepaper-omniforum.md#s1-3).
 
 ## Pas à pas
 
-Voici le chemin prévu pour une pensée qui naît dans Omniforum :
+Voici le chemin prévu pour une pensée qui naît dans OmniForum :
 
 1. **Vous écrivez.** Vous partez d’un texte ordinaire ou d’un passage et définissez le but : comprendre, dégager les arguments, formuler votre propre réponse ou comparer des positions.
 2. **L’intelligence numérique propose une décomposition.** Pour chaque pensée, elle montre de quel passage elle l’a tirée et signale les endroits où elle a pu s’écarter de votre intention ou où le texte peut se lire de plusieurs façons.
@@ -39,7 +39,7 @@ Voici le chemin prévu pour une pensée qui naît dans Omniforum :
 
 Nous envisageons aussi une seconde cérémonie, volontaire : le moment où nous nommons la limite de ce que nous savons justifier aujourd’hui et commençons à chercher une réponse à une nouvelle question. Pour l’instant, c’est une idée sans nom ni forme arrêtés.
 
-Pour en savoir plus : [livre blanc d’Omniforum, chapitre 3](../whitepaper-omniforum.md#s3).
+Pour en savoir plus : [livre blanc d’OmniForum, chapitre 3](../whitepaper-omniforum.md#s3).
 
 ## Ce que vous confirmez et ce que vous ne confirmez pas
 
@@ -49,7 +49,7 @@ Les lecteurs peuvent décomposer votre contribution à leur manière, sans vous 
 
 La conversation doit laisser la place à un changement d’avis sans humiliation : on peut reconnaître une erreur, poser une nouvelle question ou terminer sans déclarer son accord. La dignité du participant ne dépend pas de son acceptation d’une conclusion.
 
-Pour en savoir plus : [livre blanc d’Omniforum, chapitre 2](../whitepaper-omniforum.md#s2) et [chapitre 1](../whitepaper-omniforum.md#s1).
+Pour en savoir plus : [livre blanc d’OmniForum, chapitre 2](../whitepaper-omniforum.md#s2) et [chapitre 1](../whitepaper-omniforum.md#s1).
 
 ## Le modèle aide, mais ne gouverne pas
 
@@ -57,13 +57,13 @@ Le modèle (le programme d’intelligence numérique qui propose la décompositi
 
 Pour chaque décomposition, nous enregistrons qui l’a préparée et quand, et, si un modèle a aidé, lequel et avec quelle version des instructions.
 
-Pour en savoir plus : [livre blanc d’Omniforum, chapitre 3](../whitepaper-omniforum.md#s3) et [chapitre 2](../whitepaper-omniforum.md#s2).
+Pour en savoir plus : [livre blanc d’OmniForum, chapitre 3](../whitepaper-omniforum.md#s3) et [chapitre 2](../whitepaper-omniforum.md#s2).
 
 ## Une pensée venue de Suveria
 
 Une pensée peut aussi venir de Suveria, l’espace privé de travail avec l’intelligence numérique, où vous l’affinez dans votre propre atelier. Vous la publiez alors directement, sans passer par l’atelier Ignis. Le moment de la publication est la même Cérémonie Ignis, puis commence Formatio, comme pour toute autre pensée.
 
-Pour en savoir plus : [livre blanc d’Omniforum, chapitre 3](../whitepaper-omniforum.md#s3).
+Pour en savoir plus : [livre blanc d’OmniForum, chapitre 3](../whitepaper-omniforum.md#s3).
 
 ## Comment savoir qui a dit quoi
 
@@ -71,7 +71,7 @@ Pour chaque pensée et chaque usage d’une notion, nous enregistrons leur prove
 
 Un atome est un sens, et non un mot. Les mots qui le nomment sont ses étiquettes, et un atome peut en avoir plusieurs, y compris dans différentes langues : la sécheresse se dit « drought » en anglais et « Dürre » en allemand. Cela permet à des personnes utilisant des mots différents de parler de la même chose. Le rattachement d’un mot à un atome est une proposition que l’auteur confirme. Il peut aussi s’agir d’une information privée : le fait que « notre rue » désigne la rue Warszawska révèle où quelqu’un habite ; l’auteur décide donc si les autres le verront.
 
-Pour en savoir plus : [livre blanc d’Omniforum, chapitre 2](../whitepaper-omniforum.md#s2).
+Pour en savoir plus : [livre blanc d’OmniForum, chapitre 2](../whitepaper-omniforum.md#s2).
 
 ## Ce que nous vérifierons lors du premier essai
 
@@ -79,10 +79,10 @@ La première étape des essais est le chemin complet d’une seule pensée : qu
 
 Nous vérifions que rien n’a été perdu en chemin : la formulation originale, son sens, les versions successives et les droits d’accès. Nous cherchons aussi les erreurs d’interprétation que le modèle n’a pas signalées lui-même, et comparons le résultat au texte seul et à un résumé ordinaire. Avant l’essai, nous publions le résultat que nous jugerons suffisant, puis nous consignons son résultat dans le journal même en cas d’échec.
 
-Pour en savoir plus : [livre blanc d’Omniforum, chapitre 9](../whitepaper-omniforum.md#s9).
+Pour en savoir plus : [livre blanc d’OmniForum, chapitre 9](../whitepaper-omniforum.md#s9).
 
 ## Lisez et dites-nous ce que vous en pensez
 
-Vous trouverez la description complète de ce chemin dans le [livre blanc d’Omniforum](../whitepaper-omniforum.md) (environ 50 minutes de lecture), en particulier aux chapitres 2 et 3. Si quelque chose vous intrigue ou vous paraît erroné, sélectionnez ce passage dans le document et utilisez le bouton « J’ai une remarque », ou écrivez à salve@novusignis.org.
+Vous trouverez la description complète de ce chemin dans le [livre blanc d’OmniForum](../whitepaper-omniforum.md) (environ 50 minutes de lecture), en particulier aux chapitres 2 et 3. Si quelque chose vous intrigue ou vous paraît erroné, sélectionnez ce passage dans le document et utilisez le bouton « J’ai une remarque », ou écrivez à salve@novusignis.org.
 
-Pour en savoir plus : [livre blanc d’Omniforum, point 5.5](../whitepaper-omniforum.md#s5-5).
+Pour en savoir plus : [livre blanc d’OmniForum, point 5.5](../whitepaper-omniforum.md#s5-5).

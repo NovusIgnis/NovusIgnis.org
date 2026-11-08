@@ -17,14 +17,14 @@ Xem thêm: [sách trắng về nguyên tắc của quỹ, chương 1](../whitepa
 
 Chúng tôi không hiển thị một khoản duy nhất trên tài khoản mà chia tiền theo thuộc về ai và dành cho gì. Số dư tài khoản ngân hàng không phải ngân sách để phân bổ.
 
-Dự phòng là tiền để riêng nhằm duy trì Suveria và Omniforum nếu thiếu đóng góp; sách trắng cũng gọi là bảo đảm Trụ cột I (Trụ cột I là Suveria và Omniforum).
+Dự phòng là tiền để riêng nhằm duy trì Suveria và OmniForum nếu thiếu đóng góp; sách trắng cũng gọi là bảo đảm Trụ cột I (Trụ cột I là Suveria và OmniForum).
 
 | Loại tiền | Nguồn | Được dùng vào gì |
 | --- | --- | --- |
 | Tiền thuộc về người dùng | Tiền trả trước chưa dùng của người tham gia | Chỉ cho dịch vụ của họ; có thể lấy lại |
 | Tiền được giao cho mục đích cụ thể | Khoản hiến tặng có mục đích chỉ định, như thí điểm Suveria | Chỉ mục đích ấy |
 | Cam kết đã nhận | Tiền đã dành cho chi tiêu dự kiến | Chỉ chi tiêu ấy |
-| Bảo đảm duy trì dịch vụ | Dự phòng từ hiến tặng, cả làm tròn hóa đơn | Cho điều mà thiếu thì Suveria và Omniforum ngừng hoạt động |
+| Bảo đảm duy trì dịch vụ | Dự phòng từ hiến tặng, cả làm tròn hóa đơn | Cho điều mà thiếu thì Suveria và OmniForum ngừng hoạt động |
 | Tiền tự do phân bổ | Đóng góp không chỉ định mục tiêu (hiến tặng, tài trợ, trợ cấp, gây quỹ), sau khi trừ mọi khoản trên | Mục tiêu mới, luôn ưu tiên Trụ cột I |
 
 Mỗi khoản chỉ được xếp một loại để không tính hai lần. Chỉ tiền thực nhận và không thuộc ai khác được tính vào dự phòng; lời hứa đóng tiền không tính.
@@ -78,8 +78,8 @@ Xem thêm: [sách trắng về nguyên tắc của quỹ, chương 4](../whitepa
 
 Trụ cột I ưu tiên. Trụ cột II “Hardware” (giải pháp vật chất mở) và III “Natura” (gắn bó thiên nhiên) chỉ có thể được tài trợ từ ngân sách chung khi đồng thời đáp ứng ba điều kiện:
 
-1. Omniforum hoạt động với biểu quyết dựa trên bằng chứng không tiết lộ tri thức, lựa chọn bí mật, kiểm tra được phiếu đã tính và mỗi người đủ điều kiện có một phiếu;
-2. tài khoản riêng có tiền thực tích lũy đủ duy trì Suveria và Omniforum ít nhất sáu tháng, còn nguyên sau khi dành toàn bộ ngân sách dự án mới;
+1. OmniForum hoạt động với biểu quyết dựa trên bằng chứng không tiết lộ tri thức, lựa chọn bí mật, kiểm tra được phiếu đã tính và mỗi người đủ điều kiện có một phiếu;
+2. tài khoản riêng có tiền thực tích lũy đủ duy trì Suveria và OmniForum ít nhất sáu tháng, còn nguyên sau khi dành toàn bộ ngân sách dự án mới;
 3. cộng đồng đã phê duyệt dự án và tài trợ qua biểu quyết mở cho mọi người đủ điều kiện trên nguyên tắc bình đẳng.
 
 Mô hình mẫu biểu quyết, cam kết chưa nộp tiền hay số dư người khác không đáp ứng.

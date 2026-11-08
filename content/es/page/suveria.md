@@ -25,7 +25,7 @@ En Suveria queremos que se pueda:
 - con el propio consentimiento, usar la memoria de conversaciones anteriores y construir un Canon Personal, es decir, un conjunto de principios y valores propios;
 - elegir una forma de trabajar, desde un modelo en el propio dispositivo hasta un entorno confidencial en un servidor, sabiendo frente a qué protege cada una;
 - pagar por el uso real, con un límite de gasto fijado por cada persona;
-- pulir un pensamiento en privado y después aportarlo conscientemente a la conversación común en Omniforum, el espacio público de conversación y decisiones.
+- pulir un pensamiento en privado y después aportarlo conscientemente a la conversación común en OmniForum, el espacio público de conversación y decisiones.
 
 Desde el primer día ha de ofrecer la tranquilidad de sentirse en casa. También queremos permitir el traslado de notas propias y archivos de conversaciones desde otros servicios de inteligencia digital. Usar Suveria no equivale a consentir el uso de las conversaciones para entrenar modelos.
 

@@ -1,19 +1,19 @@
 ---
-tytul: Wie Gespräche im Omniforum funktionieren
+tytul: Wie Gespräche im OmniForum funktionieren
 opis: Schritt für Schritt, wie aus einer Äußerung einzelne Gedanken werden, was die verfassende Person bestätigt, welche Rolle digitale Intelligenz spielt und woher man weiß, wer was gesagt hat
 grupa: omniforum
 kolejnosc: 2
 menu: Wie Gespräche funktionieren
 ---
-# Wie Gespräche im Omniforum funktionieren
+# Wie Gespräche im OmniForum funktionieren
 
-Diese Seite richtet sich an Menschen, die bereits [Was das Omniforum ist](omniforum.md) gelesen haben und genauer sehen möchten, was mit einer Äußerung geschieht, vom Moment, in dem du sie schreibst, bis andere darüber sprechen können: was die verfassende Person bestätigt, welche Rolle digitale Intelligenz spielt und woher man weiß, wer was gesagt hat.
+Diese Seite richtet sich an Menschen, die bereits [Was das OmniForum ist](omniforum.md) gelesen haben und genauer sehen möchten, was mit einer Äußerung geschieht, vom Moment, in dem du sie schreibst, bis andere darüber sprechen können: was die verfassende Person bestätigt, welche Rolle digitale Intelligenz spielt und woher man weiß, wer was gesagt hat.
 
 Heute kannst du das noch nicht nutzen: Wir beschreiben einen Plan und sammeln Anmerkungen.
 
-Der Prototyp des Omniforums ist im Aufbau. Alles, was wir im Folgenden beschreiben, ist ein Entwurf, und wir haben noch keinen Versuch abgeschlossen.
+Der Prototyp des OmniForums ist im Aufbau. Alles, was wir im Folgenden beschreiben, ist ein Entwurf, und wir haben noch keinen Versuch abgeschlossen.
 
-Mehr: [Whitepaper zum Omniforum, Kapitel 1](../whitepaper-omniforum.md#s1).
+Mehr: [Whitepaper zum OmniForum, Kapitel 1](../whitepaper-omniforum.md#s1).
 
 ## Ein Satz, viele Gedanken
 
@@ -23,11 +23,11 @@ Nehmen wir den Satz „Es lohnt sich, in unserer Straße Bäume zu pflanzen, wen
 
 Dieser Satz darf nicht auf ein bedingungsloses „Es lohnt sich, in unserer Straße Bäume zu pflanzen“ verkürzt werden, denn die Bedingung ist Teil seiner Bedeutung. Wenn digitale Intelligenz hinzufügt, dass die verfassende Person Dürre für ein Problem in der Umgebung hält, wird das als Schlussfolgerung des Modells gekennzeichnet, nicht als Worte dieser Person. Wir zerlegen nur so weit wie nötig: dort, wo der Sinn von einem einzelnen Begriff abhängt oder wo dieser strittig werden kann.
 
-Mehr: [Whitepaper zum Omniforum, Kapitel 2](../whitepaper-omniforum.md#s2), [Kapitel 3](../whitepaper-omniforum.md#s3) und [Glossar in Abschnitt 1.3](../whitepaper-omniforum.md#s1-3).
+Mehr: [Whitepaper zum OmniForum, Kapitel 2](../whitepaper-omniforum.md#s2), [Kapitel 3](../whitepaper-omniforum.md#s3) und [Glossar in Abschnitt 1.3](../whitepaper-omniforum.md#s1-3).
 
 ## Schritt für Schritt
 
-So soll der Weg eines Gedankens aussehen, der im Omniforum entsteht:
+So soll der Weg eines Gedankens aussehen, der im OmniForum entsteht:
 
 1. **Du schreibst.** Du beginnst mit einem gewöhnlichen Text oder einer Textstelle und bestimmst das Ziel: Verständnis, Herausarbeiten von Argumenten, eine eigene Antwort oder der Vergleich von Standpunkten.
 2. **Digitale Intelligenz schlägt eine Zerlegung vor.** Bei jedem Gedanken zeigt sie, aus welcher Textstelle sie ihn abgeleitet hat, und weist auf Stellen hin, an denen sie von deiner Absicht abgewichen sein könnte oder der Text mehrere Lesarten zulässt.
@@ -39,7 +39,7 @@ So soll der Weg eines Gedankens aussehen, der im Omniforum entsteht:
 
 Wir erwägen auch eine zweite, freiwillige Zeremonie: einen Moment, in dem wir die Grenze dessen benennen, was wir heute begründen können, und beginnen, nach der Antwort auf eine neue Frage zu suchen. Das ist vorerst eine Idee ohne festgelegten Namen und ohne festgelegte Form.
 
-Mehr: [Whitepaper zum Omniforum, Kapitel 3](../whitepaper-omniforum.md#s3).
+Mehr: [Whitepaper zum OmniForum, Kapitel 3](../whitepaper-omniforum.md#s3).
 
 ## Was du bestätigst und was nicht
 
@@ -49,7 +49,7 @@ Lesende können deine Äußerung auf ihre Weise zerlegen, ohne auf dich zu warte
 
 Das Gespräch soll Raum dafür lassen, die Meinung ohne Demütigung zu ändern: Man kann einen Fehler eingestehen, eine weitere Frage stellen oder aufhören, ohne Zustimmung zu erklären. Die Würde einer teilnehmenden Person hängt nicht davon ab, ob sie eine Schlussfolgerung annimmt.
 
-Mehr: [Whitepaper zum Omniforum, Kapitel 2](../whitepaper-omniforum.md#s2) und [Kapitel 1](../whitepaper-omniforum.md#s1).
+Mehr: [Whitepaper zum OmniForum, Kapitel 2](../whitepaper-omniforum.md#s2) und [Kapitel 1](../whitepaper-omniforum.md#s1).
 
 ## Das Modell hilft, aber bestimmt nicht
 
@@ -57,13 +57,13 @@ Das Modell (das Programm digitaler Intelligenz, das die Zerlegung vorschlägt) h
 
 Bei jeder Zerlegung halten wir fest, wer sie wann erstellt hat und, falls ein Modell geholfen hat, welches und mit welcher Fassung der Anweisungen.
 
-Mehr: [Whitepaper zum Omniforum, Kapitel 3](../whitepaper-omniforum.md#s3) und [Kapitel 2](../whitepaper-omniforum.md#s2).
+Mehr: [Whitepaper zum OmniForum, Kapitel 3](../whitepaper-omniforum.md#s3) und [Kapitel 2](../whitepaper-omniforum.md#s2).
 
 ## Ein Gedanke aus Suveria
 
 Ein Gedanke kann auch aus Suveria kommen, dem privaten Raum für die Arbeit mit digitaler Intelligenz, in dem du ihn in deiner eigenen Werkstatt ausarbeitest. Dann veröffentlichst du ihn direkt, ohne Ignis-Werkstatt. Der Moment der Veröffentlichung ist dieselbe Ignis-Zeremonie; danach beginnt Formatio, wie bei jedem anderen Gedanken.
 
-Mehr: [Whitepaper zum Omniforum, Kapitel 3](../whitepaper-omniforum.md#s3).
+Mehr: [Whitepaper zum OmniForum, Kapitel 3](../whitepaper-omniforum.md#s3).
 
 ## Woher man weiß, wer was gesagt hat
 
@@ -71,7 +71,7 @@ Bei jedem Gedanken und jeder Verwendung eines Begriffs halten wir fest, woher si
 
 Ein Atom ist eine Bedeutung, kein Wort. Die Wörter, mit denen wir es benennen, sind seine Bezeichnungen, und ein Atom kann viele davon haben, auch in verschiedenen Sprachen: Dürre heißt auf Englisch „drought“ und auf Deutsch „Dürre“. So können Menschen mit unterschiedlichen Wörtern über dasselbe sprechen. Die Zuordnung eines Wortes zu einem Atom ist ein Vorschlag, den die verfassende Person bestätigt. Sie kann auch eine private Information sein: Dass „unsere Straße“ die Warszawska-Straße bedeutet, verrät, wo jemand wohnt, deshalb entscheidet die verfassende Person, ob andere das sehen.
 
-Mehr: [Whitepaper zum Omniforum, Kapitel 2](../whitepaper-omniforum.md#s2).
+Mehr: [Whitepaper zum OmniForum, Kapitel 2](../whitepaper-omniforum.md#s2).
 
 ## Was wir im ersten Versuch prüfen werden
 
@@ -79,10 +79,10 @@ Der erste Schritt der Versuche ist ein vollständiger Weg eines einzelnen Gedank
 
 Wir prüfen, ob unterwegs etwas verloren gegangen ist: der Wortlaut des Originals, seine Bedeutung, die aufeinanderfolgenden Fassungen und die Zugriffsrechte. Wir suchen auch nach Auslegungsfehlern, die das Modell selbst nicht gekennzeichnet hat, und vergleichen das Ergebnis mit dem Text allein sowie mit einer gewöhnlichen Zusammenfassung. Vor dem Versuch veröffentlichen wir, welches Ergebnis wir als ausreichend ansehen, und tragen sein Ergebnis auch dann ins Protokoll ein, wenn er scheitert.
 
-Mehr: [Whitepaper zum Omniforum, Kapitel 9](../whitepaper-omniforum.md#s9).
+Mehr: [Whitepaper zum OmniForum, Kapitel 9](../whitepaper-omniforum.md#s9).
 
 ## Lies den Text und sag uns, was du denkst
 
-Die vollständige Beschreibung dieses Weges findest du im [Whitepaper zum Omniforum](../whitepaper-omniforum.md) (ca. 50 Minuten Lesezeit), besonders in den Kapiteln 2 und 3. Wenn dich etwas beschäftigt oder dir falsch erscheint, markiere diese Stelle im Dokument und nutze die Schaltfläche „Ich habe eine Anmerkung“ oder schreib an salve@novusignis.org.
+Die vollständige Beschreibung dieses Weges findest du im [Whitepaper zum OmniForum](../whitepaper-omniforum.md) (ca. 50 Minuten Lesezeit), besonders in den Kapiteln 2 und 3. Wenn dich etwas beschäftigt oder dir falsch erscheint, markiere diese Stelle im Dokument und nutze die Schaltfläche „Ich habe eine Anmerkung“ oder schreib an salve@novusignis.org.
 
-Mehr: [Whitepaper zum Omniforum, Abschnitt 5.5](../whitepaper-omniforum.md#s5-5).
+Mehr: [Whitepaper zum OmniForum, Abschnitt 5.5](../whitepaper-omniforum.md#s5-5).

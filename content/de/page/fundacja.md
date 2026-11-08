@@ -9,7 +9,7 @@ menu: Wer wir sind
 
 Diese Seite beschreibt kurz die Stiftung Novus Ignis als Organisation. Die Einzelheiten erklärt das Whitepaper zu den Arbeitsgrundsätzen der Stiftung, auf das jeder Teil verlinkt.
 
-Wir sind eine Stiftung aus Poznań (KRS 0001269575), die ein alternatives Internet auf Grundlage der Würde des Menschen aufbauen will. Unsere erste Säule besteht aus zwei Diensten, die wir erst aufbauen: Suveria, einem privaten Arbeitsraum mit digitaler Intelligenz, und Omniforum, einem gemeinsamen Raum für Gespräch, Verständnis und Entscheidungen. Wir stehen ganz am Anfang: Die Stiftung ist eingetragen, die Dokumente sind veröffentlicht, und die Dienste entstehen erst.
+Wir sind eine Stiftung aus Poznań (KRS 0001269575), die ein alternatives Internet auf Grundlage der Würde des Menschen aufbauen will. Unsere erste Säule besteht aus zwei Diensten, die wir erst aufbauen: Suveria, einem privaten Arbeitsraum mit digitaler Intelligenz, und OmniForum, einem gemeinsamen Raum für Gespräch, Verständnis und Entscheidungen. Wir stehen ganz am Anfang: Die Stiftung ist eingetragen, die Dokumente sind veröffentlicht, und die Dienste entstehen erst.
 
 Alles begann mit einer Frage des Stifters Marcin Wołowski: Welche Muster unseres eigenen Handelns geben wir digitaler Intelligenz während ihres Trainings weiter?
 
@@ -27,7 +27,7 @@ Novus Ignis ist eine Organisation ohne Anteilseigner: Sie schüttet an niemanden
 | Satzung, Manifest und Whitepaper | veröffentlicht |
 | Register der Satzungsänderungen | funktioniert |
 | Suveria | Entwurf |
-| Omniforum | Prototyp im Aufbau |
+| OmniForum | Prototyp im Aufbau |
 | Ordnungen | werden erstellt |
 | Weitere Register: Einzahlungen und Ausgaben, Vorteile, Entscheidungen, Fehler sowie ein Register nur zum Anfügen (eines, in dem Einträge nicht unbemerkt geändert oder gelöscht werden können) | werden erstellt |
 
@@ -54,7 +54,7 @@ Damit das Budget verständlich ist, teilen wir das Geld in fünf Arten ein:
 - **Mittel, die den Nutzenden zustehen:** nicht verbrauchte Vorauszahlungen und Guthaben der Teilnehmenden;
 - **Geld, das für einen bestimmten Zweck anvertraut wurde:** zweckgebundene Spenden, die nur für diesen Zweck ausgegeben werden dürfen;
 - **eingegangene Verpflichtungen:** Geld, das bereits für geplante Ausgaben vorgesehen ist;
-- **Absicherung des Unterhalts der Dienste:** eine Rücklage, ohne die Suveria und Omniforum ihren Betrieb einstellen würden;
+- **Absicherung des Unterhalts der Dienste:** eine Rücklage, ohne die Suveria und OmniForum ihren Betrieb einstellen würden;
 - **frei verfügbare Mittel:** was nach Abzug des Übrigen bleibt und worüber wir erst noch entscheiden.
 
 Das öffentliche Register der Einzahlungen und Ausgaben führen wir auf der Seite [Register der Einzahlungen und Ausgaben](fundacja-rejestr.md).
@@ -73,7 +73,7 @@ Mehr: [Whitepaper zu den Arbeitsgrundsätzen der Stiftung, Kapitel 5](../whitepa
 
 ## Macht, die sich übertragen lässt
 
-Die Stiftung wurde von einem Menschen gegründet, Marcin Wołowski, und heute liegt beim Stifter die meiste Macht: Der Stifter beruft den Vorstand und beruft ihn ab. Nur der gesamte Vorstand kann die Satzung einstimmig ändern, und wenn der Stifter ihm nicht angehört, ist auch die Zustimmung des Stifters nötig. Wir wollen, dass sich das ändert: Der Stifter möchte Suveria und Omniforum zu denselben Bedingungen wie alle anderen nutzen und sich aus einer dauerhaften öffentlichen Rolle zurückziehen.
+Die Stiftung wurde von einem Menschen gegründet, Marcin Wołowski, und heute liegt beim Stifter die meiste Macht: Der Stifter beruft den Vorstand und beruft ihn ab. Nur der gesamte Vorstand kann die Satzung einstimmig ändern, und wenn der Stifter ihm nicht angehört, ist auch die Zustimmung des Stifters nötig. Wir wollen, dass sich das ändert: Der Stifter möchte Suveria und OmniForum zu denselben Bedingungen wie alle anderen nutzen und sich aus einer dauerhaften öffentlichen Rolle zurückziehen.
 
 Die Übergabe soll auf dem Papier und in der Praxis wirksam sein: Neben einer Satzungsänderung müssen die Zugänge zu Konten, Domains und Infrastruktur übertragen werden. Der Plan zur Übergabe der Verantwortung wird den Termin der ersten Überprüfung und regelmäßige Fortschrittsberichte festlegen. Wir berufen Menschen wegen ihrer Kompetenzen und einer gemeinsamen Richtung in den Vorstand, niemals wegen einer Einzahlung.
 

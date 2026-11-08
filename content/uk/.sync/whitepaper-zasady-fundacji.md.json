@@ -6,15 +6,15 @@
    "t": "# Zasady działania fundacji Novus Ignis: utrzymanie, współpraca i przekazywanie "
   },
   {
-   "h": "ca0a5091ac6f0665e711f0ba7915b25d3b532a6e",
-   "t": "Wersja z 31 października 2026 r. Ten dokument rozwija manifest w sprawach organi"
+   "h": "15033ccb5a43d2de5b0d8f3930396cc6b801f2af",
+   "t": "Wersja z 8 listopada 2026 r. Ten dokument rozwija manifest w sprawach organizacj"
   },
   {
    "h": "5ad23fcd03f25017d7c059961ffeb01362af0545",
    "t": "## 1. Statut, manifest, regulaminy i ten dokument"
   },
   {
-   "h": "089cbf45edbf1cbd3bc72cdb511abd5b92eff4c1",
+   "h": "86ded1cb0b7104673fae21949403f8471a647c13",
    "t": "Fundacja Novus Ignis z Poznania (KRS 0001269575) chce budować alternatywny inter"
   },
   {
@@ -54,7 +54,7 @@
    "t": "## 2. Faza zwinna: jak decydujemy, zanim zadziała głosowanie"
   },
   {
-   "h": "a2eeed2676da33f965cbb84e9b18e68f044a3205",
+   "h": "c6b6b1122b61ddf523c1f4676dc19982ac6cfcec",
    "t": "Do czasu uruchomienia wiążącego głosowania społeczności fundacja działa w fazie "
   },
   {
@@ -62,7 +62,7 @@
    "t": "Statut pozwala zarządowi na więcej, niż chce on wykorzystywać. Naszym celem jest"
   },
   {
-   "h": "9d407a134bf057bafaae9fbd79e0e4c82347582b",
+   "h": "e80d8484abd705670092491d2b8b8ab208006b7e",
    "t": "Faza zwinna kończy się stopniowo, tak jak stopniowo rośnie moc głosowania, a każ"
   },
   {
@@ -166,7 +166,7 @@
    "t": "W rozliczeniach rozdzielamy pięć rodzajów pieniędzy:"
   },
   {
-   "h": "d951ea32ef2e4bebee8b301323c01fdb6f903c74",
+   "h": "90ab1718c76570676f09ac5b96a48dea10a1139c",
    "t": "| Rodzaj pieniędzy | Co to znaczy | Czy możemy je wydać na nowe cele? | | --- | "
   },
   {
@@ -174,8 +174,8 @@
    "t": "Każdą kwotę przypisujemy tylko do jednej kategorii, żeby niczego nie liczyć dwa "
   },
   {
-   "h": "320ad29832ca56ca551596742d0b25015c8692b3",
-   "t": "Koszt utrzymania usług obejmuje wszystko, bez czego Suveria i Omniforum przestał"
+   "h": "1a90ff25bb458f41a55575c01b77eb9f39313b63",
+   "t": "Koszt utrzymania usług obejmuje wszystko, bez czego Suveria i OmniForum przestał"
   },
   {
    "h": "c083e4a86c6b713a0991c77b32973e999c3b9b6f",
@@ -274,7 +274,7 @@
    "t": "### 5.4. Własny warsztat i przygotowany kontekst"
   },
   {
-   "h": "a929e152187c9af07a0475ab081a4629c13c22bd",
+   "h": "ad4c49b286d16b67878d8e520b100462a8a2dadb",
    "t": "Przyjęcie zadania ma otwierać jego przestrzeń w środowisku wybranym przez uczest"
   },
   {
@@ -286,7 +286,7 @@
    "t": "Po przerwie warsztat ma pokazywać, co się zmieniło i gdzie można kontynuować, a "
   },
   {
-   "h": "4adc70f1e7291498d8b0b5cb0e7765ceb4740edd",
+   "h": "f9c103c1ab23dc9ae70672e0ffd5c627603284f8",
    "t": "Dopóki nie mamy własnych serwerów, ze środków Filaru I albo z darowizn celowych "
   },
   {
@@ -354,12 +354,12 @@
    "t": "### 8.1. Pierwszeństwo Filaru I i trzy warunki"
   },
   {
-   "h": "6e43e614e71afaae732d7ec1013dd9fac5fa23c0",
-   "t": "Filar I obejmuje Suverię i Omniforum. Filar II „Hardware” rozwija otwarte rozwią"
+   "h": "fc3d22583e6c6f8f5c6f73f50f9d79ab93061465",
+   "t": "Filar I obejmuje Suverię i OmniForum. Filar II „Hardware” rozwija otwarte rozwią"
   },
   {
-   "h": "10fd425079785b37589c7e4b18c6ca86779a6ca7",
-   "t": "1. Działającego Omniforum z głosowaniem wykorzystującym dowody z wiedzą zerową, "
+   "h": "ac7045152457777413b234466707508e8344557c",
+   "t": "1. Działającego OmniForum z głosowaniem wykorzystującym dowody z wiedzą zerową, "
   },
   {
    "h": "b2634782e7032178f7f1297411d9fab817936ba2",
@@ -442,7 +442,7 @@
    "t": "## 9. Przekazanie szczególnych uprawnień fundatora"
   },
   {
-   "h": "60a4cc05fe99a149d4e82369b227a7e4d4a04411",
+   "h": "c0e9b122c0aecbee3b066759e6e8a4a9057c719d",
    "t": "Fundację założył jeden człowiek, Marcin Wołowski, i dziś to on ma w niej najwięc"
   },
   {
@@ -606,7 +606,7 @@
    "t": "Własny kod i materiały udostępniamy na zasadach, które pozwalają innym z nich ko"
   },
   {
-   "h": "4ebc9aa0dd2e4086660a37c496552f0432ea2599",
+   "h": "f12917d8bb5987453f6ba4d668a8ec5afaf7759d",
    "t": "| Warstwa | Licencja | Stan | | --- | --- | --- | | Dokumenty, opracowania i tek"
   },
   {
@@ -678,7 +678,7 @@
    "t": "### 12.4. Jak zmieniamy dokumenty i zasady"
   },
   {
-   "h": "72b8c82de3cb6c6023bfc92235b7ef1969d122f8",
+   "h": "9d0998597f6f31bf7e7bacbf33b1e18f42fc70d2",
    "t": "Manifest i whitepapery są żywymi dokumentami. Chcemy poddawać je publicznemu prz"
   },
   {

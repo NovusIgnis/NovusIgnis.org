@@ -17,14 +17,14 @@ Selengkapnya: [whitepaper prinsip yayasan, bab 1](../whitepaper-zasady-fundacji.
 
 Alih-alih menampilkan satu angka saldo rekening, kami membagi uang menurut pemilik dan tujuannya. Saldo rekening bank bukan anggaran yang dapat dialokasikan.
 
-Cadangan adalah uang yang disisihkan untuk mempertahankan Suveria dan Omniforum jika setoran tidak mencukupi; whitepaper juga menyebutnya dana pengamanan Pilar I (Pilar I adalah Suveria dan Omniforum).
+Cadangan adalah uang yang disisihkan untuk mempertahankan Suveria dan OmniForum jika setoran tidak mencukupi; whitepaper juga menyebutnya dana pengamanan Pilar I (Pilar I adalah Suveria dan OmniForum).
 
 | Jenis uang | Sumber | Penggunaan yang diizinkan |
 | --- | --- | --- |
 | Dana yang menjadi hak pengguna | Pembayaran di muka peserta yang belum digunakan | Hanya untuk layanan mereka; dapat diambil kembali |
 | Uang yang dipercayakan untuk tujuan tertentu | Donasi bertujuan khusus, misalnya untuk uji coba Suveria | Hanya untuk tujuan tersebut |
 | Komitmen yang telah diambil | Uang yang sudah dialokasikan bagi pengeluaran terencana | Hanya untuk pengeluaran tersebut |
-| Dana pengamanan pemeliharaan layanan | Cadangan yang dibangun dari donasi, termasuk pembulatan tagihan | Untuk hal yang tanpanya Suveria dan Omniforum akan berhenti berfungsi |
+| Dana pengamanan pemeliharaan layanan | Cadangan yang dibangun dari donasi, termasuk pembulatan tagihan | Untuk hal yang tanpanya Suveria dan OmniForum akan berhenti berfungsi |
 | Dana yang bebas dialokasikan | Setoran tanpa tujuan tertentu (donasi, hibah, subsidi, penggalangan dana), setelah seluruh bagian di atas dikurangkan | Untuk tujuan baru, selalu dengan prioritas bagi Pilar I |
 
 Setiap jumlah hanya kami masukkan ke satu kategori agar tidak dihitung dua kali. Cadangan hanya mencakup uang yang benar-benar telah diterima dan bukan hak orang lain; janji setoran tidak dihitung.
@@ -78,8 +78,8 @@ Selengkapnya: [whitepaper prinsip yayasan, bab 4](../whitepaper-zasady-fundacji.
 
 Pilar I mendapat prioritas. Pilar II "Hardware" (solusi material terbuka) dan Pilar III "Alam" (hubungan dengan alam) baru dapat didanai dari anggaran bersama setelah ketiga syarat berikut dipenuhi sekaligus:
 
-1. Omniforum berfungsi dengan pemungutan suara berdasarkan bukti tanpa pengetahuan, dengan pilihan rahasia, kemungkinan memeriksa apakah suara telah dihitung, dan satu suara bagi setiap orang yang berhak;
-2. rekening terpisah menyimpan dana yang benar-benar terkumpul untuk setidaknya enam bulan pemeliharaan Suveria dan Omniforum, yang tetap utuh setelah seluruh anggaran proyek baru disisihkan;
+1. OmniForum berfungsi dengan pemungutan suara berdasarkan bukti tanpa pengetahuan, dengan pilihan rahasia, kemungkinan memeriksa apakah suara telah dihitung, dan satu suara bagi setiap orang yang berhak;
+2. rekening terpisah menyimpan dana yang benar-benar terkumpul untuk setidaknya enam bulan pemeliharaan Suveria dan OmniForum, yang tetap utuh setelah seluruh anggaran proyek baru disisihkan;
 3. komunitas telah menyetujui proyek serta pendanaannya melalui pemungutan suara terbuka bagi seluruh orang yang berhak dengan kedudukan setara.
 
 Maket pemungutan suara, janji yang belum dibayarkan, ataupun saldo milik pihak lain tidak memenuhi syarat-syarat ini.

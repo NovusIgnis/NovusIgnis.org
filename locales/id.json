@@ -72,7 +72,7 @@
     "grid_title": "TIGA PILAR",
     "col1": {
       "badge": "PILAR I · KAMI MULAI",
-      "title": "Suveria dan Omniforum",
+      "title": "Suveria dan OmniForum",
       "r1_h": "Ruang pribadi",
       "r2_h": "Pemahaman bersama",
       "r3_h": "Layanan mendekati biaya"
@@ -103,12 +103,12 @@
   },
   "meta": {
     "title": "Novus Ignis · Internet yang berlandaskan martabat manusia",
-    "description": "Yayasan Novus Ignis ikut membangun internet alternatif dengan martabat manusia sebagai nilai tertinggi. Suveria: ruang digital pribadi. Omniforum: ruang bersama untuk percakapan dan keputusan."
+    "description": "Yayasan Novus Ignis ikut membangun internet alternatif dengan martabat manusia sebagai nilai tertinggi. Suveria: ruang digital pribadi. OmniForum: ruang bersama untuk percakapan dan keputusan."
   },
   "hub": {
     "badge": "YAYASAN NOVUS IGNIS",
     "title": "Internet yang berlandaskan<br><span class=\"gradient-text--fire\">martabat manusia</span>",
-    "subtitle": "Kami memulai kegiatan dengan ikut membangun internet alternatif yang menempatkan martabat manusia sebagai nilai tertinggi, beserta kebutuhan privasi dan kebebasan yang mengikutinya. Dari nilai-nilai ini, kami menetapkan dua arah kerja: <strong>Suveria</strong>, ruang digital pribadi bagi manusia, dan <strong>Omniforum</strong>, ruang publik bersama tempat orang dapat bertemu, saling memahami, dan bertindak bersama.",
+    "subtitle": "Kami memulai kegiatan dengan ikut membangun internet alternatif yang menempatkan martabat manusia sebagai nilai tertinggi, beserta kebutuhan privasi dan kebebasan yang mengikutinya. Dari nilai-nilai ini, kami menetapkan dua arah kerja: <strong>Suveria</strong>, ruang digital pribadi bagi manusia, dan <strong>OmniForum</strong>, ruang publik bersama tempat orang dapat bertemu, saling memahami, dan bertindak bersama.",
     "cta_manifesto": "Baca manifesto",
     "cta_docs": "Manifesto dan whitepaper",
     "docs_title": "Manifesto, whitepaper, dan anggaran dasar",
@@ -162,7 +162,7 @@
       "works": "Berfungsi",
       "works_text": "Yayasan terdaftar, sedangkan manifesto dan whitepaper telah dipublikasikan. Pada setiap kalimat dokumen tersedia tombol “Saya punya masukan” yang berfungsi.",
       "project": "Rancangan",
-      "project_text": "Prototipe pertama Omniforum sedang dibangun, sedangkan Suveria merupakan rancangan.",
+      "project_text": "Prototipe pertama OmniForum sedang dibangun, sedangkan Suveria merupakan rancangan.",
       "hypothesis": "Hipotesis",
       "hypothesis_text": "Perhitungan biaya merupakan hipotesis yang harus diuji: bahkan kelompok kecil mungkin memperoleh lebih banyak kecerdasan digital untuk setiap dolar daripada dalam layanan tertutup, dengan privasi yang dapat diperiksa.",
       "vision": "Visi",
@@ -174,9 +174,9 @@
       "suveria_title": "Suveria",
       "suveria_text": "Suveria dimaksudkan menjadi ruang pribadi di internet, tempat seseorang berbicara dengan kecerdasan digital, mengerjakan materi sendiri, dan kembali ke pemikiran terdahulu, seperti di rumah sendiri di balik pintu yang tertutup. Saat ini Suveria merupakan jalan terbaik kami menuju pekerjaan pribadi dengan kecerdasan digital, bukan tujuan itu sendiri.",
       "suveria_link": "Apa itu Suveria →",
-      "omniforum_title": "Omniforum",
-      "omniforum_text": "Omniforum dimaksudkan menjadi tempat siapa pun dapat menyampaikan pendapat tentang topik apa pun dan didengar. Pertanyaan sederhana, “jadi, maksud Anda begini dan begitu, apakah saya memahaminya dengan benar?”, mengubah nada percakapan di kedua pihak. Seluruh lapisan teknis Omniforum dimaksudkan mendukung dorongan itu.",
-      "omniforum_link": "Apa itu Omniforum →"
+      "omniforum_title": "OmniForum",
+      "omniforum_text": "OmniForum dimaksudkan menjadi tempat siapa pun dapat menyampaikan pendapat tentang topik apa pun dan didengar. Pertanyaan sederhana, “jadi, maksud Anda begini dan begitu, apakah saya memahaminya dengan benar?”, mengubah nada percakapan di kedua pihak. Seluruh lapisan teknis OmniForum dimaksudkan mendukung dorongan itu.",
+      "omniforum_link": "Apa itu OmniForum →"
     },
     "help": {
       "title": "Cara Anda membantu",
@@ -184,7 +184,7 @@
       "m5_text": "Baca pengantar manifesto dan tandai kalimat yang tidak jelas atau tidak Anda setujui, lalu klik “Saya punya masukan”.",
       "m5_model": "Jika membaca tentang kami melalui model, tanyakan juga kelemahan terbesar kami dan kirimkan temuannya kepada kami.",
       "h1_title": "Satu jam",
-      "h1_text": "Tinjau whitepaper bidang Anda: <a href=\"#\" data-doc-link=\"suveria\">keamanan dan infrastruktur (Suveria)</a>, <a href=\"#\" data-doc-link=\"fundacja\">hukum dan keuangan (prinsip yayasan)</a>, <a href=\"#\" data-doc-link=\"benchmark\">penelitian (materi dan tolok ukur)</a>, <a href=\"#\" data-doc-link=\"omniforum\">percakapan dan keputusan (Omniforum)</a>.",
+      "h1_text": "Tinjau whitepaper bidang Anda: <a href=\"#\" data-doc-link=\"suveria\">keamanan dan infrastruktur (Suveria)</a>, <a href=\"#\" data-doc-link=\"fundacja\">hukum dan keuangan (prinsip yayasan)</a>, <a href=\"#\" data-doc-link=\"benchmark\">penelitian (materi dan tolok ukur)</a>, <a href=\"#\" data-doc-link=\"omniforum\">percakapan dan keputusan (OmniForum)</a>.",
       "more_title": "Lebih lama",
       "more_text": "Ikut membangun versi pertama: peran dan kebutuhan kami diuraikan pada halaman <a href=\"#\" data-page-link=\"dolacz\">Bergabung</a>.",
       "money_title": "Dukungan finansial",
@@ -194,9 +194,9 @@
     "join_page": "Lihat peran dan tulis kepada kami",
     "next": {
       "title": "Langkah Anda selanjutnya",
-      "status": "Yayasan, dokumen, dan daftar setoran yang dipublikasikan telah berfungsi. Suveria dan Omniforum merupakan rancangan yang sedang kami kerjakan.",
+      "status": "Yayasan, dokumen, dan daftar setoran yang dipublikasikan telah berfungsi. Suveria dan OmniForum merupakan rancangan yang sedang kami kerjakan.",
       "wait_title": "Beri tahu jika ingin mencoba",
-      "wait_text": "Bergabunglah dalam daftar tunggu. Kami akan menghubungi Anda ketika pengujian pertama Suveria dan Omniforum dimulai.",
+      "wait_text": "Bergabunglah dalam daftar tunggu. Kami akan menghubungi Anda ketika pengujian pertama Suveria dan OmniForum dimulai.",
       "wait_btn": "Masuk daftar tunggu",
       "wait_note": "Cukup kirim pesan dengan subjek yang sudah disiapkan. Alamat Anda hanya akan kami gunakan untuk satu pesan itu, dan akan langsung kami hapus atas permintaan Anda. <a href=\"twoje-dane.html\">Data Anda</a>",
       "read_title": "Baca lebih lanjut",
@@ -226,7 +226,7 @@
     "docs": {
       "manifest": "Manifesto",
       "suveria": "Whitepaper Suveria",
-      "omniforum": "Whitepaper Omniforum",
+      "omniforum": "Whitepaper OmniForum",
       "fundacja": "Prinsip operasional yayasan",
       "benchmark": "Materi dan tolok ukur",
       "statut": "Anggaran dasar dan daftar perubahan"
@@ -244,7 +244,7 @@
     "groups": {
       "dlaczego": "Mengapa",
       "suveria": "Suveria",
-      "omniforum": "Omniforum",
+      "omniforum": "OmniForum",
       "fundacja": "Yayasan",
       "dokumenty": "Dokumen",
       "dolacz": "Bergabung",
@@ -260,7 +260,7 @@
     "overview": {
       "dlaczego": "Mengapa Novus Ignis",
       "suveria": "Apa itu Suveria",
-      "omniforum": "Apa itu Omniforum",
+      "omniforum": "Apa itu OmniForum",
       "fundacja": "Siapa kami",
       "dokumenty": "Semua dokumen",
       "dolacz": "Siapa yang kami cari dan cara memulai"

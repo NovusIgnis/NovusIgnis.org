@@ -2,24 +2,24 @@
  "source": "content/pl/page/omniforum-decyzje.md",
  "paragraphs": [
   {
-   "h": "347f619259f5171744cf1c0d0d8de163f1380f9c",
-   "t": "# Wspólne decyzje w Omniforum"
+   "h": "e0ef244ee79c6e58c184a53ec72f8c0d03c75943",
+   "t": "# Wspólne decyzje w OmniForum"
   },
   {
-   "h": "63a90daf8e2218baafc1e7fbd4481c10da7f5c0c",
-   "t": "Ta strona pogłębia to, co strona [Czym jest Omniforum](omniforum.md) mówi w skró"
+   "h": "8e9d1e6ebd579210f02bf27b5c10c4620972520d",
+   "t": "Ta strona pogłębia to, co strona [Czym jest OmniForum](omniforum.md) mówi w skró"
   },
   {
-   "h": "26a0785043443f555693c8a2b4eaf82e1b06eaca",
-   "t": "Dziś nie odbywa się żadne głosowanie ani konsultacja. Prototyp Omniforum jest w "
+   "h": "47250f851334b808753318cf6e4d9f0cb254a321",
+   "t": "Dziś nie odbywa się żadne głosowanie ani konsultacja. Prototyp OmniForum jest w "
   },
   {
    "h": "cbe274a210b4b67ddebfcaec36cdc68278c27e56",
    "t": "To jedna z najtrudniejszych części całego przedsięwzięcia, dlatego piszemy otwar"
   },
   {
-   "h": "360f00fda3c734c43a49d04f3c64ac7147302e1b",
-   "t": "Więcej: [whitepaper Omniforum, rozdział 8](../whitepaper-omniforum.md#s8)."
+   "h": "98f31fc24fcd08126ef73cab295b3ab37fabf579",
+   "t": "Więcej: [whitepaper OmniForum, rozdział 8](../whitepaper-omniforum.md#s8)."
   },
   {
    "h": "37efaacbf365cfcd2ea972d9d8caad8bcd51329c",
@@ -58,8 +58,8 @@
    "t": "Dopóki próba nie potwierdza, że każdy głosujący jest inną osobą, nazywamy ją kon"
   },
   {
-   "h": "ec8ed2a570432e64d60c68abebfd308bbd2b1a78",
-   "t": "Więcej: [statut, § 8](../statut/statut-2026-09-28.md#par-8), [whitepaper Omnifor"
+   "h": "d75dc08ee82771b16a1fe433668b49aaf2f9486a",
+   "t": "Więcej: [statut, § 8](../statut/statut-2026-09-28.md#par-8), [whitepaper OmniFor"
   },
   {
    "h": "31015441256a6f82fa3579db69f5f9e9e0d95b3b",
@@ -90,8 +90,8 @@
    "t": "Łączenie dróg zostawia ryzyko, że ta sama osoba zdobędzie dodatkowe uprawnienia."
   },
   {
-   "h": "ee5ad46f8db4bbc9c6749e9b7a0e1006ab016369",
-   "t": "Więcej: [whitepaper Omniforum, punkt 8.3](../whitepaper-omniforum.md#s8-3) i [ma"
+   "h": "3178d20e4fdb246f5e204da779cb6b03b3d7e7d5",
+   "t": "Więcej: [whitepaper OmniForum, punkt 8.3](../whitepaper-omniforum.md#s8-3) i [ma"
   },
   {
    "h": "a6a86e72e7efa50b9e4b8de32f21a0eabb2f99c2",
@@ -106,20 +106,20 @@
    "t": "- Rozmowa przygotowuje decyzję, ale jej nie zastępuje: publikacja myśli, poparci"
   },
   {
-   "h": "9ccd1eec89378957c0ffffa76ad8153f95ce80c3",
-   "t": "Więcej: [whitepaper Omniforum, rozdział 8](../whitepaper-omniforum.md#s8), [punk"
+   "h": "b3f98ba6353be9693783ceda188f7d94ef9aab0c",
+   "t": "Więcej: [whitepaper OmniForum, rozdział 8](../whitepaper-omniforum.md#s8), [punk"
   },
   {
    "h": "1d83b263859be3fc3f9c061622821e976779f2ae",
    "t": "## Trudne sprawy: trzy kroki"
   },
   {
-   "h": "030f6a465c0758d5c3827d3596c2cc0633329708",
-   "t": "1. **Otwarta mapa sprawy** w Omniforum, w której może wziąć udział każdy. 2. **L"
+   "h": "f61ca7fa3fb387a55f987d8f9a54b233461cb939",
+   "t": "1. **Otwarta mapa sprawy** w OmniForum, w której może wziąć udział każdy. 2. **L"
   },
   {
-   "h": "d2a17e555e036773700b99f95759c15347821f07",
-   "t": "Więcej: [whitepaper Omniforum, punkt 8.4](../whitepaper-omniforum.md#s8-4)."
+   "h": "1c6c84006e2bba6217be3c27143c4c8cceabc9de",
+   "t": "Więcej: [whitepaper OmniForum, punkt 8.4](../whitepaper-omniforum.md#s8-4)."
   },
   {
    "h": "18b7806ce4b5e3288f1fb7718609a6a8bde80659",
@@ -134,12 +134,12 @@
    "t": "Do tego czasu fundacja działa w fazie zwinnej: zarząd podejmuje bieżące decyzje,"
   },
   {
-   "h": "bfed1b11bc99af1eea884f80a3dd487a42e018b2",
+   "h": "b4434cc605580ad372fd334e987d22a2a391ff40",
    "t": "Pełne uruchomienie dalszych filarów (otwarte projekty trwałych przedmiotów i kon"
   },
   {
-   "h": "2f8d244e85a545ab73a8278ab4fd340a3ae1c209",
-   "t": "Więcej: [whitepaper Omniforum, punkt 8.5](../whitepaper-omniforum.md#s8-5), [whi"
+   "h": "89bd69e24c0a93e2c62c97d5f338df105b7ffb84",
+   "t": "Więcej: [whitepaper OmniForum, punkt 8.5](../whitepaper-omniforum.md#s8-5), [whi"
   },
   {
    "h": "741deee718f557e0903415a85de1260c4be913d2",
@@ -154,20 +154,20 @@
    "t": "Jak w pełni pogodzić jeden głos na osobę bez centralnej bazy tożsamości, tajność"
   },
   {
-   "h": "f3e07e203891b5eb5ee0a2e3859059ba3f0f0929",
-   "t": "Więcej: [whitepaper Omniforum, punkt 8.2](../whitepaper-omniforum.md#s8-2), [pun"
+   "h": "03de1ded4a9564ec7902d81c19fa92e380e96c6b",
+   "t": "Więcej: [whitepaper OmniForum, punkt 8.2](../whitepaper-omniforum.md#s8-2), [pun"
   },
   {
    "h": "dbd729a4bebd65f560d1601db4be5811d62ffdc0",
    "t": "## Przeczytaj i powiedz, co myślisz"
   },
   {
-   "h": "622e79ac32ba0f265183f39e72fd5f63769f3168",
-   "t": "Pełny opis znajdziesz w [whitepaperze Omniforum](../whitepaper-omniforum.md), ro"
+   "h": "b5542ef1414919342f6b63752ef47f4aa2bcbe34",
+   "t": "Pełny opis znajdziesz w [whitepaperze OmniForum](../whitepaper-omniforum.md), ro"
   },
   {
-   "h": "f7be398ad8cbbaee6f5382c726f333faec87bca6",
-   "t": "Więcej: [whitepaper Omniforum, punkt 5.5](../whitepaper-omniforum.md#s5-5)."
+   "h": "55192c377926993b698b4ddc610f66034befef02",
+   "t": "Więcej: [whitepaper OmniForum, punkt 5.5](../whitepaper-omniforum.md#s5-5)."
   }
  ]
 }

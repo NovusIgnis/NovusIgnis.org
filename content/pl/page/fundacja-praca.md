@@ -46,7 +46,7 @@ Więcej: [whitepaper zasad fundacji, punkt 5.3](../whitepaper-zasady-fundacji.md
 
 ## Narzędzia dla wolontariuszy
 
-Dopóki nie mamy własnych serwerów, możemy pokrywać koszty narzędzi potrzebnych wolontariuszom do tworzenia i testowania otwartego kodu Suverii (prywatnej przestrzeni pracy z cyfrową inteligencją) i Omniforum (wspólnej przestrzeni rozmowy, rozumienia i decyzji), na przykład dostępu do modeli cyfrowej inteligencji. Warunek: środki Filaru I, czyli pierwszego etapu pracy fundacji, którym są te dwie usługi, albo darowizny celowe. Takie wsparcie ma jawny limit w budżecie i nie jest wynagrodzeniem; jego zakres potwierdzimy w opinii prawnej.
+Dopóki nie mamy własnych serwerów, możemy pokrywać koszty narzędzi potrzebnych wolontariuszom do tworzenia i testowania otwartego kodu Suverii (prywatnej przestrzeni pracy z cyfrową inteligencją) i OmniForum (wspólnej przestrzeni rozmowy, rozumienia i decyzji), na przykład dostępu do modeli cyfrowej inteligencji. Warunek: środki Filaru I, czyli pierwszego etapu pracy fundacji, którym są te dwie usługi, albo darowizny celowe. Takie wsparcie ma jawny limit w budżecie i nie jest wynagrodzeniem; jego zakres potwierdzimy w opinii prawnej.
 
 Więcej: [whitepaper zasad fundacji, punkt 5.4](../whitepaper-zasady-fundacji.md#s5-4).
 

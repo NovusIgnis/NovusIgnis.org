@@ -7,11 +7,11 @@ menu: Sonraki sütunlar
 ---
 # Sonraki sütunlar
 
-Bu sayfa, vakfın yazılımın ötesinde nereye ulaşmak istediğini ve çok erken yola çıkmamak için nasıl gözettiğini anlatıyor. Bugün yalnızca I. Sütun’da çalışıyoruz: Suveria bir tasarımdır, Omniforum’un prototipi ise yapım aşamasındadır. II. ve III. Sütunlar süren çalışmalar değil, vizyondur.
+Bu sayfa, vakfın yazılımın ötesinde nereye ulaşmak istediğini ve çok erken yola çıkmamak için nasıl gözettiğini anlatıyor. Bugün yalnızca I. Sütun’da çalışıyoruz: Suveria bir tasarımdır, OmniForum’un prototipi ise yapım aşamasındadır. II. ve III. Sütunlar süren çalışmalar değil, vizyondur.
 
 ## Üç sütuna tek bakış
 
-- **I. Sütun “Software”: buradan başlıyoruz.** Yazılım ve dijital hizmetler: dijital zekâyla çalışmak için özel alan Suveria ve ortak konuşma, anlama ve karar alanı Omniforum.
+- **I. Sütun “Software”: buradan başlıyoruz.** Yazılım ve dijital hizmetler: dijital zekâyla çalışmak için özel alan Suveria ve ortak konuşma, anlama ve karar alanı OmniForum.
 - **II. Sütun “Hardware”: vizyon.** Dayanıklı, onarılabilir nesnelerin açık tasarımları.
 - **III. Sütun “Natura”: vizyon.** Doğayla daha yakın temas.
 
@@ -36,8 +36,8 @@ Daha fazlası: [vakıf senedi, § 5](../statut/statut-2026-09-28.md#par-5) ve [v
 
 Gelişime I. Sütun’dan başlıyoruz; ortak bütçenin ilk kaynaklarını ve boş hesaplama kaynaklarını onun temel taahhütlerine yönlendireceğiz. II. ve III. Sütunların tam başlatılması ve projelerinin ortak bütçeden finansmanı, üç koşulun birlikte sağlanmasını gerektirir. Her biri için ne zaman sağlanmış sayacağımızı belirtiriz.
 
-1. **Çalışan oylama.** Bağlayıcı, yani sonucunu vakfın uyguladığı oylamalı Omniforum (danışmalar yetmez). Bunu, kimin nasıl oy verdiğini açıklamadan oy hakkını doğrulama yöntemi olan sıfır bilgi kanıtlarına dayandırmak istiyoruz. Seçimin gizli kalması, oyun hesaba katıldığının denetlenebilmesi ve oy hakkına sahip her kişinin bir geçerli oya sahip olması amaçlanıyor. Ödüllü kamusal sınamada aynı yetkiden ikinci oy verilemediği ve oyun kişiyle bağlanamadığı en az bir bağlayıcı oylamadan sonra sağlanmış sayılır.
-2. **Rezerv.** Yeni projenin tam bütçesi ayrıldıktan sonra dokunulmadan kalan, Suveria ve Omniforum’u en az altı ay sürdürmek için gerçekten toplanmış kaynaklar. Ayrı hesapta son üç ayın ortalama aylık sürdürme maliyetinin altı katı bulunduğunda ve tutarı her ay sicilde gösterdiğimizde sağlanmış sayılır.
+1. **Çalışan oylama.** Bağlayıcı, yani sonucunu vakfın uyguladığı oylamalı OmniForum (danışmalar yetmez). Bunu, kimin nasıl oy verdiğini açıklamadan oy hakkını doğrulama yöntemi olan sıfır bilgi kanıtlarına dayandırmak istiyoruz. Seçimin gizli kalması, oyun hesaba katıldığının denetlenebilmesi ve oy hakkına sahip her kişinin bir geçerli oya sahip olması amaçlanıyor. Ödüllü kamusal sınamada aynı yetkiden ikinci oy verilemediği ve oyun kişiyle bağlanamadığı en az bir bağlayıcı oylamadan sonra sağlanmış sayılır.
+2. **Rezerv.** Yeni projenin tam bütçesi ayrıldıktan sonra dokunulmadan kalan, Suveria ve OmniForum’u en az altı ay sürdürmek için gerçekten toplanmış kaynaklar. Ayrı hesapta son üç ayın ortalama aylık sürdürme maliyetinin altı katı bulunduğunda ve tutarı her ay sicilde gösterdiğimizde sağlanmış sayılır.
 3. **Topluluğun kararı.** Oy hakkına sahip topluluğun tamamına eşit koşullarda açık oylama. Topluluk bütçesi, rezerve etkisi ve durdurma ölçütü olan somut öneriyi oylamayla kabul ettiğinde sağlanmış sayılır.
 
 Ödenmemiş vaatler, kullanıcılara ait bakiyeler veya belirli amaca ayrılmış para rezerv oluşturmaz; oylama maketi de ilk koşulu karşılamaz. Oylama durursa veya rezerv altı ayın altına düşerse sonraki sütunların yeni taahhütlerini durdurur, önce koşulları yeniden sağlarız.

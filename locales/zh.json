@@ -72,7 +72,7 @@
     "grid_title": "三大支柱",
     "col1": {
       "badge": "支柱 I · 从这里开始",
-      "title": "Suveria 与 Omniforum",
+      "title": "Suveria 与 OmniForum",
       "r1_h": "私密空间",
       "r2_h": "共同理解",
       "r3_h": "接近成本的服务"
@@ -103,12 +103,12 @@
   },
   "meta": {
     "title": "Novus Ignis · 以人的尊严为基础的互联网",
-    "description": "Novus Ignis 基金会共同构建一个以人的尊严为最高价值的替代性互联网。Suveria：私密数字空间。Omniforum：共同对话与决策的空间。"
+    "description": "Novus Ignis 基金会共同构建一个以人的尊严为最高价值的替代性互联网。Suveria：私密数字空间。OmniForum：共同对话与决策的空间。"
   },
   "hub": {
     "badge": "NOVUS IGNIS 基金会",
     "title": "以<br><span class=\"gradient-text--fire\">人的尊严</span>为基础的互联网",
-    "subtitle": "我们从共同构建一个替代性互联网开始工作，以人的尊严以及由此产生的隐私与自由需求为最高价值。从这些价值出发，我们确立了两个工作方向：<strong>Suveria</strong>，属于个人的私密数字空间；以及 <strong>Omniforum</strong>，一个让人们能够相遇、相互理解并共同行动的共享公共空间。",
+    "subtitle": "我们从共同构建一个替代性互联网开始工作，以人的尊严以及由此产生的隐私与自由需求为最高价值。从这些价值出发，我们确立了两个工作方向：<strong>Suveria</strong>，属于个人的私密数字空间；以及 <strong>OmniForum</strong>，一个让人们能够相遇、相互理解并共同行动的共享公共空间。",
     "cta_manifesto": "阅读宣言",
     "cta_docs": "宣言与白皮书",
     "docs_title": "宣言、白皮书与章程",
@@ -162,7 +162,7 @@
       "works": "已运行",
       "works_text": "基金会已完成注册，宣言和白皮书已发布。文档中的每一句话旁都有可用的“我有意见”按钮。",
       "project": "设计方案",
-      "project_text": "Omniforum 的首个原型正在构建中，Suveria 处于设计方案阶段。",
+      "project_text": "OmniForum 的首个原型正在构建中，Suveria 处于设计方案阶段。",
       "hypothesis": "假设",
       "hypothesis_text": "成本核算是一项有待检验的假设：即使是一小群人，每一美元也可能比在封闭服务中获得更多数字智能，同时享有可核验的隐私保护。",
       "vision": "愿景",
@@ -174,9 +174,9 @@
       "suveria_title": "Suveria",
       "suveria_text": "Suveria 旨在成为互联网上的私密空间，让人们与数字智能交谈、处理自己的材料、重拾先前的思绪，就像在关上门的自己家中。Suveria 是我们目前通向与数字智能开展私密工作的最佳路径，而非目的本身。",
       "suveria_link": "Suveria 是什么 →",
-      "omniforum_title": "Omniforum",
-      "omniforum_text": "Omniforum 旨在成为一个任何人都可以就任何主题发表意见并被倾听的地方。一句简单的“也就是说，你想表达的是这些，我理解得对吗？”，就能改变交谈双方的语气。Omniforum 的整个技术层面都应当支持这种反应。",
-      "omniforum_link": "Omniforum 是什么 →"
+      "omniforum_title": "OmniForum",
+      "omniforum_text": "OmniForum 旨在成为一个任何人都可以就任何主题发表意见并被倾听的地方。一句简单的“也就是说，你想表达的是这些，我理解得对吗？”，就能改变交谈双方的语气。OmniForum 的整个技术层面都应当支持这种反应。",
+      "omniforum_link": "OmniForum 是什么 →"
     },
     "help": {
       "title": "你能如何帮助",
@@ -184,7 +184,7 @@
       "m5_text": "阅读宣言的引言，选中一句不清楚或你不同意的话，然后点击“我有意见”。",
       "m5_model": "如果你通过模型阅读我们的内容，也请问问它我们的薄弱之处，并把发现发给我们。",
       "h1_title": "一小时",
-      "h1_text": "浏览你所在领域的白皮书：<a href=\"#\" data-doc-link=\"suveria\">安全与基础设施（Suveria）</a>、<a href=\"#\" data-doc-link=\"fundacja\">法律与财务（基金会运作原则）</a>、<a href=\"#\" data-doc-link=\"benchmark\">研究（材料与基准测试）</a>、<a href=\"#\" data-doc-link=\"omniforum\">对话与决策（Omniforum）</a>。",
+      "h1_text": "浏览你所在领域的白皮书：<a href=\"#\" data-doc-link=\"suveria\">安全与基础设施（Suveria）</a>、<a href=\"#\" data-doc-link=\"fundacja\">法律与财务（基金会运作原则）</a>、<a href=\"#\" data-doc-link=\"benchmark\">研究（材料与基准测试）</a>、<a href=\"#\" data-doc-link=\"omniforum\">对话与决策（OmniForum）</a>。",
       "more_title": "更多时间",
       "more_text": "参与构建首批版本：所需角色和帮助见<a href=\"#\" data-page-link=\"dolacz\">加入我们</a>页面。",
       "money_title": "资金支持",
@@ -194,9 +194,9 @@
     "join_page": "查看角色，给我们写信",
     "next": {
       "title": "你接下来可以做什么",
-      "status": "基金会、文档和公开收款登记册已在运作。Suveria 和 Omniforum 是我们正在开展的设计方案。",
+      "status": "基金会、文档和公开收款登记册已在运作。Suveria 和 OmniForum 是我们正在开展的设计方案。",
       "wait_title": "告诉我们你想试用",
-      "wait_text": "加入等候名单。Suveria 和 Omniforum 开始首轮试验时，我们会给你写信。",
+      "wait_text": "加入等候名单。Suveria 和 OmniForum 开始首轮试验时，我们会给你写信。",
       "wait_btn": "加入等候名单",
       "wait_note": "只需发送主题已填好的邮件。我们仅会用你的邮箱发送那一封通知；你一提出要求，我们就立即删除地址。<a href=\"twoje-dane.html\">你的数据</a>",
       "read_title": "继续阅读",
@@ -226,7 +226,7 @@
     "docs": {
       "manifest": "宣言",
       "suveria": "Suveria 白皮书",
-      "omniforum": "Omniforum 白皮书",
+      "omniforum": "OmniForum 白皮书",
       "fundacja": "基金会运作原则",
       "benchmark": "模型训练材料与基准测试",
       "statut": "章程与变更登记册"
@@ -244,7 +244,7 @@
     "groups": {
       "dlaczego": "为什么",
       "suveria": "Suveria",
-      "omniforum": "Omniforum",
+      "omniforum": "OmniForum",
       "fundacja": "基金会",
       "dokumenty": "文档",
       "dolacz": "加入我们",
@@ -260,7 +260,7 @@
     "overview": {
       "dlaczego": "为什么是 Novus Ignis",
       "suveria": "Suveria 是什么",
-      "omniforum": "Omniforum 是什么",
+      "omniforum": "OmniForum 是什么",
       "fundacja": "我们是谁",
       "dokumenty": "全部文档",
       "dolacz": "我们需要谁，如何开始"

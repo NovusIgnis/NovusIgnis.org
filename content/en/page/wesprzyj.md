@@ -24,7 +24,7 @@ You can support the foundation with a donation by bank transfer in zlotys, euros
 
 ## What happens to a donation
 
-- A donation without a specified purpose goes to the funds free for allocation, always with priority for Pillar I, that is, Suveria and Omniforum.
+- A donation without a specified purpose goes to the funds free for allocation, always with priority for Pillar I, that is, Suveria and OmniForum.
 - A donation gives no votes, no management rights, no access to users' data and no right to promotion in our services and communication.
 - In the register we name donors only if they themselves wish it; other payments are described in general terms, for example "donation from a private person". We do not publish payment references verbatim, because they often contain personal data. If you would like us to give your name or the name of your company, write to us.
 - We do not accept benefits that are conditional on promotion, a recommendation or a concession in decisions.

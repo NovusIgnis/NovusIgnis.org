@@ -1,19 +1,19 @@
 ---
-tytul: Omniforum 中的对话如何运作
+tytul: OmniForum 中的对话如何运作
 opis: 逐步了解发言如何变成单个想法、作者确认什么、数字智能的角色，以及如何知道谁说了什么
 grupa: omniforum
 kolejnosc: 2
 menu: 对话如何运作
 ---
-# Omniforum 中的对话如何运作
+# OmniForum 中的对话如何运作
 
-本页面向已阅读 [Omniforum 是什么](omniforum.md)、希望进一步了解发言从写下到可供他人讨论的过程的人：作者确认什么、数字智能的角色，以及如何知道谁说了什么。
+本页面向已阅读 [OmniForum 是什么](omniforum.md)、希望进一步了解发言从写下到可供他人讨论的过程的人：作者确认什么、数字智能的角色，以及如何知道谁说了什么。
 
 目前这些功能尚不可使用：我们正在描述计划、收集意见。
 
-Omniforum 原型正在构建中。以下一切均属设计方案，我们尚未完成任何试验。
+OmniForum 原型正在构建中。以下一切均属设计方案，我们尚未完成任何试验。
 
-更多：[Omniforum 白皮书，第 1 章](../whitepaper-omniforum.md#s1)。
+更多：[OmniForum 白皮书，第 1 章](../whitepaper-omniforum.md#s1)。
 
 ## 一句话，多个想法
 
@@ -23,11 +23,11 @@ Omniforum 原型正在构建中。以下一切均属设计方案，我们尚未�
 
 不能将这句话缩成无条件的“值得在我们这条街上种树”，因为条件是含义的一部分。如果数字智能补上“作者认为当地存在干旱问题”，这会被标为模型推论，而非作者原话。我们只在必要深度拆分：即单个概念影响含义，或可能产生争议之处。
 
-更多：[Omniforum 白皮书，第 2 章](../whitepaper-omniforum.md#s2)、[第 3 章](../whitepaper-omniforum.md#s3)及[第 1.3 节词汇表](../whitepaper-omniforum.md#s1-3)。
+更多：[OmniForum 白皮书，第 2 章](../whitepaper-omniforum.md#s2)、[第 3 章](../whitepaper-omniforum.md#s3)及[第 1.3 节词汇表](../whitepaper-omniforum.md#s1-3)。
 
 ## 逐步展开
 
-在 Omniforum 中形成的想法，应沿着这样的路径：
+在 OmniForum 中形成的想法，应沿着这样的路径：
 
 1. **写下。**从普通文本或段落开始，说明目的：理解、提取论据、组织自己的回答或比较立场。
 2. **数字智能提出拆分建议。**对每个想法，展示从哪段文字推导而来，并指出可能偏离原意或存在多种解读的地方。
@@ -39,7 +39,7 @@ Omniforum 原型正在构建中。以下一切均属设计方案，我们尚未�
 
 我们也在考虑第二种自愿仪式：指出目前能够给出理据的边界，并开始寻找新问题的答案。这暂时只是一个尚未确定名称与形式的想法。
 
-更多：[Omniforum 白皮书，第 3 章](../whitepaper-omniforum.md#s3)。
+更多：[OmniForum 白皮书，第 3 章](../whitepaper-omniforum.md#s3)。
 
 ## 你确认什么，不确认什么
 
@@ -49,7 +49,7 @@ Omniforum 原型正在构建中。以下一切均属设计方案，我们尚未�
 
 对话应为不受羞辱地改变看法留出空间：可以承认错误、继续提问，或在不表示同意的情况下结束。参与者的尊严不取决于是否接受结论。
 
-更多：[Omniforum 白皮书，第 2 章](../whitepaper-omniforum.md#s2)及[第 1 章](../whitepaper-omniforum.md#s1)。
+更多：[OmniForum 白皮书，第 2 章](../whitepaper-omniforum.md#s2)及[第 1 章](../whitepaper-omniforum.md#s1)。
 
 ## 模型协助，而不主导
 
@@ -57,13 +57,13 @@ Omniforum 原型正在构建中。以下一切均属设计方案，我们尚未�
 
 每个拆分都会记录由谁、何时准备；若有模型协助，也记录模型及所用指令版本。
 
-更多：[Omniforum 白皮书，第 3 章](../whitepaper-omniforum.md#s3)及[第 2 章](../whitepaper-omniforum.md#s2)。
+更多：[OmniForum 白皮书，第 3 章](../whitepaper-omniforum.md#s3)及[第 2 章](../whitepaper-omniforum.md#s2)。
 
 ## 来自 Suveria 的想法
 
 想法也可来自 Suveria，即与数字智能开展工作的私密空间，你在那里自己的工坊中完善它。此时可直接发布，无须经过 Ignis 工坊。发布时刻仍是同一个 Ignis 仪式；之后与其他想法一样，进入 Formatio。
 
-更多：[Omniforum 白皮书，第 3 章](../whitepaper-omniforum.md#s3)。
+更多：[OmniForum 白皮书，第 3 章](../whitepaper-omniforum.md#s3)。
 
 ## 如何知道谁说了什么
 
@@ -71,7 +71,7 @@ Omniforum 原型正在构建中。以下一切均属设计方案，我们尚未�
 
 原子是含义，而非词语。称呼它的词语是标签，一个原子可以有多个标签，也可以跨语言：干旱在英语中称为“drought”，在德语中称为“Dürre”。因此，使用不同词语的人仍能讨论相同事物。词语与原子的对应是一项由作者确认的提议。有时它也是私密信息：“我们这条街”指 Warszawska 街，会透露住址，因此由作者决定是否向他人展示。
 
-更多：[Omniforum 白皮书，第 2 章](../whitepaper-omniforum.md#s2)。
+更多：[OmniForum 白皮书，第 2 章](../whitepaper-omniforum.md#s2)。
 
 ## 首次试验会检验什么
 
@@ -79,10 +79,10 @@ Omniforum 原型正在构建中。以下一切均属设计方案，我们尚未�
 
 我们核查沿途是否丢失原文措辞、含义、历次版本及访问权限。也查找模型没有自行标出的解读错误，并将结果与单纯文本及普通摘要比较。试验前公布什么结果算足够，之后将结果写入日志，即使试验失败也会记录。
 
-更多：[Omniforum 白皮书，第 9 章](../whitepaper-omniforum.md#s9)。
+更多：[OmniForum 白皮书，第 9 章](../whitepaper-omniforum.md#s9)。
 
 ## 阅读后，告诉我们你的想法
 
-完整路径说明见 [Omniforum 白皮书](../whitepaper-omniforum.md)（约 50 分钟阅读），尤其是第 2、3 章。如有疑问或觉得某处有误，请在文档中选中相应段落，使用“我有意见”按钮，或写信至 salve@novusignis.org。
+完整路径说明见 [OmniForum 白皮书](../whitepaper-omniforum.md)（约 50 分钟阅读），尤其是第 2、3 章。如有疑问或觉得某处有误，请在文档中选中相应段落，使用“我有意见”按钮，或写信至 salve@novusignis.org。
 
-更多：[Omniforum 白皮书，第 5.5 节](../whitepaper-omniforum.md#s5-5)。
+更多：[OmniForum 白皮书，第 5.5 节](../whitepaper-omniforum.md#s5-5)。

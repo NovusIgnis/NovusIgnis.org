@@ -7,7 +7,7 @@ menu: Dignidade
 ---
 # A dignidade como ponto de partida
 
-Esta página explica o que significa “dignidade” no manifesto da Novus Ignis e o que decorre dela: liberdade, privacidade, proteção da atenção e princípios apoiados pela prática. É um resumo do capítulo 2 do manifesto, do qual nascem a Suveria e o Omniforum. Em cada parte você encontrará um link para o texto completo.
+Esta página explica o que significa “dignidade” no manifesto da Novus Ignis e o que decorre dela: liberdade, privacidade, proteção da atenção e princípios apoiados pela prática. É um resumo do capítulo 2 do manifesto, do qual nascem a Suveria e o OmniForum. Em cada parte você encontrará um link para o texto completo.
 
 ## O que é dignidade no manifesto
 
@@ -73,9 +73,9 @@ Princípios compartilhados exigem justificativas compreensíveis para as decisõ
 
 Saiba mais: [manifesto, seção 2.5](../manifest.md#s2-5).
 
-## O que isso implica para a Suveria e o Omniforum
+## O que isso implica para a Suveria e o OmniForum
 
-Desses princípios nascem duas frentes complementares: a Suveria deverá ser um espaço privado para pensar, criar e planejar com a ajuda da inteligência digital, e o Omniforum, um espaço compartilhado para apresentar razões e conhecer outras perspectivas. Hoje, a Suveria é um projeto, e o Omniforum tem um primeiro protótipo em construção. Cada pessoa deverá escolher por conta própria o que guarda para si e o que compartilha com outras. Veja: [O que é a Suveria](suveria.md) e [O que é o Omniforum](omniforum.md).
+Desses princípios nascem duas frentes complementares: a Suveria deverá ser um espaço privado para pensar, criar e planejar com a ajuda da inteligência digital, e o OmniForum, um espaço compartilhado para apresentar razões e conhecer outras perspectivas. Hoje, a Suveria é um projeto, e o OmniForum tem um primeiro protótipo em construção. Cada pessoa deverá escolher por conta própria o que guarda para si e o que compartilha com outras. Veja: [O que é a Suveria](suveria.md) e [O que é o OmniForum](omniforum.md).
 
 Saiba mais: [manifesto, “Onde estamos hoje”](../manifest.md#top).
 

@@ -17,13 +17,13 @@ Ein nachgeordnetes Dokument darf einem übergeordneten nicht widersprechen: Das 
 
 ## Dokumentenliste
 
-Suveria ist ein Entwurf, und für das Omniforum entsteht ein Prototyp, daher beschreiben die Whitepaper Absichten und Grenzen, keine funktionierenden Dienste; jedes sagt das im ersten Absatz. Mehr: [Manifest, Einleitung](../manifest.md#top).
+Suveria ist ein Entwurf, und für das OmniForum entsteht ein Prototyp, daher beschreiben die Whitepaper Absichten und Grenzen, keine funktionierenden Dienste; jedes sagt das im ersten Absatz. Mehr: [Manifest, Einleitung](../manifest.md#top).
 
 | Dokument | Inhalt | Fassung | Lesezeit | Sprache |
 |---|---|---|---|---|
 | [Manifest](../manifest.md) | Was wir tun wollen und warum: Würde, Privatsphäre, gemeinsames Verständnis, Unterhalt der Dienste und Übergabe der Macht. | 31.10.2026 | ca. 60 Minuten | Polnisch und Englisch |
 | [Suveria: private Arbeit mit digitaler Intelligenz](../whitepaper-suveria.md) | Was wir schützen und wovor, der Weg vom Gerät zum Modell, eine datierte Kostenrechnung und Abnahmetests. | 31.10.2026 | ca. 50 Minuten | Polnisch und Englisch |
-| [Omniforum: gemeinsames Verständnis, Gespräch und Entscheidungen](../whitepaper-omniforum.md) | Anliegen, Ideensteckbrief, Argumentkarte, lebendige Dokumente und Regeln für gemeinsame Entscheidungen. | 31.10.2026 | ca. 50 Minuten | Polnisch und Englisch |
+| [OmniForum: gemeinsames Verständnis, Gespräch und Entscheidungen](../whitepaper-omniforum.md) | Anliegen, Ideensteckbrief, Argumentkarte, lebendige Dokumente und Regeln für gemeinsame Entscheidungen. | 31.10.2026 | ca. 50 Minuten | Polnisch und Englisch |
 | [Arbeitsgrundsätze der Stiftung](../whitepaper-zasady-fundacji.md) | Abrechnung nach tatsächlicher Nutzung, Budget, Arbeit und Rollen, das Register der Vorteile und die Übergabe der Befugnisse des Stifters. | 31.10.2026 | ca. 50 Minuten | Polnisch und Englisch |
 | [Trainingsmaterialien und Benchmark für Modelle](../whitepaper-materialy-i-benchmark.md) | Wie sich prüfen lässt, ob digitale Intelligenz Menschen tatsächlich hilft; ein Forschungsprogramm, bisher ohne Ergebnisse. | 31.10.2026 | ca. 25 Minuten | Polnisch und Englisch |
 | [Satzung: Fassungen und Änderungsregister](../statut/rejestr-zmian.md) | Alle Fassungen der Satzung sowie erfolgte und geplante Änderungen mit Begründung. | Einträge bis 30.10.2026 | ca. 10 Minuten | Polnisch und Englisch |
@@ -34,7 +34,7 @@ Alle Dokumente sind auf Polnisch und Englisch verfügbar (die englische Satzung 
 ## Wie man liest
 
 - Du hast 5 Minuten: Lies die Seite [In Kürze](w-skrocie.md) oder die [Einleitung des Manifests](../manifest.md#top).
-- Du hast eine Stunde: Lies das Whitepaper aus deinem Fachgebiet. Suveria behandelt Sicherheit und Infrastruktur, Omniforum Gespräch und Entscheidungen, die Arbeitsgrundsätze der Stiftung Recht und Geld und der Benchmark die Forschung zu Modellen.
+- Du hast eine Stunde: Lies das Whitepaper aus deinem Fachgebiet. Suveria behandelt Sicherheit und Infrastruktur, OmniForum Gespräch und Entscheidungen, die Arbeitsgrundsätze der Stiftung Recht und Geld und der Benchmark die Forschung zu Modellen.
 - Du hast mehr Zeit: Lies der Reihe nach das Manifest, die Whitepaper, das Register der Satzungsänderungen und die Satzung.
 
 Das Manifest und die vier Whitepaper stehen auch in einer einzigen Textdatei, die du in deinen Chat mit digitaler Intelligenz einfügen kannst, um nach dem zu fragen, was dich interessiert: [auf Deutsch](llms-full.txt) oder [auf Polnisch](../llms-full.txt).
@@ -49,7 +49,7 @@ Bei jedem Dokument und jeder Unterseite funktioniert die Schaltfläche „Ich ha
 
 Die Seite speichert nichts: Die Nachricht entsteht in deinem E-Mail-Programm, und der Inhalt der Anmerkung gehört dir, bis du sie sendest.
 
-Anmerkungen, die zu Änderungen führen, werden wir im [Änderungsprotokoll der Website](dziennik-zmian.md) und in der Geschichte des Dokuments festhalten. Künftig sollen Anmerkungen ins Omniforum gelangen, wo andere sie sehen und darüber sprechen können; das liegt noch vor uns. Mehr: [Whitepaper zum Omniforum, Abschnitt 5.5](../whitepaper-omniforum.md#s5-5).
+Anmerkungen, die zu Änderungen führen, werden wir im [Änderungsprotokoll der Website](dziennik-zmian.md) und in der Geschichte des Dokuments festhalten. Künftig sollen Anmerkungen ins OmniForum gelangen, wo andere sie sehen und darüber sprechen können; das liegt noch vor uns. Mehr: [Whitepaper zum OmniForum, Abschnitt 5.5](../whitepaper-omniforum.md#s5-5).
 
 ## Lizenz und Quellen
 

@@ -17,13 +17,13 @@ Tài liệu cấp dưới không được trái cấp trên: tuyên ngôn không
 
 ## Danh sách tài liệu
 
-Suveria là bản thiết kế, Omniforum có nguyên mẫu đang xây dựng, nên sách trắng mô tả ý định và giới hạn, không phải dịch vụ đang hoạt động; mỗi sách nói rõ ngay đoạn đầu. Xem thêm: [tuyên ngôn, phần mở đầu](../manifest.md#top).
+Suveria là bản thiết kế, OmniForum có nguyên mẫu đang xây dựng, nên sách trắng mô tả ý định và giới hạn, không phải dịch vụ đang hoạt động; mỗi sách nói rõ ngay đoạn đầu. Xem thêm: [tuyên ngôn, phần mở đầu](../manifest.md#top).
 
 | Tài liệu | Nội dung | Phiên bản | Thời gian đọc | Ngôn ngữ |
 |---|---|---|---|---|
 | [Tuyên ngôn](../manifest.md) | Điều chúng tôi muốn làm và vì sao: phẩm giá, quyền riêng tư, thấu hiểu chung, duy trì dịch vụ và chuyển giao quyền lực. | 31.10.2026 | khoảng 60 phút | tiếng Ba Lan và tiếng Anh |
 | [Suveria: làm việc riêng tư với trí tuệ số](../whitepaper-suveria.md) | Bảo vệ điều gì, khỏi điều gì, đường từ thiết bị đến mô hình, phép tính chi phí có ngày tháng và thử nghiệm nghiệm thu. | 31.10.2026 | khoảng 50 phút | tiếng Ba Lan và tiếng Anh |
-| [Omniforum: cùng thấu hiểu, trò chuyện và quyết định](../whitepaper-omniforum.md) | Vấn đề, phiếu ý tưởng, bản đồ lập luận, tài liệu sống và nguyên tắc quyết định chung. | 31.10.2026 | khoảng 50 phút | tiếng Ba Lan và tiếng Anh |
+| [OmniForum: cùng thấu hiểu, trò chuyện và quyết định](../whitepaper-omniforum.md) | Vấn đề, phiếu ý tưởng, bản đồ lập luận, tài liệu sống và nguyên tắc quyết định chung. | 31.10.2026 | khoảng 50 phút | tiếng Ba Lan và tiếng Anh |
 | [Nguyên tắc hoạt động của quỹ](../whitepaper-zasady-fundacji.md) | Tính phí sử dụng thực tế, ngân sách, công việc và vai trò, sổ ghi nhận lợi ích và chuyển giao quyền hạn người sáng lập. | 31.10.2026 | khoảng 50 phút | tiếng Ba Lan và tiếng Anh |
 | [Tài liệu huấn luyện và bộ chuẩn đánh giá mô hình](../whitepaper-materialy-i-benchmark.md) | Cách kiểm tra trí tuệ số có thực sự giúp con người; chương trình nghiên cứu hiện chưa có kết quả. | 31.10.2026 | khoảng 25 phút | tiếng Ba Lan và tiếng Anh |
 | [Điều lệ: các phiên bản và sổ ghi thay đổi](../statut/rejestr-zmian.md) | Mọi phiên bản điều lệ, thay đổi đã làm và dự kiến, kèm cơ sở lý giải. | các mục đến 30.10.2026 | khoảng 10 phút | tiếng Ba Lan và tiếng Anh |
@@ -34,7 +34,7 @@ Mọi tài liệu đều có bằng tiếng Ba Lan và tiếng Anh (điều lệ
 ## Cách đọc
 
 - Có 5 phút: đọc trang [Sơ lược](w-skrocie.md) hoặc [phần mở đầu tuyên ngôn](../manifest.md#top).
-- Có một giờ: đọc sách trắng thuộc lĩnh vực của bạn. Suveria về an toàn và hạ tầng, Omniforum về trò chuyện và quyết định, nguyên tắc quỹ về pháp luật và tiền bạc, bộ chuẩn đánh giá về nghiên cứu mô hình.
+- Có một giờ: đọc sách trắng thuộc lĩnh vực của bạn. Suveria về an toàn và hạ tầng, OmniForum về trò chuyện và quyết định, nguyên tắc quỹ về pháp luật và tiền bạc, bộ chuẩn đánh giá về nghiên cứu mô hình.
 - Có nhiều thời gian: lần lượt đọc tuyên ngôn, sách trắng, sổ ghi thay đổi điều lệ và điều lệ.
 
 Tuyên ngôn và bốn sách trắng cũng có trong một tệp văn bản mà bạn có thể đưa vào cuộc trò chuyện với trí tuệ số rồi hỏi điều quan tâm: [bằng tiếng Việt](llms-full.txt) hoặc [bằng tiếng Ba Lan](../llms-full.txt).
@@ -49,7 +49,7 @@ Bên mỗi tài liệu và trang con có nút “Tôi có ý kiến”. Chọn �
 
 Trang không lưu gì: thông điệp được tạo trong chương trình thư của bạn; nội dung ý kiến thuộc về bạn đến khi gửi.
 
-Chúng tôi sẽ ghi ý kiến dẫn đến thay đổi vào [nhật ký thay đổi trang](dziennik-zmian.md) và lịch sử tài liệu. Theo định hướng, ý kiến cần đến Omniforum, nơi người khác sẽ có thể xem và trao đổi; điều này còn ở phía trước. Xem thêm: [sách trắng Omniforum, mục 5.5](../whitepaper-omniforum.md#s5-5).
+Chúng tôi sẽ ghi ý kiến dẫn đến thay đổi vào [nhật ký thay đổi trang](dziennik-zmian.md) và lịch sử tài liệu. Theo định hướng, ý kiến cần đến OmniForum, nơi người khác sẽ có thể xem và trao đổi; điều này còn ở phía trước. Xem thêm: [sách trắng OmniForum, mục 5.5](../whitepaper-omniforum.md#s5-5).
 
 ## Giấy phép và nguồn
 

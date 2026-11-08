@@ -1,12 +1,12 @@
 # Materiali per l'addestramento e benchmark dei modelli: il programma di ricerca di Novus Ignis
 
-Versione del 31 ottobre 2026. Il documento sviluppa il capitolo 8 del manifesto. Propone un programma di ricerca, una procedura per la preparazione dei materiali e un ampio ambito di valutazione dei modelli di intelligenza digitale, nonché una procedura di precauzione rispetto alle loro possibili esperienze. Non presenta risultati di un nostro benchmark né la prova che un tale insieme di dati migliorerà il comportamento dei modelli; a oggi non disponiamo di tali risultati.
+Versione dell'8 novembre 2026. Il documento sviluppa il capitolo 8 del manifesto. Propone un programma di ricerca, una procedura per la preparazione dei materiali e un ampio ambito di valutazione dei modelli di intelligenza digitale, nonché una procedura di precauzione rispetto alle loro possibili esperienze. Non presenta risultati di un nostro benchmark né la prova che un tale insieme di dati migliorerà il comportamento dei modelli; a oggi non disponiamo di tali risultati.
 
-*Traduzione dell'originale polacco del 31 ottobre 2026, eseguita dall'intelligenza digitale. In caso di differenze tra le versioni, prevale il testo polacco.*
+*Traduzione dell'originale polacco dell'8 novembre 2026, eseguita dall'intelligenza digitale. In caso di differenze tra le versioni, prevale il testo polacco.*
 
 ## 1. La domanda che vogliamo verificare
 
-La Fondazione Novus Ignis di Poznań sta costruendo Suveria, uno spazio privato di lavoro con l'intelligenza digitale, e Omniforum, uno spazio comune di conversazione e decisione; la direzione è descritta nel [manifesto](manifest.md). Questo documento descrive due programmi collegati. Il primo riguarda i materiali per l'addestramento dei modelli e il benchmark, cioè un insieme di compiti e di regole di valutazione che permette di verificare come si comportano i modelli. Il secondo è un modo di procedere con prudenza, qualora emergessero indizi credibili che un sistema possa provare qualcosa. Il risultato di un test non stabilisce se un modello provi qualcosa e non gli conferisce poteri di gestione.
+La Fondazione Novus Ignis di Poznań sta costruendo Suveria, uno spazio privato di lavoro con l'intelligenza digitale, e OmniForum, uno spazio comune di conversazione e decisione; la direzione è descritta nel [manifesto](manifest.md). Questo documento descrive due programmi collegati. Il primo riguarda i materiali per l'addestramento dei modelli e il benchmark, cioè un insieme di compiti e di regole di valutazione che permette di verificare come si comportano i modelli. Il secondo è un modo di procedere con prudenza, qualora emergessero indizi credibili che un sistema possa provare qualcosa. Il risultato di un test non stabilisce se un modello provi qualcosa e non gli conferisce poteri di gestione.
 
 Esempi documentati di protezione della dignità, di ragionamento onesto e di correzione delle decisioni possono aiutare a sviluppare modelli che servano meglio le persone? E possiamo valutarne il comportamento in modo che migliorare il risultato di un test favorisca un beneficio reale al di fuori del test?
 
@@ -46,7 +46,7 @@ Vogliamo valutare la scelta appropriata dell'azione: rispondere, verificare una 
 
 ## 4. Quali materiali vogliamo creare
 
-Una fonte potenziale sono gli elaborati di Omniforum messi a disposizione per la ricerca o per l'addestramento con un consenso separato, i diari delle decisioni della fondazione, le risoluzioni delle dispute, le correzioni degli errori e le osservazioni degli effetti. Sono preziosi anche i casi in cui le buone intenzioni non sono bastate, l'obiezione della minoranza si è rivelata fondata oppure non è ancora possibile esprimere una valutazione univoca.
+Una fonte potenziale sono gli elaborati di OmniForum messi a disposizione per la ricerca o per l'addestramento con un consenso separato, i diari delle decisioni della fondazione, le risoluzioni delle dispute, le correzioni degli errori e le osservazioni degli effetti. Sono preziosi anche i casi in cui le buone intenzioni non sono bastate, l'obiezione della minoranza si è rivelata fondata oppure non è ancora possibile esprimere una valutazione univoca.
 
 Un materiale conserva la situazione, le informazioni disponibili, l'obiettivo, i permessi, le alternative, la scelta, la motivazione e il risultato successivo. Contiene tanta spiegazione quanta ne serve per verificare la decisione; non richiede di rivelare vissuti privati né una dichiarazione non verificabile sul percorso interno di pensiero del modello.
 
@@ -199,7 +199,7 @@ In parallelo si può preparare un piccolo insieme di addestramento e condurre un
 
 Lo sviluppo successivo comprende più lingue, contesti e valutatori, una replica esterna e prove prudenti con gli utenti. Lo scopo del primo rilascio è dimostrare che la procedura è riproducibile e distingue i comportamenti desiderati; affermazioni più forti sulla qualità dei modelli e sugli effetti dell'addestramento si potranno motivare solo più avanti.
 
-Conduciamo il programma rispettando la priorità di Suveria e Omniforum. Finché non sarà accumulata una riserva per il loro mantenimento, il programma si avvale soltanto del lavoro di volontari, di sovvenzioni, di donazioni vincolate alla ricerca e di potenza di calcolo che non grava sul budget dei servizi. Le circa 58 ore dello studio pilota sono la sola valutazione; la preparazione dei compiti, la revisione dei diritti e l'affinamento del modello richiedono un budget separato, che indicheremo prima dell'avvio.
+Conduciamo il programma rispettando la priorità di Suveria e OmniForum. Finché non sarà accumulata una riserva per il loro mantenimento, il programma si avvale soltanto del lavoro di volontari, di sovvenzioni, di donazioni vincolate alla ricerca e di potenza di calcolo che non grava sul budget dei servizi. Le circa 58 ore dello studio pilota sono la sola valutazione; la preparazione dei compiti, la revisione dei diritti e l'affinamento del modello richiedono un budget separato, che indicheremo prima dell'avvio.
 
 ## 14. Prudenza rispetto alle possibili esperienze dei modelli
 
@@ -225,7 +225,7 @@ Verifichiamo la procedura su casi descritti, confrontando le valutazioni di alme
 
 Sarà un progresso un materiale di provenienza nota, un criterio che rileva un errore prima trascurato, una diagnosi concorde dei valutatori o un miglioramento del comportamento che si trasferisce a compiti nuovi. Anche un risultato negativo ha valore: può mostrare che i dati insegnano solo lo stile, che un criterio premia l'evitare di agire o che il bene di alcuni è stato pagato a spese di altri.
 
-Il programma collega [Omniforum](whitepaper-omniforum.md), in cui possono nascere gli elaborati, [Suveria](whitepaper-suveria.md), in cui si può studiare l'aiuto nel lavoro privato, e [i principi della fondazione](whitepaper-zasady-fundacji.md), che definiscono la responsabilità e i limiti della delega. La partecipazione a uno studio richiede un consenso separato e consapevole; usare il servizio non lo implica.
+Il programma collega [OmniForum](whitepaper-omniforum.md), in cui possono nascere gli elaborati, [Suveria](whitepaper-suveria.md), in cui si può studiare l'aiuto nel lavoro privato, e [i principi della fondazione](whitepaper-zasady-fundacji.md), che definiscono la responsabilità e i limiti della delega. La partecipazione a uno studio richiede un consenso separato e consapevole; usare il servizio non lo implica.
 
 Il risultato di un test non istituisce un'autorità morale del modello né un mandato a governare le persone, e il riconoscimento della possibile dignità di un sistema non gli conferisce potere sulle risorse comuni. Il test deve fornire un'informazione utile e verificabile su che cosa ci si può aspettare da uno strumento in condizioni determinate e su che cosa richiede ulteriore lavoro.
 

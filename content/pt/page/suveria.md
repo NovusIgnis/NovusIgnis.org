@@ -25,7 +25,7 @@ Na Suveria, queremos que seja possível:
 - com seu consentimento, usar a memória de conversas anteriores e construir um Cânone Pessoal, ou seja, um conjunto de princípios e valores próprios;
 - escolher a forma de trabalho, de um modelo no próprio dispositivo a um ambiente confidencial em um servidor, sabendo contra o que cada opção protege;
 - pagar pelo uso real, com um limite de gastos definido por você;
-- aperfeiçoar um pensamento de forma privada e depois levá-lo conscientemente à conversa compartilhada no Omniforum, o espaço público de conversa e decisões.
+- aperfeiçoar um pensamento de forma privada e depois levá-lo conscientemente à conversa compartilhada no OmniForum, o espaço público de conversa e decisões.
 
 Já o primeiro dia deverá proporcionar a sensação tranquila de estar em casa. Também queremos possibilitar a transferência de anotações e arquivos de conversas de outros serviços de inteligência digital. Usar a Suveria não constitui consentimento para usar as conversas no treinamento de modelos.
 

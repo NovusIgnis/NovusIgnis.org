@@ -7,7 +7,7 @@ menu: Onur
 ---
 # Başlangıç noktası olarak onur
 
-Bu sayfa, Novus Ignis manifestosunda “onur”un ne anlama geldiğini ve ondan neler doğduğunu açıklıyor: özgürlük, mahremiyet, dikkatin korunması ve işleyişte dayanağı olan ilkeler. Suveria ve Omniforum’un doğduğu manifesto 2. bölümünün özetidir. Her bölümde tam metne bir bağlantı bulacaksın.
+Bu sayfa, Novus Ignis manifestosunda “onur”un ne anlama geldiğini ve ondan neler doğduğunu açıklıyor: özgürlük, mahremiyet, dikkatin korunması ve işleyişte dayanağı olan ilkeler. Suveria ve OmniForum’un doğduğu manifesto 2. bölümünün özetidir. Her bölümde tam metne bir bağlantı bulacaksın.
 
 ## Manifestoda onur nedir
 
@@ -73,9 +73,9 @@ Ortak ilkeler, kararların açık gerekçelerini, hata bildirme ve itiraz etme o
 
 Daha fazlası: [manifesto, 2.5. madde](../manifest.md#s2-5).
 
-## Bunun Suveria ve Omniforum için sonuçları
+## Bunun Suveria ve OmniForum için sonuçları
 
-Bu ilkelerden birbirini tamamlayan iki yön doğuyor: Suveria, dijital zekâ yardımıyla düşünmek, üretmek ve planlamak için özel alan; Omniforum ise kendi gerekçelerini sunmak ve başka bakış açılarını tanımak için ortak alan olmayı amaçlıyor. Suveria bugün bir tasarımdır; Omniforum’un ilk prototipi ise yapım aşamasındadır. İnsan, kendine neyi saklayacağına, başkalarıyla neyi paylaşacağına kendisi karar verebilmelidir. Bak: [Suveria nedir](suveria.md) ve [Omniforum nedir](omniforum.md).
+Bu ilkelerden birbirini tamamlayan iki yön doğuyor: Suveria, dijital zekâ yardımıyla düşünmek, üretmek ve planlamak için özel alan; OmniForum ise kendi gerekçelerini sunmak ve başka bakış açılarını tanımak için ortak alan olmayı amaçlıyor. Suveria bugün bir tasarımdır; OmniForum’un ilk prototipi ise yapım aşamasındadır. İnsan, kendine neyi saklayacağına, başkalarıyla neyi paylaşacağına kendisi karar verebilmelidir. Bak: [Suveria nedir](suveria.md) ve [OmniForum nedir](omniforum.md).
 
 Daha fazlası: [manifesto, “Bugün bulunduğumuz nokta”](../manifest.md#top).
 

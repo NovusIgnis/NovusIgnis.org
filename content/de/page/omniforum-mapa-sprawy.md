@@ -1,6 +1,6 @@
 ---
 tytul: Anliegenkarte und Ideensteckbrief
-opis: Wie das Omniforum die Gedankengänge verschiedener Menschen in einer Karte zusammenführen, die Stärke einer Schlussfolgerung zeigen und vom Zukunftsbild zum nächsten Schritt führen soll
+opis: Wie das OmniForum die Gedankengänge verschiedener Menschen in einer Karte zusammenführen, die Stärke einer Schlussfolgerung zeigen und vom Zukunftsbild zum nächsten Schritt führen soll
 grupa: omniforum
 kolejnosc: 4
 menu: Anliegenkarte
@@ -11,9 +11,9 @@ Auf der Seite [Wie Gespräche funktionieren](omniforum-rozmowa.md) haben wir bes
 
 Eine Anliegenkarte ist eine geordnete Sammlung von Argumenten, Erfahrungen und offenen Fragen rund um eine Frage. Ein Ideensteckbrief beschreibt eine Idee: wohin sie führt und was der nächste Schritt ist.
 
-Der Prototyp des Omniforums ist im Aufbau. Alles, was wir im Folgenden beschreiben, ist ein Entwurf; wir haben noch keinen Versuch abgeschlossen.
+Der Prototyp des OmniForums ist im Aufbau. Alles, was wir im Folgenden beschreiben, ist ein Entwurf; wir haben noch keinen Versuch abgeschlossen.
 
-Mehr: [Whitepaper zum Omniforum, Kapitel 1](../whitepaper-omniforum.md#s1).
+Mehr: [Whitepaper zum OmniForum, Kapitel 1](../whitepaper-omniforum.md#s1).
 
 ## Von der Gedankenkette zur Karte
 
@@ -23,7 +23,7 @@ Die Anliegenkarte stellt Ketten verschiedener Menschen nebeneinander, auch solch
 
 Ein Anliegen ist eine Frage, zu der jemand zurückkehren möchte, um etwas zu verstehen, zu vergleichen oder gemeinsam zu tun. Ein dauerhafter Link führt zu allem, was dazu gehört: Frage, Quellen, Argumente, Wissensstand und Änderungsgeschichte. Ein privates Anliegen bearbeitet man in Suveria (dem privaten Raum für die Arbeit mit digitaler Intelligenz); ein gemeinsames Anliegenregister ist eine Richtung, die wir in einem gesonderten Versuch prüfen werden.
 
-Mehr: [Whitepaper zum Omniforum, Kapitel 5](../whitepaper-omniforum.md#s5) und [Abschnitt 5.1](../whitepaper-omniforum.md#s5-1).
+Mehr: [Whitepaper zum OmniForum, Kapitel 5](../whitepaper-omniforum.md#s5) und [Abschnitt 5.1](../whitepaper-omniforum.md#s5-1).
 
 ## Wie man die Karte liest
 
@@ -31,7 +31,7 @@ Die Karte soll sich ruhig öffnen. Zuerst siehst du eine zentrale Schlussfolgeru
 
 Wenn du nach einer Woche oder einem Jahr zu einem Thema zurückkehrst, sollst du nur sehen, was sich geändert hat: neue Erfahrungen, Korrekturen, Versuchsergebnisse und weiterhin offene Fragen. Nachdem du die Änderungen durchgesehen hast, erhältst du einen klaren Hinweis, dass das alles war, und kannst in Ruhe zu deinen eigenen Beschäftigungen zurückkehren.
 
-Mehr: [Whitepaper zum Omniforum, Kapitel 5](../whitepaper-omniforum.md#s5) und [Abschnitt 1.1](../whitepaper-omniforum.md#s1-1).
+Mehr: [Whitepaper zum OmniForum, Kapitel 5](../whitepaper-omniforum.md#s5) und [Abschnitt 1.1](../whitepaper-omniforum.md#s1-1).
 
 ## Wie stark eine Schlussfolgerung ist
 
@@ -43,9 +43,9 @@ Bei einer Schlussfolgerung wollen wir drei Dinge gesondert zeigen:
 
 Ein Maß ersetzt das andere nicht: Vollständige Zustimmung der Teilnehmenden auf Grundlage eines einzigen ungeprüften Berichts ergibt weiterhin eine schwache Schlussfolgerung. Die Skala für diese Bewertungen werden wir erst ausarbeiten, und gut gesicherten Tatsachen fügen wir keine scheinbare Unsicherheit hinzu.
 
-Das Manifest teilt gemeinsames Nachdenken in Fakten (das, was sich überprüfen lässt), Werte (Bedürfnisse und Überzeugungen darüber, was richtig ist) und Hypothesen, also kühne Ideen mit der gekennzeichneten Bedingung „Was müsste möglich werden, damit das funktioniert“. Über Fakten entscheiden Quellen und nicht die Zahl der Stimmen; bei Werten ist jeder Mensch ein gleichwertiger Bezugspunkt. Im Omniforum soll jeder Gedanke eine solche Kennzeichnung erhalten.
+Das Manifest teilt gemeinsames Nachdenken in Fakten (das, was sich überprüfen lässt), Werte (Bedürfnisse und Überzeugungen darüber, was richtig ist) und Hypothesen, also kühne Ideen mit der gekennzeichneten Bedingung „Was müsste möglich werden, damit das funktioniert“. Über Fakten entscheiden Quellen und nicht die Zahl der Stimmen; bei Werten ist jeder Mensch ein gleichwertiger Bezugspunkt. Im OmniForum soll jeder Gedanke eine solche Kennzeichnung erhalten.
 
-Mehr: [Whitepaper zum Omniforum, Kapitel 5](../whitepaper-omniforum.md#s5) und [Manifest, Abschnitt 5.1](../manifest.md#s5-1).
+Mehr: [Whitepaper zum OmniForum, Kapitel 5](../whitepaper-omniforum.md#s5) und [Manifest, Abschnitt 5.1](../manifest.md#s5-1).
 
 ## Ideensteckbrief
 
@@ -62,7 +62,7 @@ Kühne Visionen lassen sich leicht als realitätsfern abtun, vorsichtige Pläne 
 
 Ein Steckbrief ist kein einzelner Gedanke, sondern eine Ansicht vieler verbundener Begriffe, Aussagen, Quellen, Bedingungen und Versuche. Die ersten Steckbriefe sollen die Ideen aus unserem Manifest beschreiben.
 
-Mehr: [Whitepaper zum Omniforum, Abschnitt 5.2](../whitepaper-omniforum.md#s5-2).
+Mehr: [Whitepaper zum OmniForum, Abschnitt 5.2](../whitepaper-omniforum.md#s5-2).
 
 ## Von der Idee zur Initiative
 
@@ -70,7 +70,7 @@ Wenn ein Gespräch zu einer gemeinsamen Feststellung führt, was sich zu tun loh
 
 Bevor sie zur Entscheidung über gemeinsame Mittel gelangt, braucht sie das, was das Manifest den grünen Pfad nennt: eine Folge von Verbindungen, die ihre Grundlage in Fakten und die Zustimmung der Gemeinschaft zu den Werten zeigt, auf denen sie steht. Danach folgen gesonderte Entscheidungen: über das Ziel, die weitere Arbeit, die Kostenschätzung und die Umsetzung; die Zustimmung zum Ziel entscheidet nicht über Kosten oder Termin. Bis zur verbindlichen Abstimmung trifft der Vorstand diese Entscheidungen nach Konsultationen. Nach Abschluss veröffentlichen wir die tatsächlichen Kosten, das Ergebnis und die Schlussfolgerungen, auch wenn der Versuch gescheitert ist.
 
-Mehr: [Whitepaper zum Omniforum, Abschnitt 5.3](../whitepaper-omniforum.md#s5-3) und [Manifest, Abschnitt 5.3](../manifest.md#s5-3).
+Mehr: [Whitepaper zum OmniForum, Abschnitt 5.3](../whitepaper-omniforum.md#s5-3) und [Manifest, Abschnitt 5.3](../manifest.md#s5-3).
 
 ## Was wir weiter oben zeigen und was nicht
 
@@ -85,10 +85,10 @@ Bei der letzten rückt ein Argument höher, wenn Menschen es annehmen, die in an
 
 Im Vordergrund sollen der Inhalt und die Quelle mit ihrem Datum stehen. Wir führen weder öffentliche Beitragszähler noch Ranglisten von Personen, denn sie fördern einen Wettlauf und das Füllen der Karte mit Einträgen, auch durch Bots. Wir wollen, dass Aufmerksamkeit dem folgt, was ein Anliegen klärt, und nicht dem, was Gefühle am stärksten bewegt.
 
-Mehr: [Whitepaper zum Omniforum, Kapitel 6](../whitepaper-omniforum.md#s6).
+Mehr: [Whitepaper zum OmniForum, Kapitel 6](../whitepaper-omniforum.md#s6).
 
 ## Lies den Text und sag uns, was du denkst
 
-Die vollständige Beschreibung der Karten, Steckbriefe und Initiativen findest du im [Whitepaper zum Omniforum](../whitepaper-omniforum.md), besonders in den Kapiteln 5 und 6. Wenn dich etwas beschäftigt oder dir falsch erscheint, markiere diese Stelle im Dokument und nutze die Schaltfläche „Ich habe eine Anmerkung“ oder schreib an salve@novusignis.org.
+Die vollständige Beschreibung der Karten, Steckbriefe und Initiativen findest du im [Whitepaper zum OmniForum](../whitepaper-omniforum.md), besonders in den Kapiteln 5 und 6. Wenn dich etwas beschäftigt oder dir falsch erscheint, markiere diese Stelle im Dokument und nutze die Schaltfläche „Ich habe eine Anmerkung“ oder schreib an salve@novusignis.org.
 
-Mehr: [Whitepaper zum Omniforum, Abschnitt 5.5](../whitepaper-omniforum.md#s5-5).
+Mehr: [Whitepaper zum OmniForum, Abschnitt 5.5](../whitepaper-omniforum.md#s5-5).

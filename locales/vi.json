@@ -72,7 +72,7 @@
     "grid_title": "BA TRỤ CỘT",
     "col1": {
       "badge": "TRỤ CỘT I · BẮT ĐẦU",
-      "title": "Suveria và Omniforum",
+      "title": "Suveria và OmniForum",
       "r1_h": "Không gian riêng tư",
       "r2_h": "Cùng thấu hiểu",
       "r3_h": "Dịch vụ gần mức chi phí"
@@ -103,12 +103,12 @@
   },
   "meta": {
     "title": "Novus Ignis · Internet dựa trên phẩm giá con người",
-    "description": "Quỹ Novus Ignis cùng xây dựng một internet khác, lấy phẩm giá con người làm giá trị cao nhất. Suveria: không gian số riêng tư. Omniforum: không gian chung để trò chuyện và ra quyết định."
+    "description": "Quỹ Novus Ignis cùng xây dựng một internet khác, lấy phẩm giá con người làm giá trị cao nhất. Suveria: không gian số riêng tư. OmniForum: không gian chung để trò chuyện và ra quyết định."
   },
   "hub": {
     "badge": "QUỸ NOVUS IGNIS",
     "title": "Internet dựa trên<br><span class=\"gradient-text--fire\">phẩm giá con người</span>",
-    "subtitle": "Chúng tôi khởi đầu bằng việc cùng xây dựng một internet khác, lấy phẩm giá con người làm giá trị cao nhất, cùng nhu cầu riêng tư và tự do bắt nguồn từ đó. Từ những giá trị này, chúng tôi xác lập hai hướng làm việc: <strong>Suveria</strong>, không gian số riêng tư cho con người, và <strong>Omniforum</strong>, không gian công khai chung nơi mọi người có thể gặp gỡ, thấu hiểu và cùng hành động.",
+    "subtitle": "Chúng tôi khởi đầu bằng việc cùng xây dựng một internet khác, lấy phẩm giá con người làm giá trị cao nhất, cùng nhu cầu riêng tư và tự do bắt nguồn từ đó. Từ những giá trị này, chúng tôi xác lập hai hướng làm việc: <strong>Suveria</strong>, không gian số riêng tư cho con người, và <strong>OmniForum</strong>, không gian công khai chung nơi mọi người có thể gặp gỡ, thấu hiểu và cùng hành động.",
     "cta_manifesto": "Đọc tuyên ngôn",
     "cta_docs": "Tuyên ngôn và sách trắng",
     "docs_title": "Tuyên ngôn, sách trắng và điều lệ",
@@ -162,7 +162,7 @@
       "works": "Đang hoạt động",
       "works_text": "Quỹ đã được đăng ký, tuyên ngôn và sách trắng đã được công bố. Mỗi câu trong tài liệu đều có nút “Tôi có ý kiến” đang hoạt động.",
       "project": "Bản thiết kế",
-      "project_text": "Omniforum có nguyên mẫu đầu tiên đang được xây dựng, còn Suveria ở giai đoạn bản thiết kế.",
+      "project_text": "OmniForum có nguyên mẫu đầu tiên đang được xây dựng, còn Suveria ở giai đoạn bản thiết kế.",
       "hypothesis": "Giả thuyết",
       "hypothesis_text": "Phép tính chi phí là giả thuyết cần kiểm tra: ngay cả một nhóm nhỏ cũng có thể nhận được nhiều trí tuệ số hơn cho mỗi đô la so với dịch vụ đóng, cùng quyền riêng tư có thể kiểm chứng.",
       "vision": "Tầm nhìn",
@@ -174,9 +174,9 @@
       "suveria_title": "Suveria",
       "suveria_text": "Suveria được dự kiến là không gian riêng tư trên internet, nơi con người trò chuyện với trí tuệ số, làm việc trên tài liệu của mình và trở lại những suy nghĩ trước đó, như ở nhà riêng sau cánh cửa đóng kín. Hiện Suveria là con đường tốt nhất của chúng tôi đến công việc riêng tư với trí tuệ số, thay vì mục đích tự thân.",
       "suveria_link": "Suveria là gì →",
-      "omniforum_title": "Omniforum",
-      "omniforum_text": "Omniforum được dự kiến là nơi bất kỳ ai cũng có thể phát biểu về bất kỳ chủ đề nào và được lắng nghe. Câu hỏi đơn giản “ý bạn là thế này, tôi hiểu bạn đúng chứ?” thay đổi sắc thái cuộc trò chuyện ở cả hai phía. Toàn bộ phần kỹ thuật của Omniforum nhằm hỗ trợ chính phản xạ ấy.",
-      "omniforum_link": "Omniforum là gì →"
+      "omniforum_title": "OmniForum",
+      "omniforum_text": "OmniForum được dự kiến là nơi bất kỳ ai cũng có thể phát biểu về bất kỳ chủ đề nào và được lắng nghe. Câu hỏi đơn giản “ý bạn là thế này, tôi hiểu bạn đúng chứ?” thay đổi sắc thái cuộc trò chuyện ở cả hai phía. Toàn bộ phần kỹ thuật của OmniForum nhằm hỗ trợ chính phản xạ ấy.",
+      "omniforum_link": "OmniForum là gì →"
     },
     "help": {
       "title": "Bạn có thể giúp thế nào",
@@ -184,7 +184,7 @@
       "m5_text": "Đọc phần mở đầu tuyên ngôn, chọn câu chưa rõ hoặc bạn không đồng ý, rồi chọn “Tôi có ý kiến”.",
       "m5_model": "Nếu đọc về chúng tôi qua mô hình, hãy hỏi nó cả những điểm yếu nhất của chúng tôi và gửi điều nó tìm được.",
       "h1_title": "Một giờ",
-      "h1_text": "Xem sách trắng thuộc lĩnh vực của bạn: <a href=\"#\" data-doc-link=\"suveria\">an toàn và hạ tầng (Suveria)</a>, <a href=\"#\" data-doc-link=\"fundacja\">pháp luật và tài chính (nguyên tắc của Quỹ)</a>, <a href=\"#\" data-doc-link=\"benchmark\">nghiên cứu (tài liệu và bộ chuẩn đánh giá)</a>, <a href=\"#\" data-doc-link=\"omniforum\">trò chuyện và quyết định (Omniforum)</a>.",
+      "h1_text": "Xem sách trắng thuộc lĩnh vực của bạn: <a href=\"#\" data-doc-link=\"suveria\">an toàn và hạ tầng (Suveria)</a>, <a href=\"#\" data-doc-link=\"fundacja\">pháp luật và tài chính (nguyên tắc của Quỹ)</a>, <a href=\"#\" data-doc-link=\"benchmark\">nghiên cứu (tài liệu và bộ chuẩn đánh giá)</a>, <a href=\"#\" data-doc-link=\"omniforum\">trò chuyện và quyết định (OmniForum)</a>.",
       "more_title": "Lâu hơn",
       "more_text": "Cùng xây dựng những phiên bản đầu: trang <a href=\"#\" data-page-link=\"dolacz\">Tham gia</a> mô tả vai trò và những điều chúng tôi cần.",
       "money_title": "Hỗ trợ tài chính",
@@ -194,9 +194,9 @@
     "join_page": "Xem vai trò và gửi thư",
     "next": {
       "title": "Bạn có thể làm gì tiếp",
-      "status": "Quỹ, tài liệu và sổ ghi công khai các khoản đóng góp đang hoạt động. Suveria và Omniforum là các bản thiết kế chúng tôi đang phát triển.",
+      "status": "Quỹ, tài liệu và sổ ghi công khai các khoản đóng góp đang hoạt động. Suveria và OmniForum là các bản thiết kế chúng tôi đang phát triển.",
       "wait_title": "Cho biết bạn muốn thử",
-      "wait_text": "Tham gia danh sách chờ. Chúng tôi sẽ viết cho bạn khi bắt đầu những lần thử đầu tiên của Suveria và Omniforum.",
+      "wait_text": "Tham gia danh sách chờ. Chúng tôi sẽ viết cho bạn khi bắt đầu những lần thử đầu tiên của Suveria và OmniForum.",
       "wait_btn": "Vào danh sách chờ",
       "wait_note": "Chỉ cần gửi thư với tiêu đề có sẵn. Địa chỉ của bạn chỉ được dùng cho một thư đó và sẽ được xóa ngay khi bạn yêu cầu. <a href=\"twoje-dane.html\">Dữ liệu của bạn</a>",
       "read_title": "Đọc thêm",
@@ -226,7 +226,7 @@
     "docs": {
       "manifest": "Tuyên ngôn",
       "suveria": "Sách trắng Suveria",
-      "omniforum": "Sách trắng Omniforum",
+      "omniforum": "Sách trắng OmniForum",
       "fundacja": "Nguyên tắc hoạt động của Quỹ",
       "benchmark": "Tài liệu và bộ chuẩn đánh giá",
       "statut": "Điều lệ và sổ ghi thay đổi"
@@ -244,7 +244,7 @@
     "groups": {
       "dlaczego": "Vì sao",
       "suveria": "Suveria",
-      "omniforum": "Omniforum",
+      "omniforum": "OmniForum",
       "fundacja": "Quỹ",
       "dokumenty": "Tài liệu",
       "dolacz": "Tham gia",
@@ -260,7 +260,7 @@
     "overview": {
       "dlaczego": "Vì sao Novus Ignis",
       "suveria": "Suveria là gì",
-      "omniforum": "Omniforum là gì",
+      "omniforum": "OmniForum là gì",
       "fundacja": "Chúng tôi là ai",
       "dokumenty": "Mọi tài liệu",
       "dolacz": "Chúng tôi tìm ai và bắt đầu thế nào"

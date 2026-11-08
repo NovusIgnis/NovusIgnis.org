@@ -55,7 +55,7 @@ Die Regeln, nach denen der Assistent antwortet, werden wir mit jeder Fassung vol
 
 Die gemeinsame Infrastruktur soll nur Modelle und Einstellungen bereitstellen, die die öffentlichen Versuche des Benchmarks bestehen. Über dieses Mindestmaß hinaus wählst du selbst den Arbeitsstil, vom ruhigen Ordnen von Gedanken bis zu einem anspruchsvollen Gespräch, in dem der Assistent Lücken im Denken aufzeigt.
 
-Wir wollen eine offene Bibliothek geprüfter Anweisungen führen, die Teilnehmende im Omniforum (dem gemeinsamen Raum für Gespräch und Entscheidungen) verbessern und im Benchmark prüfen. Diese Bibliothek gibt es noch nicht.
+Wir wollen eine offene Bibliothek geprüfter Anweisungen führen, die Teilnehmende im OmniForum (dem gemeinsamen Raum für Gespräch und Entscheidungen) verbessern und im Benchmark prüfen. Diese Bibliothek gibt es noch nicht.
 
 Mehr: [Whitepaper zu Suveria, Kapitel 4](../whitepaper-suveria.md#s4) und [Abschnitt 4.1](../whitepaper-suveria.md#s4-1).
 

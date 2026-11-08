@@ -13,7 +13,7 @@ Questa pagina racconta in breve per quale scopo è nata la Fondazione Novus Igni
 
 L'intelligenza digitale impara da ciò che le persone scrivono e fanno. Tutto è cominciato da una domanda del fondatore, Marcin Wołowski: quali schemi del nostro comportamento le trasmettiamo in questo modo? Da qui l'idea di un'altra strada: siamo noi, per primi, a organizzare il mondo secondo i principi che in seguito ci aspetteremo da essa.
 
-Rispondiamo a questa domanda con un tentativo e non con una semplice descrizione. Organizziamo un piccolo pezzo di mondo secondo questi principi e registriamo come ci riesce, errori compresi. Suveria, Omniforum e la fondazione stessa sono gli strumenti di questo tentativo. Si possono usare questi spazi senza l'obbligo di partecipare al loro sviluppo né di condividere ogni proposta del manifesto.
+Rispondiamo a questa domanda con un tentativo e non con una semplice descrizione. Organizziamo un piccolo pezzo di mondo secondo questi principi e registriamo come ci riesce, errori compresi. Suveria, OmniForum e la fondazione stessa sono gli strumenti di questo tentativo. Si possono usare questi spazi senza l'obbligo di partecipare al loro sviluppo né di condividere ogni proposta del manifesto.
 
 Per saperne di più: [manifesto, punto 1.1](../manifest.md#s1-1) e [punto 1.2](../manifest.md#s1-2).
 
@@ -39,7 +39,7 @@ Da questi principi nascono due direzioni di lavoro.
 
 **Suveria** deve essere uno spazio digitale privato per la persona: un luogo in cui lavorare con l'aiuto facoltativo dell'intelligenza digitale, sviluppare idee, porre domande personali e fare piani. La sua privacy deve dipendere non dalla fiducia nella fondazione o nelle persone che gestiscono il servizio, ma da misure di sicurezza il cui funzionamento possa essere verificato in modo indipendente. Oggi Suveria è un progetto. Vedi: [Che cos'è Suveria](suveria.md).
 
-**Omniforum** deve essere uno spazio pubblico comune in cui chiunque possa prendere la parola e trovare ascolto. Con l'aiuto dell'intelligenza digitale, sempre sotto il controllo e con il consenso dell'autore, gli interventi complessi devono poter essere scomposti in singoli pensieri, in modo che due persone con opinioni apparentemente opposte vedano che cosa le unisce e in quale punto il loro ragionamento diverge. Omniforum ha un primo prototipo in costruzione. Vedi: [Che cos'è Omniforum](omniforum.md).
+**OmniForum** deve essere uno spazio pubblico comune in cui chiunque possa prendere la parola e trovare ascolto. Con l'aiuto dell'intelligenza digitale, sempre sotto il controllo e con il consenso dell'autore, gli interventi complessi devono poter essere scomposti in singoli pensieri, in modo che due persone con opinioni apparentemente opposte vedano che cosa le unisce e in quale punto il loro ragionamento diverge. OmniForum ha un primo prototipo in costruzione. Vedi: [Che cos'è OmniForum](omniforum.md).
 
 I due spazi devono completarsi a vicenda come un laboratorio privato e una tribuna pubblica. La persona decide da sé quali pensieri tenere per sé e quali portare nel lavoro comune.
 
@@ -49,7 +49,7 @@ Per saperne di più: [manifesto, introduzione](../manifest.md#top), [punto 3.1](
 
 Il manifesto lo dice apertamente:
 
-> La fondazione è registrata e il manifesto e i whitepaper sono pubblicati. Omniforum ha un primo prototipo in costruzione, mentre Suveria è un progetto. Il calcolo dei costi del punto 2.4 è un'ipotesi da verificare, mentre la gestione autonoma da parte dell'intelligenza digitale (punto 7.2) e gli ulteriori pilastri (capitolo 9) sono una visione.
+> La fondazione è registrata e il manifesto e i whitepaper sono pubblicati. OmniForum ha un primo prototipo in costruzione, mentre Suveria è un progetto. Il calcolo dei costi del punto 2.4 è un'ipotesi da verificare, mentre la gestione autonoma da parte dell'intelligenza digitale (punto 7.2) e gli ulteriori pilastri (capitolo 9) sono una visione.
 
 I whitepaper sono documenti sviluppati insieme ai progetti: descrivono i modi tecnici e organizzativi per realizzare queste idee, le loro motivazioni e i limiti noti.
 

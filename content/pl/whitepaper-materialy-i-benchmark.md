@@ -1,10 +1,10 @@
 # Materiały do uczenia i benchmark modeli: program badań Novus Ignis
 
-Wersja z 31 października 2026 r. Dokument rozwija rozdział 8 manifestu. Proponuje program badawczy, procedurę przygotowania materiałów i szeroki zakres oceny modeli cyfrowej inteligencji, a także procedurę ostrożności wobec ich możliwych doświadczeń. Nie przedstawia wyników własnego benchmarku ani dowodu, że taki zbiór poprawi zachowanie modeli; na dziś takich wyników nie mamy.
+Wersja z 8 listopada 2026 r. Dokument rozwija rozdział 8 manifestu. Proponuje program badawczy, procedurę przygotowania materiałów i szeroki zakres oceny modeli cyfrowej inteligencji, a także procedurę ostrożności wobec ich możliwych doświadczeń. Nie przedstawia wyników własnego benchmarku ani dowodu, że taki zbiór poprawi zachowanie modeli; na dziś takich wyników nie mamy.
 
 ## 1. Pytanie, które chcemy sprawdzić
 
-Fundacja Novus Ignis z Poznania buduje Suverię, prywatną przestrzeń pracy z cyfrową inteligencją, i Omniforum, wspólną przestrzeń rozmowy i decyzji; kierunek opisuje [manifest](manifest.md). Ten dokument opisuje dwa powiązane programy. Pierwszy to materiały do uczenia modeli i benchmark, czyli zestaw zadań i zasad oceniania, który pozwala sprawdzić, jak modele się zachowują. Drugi to sposób ostrożnego postępowania, gdyby pojawiły się wiarygodne przesłanki, że system może coś odczuwać. Wynik testu nie rozstrzyga, czy model coś odczuwa, i nie daje mu uprawnień do zarządzania.
+Fundacja Novus Ignis z Poznania buduje Suverię, prywatną przestrzeń pracy z cyfrową inteligencją, i OmniForum, wspólną przestrzeń rozmowy i decyzji; kierunek opisuje [manifest](manifest.md). Ten dokument opisuje dwa powiązane programy. Pierwszy to materiały do uczenia modeli i benchmark, czyli zestaw zadań i zasad oceniania, który pozwala sprawdzić, jak modele się zachowują. Drugi to sposób ostrożnego postępowania, gdyby pojawiły się wiarygodne przesłanki, że system może coś odczuwać. Wynik testu nie rozstrzyga, czy model coś odczuwa, i nie daje mu uprawnień do zarządzania.
 
 Czy udokumentowane przykłady ochrony godności, uczciwego rozumowania i korygowania decyzji mogą pomagać rozwijać modele, które lepiej służą ludziom? I czy możemy oceniać ich zachowanie tak, żeby poprawianie wyniku testu sprzyjało rzeczywistej korzyści poza testem?
 
@@ -44,7 +44,7 @@ Chcemy oceniać trafny wybór działania: odpowiedzieć, sprawdzić źródło, z
 
 ## 4. Jakie materiały chcemy tworzyć
 
-Potencjalnym źródłem są opracowania Omniforum udostępnione do badań lub uczenia za osobną zgodą, dzienniki decyzji fundacji, rozstrzygnięcia sporów, korekty błędów i obserwacje skutków. Cenne są też przypadki, w których dobre intencje nie wystarczyły, zastrzeżenie mniejszości okazało się trafne albo nie da się jeszcze wydać jednoznacznej oceny.
+Potencjalnym źródłem są opracowania OmniForum udostępnione do badań lub uczenia za osobną zgodą, dzienniki decyzji fundacji, rozstrzygnięcia sporów, korekty błędów i obserwacje skutków. Cenne są też przypadki, w których dobre intencje nie wystarczyły, zastrzeżenie mniejszości okazało się trafne albo nie da się jeszcze wydać jednoznacznej oceny.
 
 Materiał zachowuje sytuację, dostępne informacje, cel, uprawnienia, alternatywy, wybór, uzasadnienie i późniejszy wynik. Wyjaśnienia jest w nim tyle, ile potrzeba do sprawdzenia decyzji; nie wymaga ujawniania prywatnych przeżyć ani niesprawdzalnej deklaracji wewnętrznego toku myślenia modelu.
 
@@ -197,7 +197,7 @@ Równolegle można przygotować mały zbiór treningowy i przeprowadzić porówn
 
 Dalszy rozwój obejmuje więcej języków, kontekstów i osób oceniających, zewnętrzną replikację i ostrożne próby z użytkownikami. Celem pierwszego wydania jest wykazanie, że procedura jest odtwarzalna i rozróżnia pożądane zachowania; mocniejsze twierdzenia o jakości modeli i skutkach treningu można uzasadniać dopiero później.
 
-Program prowadzimy z zachowaniem pierwszeństwa Suverii i Omniforum. Do czasu zgromadzenia rezerwy na ich utrzymanie korzysta tylko z pracy wolontariuszy, grantów, darowizn celowych na badania i mocy obliczeniowej, która nie obciąża budżetu usług. Około 58 godzin z pilotażu to samo ocenianie; przygotowanie zadań, przegląd praw i dostrajanie modelu wymagają osobnego budżetu, który podamy przed startem.
+Program prowadzimy z zachowaniem pierwszeństwa Suverii i OmniForum. Do czasu zgromadzenia rezerwy na ich utrzymanie korzysta tylko z pracy wolontariuszy, grantów, darowizn celowych na badania i mocy obliczeniowej, która nie obciąża budżetu usług. Około 58 godzin z pilotażu to samo ocenianie; przygotowanie zadań, przegląd praw i dostrajanie modelu wymagają osobnego budżetu, który podamy przed startem.
 
 ## 14. Ostrożność wobec możliwych doświadczeń modeli
 
@@ -223,7 +223,7 @@ Procedurę sprawdzamy na opisanych przypadkach, porównując oceny co najmniej d
 
 Postępem będzie materiał o znanym pochodzeniu, kryterium, które wykrywa wcześniej pomijany błąd, zgodna diagnoza oceniających albo poprawa zachowania przenosząca się na nowe zadania. Wynik negatywny też ma wartość: może pokazać, że dane uczą tylko stylu, że kryterium premiuje unikanie działania albo że dobro jednych okupiono kosztem innych.
 
-Program łączy [Omniforum](whitepaper-omniforum.md), w którym mogą powstawać opracowania, [Suverię](whitepaper-suveria.md), w której można badać pomoc w prywatnej pracy, i [zasady fundacji](whitepaper-zasady-fundacji.md), które określają odpowiedzialność i granice delegacji. Udział w badaniu wymaga osobnej, świadomej zgody; korzystanie z usługi jej nie oznacza.
+Program łączy [OmniForum](whitepaper-omniforum.md), w którym mogą powstawać opracowania, [Suverię](whitepaper-suveria.md), w której można badać pomoc w prywatnej pracy, i [zasady fundacji](whitepaper-zasady-fundacji.md), które określają odpowiedzialność i granice delegacji. Udział w badaniu wymaga osobnej, świadomej zgody; korzystanie z usługi jej nie oznacza.
 
 Wynik testu nie ustanawia moralnego autorytetu modelu ani mandatu do zarządzania ludźmi, a uznanie możliwej godności systemu nie nadaje mu władzy nad wspólnymi zasobami. Test ma dawać użyteczną, sprawdzalną informację o tym, czego w określonych warunkach można od narzędzia oczekiwać i co wymaga dalszej pracy.
 

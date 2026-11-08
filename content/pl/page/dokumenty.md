@@ -17,13 +17,13 @@ Niższy dokument nie może przeczyć wyższemu: manifest nie obiecuje niczego, c
 
 ## Lista dokumentów
 
-Suveria jest projektem, a Omniforum ma prototyp w budowie, więc whitepapery opisują zamiary i granice, nie działające usługi; każdy z nich mówi o tym w pierwszym akapicie. Więcej: [manifest, wstęp](../manifest.md#top).
+Suveria jest projektem, a OmniForum ma prototyp w budowie, więc whitepapery opisują zamiary i granice, nie działające usługi; każdy z nich mówi o tym w pierwszym akapicie. Więcej: [manifest, wstęp](../manifest.md#top).
 
 | Dokument | Co w nim jest | Wersja | Czas czytania | Język |
 |---|---|---|---|---|
 | [Manifest](../manifest.md) | Co chcemy robić i dlaczego: godność, prywatność, wspólne rozumienie, utrzymanie usług i przekazywanie władzy. | 31.10.2026 | ok. 60 minut | polski i angielski |
 | [Suveria: prywatna praca z cyfrową inteligencją](../whitepaper-suveria.md) | Co chronimy i przed czym, droga od urządzenia do modelu, datowany rachunek kosztów i próby odbiorowe. | 31.10.2026 | ok. 50 minut | polski i angielski |
-| [Omniforum: wspólne rozumienie, rozmowa i decyzje](../whitepaper-omniforum.md) | Sprawy, karta idei, mapa argumentów, żywe dokumenty i zasady wspólnych decyzji. | 31.10.2026 | ok. 50 minut | polski i angielski |
+| [OmniForum: wspólne rozumienie, rozmowa i decyzje](../whitepaper-omniforum.md) | Sprawy, karta idei, mapa argumentów, żywe dokumenty i zasady wspólnych decyzji. | 31.10.2026 | ok. 50 minut | polski i angielski |
 | [Zasady działania fundacji](../whitepaper-zasady-fundacji.md) | Rachunek za rzeczywiste użycie, budżet, praca i role, rejestr korzyści oraz przekazanie uprawnień fundatora. | 31.10.2026 | ok. 50 minut | polski i angielski |
 | [Materiały do uczenia i benchmark modeli](../whitepaper-materialy-i-benchmark.md) | Jak sprawdzać, czy cyfrowa inteligencja rzeczywiście pomaga ludziom; program badań, na dziś bez wyników. | 31.10.2026 | ok. 25 minut | polski i angielski |
 | [Statut: wersje i rejestr zmian](../statut/rejestr-zmian.md) | Wszystkie wersje statutu oraz zmiany dokonane i planowane, z uzasadnieniem. | wpisy do 30.10.2026 | ok. 10 minut | polski i angielski |
@@ -34,7 +34,7 @@ Wszystkie dokumenty są po polsku i angielsku (angielski statut tylko informacyj
 ## Jak czytać
 
 - Masz 5 minut: przeczytaj stronę [W skrócie](w-skrocie.md) albo [wstęp manifestu](../manifest.md#top).
-- Masz godzinę: przeczytaj whitepaper ze swojej dziedziny. Suveria dotyczy bezpieczeństwa i infrastruktury, Omniforum rozmowy i decyzji, zasady fundacji prawa i pieniędzy, a benchmark badań nad modelami.
+- Masz godzinę: przeczytaj whitepaper ze swojej dziedziny. Suveria dotyczy bezpieczeństwa i infrastruktury, OmniForum rozmowy i decyzji, zasady fundacji prawa i pieniędzy, a benchmark badań nad modelami.
 - Masz więcej czasu: czytaj po kolei manifest, whitepapery, rejestr zmian statutu i statut.
 
 Manifest i cztery whitepapery są też w jednym pliku tekstowym, który możesz wrzucić do swojego czatu z cyfrową inteligencją i zapytać o to, co Cię interesuje: [po polsku](../llms-full.txt) albo [po angielsku](../en/llms-full.txt).
@@ -49,7 +49,7 @@ Przy każdym dokumencie i podstronie działa przycisk „Mam uwagę”. Zaznacz 
 
 Strona niczego nie zapisuje: wiadomość powstaje w Twoim programie pocztowym, a treść uwagi należy do Ciebie, dopóki jej nie wyślesz.
 
-Uwagi, które doprowadzą do zmian, będziemy odnotowywać w [dzienniku zmian strony](dziennik-zmian.md) i w historii dokumentu. Docelowo uwagi mają trafiać do Omniforum, gdzie inni będą mogli je zobaczyć i o nich rozmawiać; to jeszcze przed nami. Więcej: [whitepaper Omniforum, punkt 5.5](../whitepaper-omniforum.md#s5-5).
+Uwagi, które doprowadzą do zmian, będziemy odnotowywać w [dzienniku zmian strony](dziennik-zmian.md) i w historii dokumentu. Docelowo uwagi mają trafiać do OmniForum, gdzie inni będą mogli je zobaczyć i o nich rozmawiać; to jeszcze przed nami. Więcej: [whitepaper OmniForum, punkt 5.5](../whitepaper-omniforum.md#s5-5).
 
 ## Licencja i źródła
 

@@ -1,19 +1,19 @@
 ---
-tytul: Decisioni comuni in Omniforum
+tytul: Decisioni comuni in OmniForum
 opis: In che cosa una consultazione differisce da una votazione, come si deve ottenere il diritto di voto senza biometria, quali principi valgono sempre e perché le votazioni devono diventare vincolanti gradualmente
 grupa: omniforum
 kolejnosc: 3
 menu: Decisioni comuni
 ---
-# Decisioni comuni in Omniforum
+# Decisioni comuni in OmniForum
 
-Questa pagina approfondisce ciò che [Che cos'è Omniforum](omniforum.md) dice in breve sulle decisioni comuni: in che cosa una consultazione differisce da una votazione, come vogliamo attribuire il diritto di voto senza biometria, quali principi valgono sempre e perché i risultati delle votazioni devono vincolare la fondazione solo gradualmente.
+Questa pagina approfondisce ciò che [Che cos'è OmniForum](omniforum.md) dice in breve sulle decisioni comuni: in che cosa una consultazione differisce da una votazione, come vogliamo attribuire il diritto di voto senza biometria, quali principi valgono sempre e perché i risultati delle votazioni devono vincolare la fondazione solo gradualmente.
 
-Oggi non si svolge alcuna votazione né consultazione. Il prototipo di Omniforum è in costruzione e tutto ciò che descriviamo qui sotto è un progetto.
+Oggi non si svolge alcuna votazione né consultazione. Il prototipo di OmniForum è in costruzione e tutto ciò che descriviamo qui sotto è un progetto.
 
 È una delle parti più difficili dell'intera iniziativa, perciò diciamo apertamente che cosa è a portata di mano e su che cosa lavoreremo a lungo.
 
-Per saperne di più: [whitepaper di Omniforum, capitolo 8](../whitepaper-omniforum.md#s8).
+Per saperne di più: [whitepaper di OmniForum, capitolo 8](../whitepaper-omniforum.md#s8).
 
 ## Fatti, valori, ipotesi
 
@@ -36,7 +36,7 @@ Lo statuto della fondazione ammette votazioni e consultazioni sulla direzione de
 
 Finché una prova non conferma che ogni persona votante è una persona diversa, la chiamiamo consultazione, non votazione ai sensi dello statuto.
 
-Per saperne di più: [statuto, § 8](../statut/statut-2026-09-28.md#par-8), [whitepaper di Omniforum, punto 8.1](../whitepaper-omniforum.md#s8-1) e [whitepaper sui principi di funzionamento della fondazione, capitolo 2](../whitepaper-zasady-fundacji.md#s2).
+Per saperne di più: [statuto, § 8](../statut/statut-2026-09-28.md#par-8), [whitepaper di OmniForum, punto 8.1](../whitepaper-omniforum.md#s8-1) e [whitepaper sui principi di funzionamento della fondazione, capitolo 2](../whitepaper-zasady-fundacji.md#s2).
 
 ## Come ottenere il diritto di voto
 
@@ -53,7 +53,7 @@ Ogni credenziale deve ricevere un identificatore univoco, affinché un nuovo doc
 
 Combinare i percorsi lascia il rischio che la stessa persona ottenga credenziali aggiuntive. All'inizio lo accettiamo consapevolmente, perché possano partecipare quante più persone possibile da tutto il mondo; l'obiettivo resta un sistema in cui una persona ha un voto. Un rifiuto di ammissione ha una motivazione e una via di ricorso.
 
-Per saperne di più: [whitepaper di Omniforum, punto 8.3](../whitepaper-omniforum.md#s8-3) e [manifesto, punto 5.2](../manifest.md#s5-2).
+Per saperne di più: [whitepaper di OmniForum, punto 8.3](../whitepaper-omniforum.md#s8-3) e [manifesto, punto 5.2](../manifest.md#s5-2).
 
 ## Principi che valgono sempre
 
@@ -67,15 +67,15 @@ Sono principi del progetto che inseriremo nel regolamento delle votazioni.
 - Una proposta di spesa richiede il «percorso verde» del manifesto, cioè una catena di collegamenti che mostra il fondamento del piano nei fatti e l'accordo della comunità sulle scelte che ne sono alla base. Stabiliamo in anticipo la soglia di consenso in base all'importanza della questione, all'entità della spesa e alla reversibilità degli effetti.
 - Prima di votare, ogni persona vede una sintesi breve e accessibile delle posizioni, delle riserve e delle fonti, pubblicata in anticipo. Le parti della disputa possono segnalare che la loro posizione è stata omessa e in quel caso mostriamo accanto la loro formulazione.
 
-Per saperne di più: [whitepaper di Omniforum, capitolo 8](../whitepaper-omniforum.md#s8), [punto 8.3](../whitepaper-omniforum.md#s8-3) e [manifesto, punto 5.3](../manifest.md#s5-3).
+Per saperne di più: [whitepaper di OmniForum, capitolo 8](../whitepaper-omniforum.md#s8), [punto 8.3](../whitepaper-omniforum.md#s8-3) e [manifesto, punto 5.3](../manifest.md#s5-3).
 
 ## Questioni difficili: tre passi
 
-1. **Una mappa aperta della questione** in Omniforum, alla quale può partecipare chiunque.
+1. **Una mappa aperta della questione** in OmniForum, alla quale può partecipare chiunque.
 2. **Un'assemblea consultiva estratta a sorte**: un gruppo di persone sorteggiate dal registro di chi ha diritto al voto, con un'estrazione il cui risultato chiunque può verificare autonomamente sulla base di dati resi pubblici. Riceve tempo, materiali e la possibilità di parlare con chi presenta le proposte; consiglia, non decide.
 3. **Una votazione di tutte le persone aventi diritto.**
 
-Per saperne di più: [whitepaper di Omniforum, punto 8.4](../whitepaper-omniforum.md#s8-4).
+Per saperne di più: [whitepaper di OmniForum, punto 8.4](../whitepaper-omniforum.md#s8-4).
 
 ## Gradualmente e con prudenza
 
@@ -83,9 +83,9 @@ La votazione acquisterà forza vincolante gradualmente: prima prove senza conseg
 
 Fino ad allora la fondazione opera nella fase agile: il consiglio di amministrazione prende le decisioni correnti, sceglie di chiedere il parere della comunità sulle questioni importanti e pubblica la motivazione di ogni decisione rilevante. I risultati delle votazioni e delle consultazioni hanno formalmente carattere consultivo. Perché il risultato vincoli formalmente la fondazione serve una modifica dello statuto, descritta come Z4 nel [registro delle modifiche dello statuto](../statut/rejestr-zmian.md).
 
-L'avvio completo degli ulteriori pilastri (progetti aperti di oggetti durevoli e contatto con la natura) richiede tre condizioni congiunte: una votazione che garantisca un solo voto efficace della stessa persona, fondi per sei mesi di mantenimento di Suveria e Omniforum e una decisione della comunità. Considereremo soddisfatta la prima condizione solo quando i percorsi che consentono voti aggiuntivi saranno sostituiti da un sistema unico e le prove lo confermeranno.
+L'avvio completo degli ulteriori pilastri (progetti aperti di oggetti durevoli e contatto con la natura) richiede tre condizioni congiunte: una votazione che garantisca un solo voto efficace della stessa persona, fondi per sei mesi di mantenimento di Suveria e OmniForum e una decisione della comunità. Considereremo soddisfatta la prima condizione solo quando i percorsi che consentono voti aggiuntivi saranno sostituiti da un sistema unico e le prove lo confermeranno.
 
-Per saperne di più: [whitepaper di Omniforum, punto 8.5](../whitepaper-omniforum.md#s8-5), [whitepaper sui principi di funzionamento della fondazione, capitolo 2](../whitepaper-zasady-fundacji.md#s2) e [manifesto, punto 6.3](../manifest.md#s6-3).
+Per saperne di più: [whitepaper di OmniForum, punto 8.5](../whitepaper-omniforum.md#s8-5), [whitepaper sui principi di funzionamento della fondazione, capitolo 2](../whitepaper-zasady-fundacji.md#s2) e [manifesto, punto 6.3](../manifest.md#s6-3).
 
 ## Che cosa questo non assicurerà
 
@@ -96,10 +96,10 @@ Per saperne di più: [whitepaper di Omniforum, punto 8.5](../whitepaper-omniforu
 
 Non sappiamo ancora come conciliare pienamente un voto per persona senza una banca dati centrale delle identità, la segretezza e l'accesso da tutto il mondo. «Potrebbe volerci molto tempo, e lo diciamo apertamente.»
 
-Per saperne di più: [whitepaper di Omniforum, punto 8.2](../whitepaper-omniforum.md#s8-2), [punto 8.6](../whitepaper-omniforum.md#s8-6), [punto 8.7](../whitepaper-omniforum.md#s8-7) e [manifesto, punto 5.2](../manifest.md#s5-2).
+Per saperne di più: [whitepaper di OmniForum, punto 8.2](../whitepaper-omniforum.md#s8-2), [punto 8.6](../whitepaper-omniforum.md#s8-6), [punto 8.7](../whitepaper-omniforum.md#s8-7) e [manifesto, punto 5.2](../manifest.md#s5-2).
 
 ## Leggi e dicci che cosa ne pensi
 
-Trovi la descrizione completa nel [whitepaper di Omniforum](../whitepaper-omniforum.md), capitolo 8, e nel [manifesto](../manifest.md), capitolo 5. Se qualcosa ti fa riflettere o sembra sbagliato, seleziona quel passo nel documento e usa il pulsante «Ho un'osservazione» oppure scrivi a salve@novusignis.org.
+Trovi la descrizione completa nel [whitepaper di OmniForum](../whitepaper-omniforum.md), capitolo 8, e nel [manifesto](../manifest.md), capitolo 5. Se qualcosa ti fa riflettere o sembra sbagliato, seleziona quel passo nel documento e usa il pulsante «Ho un'osservazione» oppure scrivi a salve@novusignis.org.
 
-Per saperne di più: [whitepaper di Omniforum, punto 5.5](../whitepaper-omniforum.md#s5-5).
+Per saperne di più: [whitepaper di OmniForum, punto 5.5](../whitepaper-omniforum.md#s5-5).

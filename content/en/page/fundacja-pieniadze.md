@@ -17,14 +17,14 @@ More: [Foundation Principles whitepaper, chapter 1](../whitepaper-zasady-fundacj
 
 We do not show a single amount in the account; instead, we divide the money according to whom it belongs to and what it is intended for. The balance of the bank account is not a budget to be allocated.
 
-The reserve is money set aside to keep Suveria and Omniforum running if contributions fall short; the whitepaper also calls it the Pillar I safeguard (Pillar I is Suveria and Omniforum).
+The reserve is money set aside to keep Suveria and OmniForum running if contributions fall short; the whitepaper also calls it the Pillar I safeguard (Pillar I is Suveria and OmniForum).
 
 | Kind of money | Where it comes from | What it may be spent on |
 | --- | --- | --- |
 | Funds owed to users | Participants' unused prepayments | Only on their services; they can be recovered |
 | Money entrusted for a specific purpose | Earmarked donations, for example for the Suveria pilot | Only on that purpose |
 | Commitments made | Money already allocated to planned expenses | Only on those expenses |
-| Safeguard for maintaining the services | A reserve built from donations, including from rounding up bills | On the things without which Suveria and Omniforum would stop working |
+| Safeguard for maintaining the services | A reserve built from donations, including from rounding up bills | On the things without which Suveria and OmniForum would stop working |
 | Funds free to be allocated | Contributions without a specified purpose (donations, grants, subsidies, fundraisers), after deducting everything above | On new purposes, always with priority for Pillar I |
 
 We assign each amount to only one category, so as not to count anything twice. We count toward the reserve only money that has actually been received and does not belong to anyone else; pledges of payments do not count.
@@ -78,8 +78,8 @@ More: [Foundation Principles whitepaper, chapter 4](../whitepaper-zasady-fundacj
 
 Pillar I has priority. Pillar II “Hardware” (open material solutions) and Pillar III “Nature” (contact with nature) can be funded from the shared budget only once we meet all three conditions together:
 
-1. Omniforum is working, with voting based on zero-knowledge proofs, in which the choice is secret, one can check that a vote has been counted, and every eligible person has one vote;
-2. a separate account holds funds actually collected for at least six months of maintaining Suveria and Omniforum, untouched after the full budget of the new project has been set aside;
+1. OmniForum is working, with voting based on zero-knowledge proofs, in which the choice is secret, one can check that a vote has been counted, and every eligible person has one vote;
+2. a separate account holds funds actually collected for at least six months of maintaining Suveria and OmniForum, untouched after the full budget of the new project has been set aside;
 3. the community has approved the project and its funding in a vote open to everyone eligible on equal terms.
 
 A mock-up of voting, unpaid pledges and other people's balances do not meet these conditions.

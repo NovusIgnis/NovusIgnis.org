@@ -55,7 +55,7 @@ Zasady, według których asystent odpowiada, będziemy publikować w całości r
 
 Wspólna infrastruktura ma udostępniać tylko modele i ustawienia, które przejdą jawne próby benchmarku. Powyżej tego minimum to Ty wybierasz styl pracy, od spokojnego porządkowania myśli po wymagającą rozmowę, w której asystent wytyka luki w rozumowaniu.
 
-Chcemy prowadzić otwartą bibliotekę sprawdzonych instrukcji, którą uczestnicy ulepszają w Omniforum (wspólnej przestrzeni rozmowy i decyzji) i sprawdzają w benchmarku. Tej biblioteki jeszcze nie ma.
+Chcemy prowadzić otwartą bibliotekę sprawdzonych instrukcji, którą uczestnicy ulepszają w OmniForum (wspólnej przestrzeni rozmowy i decyzji) i sprawdzają w benchmarku. Tej biblioteki jeszcze nie ma.
 
 Więcej: [whitepaper Suverii, rozdział 4](../whitepaper-suveria.md#s4) i [punkt 4.1](../whitepaper-suveria.md#s4-1).
 

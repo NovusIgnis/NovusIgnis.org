@@ -1,12 +1,12 @@
 # Princípios de funcionamento da Fundação Novus Ignis: manutenção, cooperação e transferência de poder
 
-Versão de 31 de outubro de 2026. Este documento desenvolve o manifesto em questões de organização: como mantemos os serviços, como administramos o dinheiro comum, como cooperamos e como queremos transferir o poder. Descreve os princípios que pretendemos adotar como regulamentos e as alterações do estatuto que eles exigirão. O whitepaper, por si só, não altera o estatuto, as competências dos órgãos da fundação nem as regras de prestação de contas.
+Versão de 8 de novembro de 2026. Este documento desenvolve o manifesto em questões de organização: como mantemos os serviços, como administramos o dinheiro comum, como cooperamos e como queremos transferir o poder. Descreve os princípios que pretendemos adotar como regulamentos e as alterações do estatuto que eles exigirão. O whitepaper, por si só, não altera o estatuto, as competências dos órgãos da fundação nem as regras de prestação de contas.
 
-*Tradução realizada por inteligência digital a partir do original em polonês de 31 de outubro de 2026. Em caso de divergência entre as versões, prevalece o texto em polonês.*
+*Tradução realizada por inteligência digital a partir do original em polonês de 8 de novembro de 2026. Em caso de divergência entre as versões, prevalece o texto em polonês.*
 
 ## 1. O estatuto, o manifesto, os regulamentos e este documento
 
-A Fundação Novus Ignis, de Poznań (KRS 0001269575), quer construir uma internet alternativa baseada na dignidade humana. Seu primeiro pilar consiste em dois serviços: Suveria, um espaço privado de trabalho com inteligência digital, e Omniforum, um espaço compartilhado de conversa, compreensão e decisões. Este documento descreve como a fundação pretende decidir, prestar contas do dinheiro, organizar o trabalho e transferir a responsabilidade; os valores e o rumo são descritos no manifesto.
+A Fundação Novus Ignis, de Poznań (KRS 0001269575), quer construir uma internet alternativa baseada na dignidade humana. Seu primeiro pilar consiste em dois serviços: Suveria, um espaço privado de trabalho com inteligência digital, e OmniForum, um espaço compartilhado de conversa, compreensão e decisões. Este documento descreve como a fundação pretende decidir, prestar contas do dinheiro, organizar o trabalho e transferir a responsabilidade; os valores e o rumo são descritos no manifesto.
 
 Novus Ignis é uma fundação polonesa registrada na União Europeia (Poznań). Em termos internacionais, é uma entidade sem acionistas, que não distribui lucros a ninguém: seu patrimônio serve exclusivamente aos objetivos do estatuto. Pelos serviços, cobramos valores que não superam seus custos reais, e financiamos o desenvolvimento e a reserva com doações voluntárias.
 
@@ -39,11 +39,11 @@ Para os princípios descritos abaixo, estas são hoje as disposições mais impo
 
 ## 2. Fase ágil: como decidimos antes de a votação entrar em funcionamento
 
-Até o início da votação vinculante da comunidade, a fundação atua em fase ágil. A diretoria toma as decisões do dia a dia dentro dos limites da lei e do estatuto, inclusive quando é preciso responder rapidamente às mudanças na tecnologia, no debate público e nas necessidades das pessoas. Não suspendemos o desenvolvimento até que exista um sistema completo de votação: nesse período, é a diretoria que decide sobre as despesas de manutenção e desenvolvimento do Pilar I, ou seja, Suveria e Omniforum.
+Até o início da votação vinculante da comunidade, a fundação atua em fase ágil. A diretoria toma as decisões do dia a dia dentro dos limites da lei e do estatuto, inclusive quando é preciso responder rapidamente às mudanças na tecnologia, no debate público e nas necessidades das pessoas. Não suspendemos o desenvolvimento até que exista um sistema completo de votação: nesse período, é a diretoria que decide sobre as despesas de manutenção e desenvolvimento do Pilar I, ou seja, Suveria e OmniForum.
 
 O estatuto permite à diretoria mais do que ela deseja utilizar. Nosso objetivo é que todas as decisões que entregamos à comunidade sejam tomadas por votação da comunidade e tenham caráter vinculante. Para isso, precisamos de um mecanismo que funcione e que saibamos manter, por isso avançamos por etapas. Até lá, a diretoria, por escolha e não por obrigação legal, pede a opinião da comunidade em consultas sobre questões importantes e publica a justificativa de cada decisão importante, inclusive das recusas. Uma consulta não exige verificação dos participantes, portanto uma pessoa pode votar várias vezes nela: mostra a opinião dos participantes, mas não é uma votação na acepção do estatuto. Antes de cada consulta, a diretoria anuncia como tratará seu resultado. Os participantes podem contestar qualquer decisão da diretoria, e a diretoria responde publicamente às objeções.
 
-A fase ágil termina gradualmente, assim como o poder da votação cresce gradualmente, e cada passo é um teste. Primeiro realizamos testes sem consequências financeiras, depois votações sobre decisões reais relativas a um pequeno montante separado e a ações que possam ser revertidas; em seguida, ampliamos o alcance. Antes de cada teste, anunciamos seu alcance, sua duração e como a diretoria tratará o resultado. Após seu término, publicamos um resumo: se foi possível executar o resultado, como o teste afetou a condução da fundação e a tomada de decisões, quais erros e abusos detectamos e o que estamos mudando. Só ampliamos o alcance com base nesses resumos, porque não queremos assumir compromissos que não sabemos cumprir. As etapas, a verificação dos participantes e a proteção do sigilo do voto são descritas no [whitepaper do Omniforum](whitepaper-omniforum.md). Para que o resultado de uma votação vincule a fundação formalmente, e não apenas por escolha da diretoria, é necessária uma alteração do estatuto (Z4 no registro de alterações), pois hoje o § 8 apenas admite votações e consultas. Enquanto um teste não confirmar a unicidade de cada votante, chamamos esse teste de consulta, e não de votação na acepção do § 8(2) do estatuto. Quando a votação assumir determinado tipo de decisão, a diretoria só poderá suspender a execução do resultado por razões descritas antes da votação, por exemplo, um erro detectado no protocolo, um abuso em larga escala documentado ou uma falha de infraestrutura, com justificativa pública e prazo para reavaliação.
+A fase ágil termina gradualmente, assim como o poder da votação cresce gradualmente, e cada passo é um teste. Primeiro realizamos testes sem consequências financeiras, depois votações sobre decisões reais relativas a um pequeno montante separado e a ações que possam ser revertidas; em seguida, ampliamos o alcance. Antes de cada teste, anunciamos seu alcance, sua duração e como a diretoria tratará o resultado. Após seu término, publicamos um resumo: se foi possível executar o resultado, como o teste afetou a condução da fundação e a tomada de decisões, quais erros e abusos detectamos e o que estamos mudando. Só ampliamos o alcance com base nesses resumos, porque não queremos assumir compromissos que não sabemos cumprir. As etapas, a verificação dos participantes e a proteção do sigilo do voto são descritas no [whitepaper do OmniForum](whitepaper-omniforum.md). Para que o resultado de uma votação vincule a fundação formalmente, e não apenas por escolha da diretoria, é necessária uma alteração do estatuto (Z4 no registro de alterações), pois hoje o § 8 apenas admite votações e consultas. Enquanto um teste não confirmar a unicidade de cada votante, chamamos esse teste de consulta, e não de votação na acepção do § 8(2) do estatuto. Quando a votação assumir determinado tipo de decisão, a diretoria só poderá suspender a execução do resultado por razões descritas antes da votação, por exemplo, um erro detectado no protocolo, um abuso em larga escala documentado ou uma falha de infraestrutura, com justificativa pública e prazo para reavaliação.
 
 ## 3. Serviços o mais próximo possível do custo
 
@@ -104,12 +104,12 @@ Na prestação de contas, separamos cinco tipos de dinheiro:
 | Recursos devidos aos usuários | Pagamentos antecipados não utilizados e saldos dos participantes | Não, pertencem aos participantes |
 | Dinheiro confiado para uma finalidade específica | Doações com destinação específica, por exemplo, para uma iniciativa concreta ou para o projeto-piloto da Suveria | Somente para essa finalidade |
 | Compromissos assumidos | Dinheiro que já destinamos a despesas planejadas | Não, já está destinado |
-| Proteção da manutenção dos serviços | Reserva sem a qual Suveria e Omniforum deixariam de funcionar | Não, protege a continuidade dos serviços |
+| Proteção da manutenção dos serviços | Reserva sem a qual Suveria e OmniForum deixariam de funcionar | Não, protege a continuidade dos serviços |
 | Recursos livres para alocação | O que resta depois de tudo o que foi listado acima | Sim, sempre com prioridade para o Pilar I (capítulo 8) |
 
 Atribuímos cada valor a apenas uma categoria, para não contar nada duas vezes.
 
-O custo de manutenção dos serviços inclui tudo sem o que Suveria e Omniforum deixariam de funcionar: capacidade de processamento, armazenamento de dados e cópias de segurança, domínios, processamento de pagamentos e contabilidade obrigatória. Por isso, o saldo da conta bancária não é um orçamento disponível para alocação, e a reserva não é formada por dinheiro prometido, mas ainda não recebido, nem por dinheiro devido a outra pessoa.
+O custo de manutenção dos serviços inclui tudo sem o que Suveria e OmniForum deixariam de funcionar: capacidade de processamento, armazenamento de dados e cópias de segurança, domínios, processamento de pagamentos e contabilidade obrigatória. Por isso, o saldo da conta bancária não é um orçamento disponível para alocação, e a reserva não é formada por dinheiro prometido, mas ainda não recebido, nem por dinheiro devido a outra pessoa.
 
 São públicas as categorias de custos, as condições dos contratos maiores, as decisões e suas justificativas. Deve ser possível relacionar cada despesa à decisão que a originou e ao seu resultado. Ao mesmo tempo, protegemos dados pessoais, credenciais de acesso e informações cuja divulgação aumentaria os riscos para a infraestrutura.
 
@@ -162,13 +162,13 @@ Os integrantes da diretoria não celebram contratos remunerados com a fundação
 
 ### 5.4. Oficina própria e contexto preparado
 
-Assumir uma tarefa deve abrir um espaço para ela no ambiente escolhido pelo participante. O assistente de inteligência digital recebe o necessário para o trabalho: os valores da fundação, o objetivo e os limites da tarefa, os entendimentos atuais do Omniforum, os argumentos relevantes e as perguntas em aberto, as fontes, o limite de recursos e o método de avaliação do resultado. O participante pode verificar esse contexto, apontar lacunas e corrigir a forma de apresentação de sua própria posição.
+Assumir uma tarefa deve abrir um espaço para ela no ambiente escolhido pelo participante. O assistente de inteligência digital recebe o necessário para o trabalho: os valores da fundação, o objetivo e os limites da tarefa, os entendimentos atuais do OmniForum, os argumentos relevantes e as perguntas em aberto, as fontes, o limite de recursos e o método de avaliação do resultado. O participante pode verificar esse contexto, apontar lacunas e corrigir a forma de apresentação de sua própria posição.
 
 Entrar em uma tarefa disponibiliza apenas o conjunto de dados e permissões escolhido. A transmissão do contexto, o acesso às ferramentas e a publicação do registro do trabalho exigem consentimentos definidos separadamente, e as conversas privadas, os arquivos e as credenciais de acesso permanecem fora desse alcance até que a pessoa decida conscientemente de outra forma. Antes de disponibilizar essa conexão, descreveremos quais dados saem do ambiente privado, a quem são transmitidos e como são tratados.
 
 Depois de uma pausa, a oficina deverá mostrar o que mudou e onde se pode continuar, e deverá ser possível transferir o resultado e o estado da tarefa à próxima pessoa sem revelar o ambiente privado do participante. Em um teste, verificaremos o início de uma tarefa, o retorno após uma semana e a passagem do trabalho: o tempo para localizar o contexto, a correção dos resumos e o respeito aos limites de privacidade.
 
-Enquanto não tivermos servidores próprios, podemos cobrir, com recursos do Pilar I ou com doações com destinação específica, os custos de ferramentas de que os voluntários precisam para criar e testar o código aberto da Suveria e do Omniforum, por exemplo, acesso a modelos por API ou ferramentas de programação. Esse apoio tem um limite público no orçamento e não é remuneração. A lei sobre atividade de utilidade pública e voluntariado permite isso (art. 45(2)); confirmaremos o alcance desses custos em um parecer jurídico.[^wolontariat]
+Enquanto não tivermos servidores próprios, podemos cobrir, com recursos do Pilar I ou com doações com destinação específica, os custos de ferramentas de que os voluntários precisam para criar e testar o código aberto da Suveria e do OmniForum, por exemplo, acesso a modelos por API ou ferramentas de programação. Esse apoio tem um limite público no orçamento e não é remuneração. A lei sobre atividade de utilidade pública e voluntariado permite isso (art. 45(2)); confirmaremos o alcance desses custos em um parecer jurídico.[^wolontariat]
 
 ## 6. Apoio pessoal fora da fundação
 
@@ -202,10 +202,10 @@ Protegemos endereços, números de passagens, dados de pagamento e de saúde; a 
 
 ### 8.1. Prioridade do Pilar I e três condições
 
-O Pilar I abrange Suveria e Omniforum. O Pilar II, “Hardware”, desenvolve soluções materiais abertas, e o Pilar III, “Natureza”, iniciativas relacionadas ao contato com a natureza. O início completo desses pilares e o financiamento de seus projetos pelo orçamento comum exigem, cumulativamente (seção 6.3 do manifesto):
+O Pilar I abrange Suveria e OmniForum. O Pilar II, “Hardware”, desenvolve soluções materiais abertas, e o Pilar III, “Natureza”, iniciativas relacionadas ao contato com a natureza. O início completo desses pilares e o financiamento de seus projetos pelo orçamento comum exigem, cumulativamente (seção 6.3 do manifesto):
 
-1. Um Omniforum em funcionamento, com votação que utilize provas de conhecimento zero, proteja o sigilo da escolha, permita verificar a inclusão do voto e assegure um único voto efetivo da mesma pessoa habilitada.
-2. Recursos efetivamente reunidos para pelo menos seis meses de manutenção dos serviços Suveria e Omniforum, que permaneçam intactos após a separação de todo o orçamento do novo projeto.
+1. Um OmniForum em funcionamento, com votação que utilize provas de conhecimento zero, proteja o sigilo da escolha, permita verificar a inclusão do voto e assegure um único voto efetivo da mesma pessoa habilitada.
+2. Recursos efetivamente reunidos para pelo menos seis meses de manutenção dos serviços Suveria e OmniForum, que permaneçam intactos após a separação de todo o orçamento do novo projeto.
 3. Uma decisão da comunidade que aprove o projeto e seu financiamento em uma votação aberta a toda a comunidade habilitada, nas mesmas condições.
 
 Quando consideraremos uma condição cumprida:
@@ -253,7 +253,7 @@ Antes de alocar recursos, publicamos o objetivo, o orçamento completo, a fonte 
 
 ## 9. Transferência dos poderes especiais do fundador
 
-A fundação foi criada por uma pessoa, Marcin Wołowski, e hoje é o fundador quem detém mais poder nela. No início, isso é natural, mas não queremos que continue assim. O fundador quer chegar ao ponto de poder utilizar Suveria, Omniforum e os projetos futuros com os mesmos direitos das demais pessoas e se retirar de uma função pública permanente (seção 7.1 do manifesto). É a mesma ideia do capítulo 5: a responsabilidade é assumida por um tempo e depois transferida. A fundação deve perdurar graças à utilidade de suas ferramentas, ao conhecimento disponível a quem participa da criação e às regras que permitem assumir a responsabilidade, e não graças à presença constante de uma pessoa.
+A fundação foi criada por uma pessoa, Marcin Wołowski, e hoje é o fundador quem detém mais poder nela. No início, isso é natural, mas não queremos que continue assim. O fundador quer chegar ao ponto de poder utilizar Suveria, OmniForum e os projetos futuros com os mesmos direitos das demais pessoas e se retirar de uma função pública permanente (seção 7.1 do manifesto). É a mesma ideia do capítulo 5: a responsabilidade é assumida por um tempo e depois transferida. A fundação deve perdurar graças à utilidade de suas ferramentas, ao conhecimento disponível a quem participa da criação e às regras que permitem assumir a responsabilidade, e não graças à presença constante de uma pessoa.
 
 Hoje, o estatuto dá ao fundador poderes especiais:
 
@@ -368,7 +368,7 @@ Disponibilizamos nosso próprio código e nossos materiais em condições que pe
 | --- | --- | --- |
 | Documentos, estudos e textos do site | CC BY 4.0 | adotada |
 | Código do site novusignis.org | AGPLv3 | adotada |
-| Código dos serviços (Suveria, Omniforum) | AGPLv3 | em consideração |
+| Código dos serviços (Suveria, OmniForum) | AGPLv3 | em consideração |
 | Bibliotecas para incorporação em outros sites | a definir | |
 | Conjuntos de dados e instruções abertas | a definir | |
 | Nossos próprios modelos ajustados | a definir | |
@@ -420,7 +420,7 @@ No modelo final, a disputa sobre uma decisão é analisada por uma pessoa ou ór
 
 ### 12.4. Como alteramos os documentos e as regras
 
-O manifesto e os whitepapers são documentos vivos. Queremos submetê-los à revisão pública no Omniforum, decompondo suas teses em moléculas, ou seja, afirmações e argumentos individuais que possam ser verificados. A versão atual apresenta a posição atual da fundação, e o histórico completo das versões anteriores e dos argumentos permanece disponível para que se possam avaliar as ações passadas, as promessas e os motivos das correções.
+O manifesto e os whitepapers são documentos vivos. Queremos submetê-los à revisão pública no OmniForum, decompondo suas teses em moléculas, ou seja, afirmações e argumentos individuais que possam ser verificados. A versão atual apresenta a posição atual da fundação, e o histórico completo das versões anteriores e dos argumentos permanece disponível para que se possam avaliar as ações passadas, as promessas e os motivos das correções.
 
 A proteção da dignidade, da privacidade e dos recursos confiados à fundação define o rumo permanente de sua atuação. Desenvolvemos as regras de organização de forma pública: junto com uma proposta de mudança, mostramos seu alcance, sua justificativa e seus efeitos para os participantes. Só alteramos o estatuto quando a alteração é necessária para o próximo passo, e a aplicamos imediatamente. Mudar as condições de financiamento dos demais pilares do capítulo 8 exige o procedimento adequado e o respeito ao estatuto, à lei e aos compromissos assumidos anteriormente; até a adoção da mudança, continuam em vigor as regras anteriores. Também consideramos registrar essas condições no estatuto (proposta Z6 no [registro de alterações](statut/rejestr-zmian.md)), para que não dependam apenas da boa vontade da diretoria.
 

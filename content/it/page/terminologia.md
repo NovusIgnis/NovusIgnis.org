@@ -11,7 +11,7 @@ I concetti propri di Novus Ignis hanno un unico nome latino, uguale in ogni ling
 
 Gli altri termini hanno un'unica traduzione stabilita per ogni lingua, affinché tutte le traduzioni parlino delle stesse cose con le stesse parole.
 
-**Situazione al 31 ottobre 2026.** È un glossario in costruzione: continuiamo ad aggiungere lingue e concetti. Se una traduzione nella tua lingua suona male, selezionala e invia un'osservazione sulla traduzione. Vogliamo che questi concetti diventino una delle prime questioni in Omniforum: lì si potranno discutere le loro definizioni e la capacità del nome di esprimerne il significato.
+**Situazione al 31 ottobre 2026.** È un glossario in costruzione: continuiamo ad aggiungere lingue e concetti. Se una traduzione nella tua lingua suona male, selezionala e invia un'osservazione sulla traduzione. Vogliamo che questi concetti diventino una delle prime questioni in OmniForum: lì si potranno discutere le loro definizioni e la capacità del nome di esprimerne il significato.
 
 ## Nomi latini
 
@@ -21,4 +21,4 @@ Gli altri termini hanno un'unica traduzione stabilita per ogni lingua, affinché
 
 {{terminologia:przeklady}}
 
-Le definizioni dei concetti di Omniforum sono nel [whitepaper di Omniforum, punto 1.3](../whitepaper-omniforum.md#s1-3).
+Le definizioni dei concetti di OmniForum sono nel [whitepaper di OmniForum, punto 1.3](../whitepaper-omniforum.md#s1-3).

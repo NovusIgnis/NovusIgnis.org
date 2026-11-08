@@ -11,7 +11,7 @@ Begrippen die eigen zijn aan Novus Ignis hebben één Latijnse naam, die in elke
 
 Andere termen hebben in elke taal één vaste vertaling, zodat alle vertalingen over dezelfde dingen met dezelfde woorden spreken.
 
-**Stand op 31 oktober 2026.** Deze begrippenlijst is in opbouw: we voegen er steeds meer talen en begrippen aan toe. Als een vertaling in jouw taal niet goed klinkt, markeer die dan en stuur een opmerking over de vertaling. We willen dat deze begrippen een van de eerste kwesties in Omniforum worden: daar zal het mogelijk zijn hun definities te bespreken en na te gaan of een naam de betekenis goed weergeeft.
+**Stand op 31 oktober 2026.** Deze begrippenlijst is in opbouw: we voegen er steeds meer talen en begrippen aan toe. Als een vertaling in jouw taal niet goed klinkt, markeer die dan en stuur een opmerking over de vertaling. We willen dat deze begrippen een van de eerste kwesties in OmniForum worden: daar zal het mogelijk zijn hun definities te bespreken en na te gaan of een naam de betekenis goed weergeeft.
 
 ## Latijnse namen
 
@@ -21,4 +21,4 @@ Andere termen hebben in elke taal één vaste vertaling, zodat alle vertalingen 
 
 {{terminologia:przeklady}}
 
-De definities van Omniforum-begrippen staan in de [whitepaper Omniforum, paragraaf 1.3](../whitepaper-omniforum.md#s1-3).
+De definities van OmniForum-begrippen staan in de [whitepaper OmniForum, paragraaf 1.3](../whitepaper-omniforum.md#s1-3).

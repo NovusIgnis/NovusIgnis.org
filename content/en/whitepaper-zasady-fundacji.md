@@ -1,12 +1,12 @@
 # The Novus Ignis Foundation's operating principles: upkeep, cooperation and the handover of power
 
-Version of 31 October 2026. This document develops the manifesto on organizational matters: how we maintain the services, how we manage shared money, how we cooperate and how we want to hand over power. It describes the principles we intend to adopt as regulations, and the changes to the statute they will require. The whitepaper itself does not change the statute, the powers of the foundation's bodies or the rules of accounting.
+Version of 8 November 2026. This document develops the manifesto on organizational matters: how we maintain the services, how we manage shared money, how we cooperate and how we want to hand over power. It describes the principles we intend to adopt as regulations, and the changes to the statute they will require. The whitepaper itself does not change the statute, the powers of the foundation's bodies or the rules of accounting.
 
-*Translated into English by digital intelligence from the Polish original of 31 October 2026. Where the versions differ, the Polish text prevails.*
+*Translated into English by digital intelligence from the Polish original of 8 November 2026. Where the versions differ, the Polish text prevails.*
 
 ## 1. The statute, the manifesto, the regulations and this document
 
-The Novus Ignis Foundation from Poznań (KRS 0001269575) wants to build an alternative internet based on human dignity. Its first pillar consists of two services: Suveria, a private space for working with digital intelligence, and Omniforum, a shared space for conversation, understanding and decisions. This document describes how the foundation intends to make decisions, account for money, organize work and hand over responsibility; its values and direction are described in the manifesto.
+The Novus Ignis Foundation from Poznań (KRS 0001269575) wants to build an alternative internet based on human dignity. Its first pillar consists of two services: Suveria, a private space for working with digital intelligence, and OmniForum, a shared space for conversation, understanding and decisions. This document describes how the foundation intends to make decisions, account for money, organize work and hand over responsibility; its values and direction are described in the manifesto.
 
 Novus Ignis is a Polish foundation registered in the European Union (Poznań). In international terms it is an entity without shareholders that pays out no profit to anyone: its assets serve only the goals set out in the statute. For our services we charge fees no higher than their actual costs, and we fund development and the reserve from voluntary donations.
 
@@ -39,11 +39,11 @@ For the principles described below, the most important provisions of the statute
 
 ## 2. The agile phase: how we make decisions before voting takes effect
 
-Until binding community voting is launched, the foundation operates in an agile phase. The board makes day-to-day decisions within the limits of the law and the statute, including when a quick response is needed to changes in technology, in public debate and in people's needs. We do not put development on hold until a full voting system exists: during this period, it is the board that decides on spending on the maintenance and development of Pillar I, that is, Suveria and Omniforum.
+Until binding community voting is launched, the foundation operates in an agile phase. The board makes day-to-day decisions within the limits of the law and the statute, including when a quick response is needed to changes in technology, in public debate and in people's needs. We do not put development on hold until a full voting system exists: during this period, it is the board that decides on spending on the maintenance and development of Pillar I, that is, Suveria and OmniForum.
 
 The statute allows the board more than it wants to use. Our goal is for all the decisions we hand over to the community to be made by its vote and to be binding. For this we need a mechanism that works and that we know how to maintain, which is why we are reaching it step by step. Until then, the board, by choice and not out of legal obligation, asks the community for its opinion in consultations on significant matters and publishes the justification for every significant decision, including a refusal. A consultation does not require verification of participants, so one person can cast many votes in it: it shows what the participants think, but it is not a vote within the meaning of the statute. Before every consultation, the board announces how it will treat the result. Participants can challenge any decision of the board, and the board responds to objections publicly.
 
-The agile phase ends gradually, just as the power of voting grows gradually, and every step is a trial. First we run trials without financial consequences, then votes on real decisions about a small, separate pool and on actions that can be reversed, and after that we extend the scope. Before every trial we announce its scope, its duration and how the board will treat the result. After it ends, we publish a summary: whether the result could be carried out, how the trial affected the running of the foundation and decision-making, what mistakes and abuses we detected and what we are changing. We extend the scope only on the basis of these summaries, because we do not want to take on commitments we cannot keep. The stages, the verification of participants and the protection of ballot secrecy are described in the [Omniforum whitepaper](whitepaper-omniforum.md). For the result of a vote to bind the foundation formally, and not only by the board's choice, a change to the statute is needed (Z4 in the change register), because today § 8 merely allows votes and consultations. As long as a trial does not confirm the uniqueness of every voter, we call it a consultation and not a vote within the meaning of § 8(2) of the statute. Once voting takes over a given type of decision, the board may suspend carrying out the result only for reasons described before the vote, for example a detected error in the protocol, documented large-scale abuse or an infrastructure failure, with a public justification and a date for reconsideration.
+The agile phase ends gradually, just as the power of voting grows gradually, and every step is a trial. First we run trials without financial consequences, then votes on real decisions about a small, separate pool and on actions that can be reversed, and after that we extend the scope. Before every trial we announce its scope, its duration and how the board will treat the result. After it ends, we publish a summary: whether the result could be carried out, how the trial affected the running of the foundation and decision-making, what mistakes and abuses we detected and what we are changing. We extend the scope only on the basis of these summaries, because we do not want to take on commitments we cannot keep. The stages, the verification of participants and the protection of ballot secrecy are described in the [OmniForum whitepaper](whitepaper-omniforum.md). For the result of a vote to bind the foundation formally, and not only by the board's choice, a change to the statute is needed (Z4 in the change register), because today § 8 merely allows votes and consultations. As long as a trial does not confirm the uniqueness of every voter, we call it a consultation and not a vote within the meaning of § 8(2) of the statute. Once voting takes over a given type of decision, the board may suspend carrying out the result only for reasons described before the vote, for example a detected error in the protocol, documented large-scale abuse or an infrastructure failure, with a public justification and a date for reconsideration.
 
 ## 3. Services as close to cost as possible
 
@@ -104,12 +104,12 @@ In our accounts we separate five kinds of money:
 | Funds owed to users | Participants' unused prepayments and balances | No, they belong to the participants |
 | Money entrusted for a specific purpose | Earmarked donations, for example for a specific initiative or for the Suveria pilot | Only for that purpose |
 | Commitments made | Money we have already allocated to planned expenses | No, it is already allocated |
-| Safeguard for maintaining the services | A reserve without which Suveria and Omniforum would stop working | No, it protects the continuity of the services |
+| Safeguard for maintaining the services | A reserve without which Suveria and OmniForum would stop working | No, it protects the continuity of the services |
 | Funds free to be allocated | What remains after all of the above | Yes, always with priority for Pillar I (chapter 8) |
 
 We assign each amount to only one category, so as not to count anything twice.
 
-The cost of maintaining the services covers everything without which Suveria and Omniforum would stop working: computing power, data storage and backups, domains, payment processing and mandatory accounting. That is why the balance of the bank account is not a budget to be allocated, and the reserve is not made up of money that has been promised but not yet paid in, or of money owed to someone else.
+The cost of maintaining the services covers everything without which Suveria and OmniForum would stop working: computing power, data storage and backups, domains, payment processing and mandatory accounting. That is why the balance of the bank account is not a budget to be allocated, and the reserve is not made up of money that has been promised but not yet paid in, or of money owed to someone else.
 
 The categories of costs, the terms of larger contracts, decisions and their justifications are public. Every expense is to be traceable to the decision that led to it and to its result. At the same time we protect personal data, access credentials and information whose disclosure would increase the risk to the infrastructure.
 
@@ -162,13 +162,13 @@ Board members do not conclude paid contracts with the foundation: the statute al
 
 ### 5.4. One's own workshop and prepared context
 
-Taking on a task is to open a space for it in the environment chosen by the participant. The digital intelligence assistant receives what it needs for the work: the foundation's values, the goal and limits of the task, the current findings from Omniforum, relevant arguments and open questions, sources, a resource limit and the way the result will be assessed. The participant can check this context, point out gaps and improve how their own position is presented.
+Taking on a task is to open a space for it in the environment chosen by the participant. The digital intelligence assistant receives what it needs for the work: the foundation's values, the goal and limits of the task, the current findings from OmniForum, relevant arguments and open questions, sources, a resource limit and the way the result will be assessed. The participant can check this context, point out gaps and improve how their own position is presented.
 
 Joining a task makes available only a chosen scope of data and permissions. Passing on context, access to tools and publication of the record of work each require separately defined consent, and private conversations, files and access credentials remain outside this scope unless a person consciously decides otherwise. Before we make such a connection available, we will describe what data leaves the private environment, to whom it is passed and how it is processed.
 
 After a break, the workshop is to show what has changed and where work can be continued, and the result and state of the task are to be transferable to the next person without revealing the participant's private surroundings. In a trial we will test starting a task, returning after a week and handing over work: the time needed to find the context, the accuracy of summaries and the observance of privacy limits.
 
-Until we have our own servers, we can cover from Pillar I funds or from earmarked donations the costs of tools that volunteers need to create and test the open source code of Suveria and Omniforum, for example access to models through an API or programming tools. Such support has a public limit in the budget and is not remuneration. It is permitted by the Act on Public Benefit Activity and Volunteering (Article 45(2)); we will confirm the scope of such costs in a legal opinion.[^wolontariat]
+Until we have our own servers, we can cover from Pillar I funds or from earmarked donations the costs of tools that volunteers need to create and test the open source code of Suveria and OmniForum, for example access to models through an API or programming tools. Such support has a public limit in the budget and is not remuneration. It is permitted by the Act on Public Benefit Activity and Volunteering (Article 45(2)); we will confirm the scope of such costs in a legal opinion.[^wolontariat]
 
 ## 6. Personal support outside the foundation
 
@@ -202,10 +202,10 @@ We protect addresses, ticket numbers, payment data and health data; publication 
 
 ### 8.1. The priority of Pillar I and the three conditions
 
-Pillar I covers Suveria and Omniforum. Pillar II “Hardware” develops open material solutions, and Pillar III “Nature” initiatives connected with contact with nature. Fully launching these pillars and funding their projects from the shared budget requires all of the following (section 6.3 of the manifesto):
+Pillar I covers Suveria and OmniForum. Pillar II “Hardware” develops open material solutions, and Pillar III “Nature” initiatives connected with contact with nature. Fully launching these pillars and funding their projects from the shared budget requires all of the following (section 6.3 of the manifesto):
 
-1. A functional Omniforum with voting that uses zero-knowledge proofs, which protects the secrecy of the choice, makes it possible to check that a vote has been counted and ensures one effective vote for the same eligible person.
-2. Funds actually collected for at least six months of maintaining the Suveria and Omniforum services, which remain untouched after the full budget of the new project has been set aside.
+1. A functional OmniForum with voting that uses zero-knowledge proofs, which protects the secrecy of the choice, makes it possible to check that a vote has been counted and ensures one effective vote for the same eligible person.
+2. Funds actually collected for at least six months of maintaining the Suveria and OmniForum services, which remain untouched after the full budget of the new project has been set aside.
 3. A decision by the community approving the project and its funding in a vote open to the whole eligible community on equal terms.
 
 When we consider a condition met:
@@ -253,7 +253,7 @@ Before allocating funds, we publish the goal, the full budget, the source of fun
 
 ## 9. Handing over the founder's special powers
 
-The foundation was established by one person, Marcin Wołowski, who today holds the most power in it. At the beginning this is natural, but we do not want it to stay this way. The founder wants to reach a situation in which the founder can use Suveria, Omniforum and further projects on the same terms as everyone else and withdraw from a permanent public role (section 7.1 of the manifesto). This is the same thought as in chapter 5: responsibility is taken on for a time and then handed over. The foundation is to endure thanks to the usefulness of its tools, the knowledge available to its co-creators and principles that allow others to take over responsibility, not thanks to the constant presence of one person.
+The foundation was established by one person, Marcin Wołowski, who today holds the most power in it. At the beginning this is natural, but we do not want it to stay this way. The founder wants to reach a situation in which the founder can use Suveria, OmniForum and further projects on the same terms as everyone else and withdraw from a permanent public role (section 7.1 of the manifesto). This is the same thought as in chapter 5: responsibility is taken on for a time and then handed over. The foundation is to endure thanks to the usefulness of its tools, the knowledge available to its co-creators and principles that allow others to take over responsibility, not thanks to the constant presence of one person.
 
 Today the statute gives the founder special powers:
 
@@ -368,7 +368,7 @@ We make our own code and materials available on terms that allow others to use a
 | --- | --- | --- |
 | Documents, studies and website texts | CC BY 4.0 | adopted |
 | Code of the novusignis.org website | AGPLv3 | adopted |
-| Service code (Suveria, Omniforum) | AGPLv3 | under consideration |
+| Service code (Suveria, OmniForum) | AGPLv3 | under consideration |
 | Libraries for embedding on other websites | to be determined | |
 | Datasets and open instructions | to be determined | |
 | Our own fine-tuned models | to be determined | |
@@ -420,7 +420,7 @@ Eventually, a dispute about a decision is to be considered by a person or body i
 
 ### 12.4. How we change documents and rules
 
-The manifesto and the whitepapers are living documents. We want to submit them to public review in Omniforum, breaking their theses down into molecules, that is, individual statements and arguments that can be checked. The current version presents the foundation's current position, while the full history of earlier versions and arguments remains available, so that past actions, promises and the reasons for corrections can be assessed.
+The manifesto and the whitepapers are living documents. We want to submit them to public review in OmniForum, breaking their theses down into molecules, that is, individual statements and arguments that can be checked. The current version presents the foundation's current position, while the full history of earlier versions and arguments remains available, so that past actions, promises and the reasons for corrections can be assessed.
 
 Protecting dignity, privacy and the funds entrusted to the foundation sets the permanent direction of its activity. We develop organizational rules openly: together with a proposed change, we show its scope, justification and consequences for participants. We change the statute only when the change is needed for the next step, and we apply it immediately. Changing the conditions for funding the further pillars in chapter 8 requires the proper procedure and respect for the statute, the law and commitments made earlier; until a change is adopted, the existing rules apply. We are also considering writing these conditions into the statute (proposal Z6 in the [change register](statut/rejestr-zmian.md)), so that they do not depend on the board's goodwill alone.
 

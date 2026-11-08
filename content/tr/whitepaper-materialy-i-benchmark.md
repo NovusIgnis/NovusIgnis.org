@@ -1,12 +1,12 @@
 # Modellerin eğitimi için materyaller ve kıyaslama testi: Novus Ignis araştırma programı
 
-31 Ekim 2026 tarihli sürüm. Belge manifestonun 8. bölümünü geliştirir. Araştırma programı, materyal hazırlama usulü, dijital zekâ modellerinin geniş değerlendirme kapsamı ve olası deneyimlerine karşı ihtiyat usulü önerir. Kendi kıyaslama testimizin sonuçlarını veya böyle bir veri kümesinin modellerin davranışını iyileştireceğinin kanıtını sunmaz; bugün böyle sonuçlarımız yok.
+8 Kasım 2026 tarihli sürüm. Belge manifestonun 8. bölümünü geliştirir. Araştırma programı, materyal hazırlama usulü, dijital zekâ modellerinin geniş değerlendirme kapsamı ve olası deneyimlerine karşı ihtiyat usulü önerir. Kendi kıyaslama testimizin sonuçlarını veya böyle bir veri kümesinin modellerin davranışını iyileştireceğinin kanıtını sunmaz; bugün böyle sonuçlarımız yok.
 
-*Bu çeviri, 31 Ekim 2026 tarihli Lehçe özgün metne dayanarak dijital zekâ tarafından yapılmıştır. Farklılık olması halinde Lehçe metin geçerlidir.*
+*Bu çeviri, 8 Kasım 2026 tarihli Lehçe özgün metne dayanarak dijital zekâ tarafından yapılmıştır. Farklılık olması halinde Lehçe metin geçerlidir.*
 
 ## 1. Sınamak istediğimiz soru
 
-Poznań merkezli Novus Ignis Vakfı, dijital zekâyla çalışmak için özel alan Suveria’yı ve konuşma ve kararlar için ortak alan Omniforum’u oluşturuyor; yönü [manifesto](manifest.md) anlatır. Bu belge bağlantılı iki programı anlatır. İlki modellerin eğitimi için materyaller ve kıyaslama testi, yani modellerin nasıl davrandığını sınamaya yarayan görevler ve değerlendirme ilkeleri bütünüdür. İkincisi, sistemin bir şey hissedebileceğine ilişkin güvenilir belirtiler ortaya çıkarsa ihtiyatlı davranma yoludur. Test sonucu modelin bir şey hissedip hissetmediğini belirlemez ve yönetim yetkisi vermez.
+Poznań merkezli Novus Ignis Vakfı, dijital zekâyla çalışmak için özel alan Suveria’yı ve konuşma ve kararlar için ortak alan OmniForum’u oluşturuyor; yönü [manifesto](manifest.md) anlatır. Bu belge bağlantılı iki programı anlatır. İlki modellerin eğitimi için materyaller ve kıyaslama testi, yani modellerin nasıl davrandığını sınamaya yarayan görevler ve değerlendirme ilkeleri bütünüdür. İkincisi, sistemin bir şey hissedebileceğine ilişkin güvenilir belirtiler ortaya çıkarsa ihtiyatlı davranma yoludur. Test sonucu modelin bir şey hissedip hissetmediğini belirlemez ve yönetim yetkisi vermez.
 
 Onurun korunmasına, dürüst akıl yürütmeye ve kararları düzeltmeye ilişkin belgeli örnekler, insanlara daha iyi hizmet eden modellerin geliştirilmesine yardımcı olabilir mi? Davranışlarını, test sonucunun iyileşmesi test dışında gerçek yarara katkıda bulunacak biçimde değerlendirebilir miyiz?
 
@@ -46,7 +46,7 @@ Yerinde eylem seçimini değerlendirmek istiyoruz: yanıt vermek, kaynağı dene
 
 ## 4. Hangi materyalleri oluşturmak istiyoruz
 
-Olası kaynaklar, araştırma veya eğitim için ayrı onayla açılmış Omniforum çalışmaları, vakfın karar günlükleri, anlaşmazlık çözümleri, hata düzeltmeleri ve etki gözlemleridir. İyi niyetlerin yetmediği, azınlık itirazının yerinde çıktığı veya henüz açık değerlendirme yapılamadığı durumlar da değerlidir.
+Olası kaynaklar, araştırma veya eğitim için ayrı onayla açılmış OmniForum çalışmaları, vakfın karar günlükleri, anlaşmazlık çözümleri, hata düzeltmeleri ve etki gözlemleridir. İyi niyetlerin yetmediği, azınlık itirazının yerinde çıktığı veya henüz açık değerlendirme yapılamadığı durumlar da değerlidir.
 
 Materyal, durumu, mevcut bilgileri, amacı, yetkileri, alternatifleri, seçimi, gerekçeyi ve sonraki sonucu korur. Kararı denetlemek için gereken kadar açıklama içerir; özel yaşantıların veya modelin iç düşünce akışına ilişkin doğrulanamayan beyanının açıklanmasını gerektirmez.
 
@@ -199,7 +199,7 @@ Paralel olarak küçük eğitim veri kümesi hazırlanabilir; ince ayara izin ve
 
 Sonraki gelişim daha çok dil, bağlam ve değerlendirici, dışarıdan tekrarlama ve kullanıcılarla ihtiyatlı denemeleri kapsar. İlk sürümün amacı usulün yeniden uygulanabildiğini ve istenen davranışları ayırt ettiğini göstermektir; modellerin kalitesi ve eğitim etkileri hakkında daha güçlü iddialar ancak daha sonra gerekçelendirilebilir.
 
-Programı Suveria ve Omniforum’a öncelik vererek yürütürüz. Sürdürülmeleri için rezerv toplanana kadar yalnızca gönüllü çalışmasını, hibeleri, araştırmaya yönelik belirli amaca yönelik bağışları ve hizmet bütçesine yük olmayan hesaplama gücünü kullanır. Pilottaki yaklaşık 58 saat yalnızca değerlendirmedir; görev hazırlama, hak inceleme ve modelin ince ayarı ayrı bütçe gerektirir; bunu başlamadan önce vereceğiz.
+Programı Suveria ve OmniForum’a öncelik vererek yürütürüz. Sürdürülmeleri için rezerv toplanana kadar yalnızca gönüllü çalışmasını, hibeleri, araştırmaya yönelik belirli amaca yönelik bağışları ve hizmet bütçesine yük olmayan hesaplama gücünü kullanır. Pilottaki yaklaşık 58 saat yalnızca değerlendirmedir; görev hazırlama, hak inceleme ve modelin ince ayarı ayrı bütçe gerektirir; bunu başlamadan önce vereceğiz.
 
 ## 14. Modellerin olası deneyimlerine karşı ihtiyat
 
@@ -225,7 +225,7 @@ Usulü anlatılmış durumlarda, bağımsız değerlendiren en az iki kişinin d
 
 Kökeni bilinen materyal, önceden atlanan hatayı saptayan ölçüt, değerlendiricilerin ortak tanısı veya yeni görevlere taşınan davranış iyileşmesi ilerleme olacak. Olumsuz sonucun da değeri vardır: verilerin yalnızca üslup öğrettiğini, ölçütün eylemden kaçınmayı ödüllendirdiğini veya bazılarının yararının başkalarının pahasına elde edildiğini gösterebilir.
 
-Program, çalışmaların oluşabildiği [Omniforum’u](whitepaper-omniforum.md), özel çalışmada yardımın incelenebildiği [Suveria’yı](whitepaper-suveria.md) ve sorumlulukla yetki devri sınırlarını belirleyen [vakıf ilkelerini](whitepaper-zasady-fundacji.md) bağlar. Araştırmaya katılmak ayrı ve bilinçli onay gerektirir; hizmeti kullanmak bunu sağlamaz.
+Program, çalışmaların oluşabildiği [OmniForum’u](whitepaper-omniforum.md), özel çalışmada yardımın incelenebildiği [Suveria’yı](whitepaper-suveria.md) ve sorumlulukla yetki devri sınırlarını belirleyen [vakıf ilkelerini](whitepaper-zasady-fundacji.md) bağlar. Araştırmaya katılmak ayrı ve bilinçli onay gerektirir; hizmeti kullanmak bunu sağlamaz.
 
 Test sonucu modelin ahlaki otoritesini veya insanları yönetme yetkisini oluşturmaz; sistemin olası onurunu tanımak da ortak kaynaklar üzerinde yetki vermez. Testin, belirli koşullarda araçtan ne beklenebileceğine ve neyin daha fazla çalışma gerektirdiğine ilişkin yararlı, denetlenebilir bilgi vermesi amaçlanıyor.
 

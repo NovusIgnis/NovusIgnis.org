@@ -7,7 +7,7 @@ menu: I tuoi dati
 ---
 # I tuoi dati
 
-Questa pagina spiega quali tuoi dati personali arrivano alla fondazione quando usi il sito novusignis.org e che cosa puoi fare riguardo a essi. Suveria e Omniforum sono oggi progetti; dei dati in questi servizi parlano i rispettivi whitepaper.
+Questa pagina spiega quali tuoi dati personali arrivano alla fondazione quando usi il sito novusignis.org e che cosa puoi fare riguardo a essi. Suveria e OmniForum sono oggi progetti; dei dati in questi servizi parlano i rispettivi whitepaper.
 
 ## Chi è responsabile dei tuoi dati
 
@@ -32,8 +32,8 @@ Invii il messaggio dalla tua casella di posta, anche quando il pulsante «Ho un'
 
 ## Lista d'attesa
 
-- Ti iscrivi inviando un messaggio con oggetto «[Lista d'attesa] Suveria e Omniforum». Questo costituisce il tuo consenso (art. 6, par. 1, lett. a, GDPR).
-- Useremo l'indirizzo per un solo messaggio: l'annuncio dell'avvio delle prime prove di Suveria e Omniforum. Dopo averlo inviato, eliminiamo l'indirizzo dalla lista.
+- Ti iscrivi inviando un messaggio con oggetto «[Lista d'attesa] Suveria e OmniForum». Questo costituisce il tuo consenso (art. 6, par. 1, lett. a, GDPR).
+- Useremo l'indirizzo per un solo messaggio: l'annuncio dell'avvio delle prime prove di Suveria e OmniForum. Dopo averlo inviato, eliminiamo l'indirizzo dalla lista.
 - Puoi revocare il consenso in qualsiasi momento scrivendoci; in quel caso elimineremo subito l'indirizzo. La revoca del consenso non modifica ciò che abbiamo fatto prima sulla sua base.
 
 ## Donazioni

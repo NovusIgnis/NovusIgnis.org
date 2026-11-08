@@ -7,11 +7,11 @@ menu: Piliers suivants
 ---
 # Les piliers suivants
 
-Cette page décrit où la fondation veut aller au-delà des logiciels et comment elle veille à ne pas partir trop tôt. Aujourd’hui, nous travaillons uniquement dans le Pilier I : Suveria est un projet, et Omniforum a un prototype en construction. Les Piliers II et III sont une vision, pas des travaux en cours.
+Cette page décrit où la fondation veut aller au-delà des logiciels et comment elle veille à ne pas partir trop tôt. Aujourd’hui, nous travaillons uniquement dans le Pilier I : Suveria est un projet, et OmniForum a un prototype en construction. Les Piliers II et III sont une vision, pas des travaux en cours.
 
 ## Les trois piliers d’un coup d’œil
 
-- **Pilier I « Software » : nous commençons ici.** Les logiciels et les services numériques, c’est-à-dire Suveria, l’espace privé de travail avec l’intelligence numérique, et Omniforum, l’espace commun de conversation, de compréhension et de décision.
+- **Pilier I « Software » : nous commençons ici.** Les logiciels et les services numériques, c’est-à-dire Suveria, l’espace privé de travail avec l’intelligence numérique, et OmniForum, l’espace commun de conversation, de compréhension et de décision.
 - **Pilier II « Hardware » : vision.** Des plans ouverts d’objets durables et réparables.
 - **Pilier III « Nature » : vision.** Un contact plus étroit avec la nature.
 
@@ -36,8 +36,8 @@ Pour en savoir plus : [statuts, § 5](../statut/statut-2026-09-28.md#par-5) et 
 
 Nous commençons le développement par le Pilier I et nous consacrerons les premiers fonds du budget commun ainsi que les ressources de calcul inutilisées à ses engagements fondamentaux. Le lancement complet des Piliers II et III et le financement de leurs projets par le budget commun exigent la réunion de trois conditions. Pour chacune, nous indiquons quand nous la considérerons comme remplie.
 
-1. **Un vote opérationnel.** Omniforum avec un vote contraignant, c’est-à-dire dont la fondation applique le résultat (les consultations ne suffisent pas). Nous voulons le fonder sur des preuves à divulgation nulle de connaissance : une manière de confirmer le droit de vote sans révéler qui a voté quoi. Le choix doit rester secret, la prise en compte de sa voix doit pouvoir être vérifiée et chaque personne habilitée doit disposer d’une seule voix effective. Condition remplie après au moins un vote contraignant au cours duquel un test public avec récompense n’a permis ni de voter une deuxième fois avec la même habilitation ni de relier un vote à une personne.
-2. **La réserve.** Des fonds réellement réunis pour au moins six mois d’entretien de Suveria et d’Omniforum, qui restent intacts après la mise de côté du budget complet du nouveau projet. Condition remplie lorsqu’un compte séparé contient six fois le coût mensuel moyen d’entretien des trois derniers mois et que nous montrons ce montant chaque mois dans le registre.
+1. **Un vote opérationnel.** OmniForum avec un vote contraignant, c’est-à-dire dont la fondation applique le résultat (les consultations ne suffisent pas). Nous voulons le fonder sur des preuves à divulgation nulle de connaissance : une manière de confirmer le droit de vote sans révéler qui a voté quoi. Le choix doit rester secret, la prise en compte de sa voix doit pouvoir être vérifiée et chaque personne habilitée doit disposer d’une seule voix effective. Condition remplie après au moins un vote contraignant au cours duquel un test public avec récompense n’a permis ni de voter une deuxième fois avec la même habilitation ni de relier un vote à une personne.
+2. **La réserve.** Des fonds réellement réunis pour au moins six mois d’entretien de Suveria et d’OmniForum, qui restent intacts après la mise de côté du budget complet du nouveau projet. Condition remplie lorsqu’un compte séparé contient six fois le coût mensuel moyen d’entretien des trois derniers mois et que nous montrons ce montant chaque mois dans le registre.
 3. **La décision de la communauté.** Un vote ouvert à toute la communauté habilitée sur un pied d’égalité. Condition remplie lorsque la communauté approuve une proposition précise avec son budget, son effet sur la réserve et un critère d’arrêt.
 
 Les promesses non versées, les soldes dus aux utilisateurs et les fonds affectés ne constituent pas la réserve, et une maquette de vote ne remplit pas la première condition. Si le vote cesse de fonctionner ou si la réserve tombe sous six mois, nous suspendons les nouveaux engagements des piliers suivants et rétablissons d’abord les conditions.

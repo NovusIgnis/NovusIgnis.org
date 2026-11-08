@@ -25,7 +25,7 @@ Suveria’da şunların mümkün olmasını istiyoruz:
 - kendi onayınla önceki konuşmaların belleğinden yararlanmak ve kendi ilke ve değerlerinin derlemesi olan Kişisel Kanon’u oluşturmak;
 - her birinin neye karşı koruduğunu bilerek, kendi cihazındaki modelden sunucudaki gizlilik korumalı ortama kadar çalışma biçimini seçmek;
 - kendi belirlediğin harcama sınırıyla gerçek kullanım için ödeme yapmak;
-- düşünceyi özel olarak olgunlaştırıp sonra konuşma ve kararlar için kamusal alan olan Omniforum’daki ortak konuşmaya bilinçli olarak katmak.
+- düşünceyi özel olarak olgunlaştırıp sonra konuşma ve kararlar için kamusal alan olan OmniForum’daki ortak konuşmaya bilinçli olarak katmak.
 
 Daha ilk günden, insanın kendini evinde hissetmesinin sakinliğini sağlaması amaçlanıyor. Kendi notlarını ve konuşma arşivlerini başka dijital zekâ hizmetlerinden taşımayı da mümkün kılmak istiyoruz. Suveria’yı kullanmak, konuşmaların modelleri eğitmek için kullanılmasına onay değildir.
 

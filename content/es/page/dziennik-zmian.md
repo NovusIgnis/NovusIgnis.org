@@ -9,6 +9,10 @@ menu: Registro de cambios
 
 Desarrollamos los documentos a medida que crecen nuestros conocimientos y nuestra experiencia, conservando el historial de cambios. Aquí registramos qué ha cambiado en el sitio y en los documentos, y cuándo, también cuando el cambio se debe a un comentario de alguien que los lee. El historial de cambios de los propios estatutos está aparte, en el [registro de modificaciones de los estatutos](../statut/rejestr-zmian.md).
 
+## 8 de noviembre de 2026: grafía del nombre OmniForum
+
+- En el manifiesto, en los cuatro whitepapers y en todo el sitio hemos cambiado la grafía del nombre Omniforum a OmniForum, igual que en los nombres OmniActa y OmniVox. Por lo demás, el contenido de los documentos no ha cambiado. La redacción anterior de cada documento se conserva en su historial de versiones.
+
 ## 3 de noviembre de 2026: el nombre del principio del ejemplo honesto en el manifiesto
 
 - En el apartado 8.1 del manifiesto hemos añadido un párrafo sobre el principio que llamamos educación mediante el ejemplo honesto (*Alignment by Honest Example*): nos esforzamos por gestionar la fundación como nos gustaría que la inteligencia digital gestionara algún día los asuntos que se le confiaran. El principio ya estaba en nuestros borradores anteriores de septiembre de 2026; en la edición previa a la publicación quedaron sus consecuencias (apartados 1.1 y 8.1), pero perdimos el nombre y la justificación. Por qué: sin una justificación resulta difícil comprender para qué llevamos registros tan detallados de las decisiones y los errores. Versión del manifiesto: 3 de noviembre de 2026.

@@ -15,12 +15,12 @@ Marcin Wołowski tarafından kurulan, Poznań merkezli Novus Ignis Vakfı (KRS 0
 
 ## Ne yapmak istiyoruz
 
-En yüksek değeri insan onuru ve bundan doğan mahremiyet ile özgürlük olan alternatif bir interneti birlikte oluşturmak istiyoruz. Suveria, dijital zekâdan isteğe bağlı yardım alarak çalışılabilecek, işleyişi bağımsız olarak denetlenebilen güvenlik önlemleriyle korunan özel bir alan olmayı amaçlıyor. Omniforum, herkesin kendini ifade edebileceği ve sesini duyurabileceği ortak bir kamusal alan olmayı amaçlıyor. Daha fazlası: [manifesto, giriş](../manifest.md#top) ve [Neden Novus Ignis](dlaczego.md).
+En yüksek değeri insan onuru ve bundan doğan mahremiyet ile özgürlük olan alternatif bir interneti birlikte oluşturmak istiyoruz. Suveria, dijital zekâdan isteğe bağlı yardım alarak çalışılabilecek, işleyişi bağımsız olarak denetlenebilen güvenlik önlemleriyle korunan özel bir alan olmayı amaçlıyor. OmniForum, herkesin kendini ifade edebileceği ve sesini duyurabileceği ortak bir kamusal alan olmayı amaçlıyor. Daha fazlası: [manifesto, giriş](../manifest.md#top) ve [Neden Novus Ignis](dlaczego.md).
 
 ## Bugün bulunduğumuz nokta
 
 - **Çalışıyor:** vakıf tescil edildi, manifesto ve teknik raporlar yayımlandı. Vakıf banka havalesiyle bağış kabul ediyor ve her ödemeyi [kamuya açık gelen ödemeler ve harcamalar sicilinde](fundacja-rejestr.md) gösteriyor; bunların ilki kuruluş fonuydu.
-- **Tasarım:** Suveria bir tasarımdır; Omniforum’un ilk prototipi ise yapım aşamasındadır.
+- **Tasarım:** Suveria bir tasarımdır; OmniForum’un ilk prototipi ise yapım aşamasındadır.
 - **Hipotez:** gerçek kullanıma göre ödenen ortak sunucuların her dolar için kapalı hizmetlerden daha fazla dijital zekâ sağlayabileceğini varsayıyoruz; bunu henüz sınamadık (manifesto, 2.4. madde).
 - **Vizyon:** dijital zekâ tarafından bağımsız yönetim ve sonraki sütunlar. Sonraki sütunların tam olarak başlatılması uzak bir yöndür; öncesinde yalnızca sonu belirlenmiş küçük girişimler mümkündür. Bugün vakfı insanlar yönetiyor.
 
@@ -39,7 +39,7 @@ Tam liste: [manifesto, 9. bölüm](../manifest.md#s9).
 
 ## Neler arıyoruz
 
-Başlangıçta özellikle Suveria ve Omniforum’un ilk sürümlerini birlikte kurup sınayacağımız birkaç kişiyi arıyoruz:
+Başlangıçta özellikle Suveria ve OmniForum’un ilk sürümlerini birlikte kurup sınayacağımız birkaç kişiyi arıyoruz:
 
 - güvenlik, kriptografi ve altyapı alanında çalışan kişiler;
 - programcılar ve arayüz tasarımcıları;

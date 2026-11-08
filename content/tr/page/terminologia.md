@@ -11,7 +11,7 @@ Novus Ignis’e özgü kavramların her dilde aynı olan tek Latince adı vardı
 
 Diğer terimlerin her dilde sabit tek çevirisi vardır; böylece tüm çeviriler aynı şeyleri aynı sözcüklerle anlatır.
 
-**31 Ekim 2026 itibarıyla.** Bu oluşturulmakta olan bir sözlüktür: yeni diller ve kavramlar ekliyoruz. Dilindeki çeviri kötü görünüyorsa seçip çeviriye yorum gönder. Bu kavramların Omniforum’daki ilk meselelerden olmasını istiyoruz: orada tanımları ve adın anlamı iyi yansıtıp yansıtmadığı konuşulabilecek.
+**31 Ekim 2026 itibarıyla.** Bu oluşturulmakta olan bir sözlüktür: yeni diller ve kavramlar ekliyoruz. Dilindeki çeviri kötü görünüyorsa seçip çeviriye yorum gönder. Bu kavramların OmniForum’daki ilk meselelerden olmasını istiyoruz: orada tanımları ve adın anlamı iyi yansıtıp yansıtmadığı konuşulabilecek.
 
 ## Latince adlar
 
@@ -21,4 +21,4 @@ Diğer terimlerin her dilde sabit tek çevirisi vardır; böylece tüm çevirile
 
 {{terminologia:przeklady}}
 
-Omniforum kavramlarının tanımları [Omniforum teknik raporunun 1.3. maddesindedir](../whitepaper-omniforum.md#s1-3).
+OmniForum kavramlarının tanımları [OmniForum teknik raporunun 1.3. maddesindedir](../whitepaper-omniforum.md#s1-3).

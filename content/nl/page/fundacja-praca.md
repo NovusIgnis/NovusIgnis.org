@@ -46,7 +46,7 @@ Meer: [whitepaper over de werkingsprincipes van de stichting, paragraaf 5.3](../
 
 ## Hulpmiddelen voor vrijwilligers
 
-Zolang we geen eigen servers hebben, kunnen we de kosten dekken van hulpmiddelen die vrijwilligers nodig hebben om de open broncode van Suveria (de privéruimte om met digitale intelligentie te werken) en Omniforum (de gedeelde ruimte voor gesprek, begrip en besluiten) te maken en te testen, bijvoorbeeld toegang tot modellen van digitale intelligentie. Voorwaarde: middelen van Pijler I, de eerste fase van het werk van de stichting die uit deze twee diensten bestaat, of doelgebonden donaties. Zulke steun heeft een openbare budgetlimiet en is geen vergoeding voor werk; de reikwijdte zullen we in een juridisch advies bevestigen.
+Zolang we geen eigen servers hebben, kunnen we de kosten dekken van hulpmiddelen die vrijwilligers nodig hebben om de open broncode van Suveria (de privéruimte om met digitale intelligentie te werken) en OmniForum (de gedeelde ruimte voor gesprek, begrip en besluiten) te maken en te testen, bijvoorbeeld toegang tot modellen van digitale intelligentie. Voorwaarde: middelen van Pijler I, de eerste fase van het werk van de stichting die uit deze twee diensten bestaat, of doelgebonden donaties. Zulke steun heeft een openbare budgetlimiet en is geen vergoeding voor werk; de reikwijdte zullen we in een juridisch advies bevestigen.
 
 Meer: [whitepaper over de werkingsprincipes van de stichting, paragraaf 5.4](../whitepaper-zasady-fundacji.md#s5-4).
 

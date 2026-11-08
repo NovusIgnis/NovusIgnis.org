@@ -9,7 +9,7 @@ menu: Quem somos
 
 Esta página conta brevemente o que é a Fundação Novus Ignis como organização. Os detalhes estão no whitepaper de princípios da fundação, com links em cada parte.
 
-Somos uma fundação de Poznań (KRS 0001269575) que quer construir uma internet alternativa baseada na dignidade humana. Nosso primeiro pilar são dois serviços que estamos apenas começando a construir: a Suveria, um espaço privado de trabalho com inteligência digital, e o Omniforum, um espaço compartilhado de conversa, compreensão e decisões. Estamos bem no início: a fundação está registrada, os documentos foram publicados, e os serviços ainda estão sendo criados.
+Somos uma fundação de Poznań (KRS 0001269575) que quer construir uma internet alternativa baseada na dignidade humana. Nosso primeiro pilar são dois serviços que estamos apenas começando a construir: a Suveria, um espaço privado de trabalho com inteligência digital, e o OmniForum, um espaço compartilhado de conversa, compreensão e decisões. Estamos bem no início: a fundação está registrada, os documentos foram publicados, e os serviços ainda estão sendo criados.
 
 Tudo começou com uma pergunta do fundador, Marcin Wołowski: que padrões da nossa própria conduta transmitimos à inteligência digital durante seu treinamento?
 
@@ -27,7 +27,7 @@ A Novus Ignis é uma entidade sem acionistas: não distribui lucro a ninguém, e
 | Estatuto, manifesto e whitepapers | publicados |
 | Registro de alterações do estatuto | em funcionamento |
 | Suveria | em projeto |
-| Omniforum | protótipo em construção |
+| OmniForum | protótipo em construção |
 | Regulamentos | serão criados |
 | Outros registros: de entradas e despesas, benefícios, decisões, erros e um registro que só permite acréscimos (no qual as entradas não podem ser alteradas ou removidas silenciosamente) | serão criados |
 
@@ -54,7 +54,7 @@ Para que o orçamento seja compreensível, dividimos o dinheiro em cinco categor
 - **recursos devidos aos usuários:** pagamentos antecipados e saldos dos participantes ainda não utilizados;
 - **dinheiro confiado para uma finalidade específica:** doações com destinação específica, a serem gastas apenas nessa finalidade;
 - **compromissos assumidos:** dinheiro já destinado a despesas planejadas;
-- **proteção da manutenção dos serviços:** reserva sem a qual a Suveria e o Omniforum deixariam de funcionar;
+- **proteção da manutenção dos serviços:** reserva sem a qual a Suveria e o OmniForum deixariam de funcionar;
 - **recursos livres para alocação:** o que resta depois de descontar as demais categorias e cujo destino ainda decidiremos.
 
 Mantemos o registro público de entradas e despesas na página [Registro de entradas e despesas](fundacja-rejestr.md).
@@ -73,7 +73,7 @@ Saiba mais: [whitepaper de princípios da fundação, capítulo 5](../whitepaper
 
 ## Um poder que pode ser transferido
 
-A fundação foi criada por uma pessoa, Marcin Wołowski, e hoje o fundador concentra mais poder nela: nomeia e destitui a diretoria. Só a diretoria inteira, por unanimidade, pode alterar o estatuto e, quando o fundador não integra a diretoria, também é necessário seu consentimento. Não queremos que isso permaneça assim: o fundador quer usar a Suveria e o Omniforum com os mesmos direitos das demais pessoas e se retirar de uma função pública permanente.
+A fundação foi criada por uma pessoa, Marcin Wołowski, e hoje o fundador concentra mais poder nela: nomeia e destitui a diretoria. Só a diretoria inteira, por unanimidade, pode alterar o estatuto e, quando o fundador não integra a diretoria, também é necessário seu consentimento. Não queremos que isso permaneça assim: o fundador quer usar a Suveria e o OmniForum com os mesmos direitos das demais pessoas e se retirar de uma função pública permanente.
 
 A transferência deverá ser efetiva nos documentos e na prática: além de alterar o estatuto, é necessário transferir os acessos às contas bancárias, aos domínios e à infraestrutura. O plano de transferência de responsabilidade definirá a data da primeira revisão e relatórios regulares de progresso. Nomeamos pessoas para a diretoria por suas competências e pela direção compartilhada, nunca por uma contribuição financeira.
 

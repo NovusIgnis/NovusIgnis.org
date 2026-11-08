@@ -24,7 +24,7 @@ Puedes apoyar a la fundación con una donación por transferencia en eslotis, eu
 
 ## Qué sucede con la donación
 
-- Una donación sin un fin indicado pasa a los fondos disponibles para asignar, siempre con prioridad para el Pilar I, es decir, Suveria y Omniforum.
+- Una donación sin un fin indicado pasa a los fondos disponibles para asignar, siempre con prioridad para el Pilar I, es decir, Suveria y OmniForum.
 - Una donación no otorga votos, facultades de gestión, acceso a los datos de las personas usuarias ni derecho a promoción en nuestros servicios y nuestra comunicación.
 - Solo nombramos a las personas o entidades donantes en el registro si así lo desean; los demás ingresos se describen de forma general, por ejemplo, «donación de una persona particular». No publicamos literalmente los conceptos de las transferencias, porque a menudo contienen datos personales. Si quieres que indiquemos tu nombre o el de tu empresa, escríbenos.
 - No aceptamos prestaciones cuya condición sea la promoción, una recomendación o una concesión en las decisiones.

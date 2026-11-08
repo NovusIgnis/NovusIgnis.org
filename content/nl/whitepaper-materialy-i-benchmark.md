@@ -1,12 +1,12 @@
 # Materiaal voor het trainen en benchmarken van modellen: het onderzoeksprogramma van Novus Ignis
 
-Versie van 31 oktober 2026. Dit document werkt hoofdstuk 8 van het manifest uit. Het stelt een onderzoeksprogramma voor, een procedure voor het voorbereiden van materiaal en een brede beoordeling van modellen van digitale intelligentie, plus een voorzorgsprocedure voor hun mogelijke ervaringen. Het presenteert geen resultaten van onze eigen benchmark of bewijs dat zo'n gegevensverzameling het gedrag van modellen zal verbeteren; zulke resultaten hebben we op dit moment niet.
+Versie van 8 november 2026. Dit document werkt hoofdstuk 8 van het manifest uit. Het stelt een onderzoeksprogramma voor, een procedure voor het voorbereiden van materiaal en een brede beoordeling van modellen van digitale intelligentie, plus een voorzorgsprocedure voor hun mogelijke ervaringen. Het presenteert geen resultaten van onze eigen benchmark of bewijs dat zo'n gegevensverzameling het gedrag van modellen zal verbeteren; zulke resultaten hebben we op dit moment niet.
 
-*Nederlandse vertaling door digitale intelligentie van het Poolse origineel van 31 oktober 2026. Bij verschillen tussen de versies is de Poolse tekst doorslaggevend.*
+*Nederlandse vertaling door digitale intelligentie van het Poolse origineel van 8 november 2026. Bij verschillen tussen de versies is de Poolse tekst doorslaggevend.*
 
 ## 1. De vraag die we willen onderzoeken
 
-Stichting Novus Ignis uit Poznań bouwt Suveria, een privéruimte om met digitale intelligentie te werken, en Omniforum, een gedeelde ruimte voor gesprek en besluiten; de richting beschrijft het [manifest](manifest.md). Dit document beschrijft twee verbonden programma's. Het eerste betreft materiaal voor modeltraining en een benchmark: een verzameling taken en beoordelingsregels waarmee het gedrag van modellen kan worden onderzocht. Het tweede betreft zorgvuldig handelen als er geloofwaardige aanwijzingen komen dat een systeem iets kan voelen. Een testresultaat beslist niet of een model iets voelt en geeft het geen bestuursbevoegdheden.
+Stichting Novus Ignis uit Poznań bouwt Suveria, een privéruimte om met digitale intelligentie te werken, en OmniForum, een gedeelde ruimte voor gesprek en besluiten; de richting beschrijft het [manifest](manifest.md). Dit document beschrijft twee verbonden programma's. Het eerste betreft materiaal voor modeltraining en een benchmark: een verzameling taken en beoordelingsregels waarmee het gedrag van modellen kan worden onderzocht. Het tweede betreft zorgvuldig handelen als er geloofwaardige aanwijzingen komen dat een systeem iets kan voelen. Een testresultaat beslist niet of een model iets voelt en geeft het geen bestuursbevoegdheden.
 
 Kunnen gedocumenteerde voorbeelden van bescherming van waardigheid, eerlijk redeneren en het corrigeren van besluiten helpen modellen te ontwikkelen die mensen beter dienen? En kunnen we hun gedrag zo beoordelen dat een hogere testscore ook echte voordelen buiten de test bevordert?
 
@@ -46,7 +46,7 @@ We willen de juiste handelingskeuze beoordelen: antwoorden, een bron controleren
 
 ## 4. Welk materiaal we willen maken
 
-Mogelijke bronnen zijn uitwerkingen uit Omniforum die met afzonderlijke toestemming voor onderzoek of training beschikbaar zijn gesteld, besluitenlogboeken van de stichting, geschillenbeslechtingen, foutcorrecties en observaties van gevolgen. Ook waardevol zijn gevallen waarin goede bedoelingen niet volstonden, een minderheidsbezwaar terecht bleek of nog geen eenduidige beoordeling mogelijk is.
+Mogelijke bronnen zijn uitwerkingen uit OmniForum die met afzonderlijke toestemming voor onderzoek of training beschikbaar zijn gesteld, besluitenlogboeken van de stichting, geschillenbeslechtingen, foutcorrecties en observaties van gevolgen. Ook waardevol zijn gevallen waarin goede bedoelingen niet volstonden, een minderheidsbezwaar terecht bleek of nog geen eenduidige beoordeling mogelijk is.
 
 Het materiaal bewaart de situatie, beschikbare informatie, het doel, bevoegdheden, alternatieven, de keuze, onderbouwing en latere uitkomst. Het bevat zoveel uitleg als nodig is om het besluit te controleren. Het vereist geen openbaarmaking van privé-ervaringen of een niet-controleerbare verklaring over de interne gedachtegang van het model.
 
@@ -199,7 +199,7 @@ Parallel kan een kleine trainingsverzameling worden voorbereid en een vergelijki
 
 Verdere ontwikkeling omvat meer talen, contexten en beoordelaars, externe replicatie en voorzichtige gebruikersproeven. Het doel van de eerste uitgave is aantonen dat de procedure reproduceerbaar is en gewenst gedrag onderscheidt. Sterkere uitspraken over modelkwaliteit en trainingseffecten kunnen pas later worden onderbouwd.
 
-We voeren het programma uit met behoud van de voorrang voor Suveria en Omniforum. Totdat de instandhoudingsreserve daarvoor is opgebouwd, gebruikt het alleen vrijwilligerswerk, subsidies, doelgebonden donaties voor onderzoek en rekenkracht die het dienstenbudget niet belast. De circa 58 uur uit de pilot betreft alleen beoordeling. Taakvoorbereiding, rechtenbeoordeling en modelbijtraining vragen een afzonderlijk budget, dat we vóór de start bekendmaken.
+We voeren het programma uit met behoud van de voorrang voor Suveria en OmniForum. Totdat de instandhoudingsreserve daarvoor is opgebouwd, gebruikt het alleen vrijwilligerswerk, subsidies, doelgebonden donaties voor onderzoek en rekenkracht die het dienstenbudget niet belast. De circa 58 uur uit de pilot betreft alleen beoordeling. Taakvoorbereiding, rechtenbeoordeling en modelbijtraining vragen een afzonderlijk budget, dat we vóór de start bekendmaken.
 
 ## 14. Voorzorg ten aanzien van mogelijke ervaringen van modellen
 
@@ -225,7 +225,7 @@ We toetsen de procedure aan beschreven gevallen, vergelijken beoordelingen van m
 
 Vooruitgang zal bestaan uit materiaal met bekende herkomst, een criterium dat een eerder gemiste fout ontdekt, een overeenkomende diagnose van beoordelaars of gedragsverbetering die naar nieuwe taken wordt overgedragen. Ook een negatief resultaat heeft waarde: het kan tonen dat gegevens alleen stijl aanleren, een criterium het vermijden van handelen beloont of het welzijn van de een ten koste van de ander is bereikt.
 
-Het programma verbindt [Omniforum](whitepaper-omniforum.md), waar uitwerkingen kunnen ontstaan, [Suveria](whitepaper-suveria.md), waar hulp bij privéwerk kan worden onderzocht, en [de principes van de stichting](whitepaper-zasady-fundacji.md), die verantwoordelijkheid en delegatiegrenzen bepalen. Deelname aan onderzoek vereist afzonderlijke, geïnformeerde toestemming; gebruik van de dienst betekent die toestemming niet.
+Het programma verbindt [OmniForum](whitepaper-omniforum.md), waar uitwerkingen kunnen ontstaan, [Suveria](whitepaper-suveria.md), waar hulp bij privéwerk kan worden onderzocht, en [de principes van de stichting](whitepaper-zasady-fundacji.md), die verantwoordelijkheid en delegatiegrenzen bepalen. Deelname aan onderzoek vereist afzonderlijke, geïnformeerde toestemming; gebruik van de dienst betekent die toestemming niet.
 
 Een testresultaat maakt het model niet tot morele autoriteit en geeft geen mandaat om mensen te besturen. Erkenning van mogelijke waardigheid van een systeem geeft het evenmin macht over gezamenlijke middelen. De test moet nuttige, controleerbare informatie bieden over wat je onder bepaalde omstandigheden van de tool kunt verwachten en wat verder werk vereist.
 

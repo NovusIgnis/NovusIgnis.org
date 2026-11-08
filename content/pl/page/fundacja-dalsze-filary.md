@@ -7,11 +7,11 @@ menu: Dalsze filary
 ---
 # Dalsze filary
 
-Ta strona opowiada, dokąd fundacja chce dojść poza oprogramowaniem i jak pilnuje, żeby nie wyruszyć za wcześnie. Dziś działamy wyłącznie w Filarze I: Suveria jest projektem, a Omniforum ma prototyp w budowie. Filary II i III są wizją, nie trwającymi pracami.
+Ta strona opowiada, dokąd fundacja chce dojść poza oprogramowaniem i jak pilnuje, żeby nie wyruszyć za wcześnie. Dziś działamy wyłącznie w Filarze I: Suveria jest projektem, a OmniForum ma prototyp w budowie. Filary II i III są wizją, nie trwającymi pracami.
 
 ## Trzy filary jednym spojrzeniem
 
-- **Filar I „Software”: zaczynamy tutaj.** Oprogramowanie i usługi cyfrowe, czyli Suveria, prywatna przestrzeń pracy z cyfrową inteligencją, i Omniforum, wspólna przestrzeń rozmowy, rozumienia i decyzji.
+- **Filar I „Software”: zaczynamy tutaj.** Oprogramowanie i usługi cyfrowe, czyli Suveria, prywatna przestrzeń pracy z cyfrową inteligencją, i OmniForum, wspólna przestrzeń rozmowy, rozumienia i decyzji.
 - **Filar II „Hardware”: wizja.** Otwarte projekty trwałych, naprawialnych przedmiotów.
 - **Filar III „Natura”: wizja.** Bliższy kontakt z naturą.
 
@@ -36,8 +36,8 @@ Więcej: [statut, § 5](../statut/statut-2026-09-28.md#par-5) i [rejestr zmian s
 
 Rozwój zaczynamy od Filaru I, a pierwsze środki ze wspólnego budżetu oraz wolne zasoby obliczeniowe będziemy kierować na jego podstawowe zobowiązania. Pełne uruchomienie Filarów II i III oraz finansowanie ich projektów ze wspólnego budżetu wymaga łącznie trzech warunków. Przy każdym podajemy, kiedy uznamy go za spełniony.
 
-1. **Działające głosowanie.** Omniforum z głosowaniem wiążącym, czyli takim, którego wynik fundacja wykonuje (konsultacje nie wystarczą). Chcemy je oprzeć na dowodach z wiedzą zerową: sposobie potwierdzenia prawa do głosu bez ujawniania, kto jak głosował. Wybór ma pozostać tajny, ma być można sprawdzić, czy głos został uwzględniony, a każda uprawniona osoba ma mieć jeden skuteczny głos. Spełnione po co najmniej jednym wiążącym głosowaniu, w którym publiczny test z nagrodą nie zdołał oddać drugiego głosu z tego samego uprawnienia ani powiązać głosu z osobą.
-2. **Rezerwa.** Rzeczywiście zgromadzone środki na co najmniej sześć miesięcy utrzymania Suverii i Omniforum, nienaruszone po odłożeniu pełnego budżetu nowego projektu. Spełnione, gdy na wydzielonym rachunku leży sześciokrotność średniego miesięcznego kosztu utrzymania z ostatnich trzech miesięcy, a kwotę pokazujemy co miesiąc w rejestrze.
+1. **Działające głosowanie.** OmniForum z głosowaniem wiążącym, czyli takim, którego wynik fundacja wykonuje (konsultacje nie wystarczą). Chcemy je oprzeć na dowodach z wiedzą zerową: sposobie potwierdzenia prawa do głosu bez ujawniania, kto jak głosował. Wybór ma pozostać tajny, ma być można sprawdzić, czy głos został uwzględniony, a każda uprawniona osoba ma mieć jeden skuteczny głos. Spełnione po co najmniej jednym wiążącym głosowaniu, w którym publiczny test z nagrodą nie zdołał oddać drugiego głosu z tego samego uprawnienia ani powiązać głosu z osobą.
+2. **Rezerwa.** Rzeczywiście zgromadzone środki na co najmniej sześć miesięcy utrzymania Suverii i OmniForum, nienaruszone po odłożeniu pełnego budżetu nowego projektu. Spełnione, gdy na wydzielonym rachunku leży sześciokrotność średniego miesięcznego kosztu utrzymania z ostatnich trzech miesięcy, a kwotę pokazujemy co miesiąc w rejestrze.
 3. **Decyzja społeczności.** Głosowanie otwarte dla całej uprawnionej społeczności na równych zasadach. Spełnione, gdy społeczność przegłosuje konkretną propozycję z budżetem, wpływem na rezerwę i kryterium przerwania.
 
 Rezerwy nie tworzą niewpłacone deklaracje, salda należne użytkownikom ani pieniądze celowe, a makieta głosowania nie spełnia pierwszego warunku. Jeśli głosowanie przestanie działać albo rezerwa spadnie poniżej sześciu miesięcy, wstrzymujemy nowe zobowiązania dalszych filarów i najpierw odtwarzamy warunki.

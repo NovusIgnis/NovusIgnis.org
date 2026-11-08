@@ -1,19 +1,19 @@
 ---
-tytul: Trò chuyện trong Omniforum hoạt động thế nào
+tytul: Trò chuyện trong OmniForum hoạt động thế nào
 opis: Từng bước phát biểu thành những ý riêng, tác giả xác nhận gì, vai trò trí tuệ số và cách biết ai nói gì
 grupa: omniforum
 kolejnosc: 2
 menu: Trò chuyện hoạt động thế nào
 ---
-# Trò chuyện trong Omniforum hoạt động thế nào
+# Trò chuyện trong OmniForum hoạt động thế nào
 
-Trang này dành cho người đã đọc [Omniforum là gì](omniforum.md) và muốn thấy kỹ hơn điều xảy ra với phát biểu từ lúc viết đến lúc người khác có thể bàn luận: tác giả xác nhận gì, vai trò trí tuệ số và cách biết ai nói gì.
+Trang này dành cho người đã đọc [OmniForum là gì](omniforum.md) và muốn thấy kỹ hơn điều xảy ra với phát biểu từ lúc viết đến lúc người khác có thể bàn luận: tác giả xác nhận gì, vai trò trí tuệ số và cách biết ai nói gì.
 
 Hiện bạn chưa thể dùng: chúng tôi mô tả kế hoạch và thu nhận ý kiến.
 
-Nguyên mẫu Omniforum đang xây dựng. Mọi điều dưới đây đều là bản thiết kế, chưa thử nghiệm nào hoàn tất.
+Nguyên mẫu OmniForum đang xây dựng. Mọi điều dưới đây đều là bản thiết kế, chưa thử nghiệm nào hoàn tất.
 
-Xem thêm: [sách trắng Omniforum, chương 1](../whitepaper-omniforum.md#s1).
+Xem thêm: [sách trắng OmniForum, chương 1](../whitepaper-omniforum.md#s1).
 
 ## Một câu, nhiều ý
 
@@ -23,11 +23,11 @@ Lấy câu “Nên trồng cây trên phố chúng ta nếu chọn loài chịu 
 
 Không được rút câu ấy thành “nên trồng cây trên phố chúng ta” vô điều kiện, vì điều kiện là phần ý nghĩa. Nếu trí tuệ số thêm rằng tác giả coi hạn hán là vấn đề trong vùng, điều ấy được đánh dấu là suy luận mô hình, không phải lời tác giả. Chúng tôi chỉ tách sâu khi cần: nơi ý nghĩa phụ thuộc một khái niệm hoặc có thể tranh luận về nó.
 
-Xem thêm: [sách trắng Omniforum, chương 2](../whitepaper-omniforum.md#s2), [chương 3](../whitepaper-omniforum.md#s3) và [bảng thuật ngữ ở mục 1.3](../whitepaper-omniforum.md#s1-3).
+Xem thêm: [sách trắng OmniForum, chương 2](../whitepaper-omniforum.md#s2), [chương 3](../whitepaper-omniforum.md#s3) và [bảng thuật ngữ ở mục 1.3](../whitepaper-omniforum.md#s1-3).
 
 ## Từng bước
 
-Đường đi của ý hình thành trong Omniforum được dự kiến như sau:
+Đường đi của ý hình thành trong OmniForum được dự kiến như sau:
 
 1. **Bạn viết.** Bắt đầu bằng văn bản thường hoặc đoạn trích và xác định mục tiêu: hiểu, tách lập luận, tự trả lời hoặc so sánh lập trường.
 2. **Trí tuệ số đề xuất cách tách.** Với mỗi ý, nó cho thấy đoạn đã suy ra và chỉ chỗ có thể lệch ý định hoặc văn bản có nhiều cách đọc.
@@ -39,7 +39,7 @@ Xem thêm: [sách trắng Omniforum, chương 2](../whitepaper-omniforum.md#s2),
 
 Chúng tôi cũng cân nhắc nghi lễ thứ hai, tự nguyện: lúc gọi tên giới hạn điều hiện có thể lý giải và bắt đầu tìm câu trả lời mới. Hiện đây là ý tưởng chưa có tên hay hình thức xác định.
 
-Xem thêm: [sách trắng Omniforum, chương 3](../whitepaper-omniforum.md#s3).
+Xem thêm: [sách trắng OmniForum, chương 3](../whitepaper-omniforum.md#s3).
 
 ## Bạn xác nhận gì và không xác nhận gì
 
@@ -49,7 +49,7 @@ Người đọc có thể tách phát biểu theo cách riêng, không chờ b�
 
 Trò chuyện cần để chỗ đổi ý mà không bị hạ nhục: có thể nhận sai, hỏi tiếp hoặc kết thúc mà không tuyên bố đồng thuận. Phẩm giá người tham gia không phụ thuộc việc nhận kết luận.
 
-Xem thêm: [sách trắng Omniforum, chương 2](../whitepaper-omniforum.md#s2) và [chương 1](../whitepaper-omniforum.md#s1).
+Xem thêm: [sách trắng OmniForum, chương 2](../whitepaper-omniforum.md#s2) và [chương 1](../whitepaper-omniforum.md#s1).
 
 ## Mô hình giúp, nhưng không nắm quyền
 
@@ -57,13 +57,13 @@ Mô hình (chương trình trí tuệ số đề xuất cách tách) có thói q
 
 Với mỗi cách tách, chúng tôi ghi ai chuẩn bị, lúc nào; nếu có mô hình, là mô hình nào với phiên bản chỉ dẫn nào.
 
-Xem thêm: [sách trắng Omniforum, chương 3](../whitepaper-omniforum.md#s3) và [chương 2](../whitepaper-omniforum.md#s2).
+Xem thêm: [sách trắng OmniForum, chương 3](../whitepaper-omniforum.md#s3) và [chương 2](../whitepaper-omniforum.md#s2).
 
 ## Ý từ Suveria
 
 Ý cũng có thể đến từ Suveria, không gian làm việc riêng tư với trí tuệ số, nơi bạn hoàn thiện trong xưởng riêng. Khi đó công bố ngay, không qua xưởng Ignis. Thời điểm công bố là cùng Nghi lễ Ignis, sau đó bắt đầu Formatio như mọi ý khác.
 
-Xem thêm: [sách trắng Omniforum, chương 3](../whitepaper-omniforum.md#s3).
+Xem thêm: [sách trắng OmniForum, chương 3](../whitepaper-omniforum.md#s3).
 
 ## Cách biết ai nói gì
 
@@ -71,7 +71,7 @@ Với mỗi ý và mỗi lần dùng khái niệm, chúng tôi ghi nguồn: văn
 
 Nguyên tử là ý nghĩa, không phải từ. Từ dùng gọi là nhãn; một nguyên tử có thể có nhiều nhãn, cả ở ngôn ngữ khác: hạn hán trong tiếng Anh là “drought”, tiếng Đức “Dürre”. Nhờ đó người dùng từ khác nhau có thể nói cùng một điều. Gắn từ với nguyên tử là đề xuất được tác giả xác nhận. Cũng có thể là thông tin riêng tư: “phố chúng ta” nghĩa phố Warszawska tiết lộ nơi ở, nên tác giả quyết định người khác có thấy không.
 
-Xem thêm: [sách trắng Omniforum, chương 2](../whitepaper-omniforum.md#s2).
+Xem thêm: [sách trắng OmniForum, chương 2](../whitepaper-omniforum.md#s2).
 
 ## Điều sẽ kiểm tra trong thử nghiệm đầu
 
@@ -79,10 +79,10 @@ Bước đầu thử nghiệm là đường đi đầy đủ của một ý: ng�
 
 Chúng tôi kiểm tra có mất gì trên đường không: lời gốc, ý nghĩa, phiên bản nối tiếp và ai truy cập gì. Cũng tìm lỗi diễn giải mô hình không tự đánh dấu, so sánh kết quả với riêng văn bản và tóm tắt thông thường. Trước thử nghiệm, chúng tôi công bố kết quả nào là đủ; thêm kết quả vào nhật ký cả khi thử nghiệm không đạt.
 
-Xem thêm: [sách trắng Omniforum, chương 9](../whitepaper-omniforum.md#s9).
+Xem thêm: [sách trắng OmniForum, chương 9](../whitepaper-omniforum.md#s9).
 
 ## Hãy đọc và chia sẻ suy nghĩ
 
-Mô tả đầy đủ đường đi có ở [sách trắng Omniforum](../whitepaper-omniforum.md) (khoảng 50 phút đọc), nhất là chương 2 và 3. Nếu có điều khiến bạn băn khoăn hoặc thấy sai, hãy chọn đoạn ấy trong tài liệu và dùng nút “Tôi có ý kiến”, hoặc viết đến salve@novusignis.org.
+Mô tả đầy đủ đường đi có ở [sách trắng OmniForum](../whitepaper-omniforum.md) (khoảng 50 phút đọc), nhất là chương 2 và 3. Nếu có điều khiến bạn băn khoăn hoặc thấy sai, hãy chọn đoạn ấy trong tài liệu và dùng nút “Tôi có ý kiến”, hoặc viết đến salve@novusignis.org.
 
-Xem thêm: [sách trắng Omniforum, mục 5.5](../whitepaper-omniforum.md#s5-5).
+Xem thêm: [sách trắng OmniForum, mục 5.5](../whitepaper-omniforum.md#s5-5).

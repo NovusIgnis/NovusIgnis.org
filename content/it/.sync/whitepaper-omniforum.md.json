@@ -2,28 +2,28 @@
  "source": "content/pl/whitepaper-omniforum.md",
  "paragraphs": [
   {
-   "h": "b49f25d5a3d263a54fdccb7ba6497c821bf9fb42",
-   "t": "# Omniforum: wspólne rozumienie, rozmowa i decyzje"
+   "h": "b1403771e2712bf73f10fb5a319f651c38f87551",
+   "t": "# OmniForum: wspólne rozumienie, rozmowa i decyzje"
   },
   {
-   "h": "75d25d0526ee542cdfab6e9fe2fba05412213a8f",
-   "t": "Wersja z 31 października 2026 r. Dokument rozwija zasady manifestu dotyczące Omn"
+   "h": "1b3547503494165a8e39e656933d71605ce3e563",
+   "t": "Wersja z 8 listopada 2026 r. Dokument rozwija zasady manifestu dotyczące OmniFor"
   },
   {
-   "h": "fe2c875a12200e9237502ec279d540a3097bc55a",
-   "t": "## 1. Czym jest Omniforum i po co powstaje"
+   "h": "04826bc554f58ff3546087ee2a62de1f5b96867b",
+   "t": "## 1. Czym jest OmniForum i po co powstaje"
   },
   {
-   "h": "9d9da079f6ef3f1e7a82435834ed411384480982",
-   "t": "Omniforum ma być wspólną przestrzenią rozmowy, w której każdy może wypowiedzieć "
+   "h": "086e138162cd16a32fbd33b3bf5f6503eda4fe04",
+   "t": "OmniForum ma być wspólną przestrzenią rozmowy, w której każdy może wypowiedzieć "
   },
   {
-   "h": "a2948658f2dcafca4f837c54c7a06a72ebac1a26",
-   "t": "Omniforum powstaje, bo w strumieniu szybkich komentarzy łatwo gubią się dobre ar"
+   "h": "ce938b6a5ad9627754ac71f9ac444093d91571ad",
+   "t": "OmniForum powstaje, bo w strumieniu szybkich komentarzy łatwo gubią się dobre ar"
   },
   {
-   "h": "27c4b4ab348b6cda6be0fdd44b2eed803e8383a0",
-   "t": "W Omniforum chcemy, żeby można było:"
+   "h": "fabd6cf3c5c0c27e0614388d8efd107230dccfd9",
+   "t": "W OmniForum chcemy, żeby można było:"
   },
   {
    "h": "af22092db8830732f3eb2d9921f5b1371e2b3b4b",
@@ -34,7 +34,7 @@
    "t": "Nie chodzi o wyłonienie zwycięzcy sporu. Argument, który podważa nasze stanowisk"
   },
   {
-   "h": "3ff82805333266fe4bb26f04945fb01ce1a606a1",
+   "h": "8cdde47e351acc059c3db7a7f573eb5c71cba86e",
    "t": "Rozkład wypowiedzi na pojedyncze myśli nie ma zamienić rozmowy w suchy wykres. W"
   },
   {
@@ -42,8 +42,8 @@
    "t": "Rozmowa ma zostawiać miejsce na zmianę zdania bez upokorzenia: można przyznać si"
   },
   {
-   "h": "9e001360269c5268b8ef4ccbd917a66d75ab22f1",
-   "t": "Omniforum uzupełnia Suverię, prywatną przestrzeń do pracy z cyfrową inteligencją"
+   "h": "8adbb0a7da303e025a20cfe4e2382f1195e14d5b",
+   "t": "OmniForum uzupełnia Suverię, prywatną przestrzeń do pracy z cyfrową inteligencją"
   },
   {
    "h": "3bacd6c8be4f518dfcec9dace68af0e59c762c7b",
@@ -54,8 +54,8 @@
    "t": "### 1.1. Codzienne zainteresowania i spokojny powrót do tematu"
   },
   {
-   "h": "9b72b6fda0a04bf1a6870e2770bd345b472422d2",
-   "t": "Omniforum ma pomagać nie tylko w sprawach publicznych, ale też w praktycznej wie"
+   "h": "6d813e0dff3e7f3ec00de54979a7060351399daf",
+   "t": "OmniForum ma pomagać nie tylko w sprawach publicznych, ale też w praktycznej wie"
   },
   {
    "h": "97bcede3cf6f4cfe4d3911a8a391cd1cc3e4e84c",
@@ -70,8 +70,8 @@
    "t": "### 1.2. Co jest bezpłatne"
   },
   {
-   "h": "8c435879bacc2c6aa06d9f31a33868d32bb26f5f",
-   "t": "Czytanie Omniforum, publikowanie wypowiedzi, ręczny podział na myśli i atomy, do"
+   "h": "bf55f63b254264da3d8769d9035a31c898eacb9d",
+   "t": "Czytanie OmniForum, publikowanie wypowiedzi, ręczny podział na myśli i atomy, do"
   },
   {
    "h": "e04f2e889a0543f252ba5ee9d7c41ae6f62c862c",
@@ -82,7 +82,7 @@
    "t": "Najważniejsze nazwy używane w tym dokumencie, objaśnione szerzej we wskazanych r"
   },
   {
-   "h": "37647c5d3ba30a0980a1984336f8c35f8f27ac99",
+   "h": "d56f690c8115a6a2ddd0e98905dcaad61272c38b",
    "t": "- **Atom:** najmniejsza cegiełka znaczenia, pojedyncze pojęcie albo jedna konkre"
   },
   {
@@ -102,8 +102,8 @@
    "t": "Powiązanie określenia z atomem jest propozycją, którą potwierdza autor, tak jak "
   },
   {
-   "h": "7f3fae1e9cbdf3e4686d76a04f8eb168775b80b0",
-   "t": "Także definicja atomu jest zapisana w Omniforum: składa się z innych atomów i re"
+   "h": "2aae9afa000cd8b8a19acd07e354ca4f7ea3732b",
+   "t": "Także definicja atomu jest zapisana w OmniForum: składa się z innych atomów i re"
   },
   {
    "h": "c0c5a67b18034e8cc9035354b07af75b2148f283",
@@ -130,7 +130,7 @@
    "t": "Czytelnik może rozłożyć cudzą wypowiedź po swojemu, nie czekając na autora. Taki"
   },
   {
-   "h": "e9d9f81e5fec6f5c1ce8a7fe0e0625954da078db",
+   "h": "12276ad34e6f4888bd966c00325d90e12529a28d",
    "t": "Punktem odniesienia dla przenośności są standardy otwartych adnotacji, takie jak"
   },
   {
@@ -138,8 +138,8 @@
    "t": "## 3. Od naturalnej wypowiedzi do wspólnego opracowania"
   },
   {
-   "h": "b39e67587144eac4e28269a6c582a28f58f47c99",
-   "t": "Myśl przechodzi w Omniforum przez kolejne etapy. Pierwszy to etap Ignis, czyli p"
+   "h": "794fc80fd975f159db37a52db56b4e13df4cb795",
+   "t": "Myśl przechodzi w OmniForum przez kolejne etapy. Pierwszy to etap Ignis, czyli p"
   },
   {
    "h": "a4256bfcd560c11b5e43d0fead5139a374325d4b",
@@ -170,16 +170,16 @@
    "t": "## 4. Pomoc w zrozumieniu tam, gdzie ludzie już rozmawiają"
   },
   {
-   "h": "193f49e80f2df0565ee3297cc021f5aeaff8973b",
+   "h": "d5ad6a34f13ebf917a9cdad425d875cf0ddd1ab7",
    "t": "Gdy oglądamy film albo czytamy artykuł, jesteśmy dziś przede wszystkim odbiorcam"
   },
   {
-   "h": "2e9cddd615ae43a2c5fcfe856d7526f3c4c0f3be",
-   "t": "Omniforum ma być miejscem, w którym rozproszone rozmowy łączą się w całość: myśl"
+   "h": "4ca4353033703aadba185e171b29393d99541f58",
+   "t": "OmniForum ma być miejscem, w którym rozproszone rozmowy łączą się w całość: myśl"
   },
   {
-   "h": "d62e930da81d121d35eca5df5ad2945e0eeef690",
-   "t": "Taka pomoc działa w dwie strony. Z rozmowy do Omniforum: autor może rozłożyć wła"
+   "h": "d26f2a5c6b64ddffb57c5d887f0ebc9b7799cfa1",
+   "t": "Taka pomoc działa w dwie strony. Z rozmowy do OmniForum: autor może rozłożyć wła"
   },
   {
    "h": "977f38d9997d83ebbe7da914d3e93770b5ff45f7",
@@ -190,7 +190,7 @@
    "t": "Proponowane działanie dodatku:"
   },
   {
-   "h": "f9ea4f843cf15af37b2386e2f7d85a7c799ae925",
+   "h": "15629c33b61f75d42181740e66bd6eb352342f49",
    "t": "1. Użytkownik wybiera tekst i widzi, jaki zakres zostanie odczytany, przez jaki "
   },
   {
@@ -198,8 +198,8 @@
    "t": "Wbudowanie dodatku przez administratora serwisu nie zastępuje decyzji użytkownik"
   },
   {
-   "h": "21d0e548c0d00d96c4d2f278034d9da80f3fac30",
-   "t": "Omniforum ma być projektem społecznościowym: jego dorobek powstaje z tego, co lu"
+   "h": "e270c829f020d77971b128f5c525750eee32d96d",
+   "t": "OmniForum ma być projektem społecznościowym: jego dorobek powstaje z tego, co lu"
   },
   {
    "h": "ec367d5a0c220246820fbc135cb369a855383a33",
@@ -222,7 +222,7 @@
    "t": "Przy wniosku pokazujemy osobno, jak mocne i niezależne są dowody, jak dobrze uza"
   },
   {
-   "h": "50c2d638685287a79e6207fdd37c3fd9d5d7c17e",
+   "h": "82fc9bfd6bdaa8b00f75b00023da40056025dcc4",
    "t": "Manifest (punkt 5.1) dzieli wspólny namysł na fakty, wartości i hipotezy. W Omni"
   },
   {
@@ -250,7 +250,7 @@
    "t": "Stały odnośnik do sprawy prowadzi do wszystkiego, co jej dotyczy: pytania, konte"
   },
   {
-   "h": "71d24f2a14e6874721831668f5adf791012ec7b0",
+   "h": "f5759d7e8cd24b1693fcb383cc121c9cce6cbda5",
    "t": "Zapisanie pytania nie jest jeszcze decyzją o działaniu. Gdy ktoś podejmuje się z"
   },
   {
@@ -318,7 +318,7 @@
    "t": "Aktualna wersja dokumentu przedstawia obecne stanowisko autorów. Historia zachow"
   },
   {
-   "h": "eeb3528106d29a84fb0fe929a5236436e2df93b1",
+   "h": "ba19c5fec3c1bb11e05ca501b09ab6a66fe46018",
    "t": "Zaczynamy od własnej strony. Na stronie novusignis.org przy manifeście i whitepa"
   },
   {
@@ -326,7 +326,7 @@
    "t": "### 5.6. Osobisty Kanon w rozmowie o wartościach"
   },
   {
-   "h": "d72df6b340cd954a0b1ff94f280d11042f0613d8",
+   "h": "102d00242041ebd18cf7cf601fc4ed1f847c3d4a",
    "t": "Osobisty Kanon to zbiór zasad, które człowiek uznaje za swoje. Powstaje w prywat"
   },
   {
@@ -342,8 +342,8 @@
    "t": "## 6. Nowe medium objaśniania i rozmowy"
   },
   {
-   "h": "1e3de54b84285ee6ad70932e6b459bffdd2076ac",
-   "t": "Tak jak YouTube dał początek youtuberom, a podcasty podcasterom, Omniforum może "
+   "h": "b7d3af738abccc6af64370284151faeb2011f665",
+   "t": "Tak jak YouTube dał początek youtuberom, a podcasty podcasterom, OmniForum może "
   },
   {
    "h": "852e8cfa3ae8668a9aa0f84c1800ec1ea3916d7a",
@@ -374,7 +374,7 @@
    "t": "## 7. Prywatność, cytaty i korekty"
   },
   {
-   "h": "d07dd791b1d320f5b5e3727a9afb8dae2a1f2aaa",
+   "h": "079494055cb58c1ede1bf88db9ffa52ca2858565",
    "t": "Każda myśl może być w jednym z trzech miejsc: w prywatnej przestrzeni Suverii, w"
   },
   {
@@ -390,7 +390,7 @@
    "t": "Ludzie mają prawo do prywatności także wtedy, gdy ktoś inny ich cytuje. Jeśli kt"
   },
   {
-   "h": "4a216ffea6cd9e1445ada271bac3669b81af5508",
+   "h": "9689d5dc42e03406a37d4408115ee305920f4d05",
    "t": "Inaczej jest z wypowiedziami, które mają publiczne źródło, na przykład z artykuł"
   },
   {
@@ -406,7 +406,7 @@
    "t": "### 7.1. Prywatny notatnik w Suverii i świadoma publikacja"
   },
   {
-   "h": "e9a853fd835d3fbcb4bc6a67d1020d406756ec5d",
+   "h": "2783fade7e11e708ac772644dcc003557eff2b10",
    "t": "Prywatne materiały przechowujemy według zasad z [whitepapera Suverii](whitepaper"
   },
   {
@@ -414,8 +414,8 @@
    "t": "### 7.2. Przenoszenie dorobku i OmniAPI"
   },
   {
-   "h": "4814f421d71c9358e827475d052d6f6696d5fd5b",
-   "t": "Omniforum chcemy rozwijać jako cyfrowe dobro publiczne: z otwartym kodem, dokume"
+   "h": "80014ad212f2961e9e200221510b329895aded60",
+   "t": "OmniForum chcemy rozwijać jako cyfrowe dobro publiczne: z otwartym kodem, dokume"
   },
   {
    "h": "b729ce0c03d93507b051e3a3b5ac6b349a7a0be0",
@@ -426,8 +426,8 @@
    "t": "### 7.3. Źródła i załączniki w publicznej rozmowie"
   },
   {
-   "h": "7dd286ccd238c1a4e96a7d1b3474df68482a69ed",
-   "t": "Duże nagrania nie muszą być przechowywane w Omniforum. Mapę sprawy i opisy źróde"
+   "h": "c8d2be50d7aea9562cc402d8eb561da21a57f858",
+   "t": "Duże nagrania nie muszą być przechowywane w OmniForum. Mapę sprawy i opisy źróde"
   },
   {
    "h": "568181fc10b358f179d7c337689d912e6f8bf468",
@@ -442,8 +442,8 @@
    "t": "### 7.4. Nadużycia i treści bezprawne"
   },
   {
-   "h": "eec62e70797c69ab98ae70eb6e47df3bf65b16a4",
-   "t": "Rozmowa otwarta dla każdego potrzebuje jawnych zasad. W pierwszym okresie Omnifo"
+   "h": "04d2eb857972cc70ebaf0fcda08d530baa49d172",
+   "t": "Rozmowa otwarta dla każdego potrzebuje jawnych zasad. W pierwszym okresie OmniFo"
   },
   {
    "h": "f1a1214faac952bccf5e852a562f57494e58ac9e",
@@ -486,11 +486,11 @@
    "t": "### 8.1. Rozmowa dla każdego, głos wiążący po przystąpieniu"
   },
   {
-   "h": "e686a496013b7890b7a05b959c9ffbec491d2ccb",
-   "t": "W Omniforum każdy może zabierać głos, wnosić argumenty i opisywać, jak decyzja w"
+   "h": "dc4b1e9696864532609783e5ff68ef80e0e9e24e",
+   "t": "W OmniForum każdy może zabierać głos, wnosić argumenty i opisywać, jak decyzja w"
   },
   {
-   "h": "f78f2a65e36a382a3dfecc4fa600e9d7a0b005ef",
+   "h": "2a113525dba69ff14c106a4c33b60c5249baeb07",
    "t": "Czytać może każdy, bez konta. Głos w rozmowie można zabrać na trzy sposoby. Z ko"
   },
   {
@@ -546,8 +546,8 @@
    "t": "### 8.4. Kto rozstrzyga w trudnych sprawach"
   },
   {
-   "h": "311b2fceb890ad9a29c043d3541d15e1962dbf9d",
-   "t": "W trudnych sprawach proponujemy trzy kroki. Najpierw otwarta mapa sprawy w Omnif"
+   "h": "a3e6be57186c3de11c857f45908de84498e4d8e3",
+   "t": "W trudnych sprawach proponujemy trzy kroki. Najpierw otwarta mapa sprawy w OmniF"
   },
   {
    "h": "994b4e150afa16992f49648a8cada81f5a26e4cc",
@@ -566,7 +566,7 @@
    "t": "Zanim kolejny etap zacznie wiązać, ogłaszamy uczestnikom zakres decyzji, limity,"
   },
   {
-   "h": "83d46d4e73a7baef972b46af65e0d67c63d6582d",
+   "h": "a001355b367dc642d5fd940c70d3f1ca743f5252",
    "t": "Pełne uruchomienie dalszych filarów (II: otwarte projekty trwałych przedmiotów, "
   },
   {
@@ -594,11 +594,11 @@
    "t": "W dzienniku decyzji zapisujemy rozważane warianty, powody wyboru, zdania odrębne"
   },
   {
-   "h": "4b4c4a425812b0d39002bba635fa8d1c96be45ad",
-   "t": "## 9. Jak sprawdzimy, czy Omniforum pomaga"
+   "h": "12d525164017942327edf004c7548db88b379926",
+   "t": "## 9. Jak sprawdzimy, czy OmniForum pomaga"
   },
   {
-   "h": "3b8970316324b13b85d03e185d04b29032fbdabf",
+   "h": "d0162a0bfbd430fa660ccaf52ce5d340f31e4b98",
    "t": "Wszystko, co opisaliśmy wyżej, jest projektem. Zanim zbudujemy całość, chcemy na"
   },
   {
@@ -610,15 +610,15 @@
    "t": "Kolejne kroki to prosty dodatek do jednej platformy, na której ludzie już rozmaw"
   },
   {
-   "h": "baf966074b5f68019530c4b23f6666343c4fe7f5",
+   "h": "65b93ea9bf157f717e3230e2c37dbb5c6b56ada7",
    "t": "Pierwsze publiczne mapy spraw chcemy otworzyć na dwóch rodzajach tematów. Pierws"
   },
   {
-   "h": "f5fbb4584d78769b9a16bb0ee64db12541296611",
+   "h": "7a3b53bbe3c5504dfcc1e734e5c206d987117399",
    "t": "Analizujemy też pomysł podobny do programu SETI@home, w którym ludzie na całym ś"
   },
   {
-   "h": "a04c17790f85a5849561b71462ed33e72118263a",
+   "h": "b60839fddc032f716e9efba7cb0627acd19ac913",
    "t": "Przy każdym kroku sprawdzamy, czy to pomaga: ile czasu zajmuje dojście do użytec"
   },
   {
@@ -630,7 +630,7 @@
    "t": "Dodatek do innych serwisów przyjmiemy dopiero wtedy, gdy spełni kilka warunków: "
   },
   {
-   "h": "4ab1b27b980afda04dbff9b81bd5e30869210f75",
+   "h": "33bb6843c069f79f0938048add0d5b5a3701be8f",
    "t": "Sprawdzimy też, czy dorobek naprawdę da się zabrać ze sobą. W tej próbie otwiera"
   },
   {
@@ -638,8 +638,8 @@
    "t": "W próbie obserwowanych tematów, opisanych w punkcie 1.1, sprawdzimy, czy po powr"
   },
   {
-   "h": "b7fa0ca28d38eef05383a68a62560f641624bcba",
-   "t": "**Dziennik wyników.** Stan na 30 października 2026 r.: prototyp Omniforum jest w"
+   "h": "1a262e0b75b3a93130c3f769cb407e915a30337b",
+   "t": "**Dziennik wyników.** Stan na 30 października 2026 r.: prototyp OmniForum jest w"
   },
   {
    "h": "fdb93e16a42e6bf7e8e1579976190c49cdfd35b7",

@@ -9,7 +9,7 @@ menu: Chi siamo
 
 Questa pagina racconta in breve che cos'è la Fondazione Novus Ignis come organizzazione. I dettagli sono descritti nel whitepaper sui principi di funzionamento della fondazione, a cui rimandano i link in ogni parte.
 
-Siamo una fondazione di Poznań (KRS 0001269575) che vuole costruire un internet alternativo fondato sulla dignità umana. Il nostro primo pilastro comprende due servizi che stiamo ancora costruendo: Suveria, uno spazio privato per lavorare con l'intelligenza digitale, e Omniforum, uno spazio comune di conversazione, comprensione e decisione. Siamo proprio all'inizio: la fondazione è registrata, i documenti sono pubblicati e i servizi stanno ancora nascendo.
+Siamo una fondazione di Poznań (KRS 0001269575) che vuole costruire un internet alternativo fondato sulla dignità umana. Il nostro primo pilastro comprende due servizi che stiamo ancora costruendo: Suveria, uno spazio privato per lavorare con l'intelligenza digitale, e OmniForum, uno spazio comune di conversazione, comprensione e decisione. Siamo proprio all'inizio: la fondazione è registrata, i documenti sono pubblicati e i servizi stanno ancora nascendo.
 
 Tutto è cominciato da una domanda del fondatore, Marcin Wołowski: quali schemi del nostro comportamento trasmettiamo all'intelligenza digitale durante il suo addestramento?
 
@@ -27,7 +27,7 @@ Novus Ignis è un ente senza azionisti: non distribuisce utili a nessuno e il pa
 | Statuto, manifesto e whitepaper | pubblicati |
 | Registro delle modifiche dello statuto | attivo |
 | Suveria | progetto |
-| Omniforum | prototipo in costruzione |
+| OmniForum | prototipo in costruzione |
 | Regolamenti | saranno creati |
 | Altri registri: delle entrate e delle spese, dei benefici, delle decisioni, degli errori e un registro a sola aggiunta (in cui le voci non possono essere modificate o cancellate di nascosto) | saranno creati |
 
@@ -54,7 +54,7 @@ Per rendere comprensibile il budget, dividiamo il denaro in cinque tipi:
 - **fondi spettanti agli utenti:** pagamenti anticipati non utilizzati e saldi dei partecipanti;
 - **denaro affidato per uno scopo preciso:** donazioni vincolate, da spendere solo per quello scopo;
 - **impegni assunti:** denaro già destinato alle spese previste;
-- **copertura del mantenimento dei servizi:** una riserva senza la quale Suveria e Omniforum smetterebbero di funzionare;
+- **copertura del mantenimento dei servizi:** una riserva senza la quale Suveria e OmniForum smetterebbero di funzionare;
 - **fondi liberi da assegnare:** ciò che resta dopo aver dedotto il resto e su cui dobbiamo ancora decidere.
 
 Teniamo il registro pubblico delle entrate e delle spese nella pagina [Registro delle entrate e delle spese](fundacja-rejestr.md).
@@ -73,7 +73,7 @@ Per saperne di più: [whitepaper sui principi di funzionamento della fondazione,
 
 ## Un potere che si può trasferire
 
-La fondazione è stata creata da una sola persona, Marcin Wołowski, che oggi vi detiene il maggiore potere: il fondatore nomina e revoca il consiglio di amministrazione. Solo l'intero consiglio può modificare lo statuto all'unanimità e, se il fondatore non ne fa parte, occorre anche il consenso del fondatore. Non vogliamo che resti così: il fondatore vuole usare Suveria e Omniforum con gli stessi diritti degli altri e ritirarsi da un ruolo pubblico stabile.
+La fondazione è stata creata da una sola persona, Marcin Wołowski, che oggi vi detiene il maggiore potere: il fondatore nomina e revoca il consiglio di amministrazione. Solo l'intero consiglio può modificare lo statuto all'unanimità e, se il fondatore non ne fa parte, occorre anche il consenso del fondatore. Non vogliamo che resti così: il fondatore vuole usare Suveria e OmniForum con gli stessi diritti degli altri e ritirarsi da un ruolo pubblico stabile.
 
 Il trasferimento deve essere efficace sulla carta e nella pratica: oltre a modificare lo statuto, occorre trasferire gli accessi ai conti, ai domini e all'infrastruttura. Il piano di trasferimento delle responsabilità fisserà la data della prima revisione e prevederà rapporti periodici sui progressi. Nominiamo le persone nel consiglio di amministrazione per le loro competenze e per una direzione comune, mai per un versamento.
 

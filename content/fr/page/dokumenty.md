@@ -17,13 +17,13 @@ Un document de niveau inférieur ne peut contredire un document de niveau supér
 
 ## Liste des documents
 
-Suveria est un projet, et Omniforum a un prototype en construction ; les livres blancs décrivent donc des intentions et des limites, et non des services en fonctionnement ; chacun le précise dès son premier paragraphe. Pour en savoir plus : [manifeste, introduction](../manifest.md#top).
+Suveria est un projet, et OmniForum a un prototype en construction ; les livres blancs décrivent donc des intentions et des limites, et non des services en fonctionnement ; chacun le précise dès son premier paragraphe. Pour en savoir plus : [manifeste, introduction](../manifest.md#top).
 
 | Document | Contenu | Version | Temps de lecture | Langue |
 |---|---|---|---|---|
 | [Manifeste](../manifest.md) | Ce que nous voulons faire et pourquoi : dignité, vie privée, compréhension commune, entretien des services et transmission du pouvoir. | 31.10.2026 | env. 60 minutes | polonais et anglais |
 | [Suveria : travail privé avec l’intelligence numérique](../whitepaper-suveria.md) | Ce que nous protégeons et contre quoi, le chemin de l’appareil au modèle, le calcul des coûts daté et les essais de validation. | 31.10.2026 | env. 50 minutes | polonais et anglais |
-| [Omniforum : compréhension commune, conversation et décisions](../whitepaper-omniforum.md) | Les dossiers, la fiche d’idée, la carte des arguments, les documents vivants et les principes des décisions communes. | 31.10.2026 | env. 50 minutes | polonais et anglais |
+| [OmniForum : compréhension commune, conversation et décisions](../whitepaper-omniforum.md) | Les dossiers, la fiche d’idée, la carte des arguments, les documents vivants et les principes des décisions communes. | 31.10.2026 | env. 50 minutes | polonais et anglais |
 | [Principes de fonctionnement de la fondation](../whitepaper-zasady-fundacji.md) | La facturation de l’usage réel, le budget, le travail et les rôles, le registre des avantages et la transmission des prérogatives du fondateur. | 31.10.2026 | env. 50 minutes | polonais et anglais |
 | [Matériaux pour l’entraînement et benchmark des modèles](../whitepaper-materialy-i-benchmark.md) | Comment vérifier si l’intelligence numérique aide réellement les personnes ; un programme de recherche sans résultats à ce jour. | 31.10.2026 | env. 25 minutes | polonais et anglais |
 | [Statuts : versions et registre des modifications](../statut/rejestr-zmian.md) | Toutes les versions des statuts ainsi que les modifications effectuées et prévues, avec leur justification. | entrées jusqu’au 30.10.2026 | env. 10 minutes | polonais et anglais |
@@ -34,7 +34,7 @@ Tous les documents sont disponibles en polonais et en anglais (les statuts en an
 ## Comment lire
 
 - Vous avez 5 minutes : lisez la page [En bref](w-skrocie.md) ou [l’introduction du manifeste](../manifest.md#top).
-- Vous avez une heure : lisez le livre blanc de votre domaine. Suveria traite de sécurité et d’infrastructure, Omniforum de conversation et de décision, les principes de la fondation de droit et d’argent, et le benchmark de recherche sur les modèles.
+- Vous avez une heure : lisez le livre blanc de votre domaine. Suveria traite de sécurité et d’infrastructure, OmniForum de conversation et de décision, les principes de la fondation de droit et d’argent, et le benchmark de recherche sur les modèles.
 - Vous avez plus de temps : lisez dans l’ordre le manifeste, les livres blancs, le registre des modifications des statuts et les statuts.
 
 Le manifeste et les quatre livres blancs sont aussi réunis dans un seul fichier texte, que vous pouvez ajouter à votre conversation avec une intelligence numérique pour l’interroger sur ce qui vous intéresse : [en français](llms-full.txt) ou [en polonais](../llms-full.txt).
@@ -49,7 +49,7 @@ Le bouton « J’ai une remarque » fonctionne pour chaque document et chaque 
 
 La page n’enregistre rien : le message est créé dans votre logiciel de messagerie, et le contenu de la remarque vous appartient tant que vous ne l’avez pas envoyé.
 
-Nous consignerons les remarques qui conduisent à des modifications dans le [journal des modifications du site](dziennik-zmian.md) et dans l’historique du document. À terme, les remarques doivent arriver dans Omniforum, où d’autres pourront les voir et en discuter ; cela reste à venir. Pour en savoir plus : [livre blanc d’Omniforum, point 5.5](../whitepaper-omniforum.md#s5-5).
+Nous consignerons les remarques qui conduisent à des modifications dans le [journal des modifications du site](dziennik-zmian.md) et dans l’historique du document. À terme, les remarques doivent arriver dans OmniForum, où d’autres pourront les voir et en discuter ; cela reste à venir. Pour en savoir plus : [livre blanc d’OmniForum, point 5.5](../whitepaper-omniforum.md#s5-5).
 
 ## Licence et sources
 

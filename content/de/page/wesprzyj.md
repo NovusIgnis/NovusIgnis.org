@@ -24,7 +24,7 @@ Du kannst die Stiftung mit einer Spende per Überweisung in Złoty, Euro oder Do
 
 ## Was mit einer Spende geschieht
 
-- Eine Spende ohne angegebenen Zweck fließt in die frei verfügbaren Mittel, stets mit Vorrang für Säule I, also Suveria und Omniforum.
+- Eine Spende ohne angegebenen Zweck fließt in die frei verfügbaren Mittel, stets mit Vorrang für Säule I, also Suveria und OmniForum.
 - Eine Spende verleiht weder Stimmen noch Leitungsbefugnisse, Zugang zu Daten der Nutzenden oder ein Recht auf Werbung oder sonstige werbliche Maßnahmen in unseren Diensten und unserer Kommunikation.
 - Spendende nennen wir im Register nur dann namentlich, wenn sie es selbst wünschen; andere Einzahlungen beschreiben wir allgemein, etwa als „Spende einer Privatperson“. Verwendungszwecke von Überweisungen veröffentlichen wir nicht wörtlich, denn sie enthalten oft personenbezogene Daten. Wenn du möchtest, dass wir deinen Vornamen oder den Namen deiner Firma nennen, schreib uns.
 - Wir nehmen keine Leistungen an, deren Bedingung Werbung oder sonstige werbliche Maßnahmen, eine Empfehlung oder ein Zugeständnis bei Entscheidungen ist.

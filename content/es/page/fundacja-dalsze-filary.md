@@ -7,11 +7,11 @@ menu: Los siguientes pilares
 ---
 # Los siguientes pilares
 
-Esta página cuenta adónde quiere llegar la fundación más allá del software y cómo se asegura de no partir demasiado pronto. Hoy trabajamos exclusivamente en el Pilar I: Suveria es un proyecto y Omniforum tiene un prototipo en construcción. Los Pilares II y III son una visión, no trabajos en curso.
+Esta página cuenta adónde quiere llegar la fundación más allá del software y cómo se asegura de no partir demasiado pronto. Hoy trabajamos exclusivamente en el Pilar I: Suveria es un proyecto y OmniForum tiene un prototipo en construcción. Los Pilares II y III son una visión, no trabajos en curso.
 
 ## Los tres pilares de un vistazo
 
-- **Pilar I, «Software»: empezamos aquí.** Software y servicios digitales, es decir, Suveria, el espacio privado de trabajo con la inteligencia digital, y Omniforum, el espacio compartido de conversación, comprensión y decisiones.
+- **Pilar I, «Software»: empezamos aquí.** Software y servicios digitales, es decir, Suveria, el espacio privado de trabajo con la inteligencia digital, y OmniForum, el espacio compartido de conversación, comprensión y decisiones.
 - **Pilar II, «Hardware»: visión.** Diseños abiertos de objetos duraderos y reparables.
 - **Pilar III, «Naturaleza»: visión.** Un contacto más estrecho con la naturaleza.
 
@@ -36,8 +36,8 @@ Más información: [estatutos, § 5](../statut/statut-2026-09-28.md#par-5) y [re
 
 Empezamos el desarrollo por el Pilar I, y destinaremos los primeros fondos del presupuesto común y los recursos de cómputo libres a sus compromisos básicos. La puesta en marcha completa de los Pilares II y III y la financiación de sus proyectos con el presupuesto común requieren que se cumplan a la vez tres condiciones. En cada una indicamos cuándo la consideraremos cumplida.
 
-1. **Una votación en funcionamiento.** Omniforum con una votación vinculante, es decir, cuyo resultado la fundación ejecuta (las consultas no bastan). Queremos basarla en pruebas de conocimiento cero: una forma de confirmar el derecho a voto sin revelar quién votó qué. La elección ha de seguir siendo secreta, ha de ser posible comprobar si el voto se ha contado y cada persona con derecho a voto ha de tener un solo voto efectivo. Se cumple después de al menos una votación vinculante en la que una prueba pública con recompensa no haya logrado emitir un segundo voto con la misma credencial ni vincular un voto con una persona.
-2. **Reserva.** Fondos realmente reunidos para al menos seis meses de mantenimiento de Suveria y Omniforum, que permanecen intactos después de apartar el presupuesto completo del nuevo proyecto. Se cumple cuando una cuenta separada contiene seis veces el costo mensual medio de mantenimiento de los últimos tres meses y mostramos el importe cada mes en el registro.
+1. **Una votación en funcionamiento.** OmniForum con una votación vinculante, es decir, cuyo resultado la fundación ejecuta (las consultas no bastan). Queremos basarla en pruebas de conocimiento cero: una forma de confirmar el derecho a voto sin revelar quién votó qué. La elección ha de seguir siendo secreta, ha de ser posible comprobar si el voto se ha contado y cada persona con derecho a voto ha de tener un solo voto efectivo. Se cumple después de al menos una votación vinculante en la que una prueba pública con recompensa no haya logrado emitir un segundo voto con la misma credencial ni vincular un voto con una persona.
+2. **Reserva.** Fondos realmente reunidos para al menos seis meses de mantenimiento de Suveria y OmniForum, que permanecen intactos después de apartar el presupuesto completo del nuevo proyecto. Se cumple cuando una cuenta separada contiene seis veces el costo mensual medio de mantenimiento de los últimos tres meses y mostramos el importe cada mes en el registro.
 3. **Decisión de la comunidad.** Una votación abierta a toda la comunidad con derecho a voto en igualdad de condiciones. Se cumple cuando la comunidad aprueba una propuesta concreta con un presupuesto, su efecto sobre la reserva y un criterio para detenerla.
 
 Las promesas sin pagar, los saldos que se deben a las personas usuarias y el dinero con destino específico no forman la reserva, y una maqueta de la votación no cumple la primera condición. Si la votación deja de funcionar o la reserva baja de seis meses, suspendemos los nuevos compromisos de los siguientes pilares y primero restablecemos las condiciones.

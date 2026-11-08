@@ -24,7 +24,7 @@ Bạn có thể hỗ trợ quỹ bằng khoản hiến tặng qua chuyển kho�
 
 ## Điều xảy ra với khoản hiến tặng
 
-- Khoản hiến tặng không chỉ định mục tiêu vào tiền tự do phân bổ, luôn ưu tiên Trụ cột I, tức Suveria và Omniforum.
+- Khoản hiến tặng không chỉ định mục tiêu vào tiền tự do phân bổ, luôn ưu tiên Trụ cột I, tức Suveria và OmniForum.
 - Hiến tặng không đem lại phiếu, quyền quản lý, quyền truy cập dữ liệu người dùng hay quyền được quảng bá trong dịch vụ và truyền thông của chúng tôi.
 - Chúng tôi chỉ nêu tên người hiến tặng trong sổ khi chính họ muốn; những khoản khác được mô tả chung, chẳng hạn “hiến tặng từ cá nhân”. Chúng tôi không công bố nguyên văn nội dung chuyển khoản vì thường chứa dữ liệu cá nhân.  Nếu muốn được ghi tên bạn hoặc tên công ty, hãy viết cho chúng tôi.
 - Chúng tôi không nhận lợi ích kèm điều kiện quảng bá, giới thiệu hoặc nhượng bộ trong quyết định.

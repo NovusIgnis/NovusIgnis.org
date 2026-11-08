@@ -1,19 +1,19 @@
 ---
-tytul: Shared decisions in Omniforum
+tytul: Shared decisions in OmniForum
 opis: How a consultation differs from a vote, how the right to vote is to be obtained without biometrics, which principles always apply and why the binding force of votes is to grow gradually
 grupa: omniforum
 kolejnosc: 3
 menu: Shared decisions
 ---
-# Shared decisions in Omniforum
+# Shared decisions in OmniForum
 
-This page goes deeper into what the [What is Omniforum](omniforum.md) page says briefly about shared decisions: how a consultation differs from a vote, how we want to grant the right to vote without biometrics, which principles always apply and why the results of votes are to bind the foundation only gradually.
+This page goes deeper into what the [What is OmniForum](omniforum.md) page says briefly about shared decisions: how a consultation differs from a vote, how we want to grant the right to vote without biometrics, which principles always apply and why the results of votes are to bind the foundation only gradually.
 
-No vote or consultation is taking place today. The Omniforum prototype is under construction, and everything we describe below is at the design stage.
+No vote or consultation is taking place today. The OmniForum prototype is under construction, and everything we describe below is at the design stage.
 
 This is one of the most difficult parts of the whole undertaking, so we write openly about what is within reach and what we will have to work on for a long time.
 
-More: [Omniforum whitepaper, chapter 8](../whitepaper-omniforum.md#s8).
+More: [OmniForum whitepaper, chapter 8](../whitepaper-omniforum.md#s8).
 
 ## Facts, values, hypotheses
 
@@ -36,7 +36,7 @@ The foundation's statute allows votes and consultations on the direction in whic
 
 As long as a trial does not confirm that each voter is a different person, we call it a consultation, not a vote within the meaning of the statute.
 
-More: [statute, § 8](../statut/statut-2026-09-28.md#par-8), [Omniforum whitepaper, section 8.1](../whitepaper-omniforum.md#s8-1) and [Foundation Principles whitepaper, chapter 2](../whitepaper-zasady-fundacji.md#s2).
+More: [statute, § 8](../statut/statut-2026-09-28.md#par-8), [OmniForum whitepaper, section 8.1](../whitepaper-omniforum.md#s8-1) and [Foundation Principles whitepaper, chapter 2](../whitepaper-zasady-fundacji.md#s2).
 
 ## How to obtain the right to vote
 
@@ -53,7 +53,7 @@ Each voting credential is to get a unique credential tag, so that a new document
 
 Combining paths leaves the risk that the same person obtains additional voting credentials. At the beginning we accept this risk consciously, so that as many people from all over the world as possible can join; the goal remains a system in which one person has one vote. A refusal of admission comes with a justification and a route of appeal.
 
-More: [Omniforum whitepaper, section 8.3](../whitepaper-omniforum.md#s8-3) and [manifesto, section 5.2](../manifest.md#s5-2).
+More: [OmniForum whitepaper, section 8.3](../whitepaper-omniforum.md#s8-3) and [manifesto, section 5.2](../manifest.md#s5-2).
 
 ## Principles that always apply
 
@@ -67,15 +67,15 @@ These are project principles that we will write into the voting regulations.
 - A spending proposal requires the “green path” from the manifesto, that is, a chain of connections that shows the plan's grounding in facts and the community's agreement to the choices behind it. We set the threshold of agreement in advance according to the importance of the matter, the scale of the spending and whether the effects can be reversed.
 - Before casting a vote, everyone sees a short, accessible summary of positions, objections and sources, published in advance. The parties to a dispute can report that their position was left out, and we then show their own account next to it.
 
-More: [Omniforum whitepaper, chapter 8](../whitepaper-omniforum.md#s8), [section 8.3](../whitepaper-omniforum.md#s8-3) and [manifesto, section 5.3](../manifest.md#s5-3).
+More: [OmniForum whitepaper, chapter 8](../whitepaper-omniforum.md#s8), [section 8.3](../whitepaper-omniforum.md#s8-3) and [manifesto, section 5.3](../manifest.md#s5-3).
 
 ## Difficult matters: three steps
 
-1. **An open issue map** in Omniforum, in which anyone can take part.
+1. **An open issue map** in OmniForum, in which anyone can take part.
 2. **A randomly selected advisory assembly**: a group of people drawn from the register of eligible voters in a draw whose result anyone can check for themselves on the basis of publicly announced data. It receives time, materials and the opportunity to talk with the authors of proposals; it advises, it does not decide.
 3. **A vote of all eligible voters.**
 
-More: [Omniforum whitepaper, section 8.4](../whitepaper-omniforum.md#s8-4).
+More: [OmniForum whitepaper, section 8.4](../whitepaper-omniforum.md#s8-4).
 
 ## Gradually and carefully
 
@@ -83,9 +83,9 @@ Voting will gain binding force gradually: first trials without financial consequ
 
 Until then the foundation operates in the agile phase: the board makes ongoing decisions, chooses to ask the community for its opinion on important matters and publishes a justification for every important decision. The results of votes and consultations are formally advisory. For a result to formally bind the foundation, a change to the statute is needed, described in the [statute change register](../statut/rejestr-zmian.md) as Z4.
 
-Fully launching the further pillars (open designs for durable objects and contact with nature) requires three conditions together: voting that ensures one effective vote for the same person, funds for six months of maintaining Suveria and Omniforum, and a decision by the community. We will consider the first condition fulfilled only when the paths that allow additional votes are replaced by a uniform system and trials confirm this.
+Fully launching the further pillars (open designs for durable objects and contact with nature) requires three conditions together: voting that ensures one effective vote for the same person, funds for six months of maintaining Suveria and OmniForum, and a decision by the community. We will consider the first condition fulfilled only when the paths that allow additional votes are replaced by a uniform system and trials confirm this.
 
-More: [Omniforum whitepaper, section 8.5](../whitepaper-omniforum.md#s8-5), [Foundation Principles whitepaper, chapter 2](../whitepaper-zasady-fundacji.md#s2) and [manifesto, section 6.3](../manifest.md#s6-3).
+More: [OmniForum whitepaper, section 8.5](../whitepaper-omniforum.md#s8-5), [Foundation Principles whitepaper, chapter 2](../whitepaper-zasady-fundacji.md#s2) and [manifesto, section 6.3](../manifest.md#s6-3).
 
 ## What this will not ensure
 
@@ -96,10 +96,10 @@ More: [Omniforum whitepaper, section 8.5](../whitepaper-omniforum.md#s8-5), [Fou
 
 How to fully reconcile one vote per person without a central identity database, secrecy and access for the whole world, we do not yet know. “This may take a long time, and we say so plainly.”
 
-More: [Omniforum whitepaper, section 8.2](../whitepaper-omniforum.md#s8-2), [section 8.6](../whitepaper-omniforum.md#s8-6), [section 8.7](../whitepaper-omniforum.md#s8-7) and [manifesto, section 5.2](../manifest.md#s5-2).
+More: [OmniForum whitepaper, section 8.2](../whitepaper-omniforum.md#s8-2), [section 8.6](../whitepaper-omniforum.md#s8-6), [section 8.7](../whitepaper-omniforum.md#s8-7) and [manifesto, section 5.2](../manifest.md#s5-2).
 
 ## Read it and tell us what you think
 
-You will find the full description in the [Omniforum whitepaper](../whitepaper-omniforum.md), chapter 8, and in the [manifesto](../manifest.md), chapter 5. If something puzzles you or seems wrong, highlight that passage in the document and use the “I have a comment” button, or write to salve@novusignis.org.
+You will find the full description in the [OmniForum whitepaper](../whitepaper-omniforum.md), chapter 8, and in the [manifesto](../manifest.md), chapter 5. If something puzzles you or seems wrong, highlight that passage in the document and use the “I have a comment” button, or write to salve@novusignis.org.
 
-More: [Omniforum whitepaper, section 5.5](../whitepaper-omniforum.md#s5-5).
+More: [OmniForum whitepaper, section 5.5](../whitepaper-omniforum.md#s5-5).

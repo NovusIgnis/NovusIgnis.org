@@ -17,13 +17,13 @@ Um documento de nível inferior não pode contrariar um de nível superior: o ma
 
 ## Lista de documentos
 
-A Suveria é um projeto, e o Omniforum tem um protótipo em construção, portanto os whitepapers descrevem intenções e limites, e não serviços em funcionamento; cada um informa isso no primeiro parágrafo. Saiba mais: [manifesto, introdução](../manifest.md#top).
+A Suveria é um projeto, e o OmniForum tem um protótipo em construção, portanto os whitepapers descrevem intenções e limites, e não serviços em funcionamento; cada um informa isso no primeiro parágrafo. Saiba mais: [manifesto, introdução](../manifest.md#top).
 
 | Documento | O que contém | Versão | Tempo de leitura | Idioma |
 |---|---|---|---|---|
 | [Manifesto](../manifest.md) | O que queremos fazer e por quê: dignidade, privacidade, compreensão compartilhada, manutenção dos serviços e transferência de poder. | 31/10/2026 | cerca de 60 minutos | polonês e inglês |
 | [Suveria: trabalho privado com inteligência digital](../whitepaper-suveria.md) | O que protegemos e contra o quê, o caminho do dispositivo ao modelo, cálculo de custos com data e testes de aceitação. | 31/10/2026 | cerca de 50 minutos | polonês e inglês |
-| [Omniforum: compreensão compartilhada, conversa e decisões](../whitepaper-omniforum.md) | Questões, ficha da ideia, mapa de argumentos, documentos vivos e princípios das decisões compartilhadas. | 31/10/2026 | cerca de 50 minutos | polonês e inglês |
+| [OmniForum: compreensão compartilhada, conversa e decisões](../whitepaper-omniforum.md) | Questões, ficha da ideia, mapa de argumentos, documentos vivos e princípios das decisões compartilhadas. | 31/10/2026 | cerca de 50 minutos | polonês e inglês |
 | [Princípios de funcionamento da fundação](../whitepaper-zasady-fundacji.md) | Cobrança pelo uso real, orçamento, trabalho e funções, registro de benefícios e transferência dos poderes do fundador. | 31/10/2026 | cerca de 50 minutos | polonês e inglês |
 | [Materiais de treinamento e benchmark de modelos](../whitepaper-materialy-i-benchmark.md) | Como verificar se a inteligência digital realmente ajuda as pessoas; programa de pesquisa ainda sem resultados. | 31/10/2026 | cerca de 25 minutos | polonês e inglês |
 | [Estatuto: versões e registro de alterações](../statut/rejestr-zmian.md) | Todas as versões do estatuto e alterações realizadas e planejadas, com justificativas. | entradas até 30/10/2026 | cerca de 10 minutos | polonês e inglês |
@@ -34,7 +34,7 @@ Todos os documentos estão em polonês e inglês (o estatuto em inglês é apena
 ## Como ler
 
 - Tem 5 minutos: leia a página [Em poucas palavras](w-skrocie.md) ou a [introdução do manifesto](../manifest.md#top).
-- Tem uma hora: leia o whitepaper da sua área. A Suveria trata de segurança e infraestrutura; o Omniforum, de conversa e decisões; os princípios da fundação, de direito e dinheiro; e o benchmark, de pesquisas sobre modelos.
+- Tem uma hora: leia o whitepaper da sua área. A Suveria trata de segurança e infraestrutura; o OmniForum, de conversa e decisões; os princípios da fundação, de direito e dinheiro; e o benchmark, de pesquisas sobre modelos.
 - Tem mais tempo: leia, em ordem, o manifesto, os whitepapers, o registro de alterações do estatuto e o estatuto.
 
 O manifesto e os quatro whitepapers também estão em um único arquivo de texto, que você pode inserir na sua conversa com a inteligência digital e usar para perguntar sobre o que interessa: [em português](llms-full.txt) ou [em polonês](../llms-full.txt).
@@ -49,7 +49,7 @@ Em cada documento e subpágina, o botão “Tenho uma observação” está disp
 
 A página não salva nada: a mensagem é criada no seu programa de e-mail, e o conteúdo da observação continua sendo seu até o envio.
 
-Registraremos as observações que levarem a mudanças no [histórico de alterações do site](dziennik-zmian.md) e no histórico do documento. No futuro, as observações deverão chegar ao Omniforum, onde outras pessoas poderão vê-las e conversar sobre elas; isso ainda está por vir. Saiba mais: [whitepaper do Omniforum, seção 5.5](../whitepaper-omniforum.md#s5-5).
+Registraremos as observações que levarem a mudanças no [histórico de alterações do site](dziennik-zmian.md) e no histórico do documento. No futuro, as observações deverão chegar ao OmniForum, onde outras pessoas poderão vê-las e conversar sobre elas; isso ainda está por vir. Saiba mais: [whitepaper do OmniForum, seção 5.5](../whitepaper-omniforum.md#s5-5).
 
 ## Licença e fontes
 

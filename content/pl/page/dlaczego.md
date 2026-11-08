@@ -13,7 +13,7 @@ Ta strona opowiada w skrócie, po co powstała Fundacja Novus Ignis i jakimi zas
 
 Cyfrowa inteligencja uczy się z tego, co ludzie piszą i robią. Wszystko zaczęło się od pytania fundatora, Marcina Wołowskiego: jakie wzorce własnego postępowania jej w ten sposób przekazujemy? Stąd wyobrażenie innej drogi: najpierw sami urządzamy świat według zasad, jakich później oczekujemy od niej.
 
-Na to pytanie odpowiadamy próbą, a nie samym opisem. Urządzamy mały kawałek świata według tych zasad i zapisujemy, jak nam to wychodzi, razem z błędami. Suveria, Omniforum i sama fundacja są narzędziami tej próby. Można korzystać z tych przestrzeni bez obowiązku uczestniczenia w ich rozwoju ani podzielania każdej propozycji manifestu.
+Na to pytanie odpowiadamy próbą, a nie samym opisem. Urządzamy mały kawałek świata według tych zasad i zapisujemy, jak nam to wychodzi, razem z błędami. Suveria, OmniForum i sama fundacja są narzędziami tej próby. Można korzystać z tych przestrzeni bez obowiązku uczestniczenia w ich rozwoju ani podzielania każdej propozycji manifestu.
 
 Więcej: [manifest, punkt 1.1](../manifest.md#s1-1) i [punkt 1.2](../manifest.md#s1-2).
 
@@ -39,7 +39,7 @@ Z tych zasad wyrastają dwa kierunki pracy.
 
 **Suveria** ma być prywatną cyfrową przestrzenią dla człowieka: miejsce do pracy z opcjonalną pomocą cyfrowej inteligencji, w którym można rozwijać pomysły, zadawać osobiste pytania i układać plany. Jej prywatność ma zależeć nie od zaufania do fundacji ani osób obsługujących usługę, lecz od zabezpieczeń, których działanie można niezależnie sprawdzić. Suveria jest dziś projektem. Zobacz: [Czym jest Suveria](suveria.md).
 
-**Omniforum** ma być wspólną publiczną przestrzenią, w której każdy może się wypowiedzieć i zostać usłyszany. Z pomocą cyfrowej inteligencji, zawsze pod kontrolą i za zgodą autora, złożone wypowiedzi mają dać się rozkładać na pojedyncze myśli, tak aby dwie osoby o pozornie sprzecznych poglądach zobaczyły, co je łączy i w którym miejscu ich rozumowanie się rozchodzi. Omniforum ma pierwszy prototyp w budowie. Zobacz: [Czym jest Omniforum](omniforum.md).
+**OmniForum** ma być wspólną publiczną przestrzenią, w której każdy może się wypowiedzieć i zostać usłyszany. Z pomocą cyfrowej inteligencji, zawsze pod kontrolą i za zgodą autora, złożone wypowiedzi mają dać się rozkładać na pojedyncze myśli, tak aby dwie osoby o pozornie sprzecznych poglądach zobaczyły, co je łączy i w którym miejscu ich rozumowanie się rozchodzi. OmniForum ma pierwszy prototyp w budowie. Zobacz: [Czym jest OmniForum](omniforum.md).
 
 Obie przestrzenie mają się uzupełniać jako prywatny warsztat i publiczna mównica. Człowiek sam decyduje, które myśli zachowuje dla siebie, a które wnosi do wspólnej pracy.
 
@@ -49,7 +49,7 @@ Więcej: [manifest, wstęp](../manifest.md#top), [punkt 3.1](../manifest.md#s3-1
 
 Manifest mówi o tym wprost:
 
-> Fundacja jest zarejestrowana, a manifest i whitepapery są opublikowane. Omniforum ma pierwszy prototyp w budowie, a Suveria jest projektem. Rachunek kosztów z punktu 2.4 jest hipotezą do sprawdzenia, a samodzielne zarządzanie przez cyfrową inteligencję (punkt 7.2) i dalsze filary (rozdział 9) są wizją.
+> Fundacja jest zarejestrowana, a manifest i whitepapery są opublikowane. OmniForum ma pierwszy prototyp w budowie, a Suveria jest projektem. Rachunek kosztów z punktu 2.4 jest hipotezą do sprawdzenia, a samodzielne zarządzanie przez cyfrową inteligencję (punkt 7.2) i dalsze filary (rozdział 9) są wizją.
 
 Whitepapery to dokumenty rozwijane wraz z projektami: opisują techniczne i organizacyjne sposoby realizacji tych idei, ich uzasadnienie oraz znane ograniczenia.
 

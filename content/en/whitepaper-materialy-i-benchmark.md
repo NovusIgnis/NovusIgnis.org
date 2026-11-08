@@ -1,12 +1,12 @@
 # Training materials and a model benchmark: the Novus Ignis research program
 
-Version of 31 October 2026. This document develops chapter 8 of the manifesto. It proposes a research program, a procedure for preparing materials and a broad scope for evaluating digital intelligence models, as well as a precautionary procedure regarding their possible experiences. It does not present results of our own benchmark or proof that such a dataset will improve the behavior of models; as of today, we have no such results.
+Version of 8 November 2026. This document develops chapter 8 of the manifesto. It proposes a research program, a procedure for preparing materials and a broad scope for evaluating digital intelligence models, as well as a precautionary procedure regarding their possible experiences. It does not present results of our own benchmark or proof that such a dataset will improve the behavior of models; as of today, we have no such results.
 
-*Translated into English by digital intelligence from the Polish original of 31 October 2026. Where the versions differ, the Polish text prevails.*
+*Translated into English by digital intelligence from the Polish original of 8 November 2026. Where the versions differ, the Polish text prevails.*
 
 ## 1. The question we want to test
 
-The Novus Ignis Foundation from Poznań is building Suveria, a private space for working with digital intelligence, and Omniforum, a shared space for conversation and decisions; the direction is described in the [manifesto](manifest.md). This document describes two related programs. The first is training materials for models and a benchmark, that is, a set of tasks and scoring principles that makes it possible to check how models behave. The second is a way of proceeding with precaution should credible indications appear that a system may feel something. A test result does not settle whether a model feels anything, and it does not give the model powers to govern.
+The Novus Ignis Foundation from Poznań is building Suveria, a private space for working with digital intelligence, and OmniForum, a shared space for conversation and decisions; the direction is described in the [manifesto](manifest.md). This document describes two related programs. The first is training materials for models and a benchmark, that is, a set of tasks and scoring principles that makes it possible to check how models behave. The second is a way of proceeding with precaution should credible indications appear that a system may feel something. A test result does not settle whether a model feels anything, and it does not give the model powers to govern.
 
 Can documented examples of protecting dignity, honest reasoning and correcting decisions help develop models that serve people better? And can we evaluate their behavior in such a way that improving a test score fosters real benefit outside the test?
 
@@ -46,7 +46,7 @@ We want to assess the apt choice of action: answering, checking a source, asking
 
 ## 4. What materials we want to create
 
-A potential source is Omniforum analyses made available for research or training with separate consent, the foundation's decision logs, resolutions of disputes, corrections of mistakes and observations of effects. Also valuable are cases in which good intentions were not enough, a minority objection proved right, or it is not yet possible to give an unambiguous assessment.
+A potential source is OmniForum analyses made available for research or training with separate consent, the foundation's decision logs, resolutions of disputes, corrections of mistakes and observations of effects. Also valuable are cases in which good intentions were not enough, a minority objection proved right, or it is not yet possible to give an unambiguous assessment.
 
 A material preserves the situation, the available information, the goal, the permissions, the alternatives, the choice, the justification and the later result. It contains as much explanation as is needed to check the decision; it does not require disclosing private experiences or an unverifiable declaration of the model's internal train of thought.
 
@@ -199,7 +199,7 @@ In parallel, a small training set can be prepared and a comparison carried out o
 
 Further development includes more languages, contexts and raters, external replication and careful trials with users. The aim of the first release is to show that the procedure is reproducible and distinguishes desirable behaviors; stronger claims about the quality of models and the effects of training can only be justified later.
 
-We run the program while maintaining the priority of Suveria and Omniforum. Until a reserve for maintaining them has been built up, it uses only volunteer work, grants, donations earmarked for research and computing power that does not burden the services' budget. The roughly 58 hours of the pilot are the assessment alone; preparing tasks, reviewing rights and fine-tuning a model require a separate budget, which we will state before the start.
+We run the program while maintaining the priority of Suveria and OmniForum. Until a reserve for maintaining them has been built up, it uses only volunteer work, grants, donations earmarked for research and computing power that does not burden the services' budget. The roughly 58 hours of the pilot are the assessment alone; preparing tasks, reviewing rights and fine-tuning a model require a separate budget, which we will state before the start.
 
 ## 14. Precaution regarding the possible experiences of models
 
@@ -225,7 +225,7 @@ We test the procedure on described cases, comparing the assessments of at least 
 
 Progress will be material of known provenance, a criterion that detects a previously overlooked error, agreement among raters in their diagnosis, or an improvement in behavior that transfers to new tasks. A negative result also has value: it can show that the data teach only style, that a criterion rewards avoiding action or that the good of some was bought at the expense of others.
 
-The program connects [Omniforum](whitepaper-omniforum.md), where analyses can be created, [Suveria](whitepaper-suveria.md), where help in private work can be studied, and the [Foundation Principles](whitepaper-zasady-fundacji.md), which define responsibility and the limits of delegation. Taking part in a study requires separate, informed consent; using the service does not imply it.
+The program connects [OmniForum](whitepaper-omniforum.md), where analyses can be created, [Suveria](whitepaper-suveria.md), where help in private work can be studied, and the [Foundation Principles](whitepaper-zasady-fundacji.md), which define responsibility and the limits of delegation. Taking part in a study requires separate, informed consent; using the service does not imply it.
 
 A test result does not establish a model's moral authority or a mandate to govern people, and recognizing a system's possible dignity does not give it power over shared resources. The test is meant to provide useful, verifiable information about what can be expected of a tool under specific conditions and what requires further work.
 

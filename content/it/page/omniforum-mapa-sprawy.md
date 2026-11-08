@@ -1,6 +1,6 @@
 ---
 tytul: Mappa della questione e scheda dell'idea
-opis: Come Omniforum deve riunire i ragionamenti di persone diverse in una mappa, mostrare la forza di una conclusione e condurre da un'immagine del futuro al prossimo passo
+opis: Come OmniForum deve riunire i ragionamenti di persone diverse in una mappa, mostrare la forza di una conclusione e condurre da un'immagine del futuro al prossimo passo
 grupa: omniforum
 kolejnosc: 4
 menu: Mappa della questione
@@ -11,9 +11,9 @@ Nella pagina [Come funziona la conversazione](omniforum-rozmowa.md) abbiamo desc
 
 La mappa della questione è una raccolta ordinata di argomenti, esperienze e domande aperte intorno a una domanda. La scheda dell'idea descrive un'idea: dove conduce e qual è il prossimo passo.
 
-Il prototipo di Omniforum è in costruzione. Tutto ciò che descriviamo qui sotto è un progetto; non abbiamo ancora concluso alcuna prova.
+Il prototipo di OmniForum è in costruzione. Tutto ciò che descriviamo qui sotto è un progetto; non abbiamo ancora concluso alcuna prova.
 
-Per saperne di più: [whitepaper di Omniforum, capitolo 1](../whitepaper-omniforum.md#s1).
+Per saperne di più: [whitepaper di OmniForum, capitolo 1](../whitepaper-omniforum.md#s1).
 
 ## Dalla catena di pensieri alla mappa
 
@@ -23,7 +23,7 @@ La mappa della questione affianca catene di persone diverse, anche in contraddiz
 
 Una questione è una domanda a cui qualcuno vuole tornare perché vuole capire, confrontare oppure fare qualcosa insieme. Un link permanente conduce a tutto ciò che la riguarda: la domanda, le fonti, gli argomenti, lo stato delle conoscenze e la cronologia delle modifiche. Una questione privata si gestisce in Suveria (lo spazio privato per lavorare con l'intelligenza digitale); un registro comune delle questioni è una direzione che verificheremo in una prova separata.
 
-Per saperne di più: [whitepaper di Omniforum, capitolo 5](../whitepaper-omniforum.md#s5) e [punto 5.1](../whitepaper-omniforum.md#s5-1).
+Per saperne di più: [whitepaper di OmniForum, capitolo 5](../whitepaper-omniforum.md#s5) e [punto 5.1](../whitepaper-omniforum.md#s5-1).
 
 ## Come si legge la mappa
 
@@ -31,7 +31,7 @@ La mappa deve aprirsi con calma. All'inizio vedi una sola conclusione principale
 
 Quando torni a un tema dopo una settimana o un anno, devi vedere solo ciò che è cambiato: nuove esperienze, correzioni, risultati delle prove e domande ancora aperte. Dopo aver esaminato le modifiche, ricevi un'indicazione chiara che non c'è altro e puoi tornare tranquillamente alle tue occupazioni.
 
-Per saperne di più: [whitepaper di Omniforum, capitolo 5](../whitepaper-omniforum.md#s5) e [punto 1.1](../whitepaper-omniforum.md#s1-1).
+Per saperne di più: [whitepaper di OmniForum, capitolo 5](../whitepaper-omniforum.md#s5) e [punto 1.1](../whitepaper-omniforum.md#s1-1).
 
 ## Quanto è forte la conclusione
 
@@ -43,9 +43,9 @@ Accanto alla conclusione vogliamo mostrare separatamente tre cose:
 
 Una misura non sostituisce l'altra: il pieno accordo di chi partecipa, basato su un unico resoconto non verificato, resta una conclusione debole. La scala di queste valutazioni deve ancora essere elaborata e non aggiungiamo un'incertezza apparente a fatti ben accertati.
 
-Il manifesto divide la riflessione comune in fatti (ciò che si può verificare), valori (bisogni e convinzioni su ciò che è giusto) e ipotesi, cioè idee audaci con una condizione esplicita: «che cosa dovrebbe diventare possibile perché questo funzioni». Sui fatti decidono le fonti, non il numero dei voti; nelle questioni di valore ogni persona è un punto di riferimento di pari valore. In Omniforum ogni pensiero deve ricevere questa indicazione.
+Il manifesto divide la riflessione comune in fatti (ciò che si può verificare), valori (bisogni e convinzioni su ciò che è giusto) e ipotesi, cioè idee audaci con una condizione esplicita: «che cosa dovrebbe diventare possibile perché questo funzioni». Sui fatti decidono le fonti, non il numero dei voti; nelle questioni di valore ogni persona è un punto di riferimento di pari valore. In OmniForum ogni pensiero deve ricevere questa indicazione.
 
-Per saperne di più: [whitepaper di Omniforum, capitolo 5](../whitepaper-omniforum.md#s5) e [manifesto, punto 5.1](../manifest.md#s5-1).
+Per saperne di più: [whitepaper di OmniForum, capitolo 5](../whitepaper-omniforum.md#s5) e [manifesto, punto 5.1](../manifest.md#s5-1).
 
 ## Scheda dell'idea
 
@@ -62,7 +62,7 @@ Per saperne di più: [whitepaper di Omniforum, capitolo 5](../whitepaper-omnifor
 
 La scheda non è un singolo pensiero, ma una vista di molti concetti, affermazioni, fonti, condizioni e prove collegati. Le prime schede devono riguardare le idee del nostro manifesto.
 
-Per saperne di più: [whitepaper di Omniforum, punto 5.2](../whitepaper-omniforum.md#s5-2).
+Per saperne di più: [whitepaper di OmniForum, punto 5.2](../whitepaper-omniforum.md#s5-2).
 
 ## Dall'idea all'iniziativa
 
@@ -70,7 +70,7 @@ Quando la conversazione porta a un'intesa comune su ciò che vale la pena fare, 
 
 Prima di arrivare a una decisione sul denaro comune, serve ciò che il manifesto chiama percorso verde: una catena di collegamenti che mostra il fondamento nei fatti e l'accordo della comunità sui valori su cui poggia. Seguono decisioni distinte: sullo scopo, sul lavoro successivo, sul preventivo e sulla realizzazione; l'accordo sullo scopo non determina il costo né la scadenza. Fino all'avvio della votazione vincolante, le prende il consiglio di amministrazione dopo le consultazioni. Al termine pubblichiamo il costo effettivo, il risultato e le conclusioni, anche quando la prova è fallita.
 
-Per saperne di più: [whitepaper di Omniforum, punto 5.3](../whitepaper-omniforum.md#s5-3) e [manifesto, punto 5.3](../manifest.md#s5-3).
+Per saperne di più: [whitepaper di OmniForum, punto 5.3](../whitepaper-omniforum.md#s5-3) e [manifesto, punto 5.3](../manifest.md#s5-3).
 
 ## Che cosa mostriamo più in alto e che cosa no
 
@@ -85,10 +85,10 @@ Nell'ultimo caso un argomento sale quando viene accettato da persone che su altr
 
 In primo piano devono esserci il contenuto e la fonte con la sua data. Non teniamo contatori pubblici dei contributi né classifiche delle persone, perché incoraggiano una corsa e il riempimento della mappa di voci, anche da parte di bot. Vogliamo che la visibilità segua ciò che chiarisce la questione, non ciò che suscita le emozioni più forti.
 
-Per saperne di più: [whitepaper di Omniforum, capitolo 6](../whitepaper-omniforum.md#s6).
+Per saperne di più: [whitepaper di OmniForum, capitolo 6](../whitepaper-omniforum.md#s6).
 
 ## Leggi e dicci che cosa ne pensi
 
-Nel [whitepaper di Omniforum](../whitepaper-omniforum.md) trovi la descrizione completa delle mappe, delle schede e delle iniziative, soprattutto nei capitoli 5 e 6. Se qualcosa ti fa riflettere o sembra sbagliato, seleziona quel passo nel documento e usa il pulsante «Ho un'osservazione» oppure scrivi a salve@novusignis.org.
+Nel [whitepaper di OmniForum](../whitepaper-omniforum.md) trovi la descrizione completa delle mappe, delle schede e delle iniziative, soprattutto nei capitoli 5 e 6. Se qualcosa ti fa riflettere o sembra sbagliato, seleziona quel passo nel documento e usa il pulsante «Ho un'osservazione» oppure scrivi a salve@novusignis.org.
 
-Per saperne di più: [whitepaper di Omniforum, punto 5.5](../whitepaper-omniforum.md#s5-5).
+Per saperne di più: [whitepaper di OmniForum, punto 5.5](../whitepaper-omniforum.md#s5-5).

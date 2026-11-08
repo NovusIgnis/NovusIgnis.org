@@ -1,19 +1,19 @@
 ---
-tytul: Wspólne decyzje w Omniforum
+tytul: Wspólne decyzje w OmniForum
 opis: Czym różni się konsultacja od głosowania, jak ma się uzyskiwać prawo głosu bez biometrii, jakie zasady obowiązują zawsze i dlaczego moc wiążąca głosowań ma rosnąć stopniowo
 grupa: omniforum
 kolejnosc: 3
 menu: Wspólne decyzje
 ---
-# Wspólne decyzje w Omniforum
+# Wspólne decyzje w OmniForum
 
-Ta strona pogłębia to, co strona [Czym jest Omniforum](omniforum.md) mówi w skrócie o wspólnych decyzjach: czym różni się konsultacja od głosowania, jak chcemy dawać prawo głosu bez biometrii, jakie zasady obowiązują zawsze i dlaczego wyniki głosowań mają wiązać fundację dopiero stopniowo.
+Ta strona pogłębia to, co strona [Czym jest OmniForum](omniforum.md) mówi w skrócie o wspólnych decyzjach: czym różni się konsultacja od głosowania, jak chcemy dawać prawo głosu bez biometrii, jakie zasady obowiązują zawsze i dlaczego wyniki głosowań mają wiązać fundację dopiero stopniowo.
 
-Dziś nie odbywa się żadne głosowanie ani konsultacja. Prototyp Omniforum jest w budowie, a wszystko, co opisujemy niżej, jest projektem.
+Dziś nie odbywa się żadne głosowanie ani konsultacja. Prototyp OmniForum jest w budowie, a wszystko, co opisujemy niżej, jest projektem.
 
 To jedna z najtrudniejszych części całego przedsięwzięcia, dlatego piszemy otwarcie, co jest w zasięgu ręki, a nad czym będziemy długo pracować.
 
-Więcej: [whitepaper Omniforum, rozdział 8](../whitepaper-omniforum.md#s8).
+Więcej: [whitepaper OmniForum, rozdział 8](../whitepaper-omniforum.md#s8).
 
 ## Fakty, wartości, hipotezy
 
@@ -36,7 +36,7 @@ Statut fundacji dopuszcza głosowania i konsultacje w sprawach kierunku rozwoju 
 
 Dopóki próba nie potwierdza, że każdy głosujący jest inną osobą, nazywamy ją konsultacją, a nie głosowaniem w rozumieniu statutu.
 
-Więcej: [statut, § 8](../statut/statut-2026-09-28.md#par-8), [whitepaper Omniforum, punkt 8.1](../whitepaper-omniforum.md#s8-1) i [whitepaper zasad fundacji, rozdział 2](../whitepaper-zasady-fundacji.md#s2).
+Więcej: [statut, § 8](../statut/statut-2026-09-28.md#par-8), [whitepaper OmniForum, punkt 8.1](../whitepaper-omniforum.md#s8-1) i [whitepaper zasad fundacji, rozdział 2](../whitepaper-zasady-fundacji.md#s2).
 
 ## Jak uzyskać prawo głosu
 
@@ -53,7 +53,7 @@ Każde uprawnienie ma dostać unikalny znacznik, żeby nowy dowód tej samej oso
 
 Łączenie dróg zostawia ryzyko, że ta sama osoba zdobędzie dodatkowe uprawnienia. Na początku przyjmujemy je świadomie, żeby mogło dołączyć jak najwięcej ludzi z całego świata; celem pozostaje system, w którym jedna osoba ma jeden głos. Odmowa przyjęcia ma uzasadnienie i drogę odwołania.
 
-Więcej: [whitepaper Omniforum, punkt 8.3](../whitepaper-omniforum.md#s8-3) i [manifest, punkt 5.2](../manifest.md#s5-2).
+Więcej: [whitepaper OmniForum, punkt 8.3](../whitepaper-omniforum.md#s8-3) i [manifest, punkt 5.2](../manifest.md#s5-2).
 
 ## Zasady, które obowiązują zawsze
 
@@ -67,15 +67,15 @@ To zasady projektu, które zapiszemy w regulaminie głosowań.
 - Wniosek o wydatek wymaga „zielonej ścieżki” z manifestu, czyli ciągu powiązań, który pokazuje oparcie planu w faktach i zgodę społeczności na stojące za nim wybory. Próg zgody ustalamy z góry według wagi sprawy, skali wydatku i odwracalności skutków.
 - Przed oddaniem głosu każdy widzi krótkie, przystępne podsumowanie stanowisk, zastrzeżeń i źródeł, publikowane z wyprzedzeniem. Strony sporu mogą zgłosić, że pominięto ich stanowisko, i wtedy obok pokazujemy ich własne ujęcie.
 
-Więcej: [whitepaper Omniforum, rozdział 8](../whitepaper-omniforum.md#s8), [punkt 8.3](../whitepaper-omniforum.md#s8-3) i [manifest, punkt 5.3](../manifest.md#s5-3).
+Więcej: [whitepaper OmniForum, rozdział 8](../whitepaper-omniforum.md#s8), [punkt 8.3](../whitepaper-omniforum.md#s8-3) i [manifest, punkt 5.3](../manifest.md#s5-3).
 
 ## Trudne sprawy: trzy kroki
 
-1. **Otwarta mapa sprawy** w Omniforum, w której może wziąć udział każdy.
+1. **Otwarta mapa sprawy** w OmniForum, w której może wziąć udział każdy.
 2. **Losowane zgromadzenie doradcze**: grupa osób wylosowanych z rejestru uprawnionych w losowaniu, którego wynik każdy może sam sprawdzić na podstawie publicznie ogłoszonych danych. Dostaje czas, materiały i możliwość rozmowy z autorami wniosków; doradza, nie decyduje.
 3. **Głosowanie wszystkich uprawnionych.**
 
-Więcej: [whitepaper Omniforum, punkt 8.4](../whitepaper-omniforum.md#s8-4).
+Więcej: [whitepaper OmniForum, punkt 8.4](../whitepaper-omniforum.md#s8-4).
 
 ## Stopniowo i ostrożnie
 
@@ -83,9 +83,9 @@ Głosowanie będzie zyskiwać moc wiążącą stopniowo: najpierw próby bez sku
 
 Do tego czasu fundacja działa w fazie zwinnej: zarząd podejmuje bieżące decyzje, z wyboru pyta społeczność o zdanie w istotnych sprawach i publikuje uzasadnienie każdej istotnej decyzji. Wyniki głosowań i konsultacji są formalnie doradcze. Żeby wynik formalnie wiązał fundację, potrzebna jest zmiana statutu, opisana w [rejestrze zmian statutu](../statut/rejestr-zmian.md) jako Z4.
 
-Pełne uruchomienie dalszych filarów (otwarte projekty trwałych przedmiotów i kontakt z naturą) wymaga łącznie trzech warunków: głosowania, które zapewnia jeden skuteczny głos tej samej osoby, środków na sześć miesięcy utrzymania Suverii i Omniforum oraz decyzji społeczności. Pierwszy warunek uznamy za spełniony dopiero wtedy, gdy drogi dopuszczające dodatkowe głosy zastąpi jednolity system, a próby to potwierdzą.
+Pełne uruchomienie dalszych filarów (otwarte projekty trwałych przedmiotów i kontakt z naturą) wymaga łącznie trzech warunków: głosowania, które zapewnia jeden skuteczny głos tej samej osoby, środków na sześć miesięcy utrzymania Suverii i OmniForum oraz decyzji społeczności. Pierwszy warunek uznamy za spełniony dopiero wtedy, gdy drogi dopuszczające dodatkowe głosy zastąpi jednolity system, a próby to potwierdzą.
 
-Więcej: [whitepaper Omniforum, punkt 8.5](../whitepaper-omniforum.md#s8-5), [whitepaper zasad fundacji, rozdział 2](../whitepaper-zasady-fundacji.md#s2) i [manifest, punkt 6.3](../manifest.md#s6-3).
+Więcej: [whitepaper OmniForum, punkt 8.5](../whitepaper-omniforum.md#s8-5), [whitepaper zasad fundacji, rozdział 2](../whitepaper-zasady-fundacji.md#s2) i [manifest, punkt 6.3](../manifest.md#s6-3).
 
 ## Czego to nie zapewni
 
@@ -96,10 +96,10 @@ Więcej: [whitepaper Omniforum, punkt 8.5](../whitepaper-omniforum.md#s8-5), [wh
 
 Jak w pełni pogodzić jeden głos na osobę bez centralnej bazy tożsamości, tajność i dostęp dla całego świata, jeszcze nie wiemy. „Może to potrwać długo i mówimy to wprost.”
 
-Więcej: [whitepaper Omniforum, punkt 8.2](../whitepaper-omniforum.md#s8-2), [punkt 8.6](../whitepaper-omniforum.md#s8-6), [punkt 8.7](../whitepaper-omniforum.md#s8-7) i [manifest, punkt 5.2](../manifest.md#s5-2).
+Więcej: [whitepaper OmniForum, punkt 8.2](../whitepaper-omniforum.md#s8-2), [punkt 8.6](../whitepaper-omniforum.md#s8-6), [punkt 8.7](../whitepaper-omniforum.md#s8-7) i [manifest, punkt 5.2](../manifest.md#s5-2).
 
 ## Przeczytaj i powiedz, co myślisz
 
-Pełny opis znajdziesz w [whitepaperze Omniforum](../whitepaper-omniforum.md), rozdział 8, i w [manifeście](../manifest.md), rozdział 5. Jeśli coś Cię zastanawia albo wydaje się błędne, zaznacz ten fragment w dokumencie i skorzystaj z przycisku „Mam uwagę” albo napisz na salve@novusignis.org.
+Pełny opis znajdziesz w [whitepaperze OmniForum](../whitepaper-omniforum.md), rozdział 8, i w [manifeście](../manifest.md), rozdział 5. Jeśli coś Cię zastanawia albo wydaje się błędne, zaznacz ten fragment w dokumencie i skorzystaj z przycisku „Mam uwagę” albo napisz na salve@novusignis.org.
 
-Więcej: [whitepaper Omniforum, punkt 5.5](../whitepaper-omniforum.md#s5-5).
+Więcej: [whitepaper OmniForum, punkt 5.5](../whitepaper-omniforum.md#s5-5).

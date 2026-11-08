@@ -24,7 +24,7 @@ Você pode apoiar a fundação com uma doação por transferência bancária em 
 
 ## O que acontece com a doação
 
-- Uma doação sem finalidade indicada entra nos recursos livres para alocação, sempre com prioridade para o Pilar I, ou seja, a Suveria e o Omniforum.
+- Uma doação sem finalidade indicada entra nos recursos livres para alocação, sempre com prioridade para o Pilar I, ou seja, a Suveria e o OmniForum.
 - Uma doação não dá votos, poderes de gestão, acesso aos dados dos usuários nem direito à promoção em nossos serviços e comunicação.
 - Identificamos os doadores pelo nome no registro apenas quando desejam isso; descrevemos as demais entradas de forma geral, por exemplo, “doação de pessoa física”. Não publicamos literalmente as descrições das transferências, pois frequentemente contêm dados pessoais. Se você quer que indiquemos seu nome ou o da empresa, escreva para nós.
 - Não aceitamos benefícios condicionados a promoção, recomendação ou concessões nas decisões.

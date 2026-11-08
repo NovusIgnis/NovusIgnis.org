@@ -72,7 +72,7 @@
     "grid_title": "三つの柱",
     "col1": {
       "badge": "第Iの柱 · ここから始めます",
-      "title": "SuveriaとOmniforum",
+      "title": "SuveriaとOmniForum",
       "r1_h": "プライベートな空間",
       "r2_h": "共通の理解",
       "r3_h": "実費に近いサービス"
@@ -103,12 +103,12 @@
   },
   "meta": {
     "title": "Novus Ignis · 人間の尊厳に基づくインターネット",
-    "description": "Novus Ignis財団は、人間の尊厳を最高の価値とする代替的なインターネットを共創しています。Suveria：プライベートなデジタル空間。Omniforum：対話と意思決定のための共有空間。"
+    "description": "Novus Ignis財団は、人間の尊厳を最高の価値とする代替的なインターネットを共創しています。Suveria：プライベートなデジタル空間。OmniForum：対話と意思決定のための共有空間。"
   },
   "hub": {
     "badge": "Novus Ignis財団",
     "title": "<span class=\"gradient-text--fire\">人間の尊厳</span>に基づく<br>インターネット",
-    "subtitle": "私たちは、人間の尊厳と、そこから導かれるプライバシーおよび自由へのニーズを最高の価値とする代替的なインターネットの共創から活動を開始します。これらの価値から二つの活動の方向性を導き出します。<strong>Suveria</strong>は個人のためのプライベートなデジタル空間、<strong>Omniforum</strong>は人々が出会い、理解し合い、共に行動できる共有の公共空間です。",
+    "subtitle": "私たちは、人間の尊厳と、そこから導かれるプライバシーおよび自由へのニーズを最高の価値とする代替的なインターネットの共創から活動を開始します。これらの価値から二つの活動の方向性を導き出します。<strong>Suveria</strong>は個人のためのプライベートなデジタル空間、<strong>OmniForum</strong>は人々が出会い、理解し合い、共に行動できる共有の公共空間です。",
     "cta_manifesto": "マニフェストを読む",
     "cta_docs": "マニフェストとホワイトペーパー",
     "docs_title": "マニフェスト、ホワイトペーパー、定款",
@@ -162,7 +162,7 @@
       "works": "稼働中",
       "works_text": "財団は登記され、マニフェストとホワイトペーパーは公開されています。文書の各文で「コメントがあります」ボタンが機能しています。",
       "project": "設計段階",
-      "project_text": "Omniforumは最初のプロトタイプを構築中であり、Suveriaは設計段階にあります。",
+      "project_text": "OmniForumは最初のプロトタイプを構築中であり、Suveriaは設計段階にあります。",
       "hypothesis": "仮説",
       "hypothesis_text": "コスト試算は検証すべき仮説です。少人数のグループでも、検証可能なプライバシーを備えながら、閉じたサービスより1ドルあたり多くのデジタル知能を利用できる可能性があります。",
       "vision": "ビジョン",
@@ -174,9 +174,9 @@
       "suveria_title": "Suveria",
       "suveria_text": "Suveriaは、自宅で扉を閉めて過ごすように、デジタル知能と対話し、自分の資料に取り組み、以前の考えに立ち返るためのプライベートなインターネット空間となることを目指しています。Suveriaは、デジタル知能とプライベートに作業するための、現時点で私たちにとって最善の道です。それ自体が目的ではありません。",
       "suveria_link": "Suveriaとは →",
-      "omniforum_title": "Omniforum",
-      "omniforum_text": "Omniforumは、誰もが任意のテーマについて発言し、耳を傾けてもらえる場所となることを目指しています。「つまり、こういうことを伝えたいのですね。正しく理解できていますか？」という簡単な問いが、双方の話し方を変えます。Omniforumの技術層全体は、まさにこうして相手に確かめようとする自然な心の動きを支えるためのものです。",
-      "omniforum_link": "Omniforumとは →"
+      "omniforum_title": "OmniForum",
+      "omniforum_text": "OmniForumは、誰もが任意のテーマについて発言し、耳を傾けてもらえる場所となることを目指しています。「つまり、こういうことを伝えたいのですね。正しく理解できていますか？」という簡単な問いが、双方の話し方を変えます。OmniForumの技術層全体は、まさにこうして相手に確かめようとする自然な心の動きを支えるためのものです。",
+      "omniforum_link": "OmniForumとは →"
     },
     "help": {
       "title": "力を貸すには",
@@ -184,7 +184,7 @@
       "m5_text": "マニフェストの序文を読み、不明瞭な文や同意できない文を選択して、「コメントがあります」をクリックしてください。",
       "m5_model": "モデルを通じて私たちの文書を読んでいる場合は、私たちの最も弱い点も尋ね、見つかったことを私たちに送ってください。",
       "h1_title": "1時間",
-      "h1_text": "ご自身の分野のホワイトペーパーを読んでみてください。<a href=\"#\" data-doc-link=\"suveria\">セキュリティとインフラ（Suveria）</a>、<a href=\"#\" data-doc-link=\"fundacja\">法律と財務（財団の運営原則）</a>、<a href=\"#\" data-doc-link=\"benchmark\">研究（学習用教材とモデルベンチマーク）</a>、<a href=\"#\" data-doc-link=\"omniforum\">対話と意思決定（Omniforum）</a>。",
+      "h1_text": "ご自身の分野のホワイトペーパーを読んでみてください。<a href=\"#\" data-doc-link=\"suveria\">セキュリティとインフラ（Suveria）</a>、<a href=\"#\" data-doc-link=\"fundacja\">法律と財務（財団の運営原則）</a>、<a href=\"#\" data-doc-link=\"benchmark\">研究（学習用教材とモデルベンチマーク）</a>、<a href=\"#\" data-doc-link=\"omniforum\">対話と意思決定（OmniForum）</a>。",
       "more_title": "さらに時間があれば",
       "more_text": "最初のバージョンを一緒に作りましょう。役割と必要なことは、<a href=\"#\" data-page-link=\"dolacz\">参加する</a>ページで紹介しています。",
       "money_title": "資金面での支援",
@@ -194,9 +194,9 @@
     "join_page": "役割を確認して連絡する",
     "next": {
       "title": "次にできること",
-      "status": "財団、文書、公開入金登録簿はすでに機能しています。SuveriaとOmniforumは、私たちが取り組んでいる設計段階のものです。",
+      "status": "財団、文書、公開入金登録簿はすでに機能しています。SuveriaとOmniForumは、私たちが取り組んでいる設計段階のものです。",
       "wait_title": "試したいと伝える",
-      "wait_text": "ウェイティングリストに登録してください。SuveriaとOmniforumの最初の試行が始まったら、ご連絡します。",
+      "wait_text": "ウェイティングリストに登録してください。SuveriaとOmniForumの最初の試行が始まったら、ご連絡します。",
       "wait_btn": "リストに登録する",
       "wait_note": "件名を入力済みのメッセージを送るだけです。メールアドレスはその1回の連絡にだけ使用し、ご希望があればすぐに削除します。<a href=\"twoje-dane.html\">あなたのデータ</a>",
       "read_title": "さらに読む",
@@ -226,7 +226,7 @@
     "docs": {
       "manifest": "マニフェスト",
       "suveria": "Suveriaのホワイトペーパー",
-      "omniforum": "Omniforumのホワイトペーパー",
+      "omniforum": "OmniForumのホワイトペーパー",
       "fundacja": "財団の運営原則",
       "benchmark": "学習用教材とモデルベンチマーク",
       "statut": "定款と変更登録簿"
@@ -244,7 +244,7 @@
     "groups": {
       "dlaczego": "なぜ",
       "suveria": "Suveria",
-      "omniforum": "Omniforum",
+      "omniforum": "OmniForum",
       "fundacja": "財団",
       "dokumenty": "文書",
       "dolacz": "参加する",
@@ -260,7 +260,7 @@
     "overview": {
       "dlaczego": "なぜNovus Ignisなのか",
       "suveria": "Suveriaとは",
-      "omniforum": "Omniforumとは",
+      "omniforum": "OmniForumとは",
       "fundacja": "私たちについて",
       "dokumenty": "すべての文書",
       "dolacz": "募集する役割と始め方"

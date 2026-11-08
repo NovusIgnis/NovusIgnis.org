@@ -7,7 +7,7 @@ menu: Dignity
 ---
 # Dignity as the starting point
 
-This page explains what “dignity” means in the Novus Ignis manifesto and what follows from it: freedom, privacy, protection of attention and principles backed by action. It is a summary of chapter 2 of the manifesto, from which Suveria and Omniforum grow. Each part links to the full text.
+This page explains what “dignity” means in the Novus Ignis manifesto and what follows from it: freedom, privacy, protection of attention and principles backed by action. It is a summary of chapter 2 of the manifesto, from which Suveria and OmniForum grow. Each part links to the full text.
 
 ## What dignity means in the manifesto
 
@@ -73,9 +73,9 @@ Shared principles require clear justifications for decisions and the possibility
 
 More: [manifesto, section 2.5](../manifest.md#s2-5).
 
-## What this means for Suveria and Omniforum
+## What this means for Suveria and OmniForum
 
-These principles give rise to two complementary directions: Suveria is to be a private space for thinking, creating and planning with the help of digital intelligence, and Omniforum a shared space for presenting one's reasons and getting to know other perspectives. Today Suveria is at the design stage, and Omniforum has a first prototype under construction. Each person is to choose for themselves what they keep to themselves and what they share with others. See: [What is Suveria](suveria.md) and [What is Omniforum](omniforum.md).
+These principles give rise to two complementary directions: Suveria is to be a private space for thinking, creating and planning with the help of digital intelligence, and OmniForum a shared space for presenting one's reasons and getting to know other perspectives. Today Suveria is at the design stage, and OmniForum has a first prototype under construction. Each person is to choose for themselves what they keep to themselves and what they share with others. See: [What is Suveria](suveria.md) and [What is OmniForum](omniforum.md).
 
 More: [manifesto, “Where we are today”](../manifest.md#top).
 

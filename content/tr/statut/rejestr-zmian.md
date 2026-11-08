@@ -46,11 +46,11 @@ Bu bölümdeki metinler, yönetim kurulunun ve kurucunun kararına ve hukuki dan
 ### Z1. Amaçlar ve faaliyet yolları (§ 5 ve § 6)
 
 - **Şu anda:** kuruluş belgesindeki beş amaç: mahremiyet, araştırma, açık kaynak yazılım, 3D modeller, sağlık ve doğa.
-- **Yön:** 28.09.2026 tarihli kaldırılmış sürümdeki amaç genişletmesini geri getirmek ve manifestonun anlattığı her şeyi kapsayıp kapsamadığını sınamak. Özellikle ortak konuşma ve karar alanı (Omniforum) ve etik dijital zekâ araştırmaları için açık veri kümeleri söz konusudur.
+- **Yön:** 28.09.2026 tarihli kaldırılmış sürümdeki amaç genişletmesini geri getirmek ve manifestonun anlattığı her şeyi kapsayıp kapsamadığını sınamak. Özellikle ortak konuşma ve karar alanı (OmniForum) ve etik dijital zekâ araştırmaları için açık veri kümeleri söz konusudur.
 - **Kurucunun kararı (30.10.2026):** vakıf dışındaki kişi ve kuruluşların projelerinin finansmanını (hibeler, burslar, hesaplama gücü tahsisi) şimdilik planlamıyoruz; dolayısıyla Z1 değişikliği bunu kapsamak zorunda değildir. Gelecekte bu meseleye dönebiliriz.
 - **Neden:** kurucu bu amaçları vakfı kurarken yazmak istedi; ancak ilk sicil kaydından önce senet kuruluş belgesinin ötesine geçemezdi. Kayıttan sonra § 15 amaç değişikliğine izin verir.
 - **Niyet:** senedin yalnızca ilk aşamayı değil, manifestodaki bütün yolu kapsaması amaçlanıyor.
-- **Ne zaman:** mevcut amaçları aşan ilk çalışmalardan önce. Suveria’nın başlatılması ve Omniforum’un ilk aşamalarının mevcut senede uyduğunu düşünüyoruz: internette mahremiyet ve ifade özgürlüğünü koruma, dijital zekâ araştırmaları ve açık kaynak yazılım oluşturma (§ 5(1)–(3)), ayrıca altyapı ve mahremiyeti koruyan açık araçlar sunma (§ 6(1)–(2)); projelerin yönü hakkında oylama ve danışmalara § 8 izin verir. Bunu ilk ücretli hizmetten önce hukuki görüşle doğrulayacağız. Bu yüzden değişikliği daha önce yapmıyoruz (kurucunun 30.10.2026 kararı).
+- **Ne zaman:** mevcut amaçları aşan ilk çalışmalardan önce. Suveria’nın başlatılması ve OmniForum’un ilk aşamalarının mevcut senede uyduğunu düşünüyoruz: internette mahremiyet ve ifade özgürlüğünü koruma, dijital zekâ araştırmaları ve açık kaynak yazılım oluşturma (§ 5(1)–(3)), ayrıca altyapı ve mahremiyeti koruyan açık araçlar sunma (§ 6(1)–(2)); projelerin yönü hakkında oylama ve danışmalara § 8 izin verir. Bunu ilk ücretli hizmetten önce hukuki görüşle doğrulayacağız. Bu yüzden değişikliği daha önce yapmıyoruz (kurucunun 30.10.2026 kararı).
 - **Durum:** kurucunun niyeti (28.10.2026), metin hazırlanacak.
 
 ### Z2. Çalışma, verilen işler ve gider iadesi (§ 12)

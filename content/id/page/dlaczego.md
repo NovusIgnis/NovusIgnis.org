@@ -13,7 +13,7 @@ Halaman ini menjelaskan secara singkat untuk apa Yayasan Novus Ignis didirikan d
 
 Kecerdasan digital belajar dari apa yang ditulis dan dilakukan manusia. Semuanya bermula dari pertanyaan pendiri, Marcin Wołowski: pola perilaku kita sendiri seperti apa yang kita wariskan kepadanya dengan cara ini? Dari situ lahir bayangan jalan lain: terlebih dahulu kita sendiri menata dunia menurut prinsip yang kelak kita harapkan darinya.
 
-Kami menjawab pertanyaan ini melalui percobaan, bukan sekadar uraian. Kami menata sebagian kecil dunia menurut prinsip-prinsip ini dan mencatat bagaimana hasilnya, termasuk kesalahannya. Suveria, Omniforum, dan yayasan itu sendiri adalah sarana percobaan ini. Ruang-ruang ini dapat digunakan tanpa kewajiban ikut mengembangkannya ataupun menyetujui setiap usulan manifesto.
+Kami menjawab pertanyaan ini melalui percobaan, bukan sekadar uraian. Kami menata sebagian kecil dunia menurut prinsip-prinsip ini dan mencatat bagaimana hasilnya, termasuk kesalahannya. Suveria, OmniForum, dan yayasan itu sendiri adalah sarana percobaan ini. Ruang-ruang ini dapat digunakan tanpa kewajiban ikut mengembangkannya ataupun menyetujui setiap usulan manifesto.
 
 Selengkapnya: [manifesto, bagian 1.1](../manifest.md#s1-1) dan [bagian 1.2](../manifest.md#s1-2).
 
@@ -39,7 +39,7 @@ Dari prinsip-prinsip ini tumbuh dua arah kerja.
 
 **Suveria** dimaksudkan menjadi ruang digital pribadi bagi manusia: tempat untuk bekerja dengan bantuan kecerdasan digital yang bersifat opsional, mengembangkan ide, mengajukan pertanyaan pribadi, dan menyusun rencana. Privasinya dimaksudkan bertumpu pada mekanisme pengamanan yang cara kerjanya dapat diperiksa secara independen, alih-alih kepercayaan kepada yayasan atau pengelola layanan. Saat ini Suveria masih berupa rancangan. Lihat: [Apa itu Suveria](suveria.md).
 
-**Omniforum** dimaksudkan menjadi ruang publik bersama tempat setiap orang dapat menyampaikan pendapat dan didengar. Dengan bantuan kecerdasan digital, selalu di bawah kendali dan dengan persetujuan penulis, pernyataan yang rumit dimaksudkan dapat diuraikan menjadi pemikiran tunggal agar dua orang dengan pandangan yang tampak bertentangan dapat melihat apa yang menyatukan mereka dan di mana penalarannya berpisah. Prototipe pertama Omniforum sedang dibangun. Lihat: [Apa itu Omniforum](omniforum.md).
+**OmniForum** dimaksudkan menjadi ruang publik bersama tempat setiap orang dapat menyampaikan pendapat dan didengar. Dengan bantuan kecerdasan digital, selalu di bawah kendali dan dengan persetujuan penulis, pernyataan yang rumit dimaksudkan dapat diuraikan menjadi pemikiran tunggal agar dua orang dengan pandangan yang tampak bertentangan dapat melihat apa yang menyatukan mereka dan di mana penalarannya berpisah. Prototipe pertama OmniForum sedang dibangun. Lihat: [Apa itu OmniForum](omniforum.md).
 
 Kedua ruang ini dimaksudkan saling melengkapi sebagai bengkel pribadi dan mimbar publik. Setiap orang menentukan sendiri pemikiran mana yang disimpan untuk dirinya dan mana yang dibawa ke dalam kerja bersama.
 
@@ -49,7 +49,7 @@ Selengkapnya: [manifesto, pendahuluan](../manifest.md#top), [bagian 3.1](../mani
 
 Manifesto menyatakannya dengan jelas:
 
-> Yayasan telah terdaftar, dan manifesto serta whitepaper telah diterbitkan. Prototipe pertama Omniforum sedang dibangun, sedangkan Suveria masih berupa rancangan. Perhitungan biaya pada bagian 2.4 merupakan hipotesis yang perlu diuji, sementara pengelolaan mandiri oleh kecerdasan digital (bagian 7.2) dan pilar-pilar selanjutnya (bab 9) merupakan visi.
+> Yayasan telah terdaftar, dan manifesto serta whitepaper telah diterbitkan. Prototipe pertama OmniForum sedang dibangun, sedangkan Suveria masih berupa rancangan. Perhitungan biaya pada bagian 2.4 merupakan hipotesis yang perlu diuji, sementara pengelolaan mandiri oleh kecerdasan digital (bagian 7.2) dan pilar-pilar selanjutnya (bab 9) merupakan visi.
 
 Whitepaper adalah dokumen yang dikembangkan seiring proyek-proyeknya: menguraikan cara teknis dan organisasi untuk mewujudkan ide-ide ini, alasan pendukungnya, serta keterbatasan yang diketahui.
 

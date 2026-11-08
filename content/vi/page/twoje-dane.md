@@ -7,7 +7,7 @@ menu: Dữ liệu của bạn
 ---
 # Dữ liệu của bạn
 
-Trang này nói dữ liệu cá nhân nào của bạn đến quỹ khi dùng novusignis.org và bạn có thể làm gì với chúng. Suveria và Omniforum hiện là bản thiết kế; sách trắng nói về dữ liệu trong các dịch vụ ấy.
+Trang này nói dữ liệu cá nhân nào của bạn đến quỹ khi dùng novusignis.org và bạn có thể làm gì với chúng. Suveria và OmniForum hiện là bản thiết kế; sách trắng nói về dữ liệu trong các dịch vụ ấy.
 
 ## Ai chịu trách nhiệm dữ liệu của bạn
 
@@ -32,8 +32,8 @@ Bạn gửi từ hộp thư riêng, cả khi nút “Tôi có ý kiến” chu�
 
 ## Danh sách chờ
 
-- Đăng ký bằng thông điệp với tiêu đề “[Danh sách chờ] Suveria và Omniforum”. Đây là sự đồng ý của bạn (Điều 6(1)(a) RODO).
-- Chỉ dùng địa chỉ cho một thông điệp: thử nghiệm đầu Suveria và Omniforum bắt đầu. Sau gửi, xóa địa chỉ khỏi danh sách.
+- Đăng ký bằng thông điệp với tiêu đề “[Danh sách chờ] Suveria và OmniForum”. Đây là sự đồng ý của bạn (Điều 6(1)(a) RODO).
+- Chỉ dùng địa chỉ cho một thông điệp: thử nghiệm đầu Suveria và OmniForum bắt đầu. Sau gửi, xóa địa chỉ khỏi danh sách.
 - Có thể rút đồng ý bất cứ lúc nào bằng viết cho chúng tôi; khi đó xóa địa chỉ ngay. Rút đồng ý không thay đổi điều đã làm trước đó trên cơ sở ấy.
 
 ## Hiến tặng

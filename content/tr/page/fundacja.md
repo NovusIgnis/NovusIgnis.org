@@ -9,7 +9,7 @@ menu: Biz kimiz
 
 Bu sayfa, Novus Ignis Vakfı’nın bir kuruluş olarak ne olduğunu kısaca anlatıyor. Ayrıntıları, her bölümde bağlantısı bulunan vakıf ilkeleri teknik raporu açıklıyor.
 
-İnsan onuruna dayanan alternatif bir internet kurmak isteyen, Poznań merkezli bir vakıfız (KRS 0001269575). İlk sütunumuz, henüz kurmakta olduğumuz iki hizmettir: dijital zekâyla çalışmak için özel alan Suveria ve konuşma, anlama ve kararlar için ortak alan Omniforum. Yolun en başındayız: vakıf tescil edildi, belgeler yayımlandı, hizmetler ise henüz oluşturuluyor.
+İnsan onuruna dayanan alternatif bir internet kurmak isteyen, Poznań merkezli bir vakıfız (KRS 0001269575). İlk sütunumuz, henüz kurmakta olduğumuz iki hizmettir: dijital zekâyla çalışmak için özel alan Suveria ve konuşma, anlama ve kararlar için ortak alan OmniForum. Yolun en başındayız: vakıf tescil edildi, belgeler yayımlandı, hizmetler ise henüz oluşturuluyor.
 
 Her şey kurucu Marcin Wołowski’nin bir sorusuyla başladı: eğitimi sırasında dijital zekâya kendi davranışlarımızdan hangi örüntüleri aktarıyoruz?
 
@@ -27,7 +27,7 @@ Novus Ignis, hissedarı olmayan bir kuruluştur: kimseye kâr dağıtmaz; mal va
 | Vakıf senedi, manifesto ve teknik raporlar | yayımlandı |
 | Vakıf senedi değişiklik sicili | çalışıyor |
 | Suveria | tasarım |
-| Omniforum | prototip yapım aşamasında |
+| OmniForum | prototip yapım aşamasında |
 | Düzenlemeler | hazırlanacak |
 | Diğer siciller: gelen ödemeler ve harcamalar, menfaatler, kararlar, hatalar ve yalnızca ekleme yapılabilen sicil (kayıtların sessizce değiştirilemediği veya silinemediği sicil) | oluşturulacak |
 
@@ -54,7 +54,7 @@ Bütçenin anlaşılabilmesi için parayı beş türe ayırıyoruz:
 - **kullanıcılara ait kaynaklar:** katılımcıların kullanılmayan ön ödemeleri ve bakiyeleri;
 - **belirli amaçla emanet edilmiş para:** yalnızca o amaca harcanacak belirli amaca yönelik bağışlar;
 - **üstlenilmiş taahhütler:** planlanan harcamalara zaten ayrılmış para;
-- **hizmetlerin sürdürülmesine ayrılan güvence:** onsuz Suveria ve Omniforum’un çalışmayı durduracağı rezerv;
+- **hizmetlerin sürdürülmesine ayrılan güvence:** onsuz Suveria ve OmniForum’un çalışmayı durduracağı rezerv;
 - **tahsis edilebilecek serbest kaynaklar:** diğerleri çıkarıldıktan sonra kalan ve hakkında henüz karar vereceğimiz kısım.
 
 Kamuya açık gelen ödemeler ve harcamalar sicilini [Gelen ödemeler ve harcamalar sicili](fundacja-rejestr.md) sayfasında tutuyoruz.
@@ -73,7 +73,7 @@ Daha fazlası: [vakıf ilkeleri teknik raporu, 5. bölüm](../whitepaper-zasady-
 
 ## Devredilebilen yetki
 
-Vakfı tek bir insan, Marcin Wołowski kurdu; bugün en fazla yetki kurucudadır: yönetim kurulunu atar ve görevden alır. Vakıf senedini yalnızca yönetim kurulunun tamamı oy birliğiyle değiştirebilir; kurucu kurulda değilse onun onayı da gerekir. Bunun böyle kalmasını istemiyoruz: kurucu Suveria ve Omniforum’u başkalarıyla aynı haklarla kullanmak ve sürekli kamusal rolden çekilmek istiyor.
+Vakfı tek bir insan, Marcin Wołowski kurdu; bugün en fazla yetki kurucudadır: yönetim kurulunu atar ve görevden alır. Vakıf senedini yalnızca yönetim kurulunun tamamı oy birliğiyle değiştirebilir; kurucu kurulda değilse onun onayı da gerekir. Bunun böyle kalmasını istemiyoruz: kurucu Suveria ve OmniForum’u başkalarıyla aynı haklarla kullanmak ve sürekli kamusal rolden çekilmek istiyor.
 
 Devrin kâğıt üzerinde ve uygulamada etkili olması amaçlanıyor: vakıf senedi değişikliğinin yanında hesaplara, alan adlarına ve altyapıya erişimler de devredilmelidir. Sorumluluk devir planı, ilk inceleme tarihini ve düzenli ilerleme raporlarını belirleyecek. Yönetim kuruluna yetkinlik ve ortak yön temelinde atarız; asla ödeme karşılığında değil.
 

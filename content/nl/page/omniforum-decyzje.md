@@ -1,19 +1,19 @@
 ---
-tytul: Gezamenlijke besluiten in Omniforum
+tytul: Gezamenlijke besluiten in OmniForum
 opis: Wat het verschil is tussen een raadpleging en een stemming, hoe stemrecht zonder biometrie moet worden verkregen, welke beginselen altijd gelden en waarom de bindende kracht van stemmingen geleidelijk moet groeien
 grupa: omniforum
 kolejnosc: 3
 menu: Gezamenlijke besluiten
 ---
-# Gezamenlijke besluiten in Omniforum
+# Gezamenlijke besluiten in OmniForum
 
-Deze pagina verdiept wat de pagina [Wat is Omniforum](omniforum.md) kort over gezamenlijke besluiten vertelt: wat het verschil is tussen een raadpleging en een stemming, hoe we stemrecht zonder biometrie willen geven, welke beginselen altijd gelden en waarom stemuitslagen de stichting pas geleidelijk moeten binden.
+Deze pagina verdiept wat de pagina [Wat is OmniForum](omniforum.md) kort over gezamenlijke besluiten vertelt: wat het verschil is tussen een raadpleging en een stemming, hoe we stemrecht zonder biometrie willen geven, welke beginselen altijd gelden en waarom stemuitslagen de stichting pas geleidelijk moeten binden.
 
-Momenteel vindt er geen stemming of raadpleging plaats. Het prototype van Omniforum is in aanbouw en alles wat we hieronder beschrijven, is een ontwerp.
+Momenteel vindt er geen stemming of raadpleging plaats. Het prototype van OmniForum is in aanbouw en alles wat we hieronder beschrijven, is een ontwerp.
 
 Dit is een van de moeilijkste onderdelen van het hele initiatief; daarom schrijven we openlijk wat binnen bereik ligt en waaraan we lang zullen moeten werken.
 
-Meer: [whitepaper Omniforum, hoofdstuk 8](../whitepaper-omniforum.md#s8).
+Meer: [whitepaper OmniForum, hoofdstuk 8](../whitepaper-omniforum.md#s8).
 
 ## Feiten, waarden, hypothesen
 
@@ -36,7 +36,7 @@ De statuten van de stichting staan stemmingen en raadplegingen over de ontwikkel
 
 Zolang een proef niet bevestigt dat elke stemmer een andere persoon is, noemen we die een raadpleging en geen stemming in de zin van de statuten.
 
-Meer: [statuten, § 8](../statut/statut-2026-09-28.md#par-8), [whitepaper Omniforum, paragraaf 8.1](../whitepaper-omniforum.md#s8-1) en [whitepaper over de werkingsprincipes van de stichting, hoofdstuk 2](../whitepaper-zasady-fundacji.md#s2).
+Meer: [statuten, § 8](../statut/statut-2026-09-28.md#par-8), [whitepaper OmniForum, paragraaf 8.1](../whitepaper-omniforum.md#s8-1) en [whitepaper over de werkingsprincipes van de stichting, hoofdstuk 2](../whitepaper-zasady-fundacji.md#s2).
 
 ## Hoe je stemrecht verkrijgt
 
@@ -53,7 +53,7 @@ Elke bevoegdheid moet een unieke markering krijgen, zodat een nieuw identiteitsb
 
 Het combineren van routes laat het risico bestaan dat dezelfde persoon extra bevoegdheden verkrijgt. Aanvankelijk aanvaarden we dat bewust om zoveel mogelijk mensen uit de hele wereld te laten aansluiten; het doel blijft een systeem waarin één persoon één stem heeft. Afwijzing van toelating heeft een onderbouwing en een beroepsmogelijkheid.
 
-Meer: [whitepaper Omniforum, paragraaf 8.3](../whitepaper-omniforum.md#s8-3) en [manifest, paragraaf 5.2](../manifest.md#s5-2).
+Meer: [whitepaper OmniForum, paragraaf 8.3](../whitepaper-omniforum.md#s8-3) en [manifest, paragraaf 5.2](../manifest.md#s5-2).
 
 ## Beginselen die altijd gelden
 
@@ -67,15 +67,15 @@ Dit zijn beginselen van het ontwerp die we in het stemreglement zullen vastlegge
 - Een uitgavenvoorstel vereist de “groene route” uit het manifest, een reeks verbanden die de feitelijke grondslag van het plan en de instemming van de gemeenschap met de onderliggende keuzes toont. We bepalen de instemmingsdrempel vooraf volgens het belang van de kwestie, de omvang van de uitgave en de omkeerbaarheid van de gevolgen.
 - Voordat iemand stemt, ziet die een korte, toegankelijke samenvatting van standpunten, bedenkingen en bronnen die vooraf wordt gepubliceerd. Partijen in het geschil kunnen melden dat hun standpunt is weggelaten; dan tonen we hun eigen weergave ernaast.
 
-Meer: [whitepaper Omniforum, hoofdstuk 8](../whitepaper-omniforum.md#s8), [paragraaf 8.3](../whitepaper-omniforum.md#s8-3) en [manifest, paragraaf 5.3](../manifest.md#s5-3).
+Meer: [whitepaper OmniForum, hoofdstuk 8](../whitepaper-omniforum.md#s8), [paragraaf 8.3](../whitepaper-omniforum.md#s8-3) en [manifest, paragraaf 5.3](../manifest.md#s5-3).
 
 ## Moeilijke kwesties: drie stappen
 
-1. **Een open kwestiekaart** in Omniforum waaraan iedereen kan deelnemen.
+1. **Een open kwestiekaart** in OmniForum waaraan iedereen kan deelnemen.
 2. **Een gelote adviesvergadering**: een groep mensen geloot uit het register van stemgerechtigden, met een loting waarvan iedereen de uitslag op basis van openbaar bekendgemaakte gegevens zelf kan controleren. De groep krijgt tijd, materiaal en gelegenheid om met de indieners te praten; ze adviseert en beslist niet.
 3. **Een stemming onder alle stemgerechtigden.**
 
-Meer: [whitepaper Omniforum, paragraaf 8.4](../whitepaper-omniforum.md#s8-4).
+Meer: [whitepaper OmniForum, paragraaf 8.4](../whitepaper-omniforum.md#s8-4).
 
 ## Geleidelijk en voorzichtig
 
@@ -83,9 +83,9 @@ Stemmingen zullen geleidelijk bindende kracht krijgen: eerst proeven zonder fina
 
 Tot die tijd werkt de stichting in de wendbare fase: het bestuur neemt dagelijkse besluiten, vraagt uit eigen keuze de gemeenschap naar haar mening over wezenlijke kwesties en publiceert de onderbouwing van elk wezenlijk besluit. De uitslagen van stemmingen en raadplegingen zijn formeel adviserend. Om de stichting formeel aan een uitslag te binden, moeten de statuten worden gewijzigd; dit is als Z4 beschreven in het [register van statutenwijzigingen](../statut/rejestr-zmian.md).
 
-De volledige start van verdere pijlers (open ontwerpen van duurzame voorwerpen en contact met de natuur) vereist drie voorwaarden samen: stemmingen die één effectieve stem per persoon waarborgen, middelen voor zes maanden instandhouding van Suveria en Omniforum en een besluit van de gemeenschap. De eerste voorwaarde beschouwen we pas als vervuld wanneer de routes die extra stemmen toelaten door een uniform systeem zijn vervangen en proeven dit bevestigen.
+De volledige start van verdere pijlers (open ontwerpen van duurzame voorwerpen en contact met de natuur) vereist drie voorwaarden samen: stemmingen die één effectieve stem per persoon waarborgen, middelen voor zes maanden instandhouding van Suveria en OmniForum en een besluit van de gemeenschap. De eerste voorwaarde beschouwen we pas als vervuld wanneer de routes die extra stemmen toelaten door een uniform systeem zijn vervangen en proeven dit bevestigen.
 
-Meer: [whitepaper Omniforum, paragraaf 8.5](../whitepaper-omniforum.md#s8-5), [whitepaper over de werkingsprincipes van de stichting, hoofdstuk 2](../whitepaper-zasady-fundacji.md#s2) en [manifest, paragraaf 6.3](../manifest.md#s6-3).
+Meer: [whitepaper OmniForum, paragraaf 8.5](../whitepaper-omniforum.md#s8-5), [whitepaper over de werkingsprincipes van de stichting, hoofdstuk 2](../whitepaper-zasady-fundacji.md#s2) en [manifest, paragraaf 6.3](../manifest.md#s6-3).
 
 ## Wat dit niet kan waarborgen
 
@@ -96,10 +96,10 @@ Meer: [whitepaper Omniforum, paragraaf 8.5](../whitepaper-omniforum.md#s8-5), [w
 
 Hoe we één stem per persoon zonder centrale identiteitsdatabase, geheimhouding en wereldwijde toegang volledig verenigen, weten we nog niet. “Dit kan lang duren en dat zeggen we duidelijk.”
 
-Meer: [whitepaper Omniforum, paragraaf 8.2](../whitepaper-omniforum.md#s8-2), [paragraaf 8.6](../whitepaper-omniforum.md#s8-6), [paragraaf 8.7](../whitepaper-omniforum.md#s8-7) en [manifest, paragraaf 5.2](../manifest.md#s5-2).
+Meer: [whitepaper OmniForum, paragraaf 8.2](../whitepaper-omniforum.md#s8-2), [paragraaf 8.6](../whitepaper-omniforum.md#s8-6), [paragraaf 8.7](../whitepaper-omniforum.md#s8-7) en [manifest, paragraaf 5.2](../manifest.md#s5-2).
 
 ## Lees en vertel wat je ervan vindt
 
-De volledige beschrijving staat in de [whitepaper over Omniforum](../whitepaper-omniforum.md), hoofdstuk 8, en het [manifest](../manifest.md), hoofdstuk 5. Als iets je aan het denken zet of onjuist lijkt, markeer dan dat fragment in het document en gebruik de knop “Ik heb een opmerking” of schrijf naar salve@novusignis.org.
+De volledige beschrijving staat in de [whitepaper over OmniForum](../whitepaper-omniforum.md), hoofdstuk 8, en het [manifest](../manifest.md), hoofdstuk 5. Als iets je aan het denken zet of onjuist lijkt, markeer dan dat fragment in het document en gebruik de knop “Ik heb een opmerking” of schrijf naar salve@novusignis.org.
 
-Meer: [whitepaper Omniforum, paragraaf 5.5](../whitepaper-omniforum.md#s5-5).
+Meer: [whitepaper OmniForum, paragraaf 5.5](../whitepaper-omniforum.md#s5-5).

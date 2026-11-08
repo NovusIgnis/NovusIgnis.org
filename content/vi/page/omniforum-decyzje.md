@@ -1,19 +1,19 @@
 ---
-tytul: Quyết định chung trong Omniforum
+tytul: Quyết định chung trong OmniForum
 opis: Tham vấn khác biểu quyết thế nào, dự kiến nhận quyền biểu quyết không sinh trắc học ra sao, nguyên tắc luôn áp dụng và vì sao hiệu lực ràng buộc cần tăng dần
 grupa: omniforum
 kolejnosc: 3
 menu: Quyết định chung
 ---
-# Quyết định chung trong Omniforum
+# Quyết định chung trong OmniForum
 
-Trang này đi sâu hơn phần quyết định chung ở [Omniforum là gì](omniforum.md): tham vấn khác biểu quyết thế nào, cách muốn trao quyền biểu quyết không sinh trắc học, nguyên tắc luôn áp dụng và vì sao kết quả biểu quyết cần chỉ dần ràng buộc quỹ.
+Trang này đi sâu hơn phần quyết định chung ở [OmniForum là gì](omniforum.md): tham vấn khác biểu quyết thế nào, cách muốn trao quyền biểu quyết không sinh trắc học, nguyên tắc luôn áp dụng và vì sao kết quả biểu quyết cần chỉ dần ràng buộc quỹ.
 
-Hiện không diễn ra biểu quyết hay tham vấn nào. Nguyên mẫu Omniforum đang xây dựng, mọi điều dưới đây là bản thiết kế.
+Hiện không diễn ra biểu quyết hay tham vấn nào. Nguyên mẫu OmniForum đang xây dựng, mọi điều dưới đây là bản thiết kế.
 
 Đây là một trong những phần khó nhất toàn bộ công việc, nên chúng tôi nói rõ điều trong tầm tay và điều sẽ cần làm lâu dài.
 
-Xem thêm: [sách trắng Omniforum, chương 8](../whitepaper-omniforum.md#s8).
+Xem thêm: [sách trắng OmniForum, chương 8](../whitepaper-omniforum.md#s8).
 
 ## Sự kiện, giá trị, giả thuyết
 
@@ -36,7 +36,7 @@ Xem thêm: [tuyên ngôn, mục 5.1](../manifest.md#s5-1).
 
 Chừng nào thử nghiệm chưa xác nhận mỗi người bỏ phiếu là người khác nhau, chúng tôi gọi là tham vấn, không phải biểu quyết theo điều lệ.
 
-Xem thêm: [điều lệ, § 8](../statut/statut-2026-09-28.md#par-8), [sách trắng Omniforum, mục 8.1](../whitepaper-omniforum.md#s8-1) và [sách trắng về nguyên tắc của quỹ, chương 2](../whitepaper-zasady-fundacji.md#s2).
+Xem thêm: [điều lệ, § 8](../statut/statut-2026-09-28.md#par-8), [sách trắng OmniForum, mục 8.1](../whitepaper-omniforum.md#s8-1) và [sách trắng về nguyên tắc của quỹ, chương 2](../whitepaper-zasady-fundacji.md#s2).
 
 ## Cách nhận quyền biểu quyết
 
@@ -53,7 +53,7 @@ Mỗi quyền cần có dấu định danh duy nhất để giấy tờ mới c�
 
 Kết hợp các đường còn rủi ro cùng một người nhận thêm quyền. Ban đầu, chúng tôi chủ động nhận rủi ro để nhiều người trên thế giới tham gia nhất có thể; mục tiêu vẫn là hệ thống một người một phiếu. Từ chối tiếp nhận có cơ sở lý giải và đường khiếu nại.
 
-Xem thêm: [sách trắng Omniforum, mục 8.3](../whitepaper-omniforum.md#s8-3) và [tuyên ngôn, mục 5.2](../manifest.md#s5-2).
+Xem thêm: [sách trắng OmniForum, mục 8.3](../whitepaper-omniforum.md#s8-3) và [tuyên ngôn, mục 5.2](../manifest.md#s5-2).
 
 ## Nguyên tắc luôn áp dụng
 
@@ -67,15 +67,15 @@ Xem thêm: [sách trắng Omniforum, mục 8.3](../whitepaper-omniforum.md#s8-3)
 - Đề xuất chi tiêu cần “đường xanh” từ tuyên ngôn, tức chuỗi liên kết cho thấy cơ sở sự kiện của kế hoạch và cộng đồng đồng ý với lựa chọn nền tảng. Ngưỡng đồng ý đặt trước theo tầm quan trọng, quy mô chi tiêu và tính đảo ngược hệ quả.
 - Trước bỏ phiếu, mỗi người thấy tóm tắt ngắn, dễ hiểu về lập trường, phản đối và nguồn, công bố từ trước. Các bên có thể báo lập trường bị bỏ sót; khi đó chúng tôi hiện cách trình bày của chính họ bên cạnh.
 
-Xem thêm: [sách trắng Omniforum, chương 8](../whitepaper-omniforum.md#s8), [mục 8.3](../whitepaper-omniforum.md#s8-3) và [tuyên ngôn, mục 5.3](../manifest.md#s5-3).
+Xem thêm: [sách trắng OmniForum, chương 8](../whitepaper-omniforum.md#s8), [mục 8.3](../whitepaper-omniforum.md#s8-3) và [tuyên ngôn, mục 5.3](../manifest.md#s5-3).
 
 ## Vấn đề khó: ba bước
 
-1. **Bản đồ vấn đề mở** trong Omniforum, ai cũng có thể tham gia.
+1. **Bản đồ vấn đề mở** trong OmniForum, ai cũng có thể tham gia.
 2. **Hội nghị tư vấn được chọn ngẫu nhiên**: nhóm được rút từ sổ người đủ điều kiện qua phép rút mà mỗi người tự kiểm tra kết quả bằng dữ liệu công bố. Nhóm có thời gian, tài liệu và cơ hội trao đổi với tác giả đề xuất; tư vấn, không quyết định.
 3. **Biểu quyết của mọi người đủ điều kiện.**
 
-Xem thêm: [sách trắng Omniforum, mục 8.4](../whitepaper-omniforum.md#s8-4).
+Xem thêm: [sách trắng OmniForum, mục 8.4](../whitepaper-omniforum.md#s8-4).
 
 ## Dần dần và thận trọng
 
@@ -83,9 +83,9 @@ Biểu quyết sẽ dần có hiệu lực ràng buộc: trước hết thử kh
 
 Trước đó, quỹ hoạt động trong giai đoạn linh hoạt: ban điều hành quyết định thường nhật, tự chọn hỏi ý kiến cộng đồng về việc quan trọng và công bố cơ sở lý giải mỗi quyết định quan trọng. Kết quả biểu quyết và tham vấn mang tính tư vấn về mặt chính thức. Để kết quả ràng buộc quỹ chính thức, cần sửa điều lệ, mô tả ở [sổ ghi thay đổi điều lệ](../statut/rejestr-zmian.md) là Z4.
 
-Khởi động đầy đủ các trụ cột tiếp theo (thiết kế mở đồ vật bền và gắn bó thiên nhiên) đòi đồng thời ba điều kiện: biểu quyết bảo đảm một phiếu có hiệu lực của cùng một người, tiền duy trì Suveria và Omniforum sáu tháng, quyết định cộng đồng. Điều kiện đầu chỉ được coi đạt khi các đường cho phép phiếu bổ sung được thay bằng hệ thống thống nhất và thử nghiệm xác nhận.
+Khởi động đầy đủ các trụ cột tiếp theo (thiết kế mở đồ vật bền và gắn bó thiên nhiên) đòi đồng thời ba điều kiện: biểu quyết bảo đảm một phiếu có hiệu lực của cùng một người, tiền duy trì Suveria và OmniForum sáu tháng, quyết định cộng đồng. Điều kiện đầu chỉ được coi đạt khi các đường cho phép phiếu bổ sung được thay bằng hệ thống thống nhất và thử nghiệm xác nhận.
 
-Xem thêm: [sách trắng Omniforum, mục 8.5](../whitepaper-omniforum.md#s8-5), [sách trắng về nguyên tắc của quỹ, chương 2](../whitepaper-zasady-fundacji.md#s2) và [tuyên ngôn, mục 6.3](../manifest.md#s6-3).
+Xem thêm: [sách trắng OmniForum, mục 8.5](../whitepaper-omniforum.md#s8-5), [sách trắng về nguyên tắc của quỹ, chương 2](../whitepaper-zasady-fundacji.md#s2) và [tuyên ngôn, mục 6.3](../manifest.md#s6-3).
 
 ## Những điều không được bảo đảm
 
@@ -96,10 +96,10 @@ Xem thêm: [sách trắng Omniforum, mục 8.5](../whitepaper-omniforum.md#s8-5)
 
 Chúng tôi chưa biết dung hòa đầy đủ một người một phiếu không cơ sở danh tính tập trung, bí mật và khả năng tiếp cận toàn cầu thế nào. “Việc này có thể mất nhiều thời gian, và chúng tôi nói rõ như vậy.”
 
-Xem thêm: [sách trắng Omniforum, mục 8.2](../whitepaper-omniforum.md#s8-2), [mục 8.6](../whitepaper-omniforum.md#s8-6), [mục 8.7](../whitepaper-omniforum.md#s8-7) và [tuyên ngôn, mục 5.2](../manifest.md#s5-2).
+Xem thêm: [sách trắng OmniForum, mục 8.2](../whitepaper-omniforum.md#s8-2), [mục 8.6](../whitepaper-omniforum.md#s8-6), [mục 8.7](../whitepaper-omniforum.md#s8-7) và [tuyên ngôn, mục 5.2](../manifest.md#s5-2).
 
 ## Hãy đọc và chia sẻ suy nghĩ
 
-Mô tả đầy đủ ở [sách trắng Omniforum](../whitepaper-omniforum.md), chương 8, và [tuyên ngôn](../manifest.md), chương 5. Nếu có điều khiến bạn băn khoăn hoặc thấy sai, hãy chọn đoạn ấy trong tài liệu và dùng nút “Tôi có ý kiến”, hoặc viết đến salve@novusignis.org.
+Mô tả đầy đủ ở [sách trắng OmniForum](../whitepaper-omniforum.md), chương 8, và [tuyên ngôn](../manifest.md), chương 5. Nếu có điều khiến bạn băn khoăn hoặc thấy sai, hãy chọn đoạn ấy trong tài liệu và dùng nút “Tôi có ý kiến”, hoặc viết đến salve@novusignis.org.
 
-Xem thêm: [sách trắng Omniforum, mục 5.5](../whitepaper-omniforum.md#s5-5).
+Xem thêm: [sách trắng OmniForum, mục 5.5](../whitepaper-omniforum.md#s5-5).

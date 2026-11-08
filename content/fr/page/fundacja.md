@@ -9,7 +9,7 @@ menu: Qui sommes-nous
 
 Cette page décrit brièvement la Fondation Novus Ignis en tant qu’organisation. Les détails figurent dans le livre blanc sur les principes de la fondation, auquel renvoient les liens de chaque partie.
 
-Nous sommes une fondation de Poznań (KRS 0001269575) qui veut construire un internet alternatif fondé sur la dignité humaine. Notre premier pilier se compose de deux services que nous commençons à construire : Suveria, un espace privé de travail avec l’intelligence numérique, et Omniforum, un espace commun de conversation, de compréhension et de décision. Nous n’en sommes qu’au début : la fondation est enregistrée, les documents sont publiés, et les services sont encore en cours de création.
+Nous sommes une fondation de Poznań (KRS 0001269575) qui veut construire un internet alternatif fondé sur la dignité humaine. Notre premier pilier se compose de deux services que nous commençons à construire : Suveria, un espace privé de travail avec l’intelligence numérique, et OmniForum, un espace commun de conversation, de compréhension et de décision. Nous n’en sommes qu’au début : la fondation est enregistrée, les documents sont publiés, et les services sont encore en cours de création.
 
 Tout a commencé par une question du fondateur, Marcin Wołowski : quels schémas de notre propre conduite transmettons-nous à l’intelligence numérique pendant son entraînement ?
 
@@ -27,7 +27,7 @@ Novus Ignis est une entité sans actionnaires : elle ne distribue de bénéfice
 | Statuts, manifeste et livres blancs | publiés |
 | Registre des modifications des statuts | fonctionne |
 | Suveria | projet |
-| Omniforum | prototype en construction |
+| OmniForum | prototype en construction |
 | Règlements | à créer |
 | Autres registres : recettes et dépenses, avantages, décisions, erreurs et registre en ajout seul (dans lequel les entrées ne peuvent être modifiées ou supprimées discrètement) | à créer |
 
@@ -54,7 +54,7 @@ Pour que le budget soit compréhensible, nous répartissons l’argent en cinq c
 - **fonds dus aux utilisateurs :** les prépaiements non utilisés et les soldes des participants ;
 - **argent confié pour un but déterminé :** les dons affectés, à dépenser uniquement dans ce but ;
 - **engagements pris :** l’argent déjà consacré à des dépenses prévues ;
-- **provision pour l’entretien des services :** la réserve sans laquelle Suveria et Omniforum cesseraient de fonctionner ;
+- **provision pour l’entretien des services :** la réserve sans laquelle Suveria et OmniForum cesseraient de fonctionner ;
 - **fonds librement disponibles :** ce qui reste après déduction des sommes affectées aux autres catégories et dont l’utilisation reste à décider.
 
 Nous tenons le registre public des recettes et des dépenses sur la page [Registre des recettes et des dépenses](fundacja-rejestr.md).
@@ -73,7 +73,7 @@ Pour en savoir plus : [livre blanc sur les principes de la fondation, chapitre 
 
 ## Un pouvoir que l’on peut transmettre
 
-La fondation a été créée par une personne, Marcin Wołowski, qui y détient aujourd’hui le plus de pouvoir : le fondateur nomme et révoque le conseil d’administration. Seul l’ensemble du conseil d’administration peut modifier les statuts à l’unanimité, et lorsque le fondateur n’y siège pas, l’accord du fondateur est également nécessaire. Nous ne voulons pas que cela reste ainsi : le fondateur veut utiliser Suveria et Omniforum aux mêmes conditions que les autres et se retirer d’un rôle public permanent.
+La fondation a été créée par une personne, Marcin Wołowski, qui y détient aujourd’hui le plus de pouvoir : le fondateur nomme et révoque le conseil d’administration. Seul l’ensemble du conseil d’administration peut modifier les statuts à l’unanimité, et lorsque le fondateur n’y siège pas, l’accord du fondateur est également nécessaire. Nous ne voulons pas que cela reste ainsi : le fondateur veut utiliser Suveria et OmniForum aux mêmes conditions que les autres et se retirer d’un rôle public permanent.
 
 La transmission doit être effective sur le papier et dans la pratique : outre la modification des statuts, il faut transmettre les accès aux comptes, aux domaines et à l’infrastructure. Le plan de transmission des responsabilités fixera la date du premier examen et des rapports d’avancement réguliers. Les nominations au conseil d’administration reposent sur les compétences et une direction commune, jamais sur un versement.
 

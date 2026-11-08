@@ -2,24 +2,24 @@
  "source": "content/pl/page/omniforum-rozmowa.md",
  "paragraphs": [
   {
-   "h": "cf9d2253b2b493f26eece9d18df5f79af969c729",
-   "t": "# Jak działa rozmowa w Omniforum"
+   "h": "8e0a916a2319559e22ebc161232ed6be28a7255e",
+   "t": "# Jak działa rozmowa w OmniForum"
   },
   {
-   "h": "a1e505f4f93341c34466dc03e9cca171e08b3f4a",
-   "t": "Ta strona jest dla osób, które przeczytały już stronę [Czym jest Omniforum](omni"
+   "h": "5054dd0a486d13deba89f6392d47bf4eb7cf58c3",
+   "t": "Ta strona jest dla osób, które przeczytały już stronę [Czym jest OmniForum](omni"
   },
   {
    "h": "d9f7267ca23447716339a804a09d6cf221e9b6b8",
    "t": "Dziś nie możesz jeszcze z tego korzystać: opisujemy plan i zbieramy uwagi."
   },
   {
-   "h": "1eb8f84d6d0ceb67012a718f60a8f9ddb32696b6",
-   "t": "Prototyp Omniforum jest w budowie. Wszystko, co opisujemy niżej, jest projektem,"
+   "h": "96433fde842b88db1c42c228883abb61a68a30de",
+   "t": "Prototyp OmniForum jest w budowie. Wszystko, co opisujemy niżej, jest projektem,"
   },
   {
-   "h": "4a99c2d5d539c0c004e54f79c59969ad4852db61",
-   "t": "Więcej: [whitepaper Omniforum, rozdział 1](../whitepaper-omniforum.md#s1)."
+   "h": "e0a7ed0378260630f711f09b215301cef1ad15b2",
+   "t": "Więcej: [whitepaper OmniForum, rozdział 1](../whitepaper-omniforum.md#s1)."
   },
   {
    "h": "18bfb3a09f7ad30e83a10e6774cc2445a0d43daf",
@@ -38,16 +38,16 @@
    "t": "Tego zdania nie wolno skrócić do bezwarunkowego „warto posadzić drzewa na naszej"
   },
   {
-   "h": "c6782a121d698b5446c052b9ec93583cc68bb835",
-   "t": "Więcej: [whitepaper Omniforum, rozdział 2](../whitepaper-omniforum.md#s2), [rozd"
+   "h": "78c4861ce96f3d7e73de9bd490034ed5228f15df",
+   "t": "Więcej: [whitepaper OmniForum, rozdział 2](../whitepaper-omniforum.md#s2), [rozd"
   },
   {
    "h": "cf811348f6fffb5dd82e21f8297152e069a9bcc9",
    "t": "## Krok po kroku"
   },
   {
-   "h": "1f5ac640957450daa3f0f93db7d7344e54932ee7",
-   "t": "Tak ma wyglądać droga myśli, która powstaje w Omniforum:"
+   "h": "f25f52250677df9030d4d49aa0fe3750132ec8f9",
+   "t": "Tak ma wyglądać droga myśli, która powstaje w OmniForum:"
   },
   {
    "h": "bedc850cd117cfd6d1125f7d942f0ab5735778d9",
@@ -58,8 +58,8 @@
    "t": "Rozważamy też drugą, dobrowolną ceremonię: chwilę, w której nazywamy granicę teg"
   },
   {
-   "h": "7be3ac3d33d317e9f28cfce02d38dd58d767dbff",
-   "t": "Więcej: [whitepaper Omniforum, rozdział 3](../whitepaper-omniforum.md#s3)."
+   "h": "e941bed7ce1f3e94443b2a96e79b30eb9f4c1d89",
+   "t": "Więcej: [whitepaper OmniForum, rozdział 3](../whitepaper-omniforum.md#s3)."
   },
   {
    "h": "d34b076c0bb10a87e056d2dc327c630f4a3e0ea2",
@@ -78,8 +78,8 @@
    "t": "Rozmowa ma zostawiać miejsce na zmianę zdania bez upokorzenia: można przyznać si"
   },
   {
-   "h": "615f270be6c2863e2846aa7ea1ac2a82238f584e",
-   "t": "Więcej: [whitepaper Omniforum, rozdział 2](../whitepaper-omniforum.md#s2) i [roz"
+   "h": "190fa01bfe0b6c3b4946921d2fbca664c314f795",
+   "t": "Więcej: [whitepaper OmniForum, rozdział 2](../whitepaper-omniforum.md#s2) i [roz"
   },
   {
    "h": "05c837491d663f13a7ac0b32a7338384e2c8a5df",
@@ -94,8 +94,8 @@
    "t": "Przy każdym rozkładzie zapisujemy, kto go przygotował i kiedy, a jeśli pomagał m"
   },
   {
-   "h": "2d874468156878d73683eb06f9fbc7f59821ee8b",
-   "t": "Więcej: [whitepaper Omniforum, rozdział 3](../whitepaper-omniforum.md#s3) i [roz"
+   "h": "ea26c2ccadecf5581ca19c97296e5f34c1de3c90",
+   "t": "Więcej: [whitepaper OmniForum, rozdział 3](../whitepaper-omniforum.md#s3) i [roz"
   },
   {
    "h": "801e5d3255ef8867f6dd38aa69d01cc99232436f",
@@ -106,8 +106,8 @@
    "t": "Myśl może też przyjść z Suverii, prywatnej przestrzeni do pracy z cyfrową inteli"
   },
   {
-   "h": "7be3ac3d33d317e9f28cfce02d38dd58d767dbff",
-   "t": "Więcej: [whitepaper Omniforum, rozdział 3](../whitepaper-omniforum.md#s3)."
+   "h": "e941bed7ce1f3e94443b2a96e79b30eb9f4c1d89",
+   "t": "Więcej: [whitepaper OmniForum, rozdział 3](../whitepaper-omniforum.md#s3)."
   },
   {
    "h": "1dd6ef5fa9ef12516f687ade03ba10ecafccbc31",
@@ -122,8 +122,8 @@
    "t": "Atom to znaczenie, a nie słowo. Słowa, którymi go nazywamy, są jego etykietami, "
   },
   {
-   "h": "2561387856b9bbe24af10d529ccb7d31eedb7403",
-   "t": "Więcej: [whitepaper Omniforum, rozdział 2](../whitepaper-omniforum.md#s2)."
+   "h": "66fb9336f6d31236a25be981a81e690567a85caa",
+   "t": "Więcej: [whitepaper OmniForum, rozdział 2](../whitepaper-omniforum.md#s2)."
   },
   {
    "h": "97a2727f831af897b2753beac68a8e46d5899df7",
@@ -138,20 +138,20 @@
    "t": "Sprawdzamy, czy po drodze nic się nie zgubiło: brzmienie oryginału, jego znaczen"
   },
   {
-   "h": "c65a1131e9e60a58502c4e5268b8d93219ac19c7",
-   "t": "Więcej: [whitepaper Omniforum, rozdział 9](../whitepaper-omniforum.md#s9)."
+   "h": "81106b5cc94cc10298dabb78cb1e4b6753eaea88",
+   "t": "Więcej: [whitepaper OmniForum, rozdział 9](../whitepaper-omniforum.md#s9)."
   },
   {
    "h": "dbd729a4bebd65f560d1601db4be5811d62ffdc0",
    "t": "## Przeczytaj i powiedz, co myślisz"
   },
   {
-   "h": "22cd963528d335918b2f7a47116329eebfffabdd",
-   "t": "Pełny opis tej drogi znajdziesz w [whitepaperze Omniforum](../whitepaper-omnifor"
+   "h": "44c1a4804932f32164581f4c6f06294369a9d6da",
+   "t": "Pełny opis tej drogi znajdziesz w [whitepaperze OmniForum](../whitepaper-omnifor"
   },
   {
-   "h": "f7be398ad8cbbaee6f5382c726f333faec87bca6",
-   "t": "Więcej: [whitepaper Omniforum, punkt 5.5](../whitepaper-omniforum.md#s5-5)."
+   "h": "55192c377926993b698b4ddc610f66034befef02",
+   "t": "Więcej: [whitepaper OmniForum, punkt 5.5](../whitepaper-omniforum.md#s5-5)."
   }
  ]
 }

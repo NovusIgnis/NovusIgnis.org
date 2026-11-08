@@ -14,12 +14,12 @@
    "t": "Mapa sprawy to uporządkowany zbiór argumentów, doświadczeń i otwartych pytań wok"
   },
   {
-   "h": "6337a80929796ef2d3b4366743e561e4cead324e",
-   "t": "Prototyp Omniforum jest w budowie. Wszystko, co opisujemy niżej, jest projektem;"
+   "h": "878d26b8fe5572f14a816859ef45e0ba24fe8b99",
+   "t": "Prototyp OmniForum jest w budowie. Wszystko, co opisujemy niżej, jest projektem;"
   },
   {
-   "h": "4a99c2d5d539c0c004e54f79c59969ad4852db61",
-   "t": "Więcej: [whitepaper Omniforum, rozdział 1](../whitepaper-omniforum.md#s1)."
+   "h": "e0a7ed0378260630f711f09b215301cef1ad15b2",
+   "t": "Więcej: [whitepaper OmniForum, rozdział 1](../whitepaper-omniforum.md#s1)."
   },
   {
    "h": "3f25d05b6acbb3eea4fc3249d5a72f4fa85b64a0",
@@ -38,8 +38,8 @@
    "t": "Sprawa to pytanie, do którego ktoś chce wracać, bo chce coś zrozumieć, porównać "
   },
   {
-   "h": "72d3da80c023321e30d10651f0a85649e6008cc8",
-   "t": "Więcej: [whitepaper Omniforum, rozdział 5](../whitepaper-omniforum.md#s5) i [pun"
+   "h": "8458f36e16d978b60ed6d783d6f3c69e542862f1",
+   "t": "Więcej: [whitepaper OmniForum, rozdział 5](../whitepaper-omniforum.md#s5) i [pun"
   },
   {
    "h": "5e0a900d06b71450be6e2c8ce531fee743ff9302",
@@ -54,8 +54,8 @@
    "t": "Gdy wracasz do tematu po tygodniu albo po roku, masz zobaczyć tylko to, co się z"
   },
   {
-   "h": "2dfe6372b89e0b94d629208cac4a68bfc447d32f",
-   "t": "Więcej: [whitepaper Omniforum, rozdział 5](../whitepaper-omniforum.md#s5) i [pun"
+   "h": "1582e57193e6c3e1708ae4f06cad38dabe0a4297",
+   "t": "Więcej: [whitepaper OmniForum, rozdział 5](../whitepaper-omniforum.md#s5) i [pun"
   },
   {
    "h": "b7367e0172be25df01e49c834a11b5a62d91dd72",
@@ -74,12 +74,12 @@
    "t": "Jedna miara nie zastępuje drugiej: pełna zgoda uczestników oparta na jednej nies"
   },
   {
-   "h": "b5682aa5b7da7d3fed0806badab705ded08f55df",
+   "h": "c9342e2a4e7dc3a340eaee0fcafe7f4f8349dbe6",
    "t": "Manifest dzieli wspólny namysł na fakty (to, co da się sprawdzić), wartości (pot"
   },
   {
-   "h": "f7a180c8e4b558bc2bc705b37b0f70896e00fd34",
-   "t": "Więcej: [whitepaper Omniforum, rozdział 5](../whitepaper-omniforum.md#s5) i [man"
+   "h": "a40b954fb6fcef42e4ef22684fed7a2188ec8ddd",
+   "t": "Więcej: [whitepaper OmniForum, rozdział 5](../whitepaper-omniforum.md#s5) i [man"
   },
   {
    "h": "b2685f67b67be44431f6e78d8045edc74a299f68",
@@ -98,8 +98,8 @@
    "t": "Karta nie jest jedną myślą, tylko widokiem wielu powiązanych pojęć, twierdzeń, ź"
   },
   {
-   "h": "ea0b61b6ee0cd7363f46b814a6ec82c7ca612ba9",
-   "t": "Więcej: [whitepaper Omniforum, punkt 5.2](../whitepaper-omniforum.md#s5-2)."
+   "h": "003f95f475ce9f8604b02bd5eca7c8dcef51b36e",
+   "t": "Więcej: [whitepaper OmniForum, punkt 5.2](../whitepaper-omniforum.md#s5-2)."
   },
   {
    "h": "a2c73f061cadd738de3b0e3bd8b37c3387861f8d",
@@ -114,8 +114,8 @@
    "t": "Zanim trafi do decyzji o wspólnych pieniądzach, potrzebuje tego, co manifest naz"
   },
   {
-   "h": "da0fa1cd47e88a00d223673c6f7c963dec71250d",
-   "t": "Więcej: [whitepaper Omniforum, punkt 5.3](../whitepaper-omniforum.md#s5-3) i [ma"
+   "h": "d485f7872dbb5cf23e8e8114908dd952d04e58b1",
+   "t": "Więcej: [whitepaper OmniForum, punkt 5.3](../whitepaper-omniforum.md#s5-3) i [ma"
   },
   {
    "h": "e5096089e30e1dd41120e4bb63746a85e9276afa",
@@ -138,20 +138,20 @@
    "t": "Na pierwszym planie ma być treść i źródło z jego datą. Nie prowadzimy publicznyc"
   },
   {
-   "h": "4562d0892f482dbf98dadc0e604a09b6f965695c",
-   "t": "Więcej: [whitepaper Omniforum, rozdział 6](../whitepaper-omniforum.md#s6)."
+   "h": "a6d8a5a6a42f5faeb8dd393f7ec0eef5922d1c7b",
+   "t": "Więcej: [whitepaper OmniForum, rozdział 6](../whitepaper-omniforum.md#s6)."
   },
   {
    "h": "dbd729a4bebd65f560d1601db4be5811d62ffdc0",
    "t": "## Przeczytaj i powiedz, co myślisz"
   },
   {
-   "h": "d703a6c17abea40fed2967eb2e5708939af6c889",
-   "t": "Pełny opis map, kart i inicjatyw znajdziesz w [whitepaperze Omniforum](../whitep"
+   "h": "1c7119266ceecb63ceab84bcd51f20660e2cab20",
+   "t": "Pełny opis map, kart i inicjatyw znajdziesz w [whitepaperze OmniForum](../whitep"
   },
   {
-   "h": "f7be398ad8cbbaee6f5382c726f333faec87bca6",
-   "t": "Więcej: [whitepaper Omniforum, punkt 5.5](../whitepaper-omniforum.md#s5-5)."
+   "h": "55192c377926993b698b4ddc610f66034befef02",
+   "t": "Więcej: [whitepaper OmniForum, punkt 5.5](../whitepaper-omniforum.md#s5-5)."
   }
  ]
 }

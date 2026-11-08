@@ -27,7 +27,7 @@ Mehr: [Satzung, § 13](../statut/statut-2026-09-28.md#par-13) und [§ 15](../sta
 
 ## Warum sich das ändern soll
 
-Das Manifest sagt es ausdrücklich: Wir streben das schrittweise Erlöschen der besonderen Befugnisse des Stifters an und wollen der Gemeinschaft echten Einfluss auf die Richtung der Stiftung und die Wahl der Personen geben, die sie leiten. Entscheidungen der Gemeinschaft sollen den Vorstand im Rahmen des Rechts, der Satzung und der Sicherheit der Dienste binden. Der Stifter möchte Suveria, Omniforum und weitere Projekte zu denselben Bedingungen wie andere nutzen und sich aus einer ständigen öffentlichen Rolle zurückziehen.
+Das Manifest sagt es ausdrücklich: Wir streben das schrittweise Erlöschen der besonderen Befugnisse des Stifters an und wollen der Gemeinschaft echten Einfluss auf die Richtung der Stiftung und die Wahl der Personen geben, die sie leiten. Entscheidungen der Gemeinschaft sollen den Vorstand im Rahmen des Rechts, der Satzung und der Sicherheit der Dienste binden. Der Stifter möchte Suveria, OmniForum und weitere Projekte zu denselben Bedingungen wie andere nutzen und sich aus einer ständigen öffentlichen Rolle zurückziehen.
 
 Das Whitepaper erinnert hier an Cincinnatus: Laut Livius trafen ihn im Jahr 458 v. Chr. Gesandte bei der Feldarbeit an und überbrachten die Nachricht, dass ihm für die Dauer des Krieges die höchste Macht anvertraut worden war. Am sechzehnten Tag, als die Gefahr vorüber war, gab er sie zurück und kehrte auf seinen Hof zurück. Verantwortung übernimmt man für eine gewisse Zeit und gibt sie dann wieder ab.
 

@@ -82,7 +82,7 @@ Daha fazlası: [vakıf ilkeleri teknik raporu, 12.3. madde](../whitepaper-zasady
 
 ## Belgeleri nasıl değiştiririz
 
-Manifesto ve teknik raporlar yaşayan belgelerdir. Güncel sürüm vakfın mevcut tutumunu sunar; önceki sürümlerin ve düzeltme nedenlerinin geçmişi erişilebilir kalır. Tezlerini, denetlenebilen tek tek iddia ve argümanlar olan moleküllere ayırarak bunları, kurduğumuz ortak konuşma, anlama ve karar alanı Omniforum’da kamusal incelemeye sunmak istiyoruz.
+Manifesto ve teknik raporlar yaşayan belgelerdir. Güncel sürüm vakfın mevcut tutumunu sunar; önceki sürümlerin ve düzeltme nedenlerinin geçmişi erişilebilir kalır. Tezlerini, denetlenebilen tek tek iddia ve argümanlar olan moleküllere ayırarak bunları, kurduğumuz ortak konuşma, anlama ve karar alanı OmniForum’da kamusal incelemeye sunmak istiyoruz.
 
 Kuruluş kurallarını açık geliştiririz: değişiklik önerisiyle kapsamını, gerekçesini ve katılımcılara sonuçlarını gösteririz. Vakıf senedini ancak değişiklik sonraki adım için gerektiğinde değiştiririz. Sonraki sütunların finansman koşullarını vakıf senedine yazmayı da değerlendiriyoruz ([vakıf senedi değişiklik sicilindeki](../statut/rejestr-zmian.md) kurucunun kararına sunulan Z6 önerisi); böylece yalnızca yönetim kurulunun iyi niyetine bağlı kalmasınlar.
 

@@ -27,7 +27,7 @@ More: [statute, § 13](../statut/statut-2026-09-28.md#par-13) and [§ 15](../sta
 
 ## Why this is meant to change
 
-The manifesto says it plainly: we are working toward gradually phasing out the founder's special powers and handing over to the community real influence on the foundation's direction and on the choice of the people who manage it. The community's decisions are to bind the board within the limits of the law, the statute and the security of the services. The founder wants to use Suveria, Omniforum and further projects on the same terms as everyone else and to withdraw from a permanent public role.
+The manifesto says it plainly: we are working toward gradually phasing out the founder's special powers and handing over to the community real influence on the foundation's direction and on the choice of the people who manage it. The community's decisions are to bind the board within the limits of the law, the statute and the security of the services. The founder wants to use Suveria, OmniForum and further projects on the same terms as everyone else and to withdraw from a permanent public role.
 
 The whitepaper recalls Cincinnatus here: according to Livy, in 458 BC envoys found him working in his field with the news that he had been entrusted with supreme power for the duration of a war. On the sixteenth day, when the danger had passed, he gave it up and returned to his farm. Responsibility is taken on for a time and then handed over.
 

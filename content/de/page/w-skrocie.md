@@ -15,12 +15,12 @@ Die Stiftung Novus Ignis aus Poznań (KRS 0001269575), gegründet von Marcin Wo�
 
 ## Was wir tun wollen
 
-Wir wollen ein alternatives Internet mitgestalten, dessen höchster Wert die Würde des Menschen und die daraus folgenden Werte Privatsphäre und Freiheit sind. Suveria soll ein privater Arbeitsraum mit optionaler Hilfe durch digitale Intelligenz sein, geschützt durch Schutzmechanismen, deren Funktionsweise sich unabhängig überprüfen lässt. Omniforum soll ein gemeinsamer öffentlicher Raum sein, in dem sich alle äußern und Gehör finden können. Mehr: [Manifest, Einleitung](../manifest.md#top) und [Warum Novus Ignis](dlaczego.md).
+Wir wollen ein alternatives Internet mitgestalten, dessen höchster Wert die Würde des Menschen und die daraus folgenden Werte Privatsphäre und Freiheit sind. Suveria soll ein privater Arbeitsraum mit optionaler Hilfe durch digitale Intelligenz sein, geschützt durch Schutzmechanismen, deren Funktionsweise sich unabhängig überprüfen lässt. OmniForum soll ein gemeinsamer öffentlicher Raum sein, in dem sich alle äußern und Gehör finden können. Mehr: [Manifest, Einleitung](../manifest.md#top) und [Warum Novus Ignis](dlaczego.md).
 
 ## Wo wir heute stehen
 
 - **Funktioniert:** Die Stiftung ist eingetragen, und Manifest und Whitepaper sind veröffentlicht. Die Stiftung nimmt Spenden per Überweisung an und zeigt jede Einzahlung im [öffentlichen Register der Einzahlungen und Ausgaben](fundacja-rejestr.md); die erste war der Gründungsfonds.
-- **Entwurf:** Suveria ist ein Entwurf, und für das Omniforum entsteht ein erster Prototyp.
+- **Entwurf:** Suveria ist ein Entwurf, und für das OmniForum entsteht ein erster Prototyp.
 - **Hypothese:** Wir nehmen an, dass gemeinsame Server, die nach tatsächlicher Nutzung bezahlt werden, pro Dollar mehr digitale Intelligenz bieten können als geschlossene Dienste; wir haben das noch nicht geprüft (Manifest, Abschnitt 2.4).
 - **Vision:** Eigenständige Verwaltung durch digitale Intelligenz und die weiteren Säulen. Die vollständige Einführung der weiteren Säulen ist ein fernes Ziel; davor sind nur kleine Initiativen mit einem festgelegten Ende möglich. Heute leiten Menschen die Stiftung.
 
@@ -39,7 +39,7 @@ Die vollständige Liste: [Manifest, Kapitel 9](../manifest.md#s9).
 
 ## Wen wir suchen
 
-Zu Beginn suchen wir besonders einige Menschen, mit denen wir die ersten Fassungen von Suveria und Omniforum bauen und prüfen werden:
+Zu Beginn suchen wir besonders einige Menschen, mit denen wir die ersten Fassungen von Suveria und OmniForum bauen und prüfen werden:
 
 - Menschen aus den Bereichen Sicherheit, Kryptografie und Infrastruktur;
 - Programmierende und Fachleute für Oberflächengestaltung;

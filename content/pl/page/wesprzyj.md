@@ -24,7 +24,7 @@ Fundację możesz wesprzeć darowizną przelewem w złotych, euro albo dolarach.
 
 ## Co dzieje się z darowizną
 
-- Darowizna bez wskazanego celu trafia do środków wolnych do rozdysponowania, zawsze z pierwszeństwem Filaru I, czyli Suverii i Omniforum.
+- Darowizna bez wskazanego celu trafia do środków wolnych do rozdysponowania, zawsze z pierwszeństwem Filaru I, czyli Suverii i OmniForum.
 - Darowizna nie daje głosów, uprawnień zarządczych, dostępu do danych użytkowników ani prawa do promocji w naszych usługach i komunikacji.
 - Darczyńców podajemy w rejestrze z nazwy tylko wtedy, gdy sami tego chcą; pozostałe wpłaty opisujemy ogólnie, na przykład „darowizna od osoby prywatnej”. Tytułów przelewów nie publikujemy wprost, bo często zawierają dane osobowe.  Jeśli chcesz, żebyśmy podali Twoje imię albo nazwę firmy, napisz do nas.
 - Nie przyjmujemy świadczeń, których warunkiem jest promocja, rekomendacja albo ustępstwo w decyzjach.

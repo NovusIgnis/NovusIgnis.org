@@ -2,23 +2,23 @@
  "source": "content/pl/page/omniforum.md",
  "paragraphs": [
   {
-   "h": "89d1a88c27b8637b71bbda5483766d8d5a221da4",
-   "t": "# Czym jest Omniforum"
+   "h": "f61ad7a57587e2c867a5406384542574577eea82",
+   "t": "# Czym jest OmniForum"
   },
   {
-   "h": "43894107158138ece428aa0d2157271f9a2a002d",
-   "t": "Ta strona opowiada w skrócie, czym ma być Omniforum. To przystępna wersja whitep"
+   "h": "678310940dedf77573e1e5fc3c4646d8d78840b0",
+   "t": "Ta strona opowiada w skrócie, czym ma być OmniForum. To przystępna wersja whitep"
   },
   {
-   "h": "336576935a893cfe212bbd9e876f1e3e4e53964b",
-   "t": "Omniforum ma być wspólną przestrzenią rozmowy, w której każdy może wypowiedzieć "
+   "h": "788cf8aa2a2ed9c3ca1b87f2ddcbd41f537a40e2",
+   "t": "OmniForum ma być wspólną przestrzenią rozmowy, w której każdy może wypowiedzieć "
   },
   {
-   "h": "5322e73a3d6da4072311a58045a5dd943658eeec",
-   "t": "Omniforum ma dziś pierwszy prototyp w budowie; wszystko, co opisujemy niżej, jes"
+   "h": "3ba751ba33f4d5f0f0b4e358893c21488a567eac",
+   "t": "OmniForum ma dziś pierwszy prototyp w budowie; wszystko, co opisujemy niżej, jes"
   },
   {
-   "h": "8886524567c3f339ed05d582f6435454f6555d22",
+   "h": "830c6f29e62fedd84c6361643217bbe29ad92efb",
    "t": "Więcej: [manifest, wstęp](../manifest.md#top), [punkt 3.2](../manifest.md#s3-2) "
   },
   {
@@ -34,8 +34,8 @@
    "t": "Nie chodzi o wyłonienie zwycięzcy sporu; rozmowa ma zostawiać miejsce na zmianę "
   },
   {
-   "h": "e4c10349c6a9c89d6e41a868ef9945bb15df83e9",
-   "t": "Więcej: [whitepaper Omniforum, rozdział 1](../whitepaper-omniforum.md#s1) i [pun"
+   "h": "6f3640d7e6165ee20e103c1c2eb64003a3ffd444",
+   "t": "Więcej: [whitepaper OmniForum, rozdział 1](../whitepaper-omniforum.md#s1) i [pun"
   },
   {
    "h": "6a20b1f24a99f7cb9b16bb550367c1068017def6",
@@ -46,7 +46,7 @@
    "t": "Zaczynasz od zwykłego tekstu, a cyfrowa inteligencja proponuje, jak rozłożyć go "
   },
   {
-   "h": "a34305afa5ffba33fbb037ff8c47e0bb11ec66dc",
+   "h": "5d007be301285ae9947f3e04dea5dcb6bc1c7885",
    "t": "W sporze często irytujemy się na siebie nie przez złą wolę, tylko dlatego, że je"
   },
   {
@@ -54,8 +54,8 @@
    "t": "Potem poprawiasz miejsca, w których model mógł odejść od Twojej intencji, potwie"
   },
   {
-   "h": "7be3ac3d33d317e9f28cfce02d38dd58d767dbff",
-   "t": "Więcej: [whitepaper Omniforum, rozdział 3](../whitepaper-omniforum.md#s3)."
+   "h": "e941bed7ce1f3e94443b2a96e79b30eb9f4c1d89",
+   "t": "Więcej: [whitepaper OmniForum, rozdział 3](../whitepaper-omniforum.md#s3)."
   },
   {
    "h": "2a63b4f32e90ce9a6459a38610217ad5a17f0747",
@@ -70,20 +70,20 @@
    "t": "Mapa ma się otwierać spokojnie: najpierw jeden główny wniosek, pod nim kilka ści"
   },
   {
-   "h": "009bf11ae6578a03584317d048b49f823c95f375",
-   "t": "Więcej: [whitepaper Omniforum, rozdział 5](../whitepaper-omniforum.md#s5)."
+   "h": "043852de2b93f3026e45aa8099960aa2c1452e60",
+   "t": "Więcej: [whitepaper OmniForum, rozdział 5](../whitepaper-omniforum.md#s5)."
   },
   {
    "h": "ebda2c643a3f8c6ae056057b808ebc10d8ccecc2",
    "t": "## Co jest bezpłatne"
   },
   {
-   "h": "e9609931b5a3539b5150a3da7f9117feb191df20",
+   "h": "07dc27b46ae96a185b7a12ac686567f757b224fd",
    "t": "Planujemy tak: czytanie, publikowanie wypowiedzi, ręczny podział na myśli, dodaw"
   },
   {
-   "h": "a2295c5e844ed2e25025c323948df1ab5c40e86c",
-   "t": "Więcej: [whitepaper Omniforum, punkt 1.2](../whitepaper-omniforum.md#s1-2)."
+   "h": "f7c4bc6d9b07812eeab1ff07bd89dd3083d51491",
+   "t": "Więcej: [whitepaper OmniForum, punkt 1.2](../whitepaper-omniforum.md#s1-2)."
   },
   {
    "h": "76d46d7b41109bf63983706427b8ff2755e2b5de",
@@ -106,15 +106,15 @@
    "t": "To jedna z najtrudniejszych części projektu. Trudno zapewnić jednocześnie jeden "
   },
   {
-   "h": "360f00fda3c734c43a49d04f3c64ac7147302e1b",
-   "t": "Więcej: [whitepaper Omniforum, rozdział 8](../whitepaper-omniforum.md#s8)."
+   "h": "98f31fc24fcd08126ef73cab295b3ab37fabf579",
+   "t": "Więcej: [whitepaper OmniForum, rozdział 8](../whitepaper-omniforum.md#s8)."
   },
   {
    "h": "1db8af1cc48815329896ef9b2618bc84bd76d120",
    "t": "## Prywatność i cudze słowa"
   },
   {
-   "h": "33bbe8555491ceb1ab2d9138f87856a73595a467",
+   "h": "9a889dae9685b09ec542bf9f56014158820f8f37",
    "t": "Każda myśl może być w jednym z trzech miejsc: w prywatnej przestrzeni Suverii, w"
   },
   {
@@ -122,36 +122,36 @@
    "t": "Ludzie mają prawo do prywatności także wtedy, gdy ktoś inny ich cytuje. Jeśli kt"
   },
   {
-   "h": "4128b57e001bed15964bae144ebc427c97261a6a",
-   "t": "Więcej: [whitepaper Omniforum, rozdział 7](../whitepaper-omniforum.md#s7)."
+   "h": "e14a90c93d7ea905c157b816a27c083d96e83290",
+   "t": "Więcej: [whitepaper OmniForum, rozdział 7](../whitepaper-omniforum.md#s7)."
   },
   {
    "h": "6d5f670092c129c3d71aff93cb0705581afe7f46",
    "t": "## Stan prac"
   },
   {
-   "h": "aed7dc13ce86c1db4490d2c31b27ea54a186cbd9",
-   "t": "Stan na 30 października 2026 r.: prototyp Omniforum jest w budowie, a żadnej z o"
+   "h": "30c655ac5fb8c7f39808b977ddf9c07f34655787",
+   "t": "Stan na 30 października 2026 r.: prototyp OmniForum jest w budowie, a żadnej z o"
   },
   {
    "h": "e1724e5cbfa687b506a6b2ed66ef9a857989529d",
    "t": "Pierwszy krok to jedna pełna droga jednej myśli: ktoś wpisuje własny tekst, cyfr"
   },
   {
-   "h": "c65a1131e9e60a58502c4e5268b8d93219ac19c7",
-   "t": "Więcej: [whitepaper Omniforum, rozdział 9](../whitepaper-omniforum.md#s9)."
+   "h": "81106b5cc94cc10298dabb78cb1e4b6753eaea88",
+   "t": "Więcej: [whitepaper OmniForum, rozdział 9](../whitepaper-omniforum.md#s9)."
   },
   {
    "h": "dbd729a4bebd65f560d1601db4be5811d62ffdc0",
    "t": "## Przeczytaj i powiedz, co myślisz"
   },
   {
-   "h": "c8bfd4b7069cea6649d014ed28bf16434ccccfa2",
-   "t": "Przeczytaj [whitepaper Omniforum w całości](../whitepaper-omniforum.md). Jeśli c"
+   "h": "23e290738e174ed035ef635be2a50e5c67a665ad",
+   "t": "Przeczytaj [whitepaper OmniForum w całości](../whitepaper-omniforum.md). Jeśli c"
   },
   {
-   "h": "f7be398ad8cbbaee6f5382c726f333faec87bca6",
-   "t": "Więcej: [whitepaper Omniforum, punkt 5.5](../whitepaper-omniforum.md#s5-5)."
+   "h": "55192c377926993b698b4ddc610f66034befef02",
+   "t": "Więcej: [whitepaper OmniForum, punkt 5.5](../whitepaper-omniforum.md#s5-5)."
   }
  ]
 }

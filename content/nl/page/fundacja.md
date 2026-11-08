@@ -9,7 +9,7 @@ menu: Wie we zijn
 
 Deze pagina beschrijft kort wat Stichting Novus Ignis als organisatie is. De details staan in de whitepaper over de werkingsprincipes van de stichting, waarnaar bij elk onderdeel wordt verwezen.
 
-We zijn een stichting uit Poznań (KRS 0001269575) die een alternatief internet wil bouwen op basis van menselijke waardigheid. Onze eerste pijler bestaat uit twee diensten die we nog bouwen: Suveria, een privéruimte om met digitale intelligentie te werken, en Omniforum, een gedeelde ruimte voor gesprek, begrip en besluiten. We staan helemaal aan het begin: de stichting is geregistreerd, de documenten zijn gepubliceerd en de diensten worden nog ontwikkeld.
+We zijn een stichting uit Poznań (KRS 0001269575) die een alternatief internet wil bouwen op basis van menselijke waardigheid. Onze eerste pijler bestaat uit twee diensten die we nog bouwen: Suveria, een privéruimte om met digitale intelligentie te werken, en OmniForum, een gedeelde ruimte voor gesprek, begrip en besluiten. We staan helemaal aan het begin: de stichting is geregistreerd, de documenten zijn gepubliceerd en de diensten worden nog ontwikkeld.
 
 Alles begon met een vraag van de oprichter, Marcin Wołowski: welke patronen van ons eigen handelen geven we tijdens de training aan digitale intelligentie door?
 
@@ -27,7 +27,7 @@ Novus Ignis is een rechtspersoon zonder aandeelhouders: niemand ontvangt winstui
 | Statuten, manifest en whitepapers | gepubliceerd |
 | Register van statutenwijzigingen | werkt |
 | Suveria | ontwerp |
-| Omniforum | prototype in aanbouw |
+| OmniForum | prototype in aanbouw |
 | Reglementen | zullen worden opgesteld |
 | Andere registers: bijdragen en uitgaven, voordelen, besluiten, fouten en een register waaraan alleen kan worden toegevoegd (waarin vermeldingen niet ongemerkt kunnen worden veranderd of verwijderd) | zullen worden opgezet |
 
@@ -54,7 +54,7 @@ Om het budget begrijpelijk te maken, verdelen we het geld in vijf soorten:
 - **middelen die gebruikers toebehoren:** ongebruikte vooruitbetalingen en saldi van deelnemers;
 - **geld dat voor een bepaald doel is toevertrouwd:** doelgebonden donaties, uitsluitend voor dat doel te besteden;
 - **aangegane verplichtingen:** geld dat al voor geplande uitgaven is bestemd;
-- **waarborg voor de instandhouding van de diensten:** de reserve zonder welke Suveria en Omniforum zouden stoppen met werken;
+- **waarborg voor de instandhouding van de diensten:** de reserve zonder welke Suveria en OmniForum zouden stoppen met werken;
 - **vrij besteedbare middelen:** wat na aftrek van de rest overblijft en waarover we nog moeten beslissen.
 
 Het openbare register van bijdragen en uitgaven houden we bij op de pagina [Register van bijdragen en uitgaven](fundacja-rejestr.md).
@@ -73,7 +73,7 @@ Meer: [whitepaper over de werkingsprincipes van de stichting, hoofdstuk 5](../wh
 
 ## Macht die kan worden overgedragen
 
-De stichting is opgericht door één persoon, Marcin Wołowski, en de oprichter heeft er nu de meeste macht: de oprichter benoemt en ontslaat het bestuur. Alleen het voltallige bestuur kan de statuten unaniem wijzigen; als de oprichter geen bestuurslid is, is ook toestemming van de oprichter nodig. We willen dat dit verandert: de oprichter wil Suveria en Omniforum op gelijke voorwaarden als anderen gebruiken en zich uit een vaste publieke rol terugtrekken.
+De stichting is opgericht door één persoon, Marcin Wołowski, en de oprichter heeft er nu de meeste macht: de oprichter benoemt en ontslaat het bestuur. Alleen het voltallige bestuur kan de statuten unaniem wijzigen; als de oprichter geen bestuurslid is, is ook toestemming van de oprichter nodig. We willen dat dit verandert: de oprichter wil Suveria en OmniForum op gelijke voorwaarden als anderen gebruiken en zich uit een vaste publieke rol terugtrekken.
 
 De overdracht moet op papier en in de praktijk doeltreffend zijn: naast een statutenwijziging moet ook de toegang tot rekeningen, domeinen en infrastructuur worden overgedragen. Het plan voor de overdracht van verantwoordelijkheden zal de datum van de eerste evaluatie en regelmatige voortgangsrapporten vastleggen. We benoemen bestuursleden vanwege hun deskundigheid en een gedeelde richting, nooit vanwege een betaling.
 

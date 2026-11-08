@@ -82,7 +82,7 @@ Selengkapnya: [whitepaper prinsip yayasan, bagian 12.3](../whitepaper-zasady-fun
 
 ## Cara mengubah dokumen
 
-Manifesto dan whitepaper adalah dokumen hidup. Versi terkini menyajikan pendirian yayasan saat ini, sementara riwayat versi terdahulu serta alasan koreksi tetap tersedia. Kami ingin mengajukannya untuk tinjauan publik di Omniforum, ruang bersama untuk percakapan, pemahaman, dan keputusan yang kami bangun, dengan menguraikan klaim menjadi molekul, yaitu klaim tunggal dan argumen yang dapat diperiksa.
+Manifesto dan whitepaper adalah dokumen hidup. Versi terkini menyajikan pendirian yayasan saat ini, sementara riwayat versi terdahulu serta alasan koreksi tetap tersedia. Kami ingin mengajukannya untuk tinjauan publik di OmniForum, ruang bersama untuk percakapan, pemahaman, dan keputusan yang kami bangun, dengan menguraikan klaim menjadi molekul, yaitu klaim tunggal dan argumen yang dapat diperiksa.
 
 Aturan organisasi kami kembangkan secara terbuka: bersama usulan perubahan, kami menunjukkan cakupan, alasan, dan akibatnya bagi peserta. Anggaran dasar hanya kami ubah ketika diperlukan untuk langkah berikutnya. Kami juga mempertimbangkan pencantuman syarat pendanaan pilar selanjutnya dalam anggaran dasar (usulan Z6 dalam [daftar perubahan anggaran dasar](../statut/rejestr-zmian.md), untuk diputuskan pendiri) agar tidak bergantung pada niat baik pengurus saja.
 

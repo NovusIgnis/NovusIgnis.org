@@ -1,6 +1,6 @@
 ---
 tytul: Carte du dossier et fiche d’idée
-opis: Comment Omniforum doit réunir les raisonnements de différentes personnes sur une carte, montrer la solidité d’une conclusion et conduire d’une image de l’avenir au prochain pas
+opis: Comment OmniForum doit réunir les raisonnements de différentes personnes sur une carte, montrer la solidité d’une conclusion et conduire d’une image de l’avenir au prochain pas
 grupa: omniforum
 kolejnosc: 4
 menu: Carte du dossier
@@ -11,9 +11,9 @@ Sur la page [Comment fonctionne la conversation](omniforum-rozmowa.md), nous avo
 
 La carte du dossier est un ensemble organisé d’arguments, d’expériences et de questions ouvertes autour d’une question. La fiche d’idée décrit une idée : où elle mène et quel est le prochain pas.
 
-Le prototype d’Omniforum est en construction. Tout ce que nous décrivons ci-dessous est un projet ; nous n’avons encore terminé aucun essai.
+Le prototype d’OmniForum est en construction. Tout ce que nous décrivons ci-dessous est un projet ; nous n’avons encore terminé aucun essai.
 
-Pour en savoir plus : [livre blanc d’Omniforum, chapitre 1](../whitepaper-omniforum.md#s1).
+Pour en savoir plus : [livre blanc d’OmniForum, chapitre 1](../whitepaper-omniforum.md#s1).
 
 ## De la chaîne de pensées à la carte
 
@@ -23,7 +23,7 @@ La carte du dossier met en regard les chaînes de différentes personnes, y comp
 
 Un dossier est une question à laquelle quelqu’un veut revenir pour comprendre, comparer ou faire quelque chose ensemble. Un lien permanent mène à tout ce qui s’y rapporte : la question, les sources, les arguments, l’état des connaissances et l’historique des modifications. Un dossier privé se traite dans Suveria (l’espace privé de travail avec l’intelligence numérique) ; le registre commun des dossiers est une direction que nous vérifierons dans un essai distinct.
 
-Pour en savoir plus : [livre blanc d’Omniforum, chapitre 5](../whitepaper-omniforum.md#s5) et [point 5.1](../whitepaper-omniforum.md#s5-1).
+Pour en savoir plus : [livre blanc d’OmniForum, chapitre 5](../whitepaper-omniforum.md#s5) et [point 5.1](../whitepaper-omniforum.md#s5-1).
 
 ## Comment lire la carte
 
@@ -31,7 +31,7 @@ La carte doit s’ouvrir calmement. Vous voyez d’abord une conclusion principa
 
 Lorsque vous revenez à un sujet après une semaine ou un an, vous devez ne voir que ce qui a changé : nouvelles expériences, corrections, résultats d’essais et questions encore ouvertes. Après avoir parcouru les changements, vous recevez une indication claire que c’est tout, et vous pouvez retourner tranquillement à vos occupations.
 
-Pour en savoir plus : [livre blanc d’Omniforum, chapitre 5](../whitepaper-omniforum.md#s5) et [point 1.1](../whitepaper-omniforum.md#s1-1).
+Pour en savoir plus : [livre blanc d’OmniForum, chapitre 5](../whitepaper-omniforum.md#s5) et [point 1.1](../whitepaper-omniforum.md#s1-1).
 
 ## Quelle est la solidité d’une conclusion
 
@@ -43,9 +43,9 @@ Pour en savoir plus : [livre blanc d’Omniforum, chapitre 5](../whitepaper-omn
 
 Une mesure ne remplace pas l’autre : l’accord complet des participants fondé sur un seul témoignage non vérifié reste une conclusion faible. Nous devons encore élaborer l’échelle de ces évaluations, et nous n’ajoutons pas d’incertitude artificielle aux faits bien établis.
 
-Le manifeste divise la réflexion commune en faits (ce qui peut être vérifié), valeurs (les besoins et les convictions sur ce qui est juste) et hypothèses, c’est-à-dire des idées audacieuses accompagnées de la condition « ce qui devrait devenir possible pour que cela fonctionne ». Les faits se tranchent par les sources, et non par le nombre de voix ; en matière de valeurs, chaque personne est un point de référence égal. Dans Omniforum, chaque pensée doit recevoir une telle indication.
+Le manifeste divise la réflexion commune en faits (ce qui peut être vérifié), valeurs (les besoins et les convictions sur ce qui est juste) et hypothèses, c’est-à-dire des idées audacieuses accompagnées de la condition « ce qui devrait devenir possible pour que cela fonctionne ». Les faits se tranchent par les sources, et non par le nombre de voix ; en matière de valeurs, chaque personne est un point de référence égal. Dans OmniForum, chaque pensée doit recevoir une telle indication.
 
-Pour en savoir plus : [livre blanc d’Omniforum, chapitre 5](../whitepaper-omniforum.md#s5) et [manifeste, point 5.1](../manifest.md#s5-1).
+Pour en savoir plus : [livre blanc d’OmniForum, chapitre 5](../whitepaper-omniforum.md#s5) et [manifeste, point 5.1](../manifest.md#s5-1).
 
 ## La fiche d’idée
 
@@ -62,7 +62,7 @@ Il est facile d’écarter les visions audacieuses comme détachées de la réal
 
 La fiche n’est pas une pensée unique, mais une vue de nombreuses notions, affirmations, sources, conditions et essais reliés entre eux. Les premières fiches doivent porter sur les idées de notre manifeste.
 
-Pour en savoir plus : [livre blanc d’Omniforum, point 5.2](../whitepaper-omniforum.md#s5-2).
+Pour en savoir plus : [livre blanc d’OmniForum, point 5.2](../whitepaper-omniforum.md#s5-2).
 
 ## De l’idée à l’initiative
 
@@ -70,7 +70,7 @@ Lorsque la conversation aboutit à un constat partagé sur ce qu’il vaut la pe
 
 Avant de faire l’objet d’une décision sur l’argent commun, elle a besoin de ce que le manifeste appelle le chemin vert : une chaîne de liens montrant son ancrage dans les faits et l’accord de la communauté sur les valeurs qui la fondent. Viennent ensuite des décisions distinctes : sur le but, la suite du travail, le devis et la réalisation ; l’accord sur le but ne détermine ni le coût ni le délai. Jusqu’à la mise en place du vote contraignant, le conseil d’administration les prend après consultation. Une fois le travail terminé, nous publions le coût réel, le résultat et les enseignements, y compris si l’essai a échoué.
 
-Pour en savoir plus : [livre blanc d’Omniforum, point 5.3](../whitepaper-omniforum.md#s5-3) et [manifeste, point 5.3](../manifest.md#s5-3).
+Pour en savoir plus : [livre blanc d’OmniForum, point 5.3](../whitepaper-omniforum.md#s5-3) et [manifeste, point 5.3](../manifest.md#s5-3).
 
 ## Ce que nous affichons plus haut et ce que nous n’y affichons pas
 
@@ -85,10 +85,10 @@ Dans ce dernier ordre, un argument monte lorsqu’il est accepté par des person
 
 Le contenu et la source avec sa date doivent être au premier plan. Nous ne tenons ni compteurs publics des apports ni classements des personnes, car ils encouragent la course et le remplissage de la carte par des entrées, y compris de bots. Nous voulons que la visibilité aille à ce qui éclaire le dossier, et non à ce qui suscite le plus d’émotion.
 
-Pour en savoir plus : [livre blanc d’Omniforum, chapitre 6](../whitepaper-omniforum.md#s6).
+Pour en savoir plus : [livre blanc d’OmniForum, chapitre 6](../whitepaper-omniforum.md#s6).
 
 ## Lisez et dites-nous ce que vous en pensez
 
-Vous trouverez la description complète des cartes, des fiches et des initiatives dans le [livre blanc d’Omniforum](../whitepaper-omniforum.md), en particulier aux chapitres 5 et 6. Si quelque chose vous intrigue ou vous paraît erroné, sélectionnez ce passage dans le document et utilisez le bouton « J’ai une remarque », ou écrivez à salve@novusignis.org.
+Vous trouverez la description complète des cartes, des fiches et des initiatives dans le [livre blanc d’OmniForum](../whitepaper-omniforum.md), en particulier aux chapitres 5 et 6. Si quelque chose vous intrigue ou vous paraît erroné, sélectionnez ce passage dans le document et utilisez le bouton « J’ai une remarque », ou écrivez à salve@novusignis.org.
 
-Pour en savoir plus : [livre blanc d’Omniforum, point 5.5](../whitepaper-omniforum.md#s5-5).
+Pour en savoir plus : [livre blanc d’OmniForum, point 5.5](../whitepaper-omniforum.md#s5-5).

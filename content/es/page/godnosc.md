@@ -7,7 +7,7 @@ menu: Dignidad
 ---
 # La dignidad como punto de partida
 
-Esta página explica qué significa «dignidad» en el manifiesto de Novus Ignis y qué se deriva de ella: libertad, privacidad, protección de la atención y principios respaldados por la acción. Es un resumen del capítulo 2 del manifiesto, del que nacen Suveria y Omniforum. En cada sección encontrarás un enlace al texto completo.
+Esta página explica qué significa «dignidad» en el manifiesto de Novus Ignis y qué se deriva de ella: libertad, privacidad, protección de la atención y principios respaldados por la acción. Es un resumen del capítulo 2 del manifiesto, del que nacen Suveria y OmniForum. En cada sección encontrarás un enlace al texto completo.
 
 ## Qué es la dignidad en el manifiesto
 
@@ -73,9 +73,9 @@ Los principios comunes requieren justificaciones claras de las decisiones y la p
 
 Más información: [manifiesto, apartado 2.5](../manifest.md#s2-5).
 
-## Qué se deriva de esto para Suveria y Omniforum
+## Qué se deriva de esto para Suveria y OmniForum
 
-De estos principios nacen dos rumbos complementarios: Suveria ha de ser un espacio privado para pensar, crear y planificar con ayuda de la inteligencia digital, y Omniforum, un espacio compartido para presentar las propias razones y conocer otras perspectivas. Hoy Suveria es un proyecto y Omniforum tiene un primer prototipo en construcción. Cada persona ha de elegir qué se reserva y qué comparte con las demás. Mira: [Qué es Suveria](suveria.md) y [Qué es Omniforum](omniforum.md).
+De estos principios nacen dos rumbos complementarios: Suveria ha de ser un espacio privado para pensar, crear y planificar con ayuda de la inteligencia digital, y OmniForum, un espacio compartido para presentar las propias razones y conocer otras perspectivas. Hoy Suveria es un proyecto y OmniForum tiene un primer prototipo en construcción. Cada persona ha de elegir qué se reserva y qué comparte con las demás. Mira: [Qué es Suveria](suveria.md) y [Qué es OmniForum](omniforum.md).
 
 Más información: [manifiesto, «Dónde estamos hoy»](../manifest.md#top).
 

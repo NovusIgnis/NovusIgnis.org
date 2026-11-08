@@ -55,7 +55,7 @@ We will publish in full the principles according to which the assistant responds
 
 The shared infrastructure is to make available only models and settings that pass the public trials of the benchmark. Above this minimum, it is you who choose the style of work, from calmly organizing your thoughts to a demanding conversation in which the assistant points out gaps in your reasoning.
 
-We want to maintain an open library of proven instructions, which participants improve in Omniforum (the shared space for conversation and decisions) and check in the benchmark. This library does not exist yet.
+We want to maintain an open library of proven instructions, which participants improve in OmniForum (the shared space for conversation and decisions) and check in the benchmark. This library does not exist yet.
 
 More: [Suveria whitepaper, chapter 4](../whitepaper-suveria.md#s4) and [section 4.1](../whitepaper-suveria.md#s4-1).
 

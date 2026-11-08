@@ -55,7 +55,7 @@ Nous publierons en entier les principes selon lesquels l’assistant répond ave
 
 L’infrastructure commune ne doit proposer que les modèles et les réglages qui réussissent les essais publics du benchmark. Au-delà de ce minimum, vous choisissez votre style de travail, de la mise en ordre calme de vos pensées à une conversation exigeante dans laquelle l’assistant signale les lacunes du raisonnement.
 
-Nous voulons tenir une bibliothèque ouverte d’instructions éprouvées, que les participants améliorent dans Omniforum (l’espace commun de conversation et de décision) et vérifient dans le benchmark. Cette bibliothèque n’existe pas encore.
+Nous voulons tenir une bibliothèque ouverte d’instructions éprouvées, que les participants améliorent dans OmniForum (l’espace commun de conversation et de décision) et vérifient dans le benchmark. Cette bibliothèque n’existe pas encore.
 
 Pour en savoir plus : [livre blanc de Suveria, chapitre 4](../whitepaper-suveria.md#s4) et [point 4.1](../whitepaper-suveria.md#s4-1).
 

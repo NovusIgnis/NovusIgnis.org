@@ -7,11 +7,11 @@ menu: Weitere Säulen
 ---
 # Weitere Säulen
 
-Diese Seite beschreibt, wohin die Stiftung über Software hinaus gelangen möchte und wie sie darauf achtet, nicht zu früh aufzubrechen. Heute arbeiten wir ausschließlich an Säule I: Suveria ist ein Entwurf, und für das Omniforum ist ein Prototyp im Aufbau. Säulen II und III sind eine Vision, keine laufenden Arbeiten.
+Diese Seite beschreibt, wohin die Stiftung über Software hinaus gelangen möchte und wie sie darauf achtet, nicht zu früh aufzubrechen. Heute arbeiten wir ausschließlich an Säule I: Suveria ist ein Entwurf, und für das OmniForum ist ein Prototyp im Aufbau. Säulen II und III sind eine Vision, keine laufenden Arbeiten.
 
 ## Die drei Säulen auf einen Blick
 
-- **Säule I „Software“: Hier beginnen wir.** Software und digitale Dienste, also Suveria, der private Arbeitsraum mit digitaler Intelligenz, und Omniforum, der gemeinsame Raum für Gespräch, Verständnis und Entscheidungen.
+- **Säule I „Software“: Hier beginnen wir.** Software und digitale Dienste, also Suveria, der private Arbeitsraum mit digitaler Intelligenz, und OmniForum, der gemeinsame Raum für Gespräch, Verständnis und Entscheidungen.
 - **Säule II „Hardware“: Vision.** Offene Entwürfe langlebiger, reparierbarer Gegenstände.
 - **Säule III „Natur“: Vision.** Engerer Kontakt mit der Natur.
 
@@ -36,8 +36,8 @@ Mehr: [Satzung, § 5](../statut/statut-2026-09-28.md#par-5) und [Register der Sa
 
 Wir beginnen die Entwicklung mit Säule I und werden die ersten Mittel aus dem gemeinsamen Budget sowie freie Rechenressourcen für ihre grundlegenden Verpflichtungen einsetzen. Der vollständige Start der Säulen II und III sowie die Finanzierung ihrer Projekte aus dem gemeinsamen Budget erfordern drei Bedingungen zusammen. Bei jeder nennen wir, wann wir sie als erfüllt betrachten.
 
-1. **Funktionierende Abstimmung.** Omniforum mit einer verbindlichen Abstimmung, also einer, deren Ergebnis die Stiftung umsetzt (Konsultationen reichen nicht aus). Wir wollen sie auf Zero-Knowledge-Beweise stützen: ein Verfahren, um das Stimmrecht zu bestätigen, ohne offenzulegen, wer wie abgestimmt hat. Die Wahl soll geheim bleiben, die Berücksichtigung der Stimme soll sich überprüfen lassen, und jede berechtigte Person soll eine wirksame Stimme haben. Erfüllt nach mindestens einer verbindlichen Abstimmung, bei der es in einem öffentlichen Test mit Belohnung nicht gelungen ist, mit derselben Berechtigung eine zweite Stimme abzugeben oder eine Stimme mit einer Person zu verknüpfen.
-2. **Reserve.** Tatsächlich gesammelte Mittel für mindestens sechs Monate Unterhalt von Suveria und Omniforum, die nach dem Zurücklegen des vollständigen Budgets für das neue Projekt unangetastet bleiben. Erfüllt, wenn auf einem gesonderten Konto das Sechsfache der durchschnittlichen monatlichen Betriebskosten der letzten drei Monate liegt und wir den Betrag jeden Monat im Register zeigen.
+1. **Funktionierende Abstimmung.** OmniForum mit einer verbindlichen Abstimmung, also einer, deren Ergebnis die Stiftung umsetzt (Konsultationen reichen nicht aus). Wir wollen sie auf Zero-Knowledge-Beweise stützen: ein Verfahren, um das Stimmrecht zu bestätigen, ohne offenzulegen, wer wie abgestimmt hat. Die Wahl soll geheim bleiben, die Berücksichtigung der Stimme soll sich überprüfen lassen, und jede berechtigte Person soll eine wirksame Stimme haben. Erfüllt nach mindestens einer verbindlichen Abstimmung, bei der es in einem öffentlichen Test mit Belohnung nicht gelungen ist, mit derselben Berechtigung eine zweite Stimme abzugeben oder eine Stimme mit einer Person zu verknüpfen.
+2. **Reserve.** Tatsächlich gesammelte Mittel für mindestens sechs Monate Unterhalt von Suveria und OmniForum, die nach dem Zurücklegen des vollständigen Budgets für das neue Projekt unangetastet bleiben. Erfüllt, wenn auf einem gesonderten Konto das Sechsfache der durchschnittlichen monatlichen Betriebskosten der letzten drei Monate liegt und wir den Betrag jeden Monat im Register zeigen.
 3. **Entscheidung der Gemeinschaft.** Eine Abstimmung, die der gesamten berechtigten Gemeinschaft zu gleichen Bedingungen offensteht. Erfüllt, wenn die Gemeinschaft einen konkreten Vorschlag mit Budget, Auswirkungen auf die Reserve und Abbruchkriterium beschließt.
 
 Nicht eingezahlte Zusagen, den Nutzenden zustehende Guthaben und zweckgebundene Mittel bilden keine Reserve; ein Mock-up des Abstimmungssystems erfüllt die erste Bedingung nicht. Wenn die Abstimmung nicht mehr funktioniert oder die Reserve unter sechs Monate fällt, setzen wir neue Verpflichtungen der weiteren Säulen aus und stellen zuerst die Bedingungen wieder her.

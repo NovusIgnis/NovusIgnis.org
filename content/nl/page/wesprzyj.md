@@ -24,7 +24,7 @@ Je kunt de stichting steunen met een donatie per overschrijving in zloty's, euro
 
 ## Wat er met een donatie gebeurt
 
-- Een donatie zonder aangegeven doel gaat naar de vrij besteedbare middelen, altijd met voorrang voor Pijler I, Suveria en Omniforum.
+- Een donatie zonder aangegeven doel gaat naar de vrij besteedbare middelen, altijd met voorrang voor Pijler I, Suveria en OmniForum.
 - Een donatie geeft geen stemmen, bestuursbevoegdheden, toegang tot gebruikersgegevens of recht op promotie in onze diensten en communicatie.
 - We vermelden donoren in het register alleen bij naam als ze dat zelf willen; andere stortingen beschrijven we algemeen, bijvoorbeeld “donatie van een particulier”. We publiceren de omschrijvingen van overschrijvingen niet letterlijk, omdat ze vaak persoonsgegevens bevatten.  Als je wilt dat we je naam of bedrijfsnaam vermelden, schrijf ons dan.
 - We aanvaarden geen voordelen op voorwaarde van promotie, aanbevelingen of concessies bij besluiten.

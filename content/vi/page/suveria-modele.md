@@ -55,7 +55,7 @@ Chúng tôi sẽ công bố đầy đủ các nguyên tắc trợ lý trả lờ
 
 Hạ tầng chung cần chỉ cung cấp mô hình và thiết lập vượt qua các thử nghiệm công khai của bộ chuẩn đánh giá. Trên mức tối thiểu này, bạn chọn phong cách làm việc, từ bình thản sắp xếp suy nghĩ đến cuộc trò chuyện đòi hỏi cao, nơi trợ lý chỉ ra lỗ hổng suy luận.
 
-Chúng tôi muốn duy trì thư viện mở các chỉ dẫn đã kiểm tra, được người tham gia cải thiện trong Omniforum (không gian chung cho trò chuyện và quyết định), kiểm tra trong bộ chuẩn đánh giá. Thư viện ấy chưa có.
+Chúng tôi muốn duy trì thư viện mở các chỉ dẫn đã kiểm tra, được người tham gia cải thiện trong OmniForum (không gian chung cho trò chuyện và quyết định), kiểm tra trong bộ chuẩn đánh giá. Thư viện ấy chưa có.
 
 Xem thêm: [sách trắng Suveria, chương 4](../whitepaper-suveria.md#s4) và [mục 4.1](../whitepaper-suveria.md#s4-1).
 

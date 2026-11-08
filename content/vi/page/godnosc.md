@@ -7,7 +7,7 @@ menu: Phẩm giá
 ---
 # Phẩm giá là điểm khởi đầu
 
-Trang này giải thích “phẩm giá” nghĩa là gì trong tuyên ngôn Novus Ignis và những gì bắt nguồn từ đó: tự do, quyền riêng tư, bảo vệ sự chú ý và nguyên tắc được nâng đỡ bằng hành động. Đây là tóm tắt chương 2 tuyên ngôn, nền tảng của Suveria và Omniforum. Mỗi phần đều có liên kết đến toàn văn.
+Trang này giải thích “phẩm giá” nghĩa là gì trong tuyên ngôn Novus Ignis và những gì bắt nguồn từ đó: tự do, quyền riêng tư, bảo vệ sự chú ý và nguyên tắc được nâng đỡ bằng hành động. Đây là tóm tắt chương 2 tuyên ngôn, nền tảng của Suveria và OmniForum. Mỗi phần đều có liên kết đến toàn văn.
 
 ## Phẩm giá trong tuyên ngôn là gì
 
@@ -73,9 +73,9 @@ Nguyên tắc chung đòi hỏi cơ sở lý giải quyết định dễ hiểu 
 
 Xem thêm: [tuyên ngôn, mục 2.5](../manifest.md#s2-5).
 
-## Điều này có nghĩa gì với Suveria và Omniforum
+## Điều này có nghĩa gì với Suveria và OmniForum
 
-Từ các nguyên tắc này hình thành hai hướng bổ sung: Suveria được dự kiến là không gian riêng tư để suy nghĩ, sáng tạo, lập kế hoạch với trí tuệ số; Omniforum là không gian chung để trình bày lý lẽ và tìm hiểu góc nhìn khác. Suveria hiện là bản thiết kế, Omniforum có nguyên mẫu đầu tiên đang xây dựng. Mỗi người cần tự chọn điều giữ riêng, điều chia sẻ. Xem: [Suveria là gì](suveria.md) và [Omniforum là gì](omniforum.md).
+Từ các nguyên tắc này hình thành hai hướng bổ sung: Suveria được dự kiến là không gian riêng tư để suy nghĩ, sáng tạo, lập kế hoạch với trí tuệ số; OmniForum là không gian chung để trình bày lý lẽ và tìm hiểu góc nhìn khác. Suveria hiện là bản thiết kế, OmniForum có nguyên mẫu đầu tiên đang xây dựng. Mỗi người cần tự chọn điều giữ riêng, điều chia sẻ. Xem: [Suveria là gì](suveria.md) và [OmniForum là gì](omniforum.md).
 
 Xem thêm: [tuyên ngôn, “Chúng tôi đang ở đâu hôm nay”](../manifest.md#top).
 

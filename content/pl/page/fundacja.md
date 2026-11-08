@@ -9,7 +9,7 @@ menu: Kim jesteśmy
 
 Ta strona opowiada w skrócie, czym jest Fundacja Novus Ignis jako organizacja. Szczegóły opisuje whitepaper zasad fundacji, do którego prowadzą odnośniki przy każdej części.
 
-Jesteśmy fundacją z Poznania (KRS 0001269575), która chce budować alternatywny internet oparty na godności człowieka. Nasz pierwszy filar to dwie usługi, które dopiero budujemy: Suveria, prywatna przestrzeń pracy z cyfrową inteligencją, i Omniforum, wspólna przestrzeń rozmowy, rozumienia i decyzji. Jesteśmy na samym początku: fundacja jest zarejestrowana, dokumenty opublikowane, a usługi dopiero powstają.
+Jesteśmy fundacją z Poznania (KRS 0001269575), która chce budować alternatywny internet oparty na godności człowieka. Nasz pierwszy filar to dwie usługi, które dopiero budujemy: Suveria, prywatna przestrzeń pracy z cyfrową inteligencją, i OmniForum, wspólna przestrzeń rozmowy, rozumienia i decyzji. Jesteśmy na samym początku: fundacja jest zarejestrowana, dokumenty opublikowane, a usługi dopiero powstają.
 
 Wszystko zaczęło się od pytania fundatora, Marcina Wołowskiego: jakie wzorce własnego postępowania przekazujemy cyfrowej inteligencji podczas jej szkolenia?
 
@@ -27,7 +27,7 @@ Novus Ignis to podmiot bez udziałowców: nikomu nie wypłaca zysku, a majątek 
 | Statut, manifest i whitepapery | opublikowane |
 | Rejestr zmian statutu | działa |
 | Suveria | projekt |
-| Omniforum | prototyp w budowie |
+| OmniForum | prototyp w budowie |
 | Regulaminy | powstaną |
 | Inne rejestry: wpłat i wydatków, korzyści, decyzji, błędów oraz rejestr tylko do dopisywania (taki, w którym wpisów nie da się po cichu zmienić ani usunąć) | powstaną |
 
@@ -54,7 +54,7 @@ Tak mają działać rozliczenia, gdy usługi ruszą.
 - **środki należne użytkownikom:** niewykorzystane przedpłaty i salda uczestników;
 - **pieniądze powierzone na określony cel:** darowizny celowe, do wydania tylko na ten cel;
 - **podjęte zobowiązania:** pieniądze już przeznaczone na zaplanowane wydatki;
-- **zabezpieczenie utrzymania usług:** rezerwa, bez której Suveria i Omniforum przestałyby działać;
+- **zabezpieczenie utrzymania usług:** rezerwa, bez której Suveria i OmniForum przestałyby działać;
 - **środki wolne do rozdysponowania:** to, co zostaje po odliczeniu reszty i o czym dopiero decydujemy.
 
 Jawny rejestr wpłat i wydatków prowadzimy na stronie [Rejestr wpłat i wydatków](fundacja-rejestr.md).
@@ -73,7 +73,7 @@ Więcej: [whitepaper zasad fundacji, rozdział 5](../whitepaper-zasady-fundacji.
 
 ## Władza, którą można przekazać
 
-Fundację założył jeden człowiek, Marcin Wołowski, i dziś to on ma w niej najwięcej władzy: powołuje i odwołuje zarząd. Statut może zmienić tylko cały zarząd jednomyślnie, a gdy fundator w nim nie zasiada, potrzebna jest też jego zgoda. Nie chcemy, żeby tak zostało: fundator chce korzystać z Suverii i Omniforum na takich samych prawach jak inni i wycofać się ze stałej roli publicznej.
+Fundację założył jeden człowiek, Marcin Wołowski, i dziś to on ma w niej najwięcej władzy: powołuje i odwołuje zarząd. Statut może zmienić tylko cały zarząd jednomyślnie, a gdy fundator w nim nie zasiada, potrzebna jest też jego zgoda. Nie chcemy, żeby tak zostało: fundator chce korzystać z Suverii i OmniForum na takich samych prawach jak inni i wycofać się ze stałej roli publicznej.
 
 Przekazanie ma być skuteczne na papierze i w praktyce: oprócz zmiany statutu trzeba przekazać dostępy do rachunków, domen i infrastruktury. Plan przekazywania odpowiedzialności wyznaczy datę pierwszego przeglądu i regularne raporty z postępu. Do zarządu powołujemy za kompetencje i wspólny kierunek, nigdy za wpłatę.
 

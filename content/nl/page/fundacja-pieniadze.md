@@ -17,14 +17,14 @@ Meer: [whitepaper over de werkingsprincipes van de stichting, hoofdstuk 1](../wh
 
 We tonen niet één bedrag op de rekening, maar verdelen het geld naar wie het toebehoort en waarvoor het is bestemd. Het bankrekeningsaldo is geen vrij te besteden budget.
 
-De reserve is geld dat opzij is gezet om Suveria en Omniforum draaiende te houden als stortingen uitblijven; de whitepaper noemt dit ook de waarborg voor Pijler I (Pijler I is Suveria en Omniforum).
+De reserve is geld dat opzij is gezet om Suveria en OmniForum draaiende te houden als stortingen uitblijven; de whitepaper noemt dit ook de waarborg voor Pijler I (Pijler I is Suveria en OmniForum).
 
 | Soort geld | Herkomst | Toegestane besteding |
 | --- | --- | --- |
 | Middelen die gebruikers toebehoren | Ongebruikte vooruitbetalingen van deelnemers | Alleen aan hun diensten; ze kunnen worden teruggevraagd |
 | Geld dat voor een bepaald doel is toevertrouwd | Doelgebonden donaties, bijvoorbeeld voor de pilot van Suveria | Alleen aan dat doel |
 | Aangegane verplichtingen | Geld dat al voor geplande uitgaven is bestemd | Alleen aan die uitgaven |
-| Waarborg voor de instandhouding van de diensten | Reserve opgebouwd uit donaties, ook uit het afronden van rekeningen | Aan wat nodig is om Suveria en Omniforum draaiende te houden |
+| Waarborg voor de instandhouding van de diensten | Reserve opgebouwd uit donaties, ook uit het afronden van rekeningen | Aan wat nodig is om Suveria en OmniForum draaiende te houden |
 | Vrij besteedbare middelen | Stortingen zonder aangegeven doel (donaties, grants, subsidies, inzamelingen), na aftrek van alles hierboven | Aan nieuwe doelen, altijd met voorrang voor Pijler I |
 
 We wijzen elk bedrag aan slechts één categorie toe, zodat niets dubbel wordt geteld. Alleen daadwerkelijk ontvangen geld dat niemand anders toebehoort, telt mee voor de reserve; toezeggingen van stortingen tellen niet mee.
@@ -78,8 +78,8 @@ Meer: [whitepaper over de werkingsprincipes van de stichting, hoofdstuk 4](../wh
 
 Pijler I heeft voorrang. Pijler II “Hardware” (open materiële oplossingen) en Pijler III “Natuur” (contact met de natuur) kunnen pas uit het gezamenlijke budget worden gefinancierd als we aan alle drie de voorwaarden voldoen:
 
-1. Omniforum werkt met stemmingen op basis van zero-knowledgebewijzen, waarbij de keuze geheim is, het meetellen van de stem kan worden gecontroleerd en elke stemgerechtigde persoon één stem heeft;
-2. op een afzonderlijke rekening staan daadwerkelijk verzamelde middelen voor minstens zes maanden instandhouding van Suveria en Omniforum, die onaangetast blijven nadat het volledige budget voor het nieuwe project apart is gezet;
+1. OmniForum werkt met stemmingen op basis van zero-knowledgebewijzen, waarbij de keuze geheim is, het meetellen van de stem kan worden gecontroleerd en elke stemgerechtigde persoon één stem heeft;
+2. op een afzonderlijke rekening staan daadwerkelijk verzamelde middelen voor minstens zes maanden instandhouding van Suveria en OmniForum, die onaangetast blijven nadat het volledige budget voor het nieuwe project apart is gezet;
 3. de gemeenschap heeft het project en de financiering goedgekeurd via een stemming die op gelijke voorwaarden voor alle stemgerechtigden openstaat.
 
 Een stemmock-up, onbetaalde toezeggingen en andermans saldi voldoen niet aan deze voorwaarden.

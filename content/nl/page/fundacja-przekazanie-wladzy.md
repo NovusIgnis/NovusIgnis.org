@@ -27,7 +27,7 @@ Meer: [statuten, § 13](../statut/statut-2026-09-28.md#par-13) en [§ 15](../sta
 
 ## Waarom dit moet veranderen
 
-Het manifest zegt het rechtstreeks: we streven ernaar de bijzondere bevoegdheden van de oprichter geleidelijk te laten vervallen en de gemeenschap werkelijke invloed te geven op de richting van de stichting en de keuze van haar bestuurders. Besluiten van de gemeenschap moeten het bestuur binden binnen de grenzen van de wet, de statuten en de veiligheid van de diensten. De oprichter wil Suveria, Omniforum en verdere projecten op gelijke voorwaarden als anderen gebruiken en zich uit een vaste publieke rol terugtrekken.
+Het manifest zegt het rechtstreeks: we streven ernaar de bijzondere bevoegdheden van de oprichter geleidelijk te laten vervallen en de gemeenschap werkelijke invloed te geven op de richting van de stichting en de keuze van haar bestuurders. Besluiten van de gemeenschap moeten het bestuur binden binnen de grenzen van de wet, de statuten en de veiligheid van de diensten. De oprichter wil Suveria, OmniForum en verdere projecten op gelijke voorwaarden als anderen gebruiken en zich uit een vaste publieke rol terugtrekken.
 
 De whitepaper haalt hier Cincinnatus aan: volgens Livius troffen gezanten hem in 458 v.Chr. werkend op het land aan met de boodschap dat hem voor de duur van de oorlog de hoogste macht was toevertrouwd. Op de zestiende dag, toen het gevaar voorbij was, droeg hij de macht over en keerde terug naar zijn boerderij. Verantwoordelijkheid neem je voor een tijd op je en draag je daarna over.
 

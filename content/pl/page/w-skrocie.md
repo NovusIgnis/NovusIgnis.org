@@ -15,12 +15,12 @@ Fundacja Novus Ignis z Poznania (KRS 0001269575), założona przez Marcina Woło
 
 ## Co chcemy zrobić
 
-Chcemy współtworzyć alternatywny internet, którego nadrzędną wartością jest godność człowieka i wynikające z niej prywatność oraz wolność. Suveria ma być prywatną przestrzenią do pracy z opcjonalną pomocą cyfrowej inteligencji, chronioną zabezpieczeniami, których działanie można niezależnie sprawdzić. Omniforum ma być wspólną publiczną przestrzenią, w której każdy może się wypowiedzieć i zostać usłyszany. Więcej: [manifest, wstęp](../manifest.md#top) i [Dlaczego Novus Ignis](dlaczego.md).
+Chcemy współtworzyć alternatywny internet, którego nadrzędną wartością jest godność człowieka i wynikające z niej prywatność oraz wolność. Suveria ma być prywatną przestrzenią do pracy z opcjonalną pomocą cyfrowej inteligencji, chronioną zabezpieczeniami, których działanie można niezależnie sprawdzić. OmniForum ma być wspólną publiczną przestrzenią, w której każdy może się wypowiedzieć i zostać usłyszany. Więcej: [manifest, wstęp](../manifest.md#top) i [Dlaczego Novus Ignis](dlaczego.md).
 
 ## Gdzie jesteśmy dziś
 
 - **Działa:** fundacja jest zarejestrowana, a manifest i whitepapery są opublikowane. Fundacja przyjmuje darowizny przelewem i pokazuje każdą wpłatę w [jawnym rejestrze wpłat i wydatków](fundacja-rejestr.md); pierwszą był fundusz założycielski.
-- **Projekt:** Suveria jest projektem, a Omniforum ma pierwszy prototyp w budowie.
+- **Projekt:** Suveria jest projektem, a OmniForum ma pierwszy prototyp w budowie.
 - **Hipoteza:** zakładamy, że wspólne serwery opłacane za rzeczywiste użycie mogą dać więcej cyfrowej inteligencji za każdego dolara niż zamknięte usługi; jeszcze tego nie sprawdziliśmy (manifest, punkt 2.4).
 - **Wizja:** samodzielne zarządzanie przez cyfrową inteligencję i dalsze filary. Pełne uruchomienie dalszych filarów to odległy kierunek; wcześniej możliwe są tylko małe inicjatywy o określonym końcu. Dziś fundacją zarządzają ludzie.
 
@@ -39,7 +39,7 @@ Pełna lista: [manifest, rozdział 9](../manifest.md#s9).
 
 ## Czego szukamy
 
-Na początku szczególnie szukamy kilku osób, z którymi zbudujemy i sprawdzimy pierwsze wersje Suverii i Omniforum:
+Na początku szczególnie szukamy kilku osób, z którymi zbudujemy i sprawdzimy pierwsze wersje Suverii i OmniForum:
 
 - osób od bezpieczeństwa, kryptografii i infrastruktury;
 - programistów i projektantów interfejsów;

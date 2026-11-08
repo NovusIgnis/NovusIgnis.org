@@ -1,8 +1,8 @@
 # Suveria: làm việc riêng tư với trí tuệ số
 
-Phiên bản ngày 31 tháng 10 năm 2026. Tài liệu phát triển các nguyên tắc của tuyên ngôn về Suveria: cách chúng tôi muốn bảo vệ quyền riêng tư, cách làm việc với trí tuệ số được dự kiến vận hành, chi phí và cách kiểm tra. Kiến trúc được mô tả là bản thiết kế. Việc chỉ ra công nghệ hiện có hoặc tài liệu nhà cung cấp không có nghĩa là chúng tôi đã vận hành chúng trong Suveria. Kết quả thử nghiệm được bổ sung ở chương 9, luôn có ngày, phiên bản cấu hình và phạm vi đo.
+Phiên bản ngày 8 tháng 11 năm 2026. Tài liệu phát triển các nguyên tắc của tuyên ngôn về Suveria: cách chúng tôi muốn bảo vệ quyền riêng tư, cách làm việc với trí tuệ số được dự kiến vận hành, chi phí và cách kiểm tra. Kiến trúc được mô tả là bản thiết kế. Việc chỉ ra công nghệ hiện có hoặc tài liệu nhà cung cấp không có nghĩa là chúng tôi đã vận hành chúng trong Suveria. Kết quả thử nghiệm được bổ sung ở chương 9, luôn có ngày, phiên bản cấu hình và phạm vi đo.
 
-*Bản dịch do trí tuệ số thực hiện dựa trên bản gốc tiếng Ba Lan ngày 31 tháng 10 năm 2026. Khi có khác biệt, văn bản tiếng Ba Lan có giá trị quyết định.*
+*Bản dịch do trí tuệ số thực hiện dựa trên bản gốc tiếng Ba Lan ngày 8 tháng 11 năm 2026. Khi có khác biệt, văn bản tiếng Ba Lan có giá trị quyết định.*
 
 ## 1. Suveria là gì và được tạo ra để làm gì
 
@@ -18,7 +18,7 @@ Trong Suveria, chúng tôi muốn có thể:
 - với sự đồng ý của bản thân, dùng ký ức trò chuyện trước, trở lại lý do cũ của quyết định và xây Bộ Nguyên tắc Cá nhân (*Canon Personalis*), tức tập hợp nguyên tắc và giá trị riêng;
 - chọn cách làm việc, từ mô hình trên thiết bị riêng đến môi trường bảo vệ tính bí mật trên máy chủ, có thông tin rõ mỗi cách bảo vệ khỏi gì;
 - trả phí sử dụng thực tế, với hạn mức chi tiêu tự đặt;
-- hoàn thiện ý riêng tư rồi chủ động đưa vào trò chuyện chung trong Omniforum.
+- hoàn thiện ý riêng tư rồi chủ động đưa vào trò chuyện chung trong OmniForum.
 
 Phiên bản đầu tiên hướng đến những người lựa chọn vì quyền riêng tư kiểm chứng được.
 
@@ -34,7 +34,7 @@ Phiên bản đầu dùng gì phụ thuộc tiền quỹ thu trước khởi đ�
 
 Việc dùng Suveria không có nghĩa là đồng ý cho dùng các cuộc trò chuyện để huấn luyện mô hình. Nội dung của người dùng chỉ được đưa vào tài liệu nghiên cứu sau khi họ đồng ý riêng và hiểu rõ việc đó; những tài liệu còn lại đến từ thành quả công khai của Quỹ và các nguồn khác có căn cứ sử dụng rõ ràng, như [sách trắng về tài liệu và bộ chuẩn đánh giá](whitepaper-materialy-i-benchmark.md) mô tả.
 
-Suveria bổ sung Omniforum, không gian chung trò chuyện, quyết định: một nơi là xưởng riêng, nơi kia diễn đàn công cộng. Tuyên ngôn quỹ mô tả giá trị nền tảng hai bản thiết kế. Tiếp theo lần lượt trình bày:
+Suveria bổ sung OmniForum, không gian chung trò chuyện, quyết định: một nơi là xưởng riêng, nơi kia diễn đàn công cộng. Tuyên ngôn quỹ mô tả giá trị nền tảng hai bản thiết kế. Tiếp theo lần lượt trình bày:
 
 - bảo vệ gì, khỏi gì, dữ liệu và khóa ở đâu (chương 2);
 - thông điệp đi từ thiết bị đến mô hình, cách kiểm tra (3);
@@ -173,7 +173,7 @@ Mọi điều chúng tôi biết về hoạt động Suveria, bất kỳ ai cũn
 
 Chúng tôi áp dụng bảo vệ phẩm giá cả với người có thể chịu ảnh hưởng từ việc dùng công cụ của chúng tôi. Chúng tôi muốn ngăn lạm dụng không đọc trò chuyện riêng: qua nguyên tắc trợ lý tuân theo, giới hạn quyền công cụ, kết nối mạng, giới hạn tài nguyên và bảo vệ khỏi tạo hàng loạt tài khoản. Chúng tôi không tạo lối truy cập ẩn vào nội dung riêng, vì chúng sẽ làm yếu bảo vệ của tất cả.
 
-Sẽ có thể tạo tài khoản theo vài cách, từ hoàn toàn riêng tư (khóa trên thiết bị riêng, không địa chỉ e-mail) đến thuận tiện (đăng nhập qua nhà cung cấp ngoài). Trước khi chọn, ở mỗi cách chúng tôi sẽ cho thấy ai ngoài quỹ biết tài khoản được tạo, thấy dữ liệu gì và điều xảy ra nếu nhà cung cấp ấy biến mất. Cách tạo tài khoản không ảnh hưởng quyền người tham gia; quyền biểu quyết trong Omniforum là xác nhận riêng được thêm vào tài khoản.
+Sẽ có thể tạo tài khoản theo vài cách, từ hoàn toàn riêng tư (khóa trên thiết bị riêng, không địa chỉ e-mail) đến thuận tiện (đăng nhập qua nhà cung cấp ngoài). Trước khi chọn, ở mỗi cách chúng tôi sẽ cho thấy ai ngoài quỹ biết tài khoản được tạo, thấy dữ liệu gì và điều xảy ra nếu nhà cung cấp ấy biến mất. Cách tạo tài khoản không ảnh hưởng quyền người tham gia; quyền biểu quyết trong OmniForum là xác nhận riêng được thêm vào tài khoản.
 
 Chúng tôi đánh giá riêng quyền riêng tư và hạn chế lạm dụng. Suveria được thiết kế để quỹ không có dữ liệu có thể giao về người cụ thể: nội dung mã hóa bằng khóa người dùng, dữ liệu hoạt động chỉ thu trong phạm vi công khai ở chương 3, dữ liệu cá nhân hạn chế đến mức tối thiểu pháp luật đòi hỏi khi thanh toán, kế toán; phạm vi ấy cũng công bố. Nếu ai đòi dữ liệu người cụ thể, chúng tôi muốn có thể trả lời trung thực rằng ngoài mức tối thiểu mô tả công khai ấy, chúng tôi không có. Với mỗi biện pháp chống lạm dụng, chúng tôi sẽ mô tả dữ liệu cần, thời gian lưu, ảnh hưởng đến người tham gia ngay thẳng và cách phản đối chặn nhầm.
 
@@ -185,7 +185,7 @@ Khi cuộc trò chuyện liên quan đe dọa tính mạng, sức khỏe, trợ 
 
 ### 4.1. Chỉ dẫn trợ lý công khai và thư viện chung
 
-Chỉ dẫn chính, cách làm việc cũng quyết định hành vi trợ lý: cách chia nhiệm vụ thành bước, dùng ký ức, kiểm tra trả lời. Trong Suveria, mỗi người cần luôn đọc được toàn bộ chỉ dẫn trợ lý mình. Hạ tầng chung được dự kiến chỉ cung cấp mô hình, thiết lập vượt qua thử nghiệm công khai của bộ chuẩn đánh giá; trên mức tối thiểu ấy, người dùng chọn cách làm, từ bình thản sắp xếp suy nghĩ đến trò chuyện đòi hỏi, trong đó trợ lý chỉ lỗ hổng lập luận. Chúng tôi muốn duy trì thư viện mở các chỉ dẫn đã kiểm tra, được người tham gia cải thiện trong Omniforum và thử trong bộ chuẩn đánh giá.
+Chỉ dẫn chính, cách làm việc cũng quyết định hành vi trợ lý: cách chia nhiệm vụ thành bước, dùng ký ức, kiểm tra trả lời. Trong Suveria, mỗi người cần luôn đọc được toàn bộ chỉ dẫn trợ lý mình. Hạ tầng chung được dự kiến chỉ cung cấp mô hình, thiết lập vượt qua thử nghiệm công khai của bộ chuẩn đánh giá; trên mức tối thiểu ấy, người dùng chọn cách làm, từ bình thản sắp xếp suy nghĩ đến trò chuyện đòi hỏi, trong đó trợ lý chỉ lỗ hổng lập luận. Chúng tôi muốn duy trì thư viện mở các chỉ dẫn đã kiểm tra, được người tham gia cải thiện trong OmniForum và thử trong bộ chuẩn đánh giá.
 
 ## 5. Tính toán trên nhiều card đồ họa
 
@@ -239,7 +239,7 @@ Xuất dữ liệu gồm bản gốc chọn, lịch sử, nguồn, liên hệ v�
 
 API, tức cách giao tiếp giữa chương trình được ghi tài liệu, được dự kiến cho làm với tài liệu trong công cụ khác, kể cả tự xây. Người dùng chọn phạm vi dữ liệu, hành động được phép, có thể thu hồi quyền tích hợp. Thu hồi chặn truy cập tiếp; số phận bản sao đã giao còn phụ thuộc bên nhận.
 
-Không gian riêng cũng có thể phục vụ làm việc cho dự án chung. Người dùng chọn tài liệu muốn giao nghiệm thu hay công bố; công cụ giúp loại trên thiết bị khóa truy cập, mật khẩu, dữ liệu cá nhân, thông tin lỗ hổng chưa vá. Dùng tài nguyên tự trả phí không đòi tiết lộ trò chuyện làm việc. Với nhiệm vụ từ tài nguyên chung của quỹ, phạm vi bản ghi công khai, chọn bút danh, chuẩn bị tài liệu được [quy tắc các xưởng làm việc của quỹ](whitepaper-zasady-fundacji.md) định trước (chương 11.1). Từ suy nghĩ trong Suveria, cũng có thể chủ động chọn một câu hỏi hay luận điểm rồi công bố trong Omniforum; bước này được tuyên ngôn mô tả là Nghi lễ Ignis (*Caerimonia Ignis*), luôn cần quyết định riêng.
+Không gian riêng cũng có thể phục vụ làm việc cho dự án chung. Người dùng chọn tài liệu muốn giao nghiệm thu hay công bố; công cụ giúp loại trên thiết bị khóa truy cập, mật khẩu, dữ liệu cá nhân, thông tin lỗ hổng chưa vá. Dùng tài nguyên tự trả phí không đòi tiết lộ trò chuyện làm việc. Với nhiệm vụ từ tài nguyên chung của quỹ, phạm vi bản ghi công khai, chọn bút danh, chuẩn bị tài liệu được [quy tắc các xưởng làm việc của quỹ](whitepaper-zasady-fundacji.md) định trước (chương 11.1). Từ suy nghĩ trong Suveria, cũng có thể chủ động chọn một câu hỏi hay luận điểm rồi công bố trong OmniForum; bước này được tuyên ngôn mô tả là Nghi lễ Ignis (*Caerimonia Ignis*), luôn cần quyết định riêng.
 
 ## 7. Quy mô: từ 30 người đến toàn nhân loại
 
@@ -320,7 +320,7 @@ Chúng tôi phát triển hạ tầng từng bước, mỗi bước tự đem gi
 
 Mỗi chuyển bước được mô tả bằng phiếu quyết định: được gì, toàn chi phí, rủi ro, điều kiện bắt đầu, rút lui, cách chuyển dữ liệu, khóa, phù hợp [quy tắc dự phòng và khởi động trụ cột tiếp](whitepaper-zasady-fundacji.md) (chương 8 sách trắng nguyên tắc quỹ). Chỉ cho phép ghép máy riêng với API bảo vệ tính bí mật đáp ứng đỉnh lưu lượng khi mỗi đường có mức bảo vệ được chấp nhận; chuyển phương án yếu hơn cần quyết định riêng, có hiểu biết của người dùng. Phép đo đầu dự kiến trên một card bảo vệ tính bí mật với mô hình nhỏ hơn, tiếp theo trên máy chứa đầy đủ mô hình.
 
-Năng lực được điều chỉnh theo lưu lượng, không định toàn bộ quy mô theo đỉnh cao nhất. Chúng tôi thiết kế hàng đợi ngắn hiển thị thời gian chờ; trong thí điểm sẽ đo thời gian thực, giới hạn, hành vi khi đầy. Trước hết, năng lực linh hoạt cho đỉnh kéo dài do API bảo vệ tính bí mật cung cấp nếu giữ mức bảo vệ được chấp nhận, sự đồng ý, giới hạn chi tiêu người dùng; khi không có đường như vậy, chúng tôi nói trung thực về chờ hay không khả dụng. Thuê theo giờ hợp lý cho mô hình không có trong API bảo vệ tính bí mật hoặc đắt hơn rõ ràng ở đó, chỉ ở nơi nhà cung cấp thực sự cho khởi động, giải phóng nhanh máy bảo vệ tính bí mật. Chúng tôi muốn dùng năng lực rảnh máy riêng giờ yên cho nhiệm vụ quỹ, như phân tích cho Omniforum; giá trị theo giá API không phải thu vào ngân sách, nên nhiệm vụ ấy có mục tiêu, ngân sách riêng. Sau thí điểm đầu, chúng tôi muốn thử hai chế độ: “Trò chuyện” cho làm việc thường với trợ lý, “Không vội” cho nhiệm vụ chờ được như dịch tài liệu. Ở “Không vội”, chúng tôi hiển thị khoảng bắt đầu dự kiến, ước tính chi phí, ngân sách tối đa, khả năng hủy tính phí phần đã làm, cùng thông tin bảo vệ. Giá thấp hơn cho việc ấy chỉ có thể khi từ cách chia chi phí công khai, không tính hai lần chi phí cố định.
+Năng lực được điều chỉnh theo lưu lượng, không định toàn bộ quy mô theo đỉnh cao nhất. Chúng tôi thiết kế hàng đợi ngắn hiển thị thời gian chờ; trong thí điểm sẽ đo thời gian thực, giới hạn, hành vi khi đầy. Trước hết, năng lực linh hoạt cho đỉnh kéo dài do API bảo vệ tính bí mật cung cấp nếu giữ mức bảo vệ được chấp nhận, sự đồng ý, giới hạn chi tiêu người dùng; khi không có đường như vậy, chúng tôi nói trung thực về chờ hay không khả dụng. Thuê theo giờ hợp lý cho mô hình không có trong API bảo vệ tính bí mật hoặc đắt hơn rõ ràng ở đó, chỉ ở nơi nhà cung cấp thực sự cho khởi động, giải phóng nhanh máy bảo vệ tính bí mật. Chúng tôi muốn dùng năng lực rảnh máy riêng giờ yên cho nhiệm vụ quỹ, như phân tích cho OmniForum; giá trị theo giá API không phải thu vào ngân sách, nên nhiệm vụ ấy có mục tiêu, ngân sách riêng. Sau thí điểm đầu, chúng tôi muốn thử hai chế độ: “Trò chuyện” cho làm việc thường với trợ lý, “Không vội” cho nhiệm vụ chờ được như dịch tài liệu. Ở “Không vội”, chúng tôi hiển thị khoảng bắt đầu dự kiến, ước tính chi phí, ngân sách tối đa, khả năng hủy tính phí phần đã làm, cùng thông tin bảo vệ. Giá thấp hơn cho việc ấy chỉ có thể khi từ cách chia chi phí công khai, không tính hai lần chi phí cố định.
 
 ### 8.3. Đo sử dụng không có nội dung trò chuyện
 

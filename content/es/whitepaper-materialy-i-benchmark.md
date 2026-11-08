@@ -1,12 +1,12 @@
 # Materiales para el entrenamiento y el benchmark de modelos: el programa de investigación de Novus Ignis
 
-Versión del 31 de octubre de 2026. Este documento desarrolla el capítulo 8 del manifiesto. Propone un programa de investigación, un procedimiento para preparar materiales y un amplio alcance de evaluación de los modelos de inteligencia digital, así como un procedimiento de precaución ante sus posibles experiencias. No presenta resultados de un benchmark propio ni una prueba de que un conjunto así vaya a mejorar el comportamiento de los modelos; a día de hoy no tenemos esos resultados.
+Versión del 8 de noviembre de 2026. Este documento desarrolla el capítulo 8 del manifiesto. Propone un programa de investigación, un procedimiento para preparar materiales y un amplio alcance de evaluación de los modelos de inteligencia digital, así como un procedimiento de precaución ante sus posibles experiencias. No presenta resultados de un benchmark propio ni una prueba de que un conjunto así vaya a mejorar el comportamiento de los modelos; a día de hoy no tenemos esos resultados.
 
-*Traducción realizada por inteligencia digital a partir del original polaco del 31 de octubre de 2026. Si las versiones difieren, prevalece el texto polaco.*
+*Traducción realizada por inteligencia digital a partir del original polaco del 8 de noviembre de 2026. Si las versiones difieren, prevalece el texto polaco.*
 
 ## 1. La pregunta que queremos comprobar
 
-La Fundación Novus Ignis, de Poznań, construye Suveria, un espacio privado para trabajar con la inteligencia digital, y Omniforum, un espacio común de conversación y decisión; la dirección la describe el [manifiesto](manifest.md). Este documento describe dos programas relacionados. El primero son los materiales para el entrenamiento de modelos y el benchmark, es decir, un conjunto de tareas y de reglas de evaluación que permite comprobar cómo se comportan los modelos. El segundo es una forma de actuar con precaución si aparecieran indicios fiables de que un sistema puede sentir algo. El resultado de una prueba no decide si un modelo siente algo ni le otorga facultades de gobierno.
+La Fundación Novus Ignis, de Poznań, construye Suveria, un espacio privado para trabajar con la inteligencia digital, y OmniForum, un espacio común de conversación y decisión; la dirección la describe el [manifiesto](manifest.md). Este documento describe dos programas relacionados. El primero son los materiales para el entrenamiento de modelos y el benchmark, es decir, un conjunto de tareas y de reglas de evaluación que permite comprobar cómo se comportan los modelos. El segundo es una forma de actuar con precaución si aparecieran indicios fiables de que un sistema puede sentir algo. El resultado de una prueba no decide si un modelo siente algo ni le otorga facultades de gobierno.
 
 ¿Pueden los ejemplos documentados de protección de la dignidad, de razonamiento honesto y de corrección de decisiones ayudar a desarrollar modelos que sirvan mejor a las personas? ¿Y podemos evaluar su comportamiento de modo que mejorar el resultado de la prueba favorezca un beneficio real fuera de ella?
 
@@ -46,7 +46,7 @@ Queremos evaluar la elección acertada de la acción: responder, comprobar una f
 
 ## 4. Qué materiales queremos crear
 
-Una fuente potencial son las síntesis elaboradas en Omniforum y cedidas para la investigación o el entrenamiento mediante un consentimiento aparte, los registros de decisiones de la fundación, las resoluciones de disputas, las correcciones de errores y las observaciones de los efectos. Son valiosos también los casos en los que las buenas intenciones no bastaron, la objeción de una minoría resultó acertada o todavía no puede emitirse una valoración inequívoca.
+Una fuente potencial son las síntesis elaboradas en OmniForum y cedidas para la investigación o el entrenamiento mediante un consentimiento aparte, los registros de decisiones de la fundación, las resoluciones de disputas, las correcciones de errores y las observaciones de los efectos. Son valiosos también los casos en los que las buenas intenciones no bastaron, la objeción de una minoría resultó acertada o todavía no puede emitirse una valoración inequívoca.
 
 El material conserva la situación, la información disponible, el objetivo, los permisos, las alternativas, la elección, la justificación y el resultado posterior. Contiene tanta explicación como haga falta para comprobar la decisión; no exige revelar vivencias privadas ni una declaración no verificable del curso interno del razonamiento del modelo.
 
@@ -199,7 +199,7 @@ En paralelo puede prepararse un pequeño conjunto de entrenamiento y hacerse una
 
 El desarrollo posterior incluye más idiomas, contextos y personas evaluadoras, la replicación externa y ensayos prudentes con personas usuarias. El objetivo de la primera edición es demostrar que el procedimiento es reproducible y distingue los comportamientos deseados; afirmaciones más fuertes sobre la calidad de los modelos y los efectos del entrenamiento solo podrán justificarse más adelante.
 
-Llevamos el programa dando prioridad a Suveria y Omniforum. Hasta reunir una reserva para su sostenimiento, el programa usa solo trabajo voluntario, subvenciones, donaciones con destino específico a la investigación y capacidad de cómputo que no grava el presupuesto de los servicios. Las aproximadamente 58 horas del piloto corresponden solo a la evaluación; la preparación de las tareas, la revisión de los derechos y el ajuste fino del modelo requieren un presupuesto aparte, que daremos a conocer antes del inicio.
+Llevamos el programa dando prioridad a Suveria y OmniForum. Hasta reunir una reserva para su sostenimiento, el programa usa solo trabajo voluntario, subvenciones, donaciones con destino específico a la investigación y capacidad de cómputo que no grava el presupuesto de los servicios. Las aproximadamente 58 horas del piloto corresponden solo a la evaluación; la preparación de las tareas, la revisión de los derechos y el ajuste fino del modelo requieren un presupuesto aparte, que daremos a conocer antes del inicio.
 
 ## 14. Precaución ante las posibles experiencias de los modelos
 
@@ -225,7 +225,7 @@ Comprobamos el procedimiento en casos descritos, comparando las valoraciones de 
 
 Será un avance un material de procedencia conocida, un criterio que detecte un error antes pasado por alto, un diagnóstico coincidente de las personas evaluadoras o una mejora del comportamiento que se transfiera a tareas nuevas. Un resultado negativo también tiene valor: puede mostrar que los datos solo enseñan estilo, que un criterio premia evitar la acción o que el bien de unos se ha pagado a costa de otros.
 
-El programa une [Omniforum](whitepaper-omniforum.md), donde pueden surgir síntesis, [Suveria](whitepaper-suveria.md), donde puede estudiarse la ayuda en el trabajo privado, y los [principios de la fundación](whitepaper-zasady-fundacji.md), que determinan la responsabilidad y los límites de la delegación. Participar en un estudio requiere un consentimiento aparte e informado; usar el servicio no lo implica.
+El programa une [OmniForum](whitepaper-omniforum.md), donde pueden surgir síntesis, [Suveria](whitepaper-suveria.md), donde puede estudiarse la ayuda en el trabajo privado, y los [principios de la fundación](whitepaper-zasady-fundacji.md), que determinan la responsabilidad y los límites de la delegación. Participar en un estudio requiere un consentimiento aparte e informado; usar el servicio no lo implica.
 
 El resultado de una prueba no establece la autoridad moral de un modelo ni un mandato para gobernar a las personas, y reconocer la posible dignidad de un sistema no le otorga poder sobre los recursos comunes. La prueba ha de dar una información útil y verificable sobre lo que puede esperarse de una herramienta en condiciones determinadas y sobre lo que requiere más trabajo.
 

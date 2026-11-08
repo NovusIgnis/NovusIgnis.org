@@ -27,7 +27,7 @@ Selengkapnya: [anggaran dasar, § 13](../statut/statut-2026-09-28.md#par-13) dan
 
 ## Mengapa keadaan ini dimaksudkan berubah
 
-Manifesto menyatakan dengan jelas: kami berupaya mengakhiri kewenangan khusus pendiri secara bertahap dan menyerahkan kepada komunitas pengaruh nyata terhadap arah yayasan serta pemilihan pengelolanya. Keputusan komunitas dimaksudkan mengikat pengurus dalam batas hukum, anggaran dasar, dan keamanan layanan. Pendiri ingin menggunakan Suveria, Omniforum, dan proyek selanjutnya dengan hak yang sama seperti orang lain dan mundur dari peran publik tetap.
+Manifesto menyatakan dengan jelas: kami berupaya mengakhiri kewenangan khusus pendiri secara bertahap dan menyerahkan kepada komunitas pengaruh nyata terhadap arah yayasan serta pemilihan pengelolanya. Keputusan komunitas dimaksudkan mengikat pengurus dalam batas hukum, anggaran dasar, dan keamanan layanan. Pendiri ingin menggunakan Suveria, OmniForum, dan proyek selanjutnya dengan hak yang sama seperti orang lain dan mundur dari peran publik tetap.
 
 Whitepaper mengingatkan pada Cyncynat: menurut Liwiusz, pada 458 SM para utusan menemukannya bekerja di ladang dan membawa kabar bahwa kekuasaan tertinggi dipercayakan kepadanya selama perang. Pada hari keenam belas, setelah bahaya berlalu, kekuasaan itu diserahkan kembali dan Cyncynat kembali ke pertaniannya. Tanggung jawab diambil untuk sementara, kemudian diserahkan.
 

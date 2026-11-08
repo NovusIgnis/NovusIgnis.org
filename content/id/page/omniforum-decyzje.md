@@ -1,19 +1,19 @@
 ---
-tytul: Keputusan bersama di Omniforum
+tytul: Keputusan bersama di OmniForum
 opis: Perbedaan konsultasi dan pemungutan suara, cara memperoleh hak suara tanpa biometrik, prinsip yang selalu berlaku, dan mengapa kekuatan mengikat pemungutan suara dimaksudkan tumbuh bertahap
 grupa: omniforum
 kolejnosc: 3
 menu: Keputusan bersama
 ---
-# Keputusan bersama di Omniforum
+# Keputusan bersama di OmniForum
 
-Halaman ini memperdalam uraian singkat [Apa itu Omniforum](omniforum.md) tentang keputusan bersama: perbedaan konsultasi dan pemungutan suara, cara kami ingin memberikan hak suara tanpa biometrik, prinsip yang selalu berlaku, serta mengapa hasil pemungutan suara dimaksudkan mengikat yayasan secara bertahap.
+Halaman ini memperdalam uraian singkat [Apa itu OmniForum](omniforum.md) tentang keputusan bersama: perbedaan konsultasi dan pemungutan suara, cara kami ingin memberikan hak suara tanpa biometrik, prinsip yang selalu berlaku, serta mengapa hasil pemungutan suara dimaksudkan mengikat yayasan secara bertahap.
 
-Saat ini tidak ada pemungutan suara ataupun konsultasi. Prototipe Omniforum sedang dibangun, dan semua uraian di bawah masih berupa rancangan.
+Saat ini tidak ada pemungutan suara ataupun konsultasi. Prototipe OmniForum sedang dibangun, dan semua uraian di bawah masih berupa rancangan.
 
 Ini salah satu bagian tersulit dari seluruh usaha ini, sehingga kami menyatakan secara terbuka apa yang sudah dalam jangkauan dan apa yang masih memerlukan kerja panjang.
 
-Selengkapnya: [whitepaper Omniforum, bab 8](../whitepaper-omniforum.md#s8).
+Selengkapnya: [whitepaper OmniForum, bab 8](../whitepaper-omniforum.md#s8).
 
 ## Fakta, nilai, hipotesis
 
@@ -36,7 +36,7 @@ Anggaran dasar yayasan mengizinkan pemungutan suara dan konsultasi tentang arah 
 
 Selama percobaan belum mengonfirmasi bahwa setiap pemilih adalah orang yang berbeda, kami menyebutnya konsultasi, bukan pemungutan suara dalam pengertian anggaran dasar.
 
-Selengkapnya: [anggaran dasar, § 8](../statut/statut-2026-09-28.md#par-8), [whitepaper Omniforum, bagian 8.1](../whitepaper-omniforum.md#s8-1), dan [whitepaper prinsip yayasan, bab 2](../whitepaper-zasady-fundacji.md#s2).
+Selengkapnya: [anggaran dasar, § 8](../statut/statut-2026-09-28.md#par-8), [whitepaper OmniForum, bagian 8.1](../whitepaper-omniforum.md#s8-1), dan [whitepaper prinsip yayasan, bab 2](../whitepaper-zasady-fundacji.md#s2).
 
 ## Cara memperoleh hak suara
 
@@ -53,7 +53,7 @@ Setiap hak suara direncanakan memiliki penanda unik agar bukti baru dari orang y
 
 Penggabungan jalur menyisakan risiko bahwa orang yang sama memperoleh hak tambahan. Pada awalnya, kami menerima risiko ini secara sadar agar sebanyak mungkin orang dari seluruh dunia dapat bergabung; tujuan kami tetap membangun sistem yang memberi setiap orang satu suara. Penolakan penerimaan disertai alasan dan jalur banding.
 
-Selengkapnya: [whitepaper Omniforum, bagian 8.3](../whitepaper-omniforum.md#s8-3) dan [manifesto, bagian 5.2](../manifest.md#s5-2).
+Selengkapnya: [whitepaper OmniForum, bagian 8.3](../whitepaper-omniforum.md#s8-3) dan [manifesto, bagian 5.2](../manifest.md#s5-2).
 
 ## Prinsip yang selalu berlaku
 
@@ -67,15 +67,15 @@ Inilah prinsip rancangan yang akan kami tulis dalam peraturan pemungutan suara.
 - Usulan pengeluaran memerlukan "jalur hijau" dari manifesto, yaitu rangkaian keterkaitan yang menunjukkan dasar faktual rencana dan persetujuan komunitas atas pilihan yang melandasinya. Ambang persetujuan kami tetapkan sebelumnya menurut pentingnya isu, besarnya pengeluaran, dan kemungkinan membalikkan akibatnya.
 - Sebelum memberikan suara, setiap orang melihat ringkasan singkat yang mudah dipahami tentang pendirian, keberatan, dan sumber, yang diterbitkan terlebih dahulu. Pihak dalam perselisihan dapat melaporkan bahwa pendiriannya terlewat, lalu kami menampilkan rumusan mereka sendiri di sampingnya.
 
-Selengkapnya: [whitepaper Omniforum, bab 8](../whitepaper-omniforum.md#s8), [bagian 8.3](../whitepaper-omniforum.md#s8-3), dan [manifesto, bagian 5.3](../manifest.md#s5-3).
+Selengkapnya: [whitepaper OmniForum, bab 8](../whitepaper-omniforum.md#s8), [bagian 8.3](../whitepaper-omniforum.md#s8-3), dan [manifesto, bagian 5.3](../manifest.md#s5-3).
 
 ## Isu sulit: tiga langkah
 
-1. **Peta isu terbuka** di Omniforum yang dapat diikuti semua orang.
+1. **Peta isu terbuka** di OmniForum yang dapat diikuti semua orang.
 2. **Majelis penasihat yang dipilih secara acak**: kelompok orang yang diundi dari daftar yang berhak melalui undian yang hasilnya dapat diperiksa siapa pun berdasarkan data yang diumumkan secara publik. Kelompok mendapat waktu, materi, dan kesempatan berbicara dengan penulis usulan; kelompok memberi saran, bukan memutuskan.
 3. **Pemungutan suara seluruh orang yang berhak.**
 
-Selengkapnya: [whitepaper Omniforum, bagian 8.4](../whitepaper-omniforum.md#s8-4).
+Selengkapnya: [whitepaper OmniForum, bagian 8.4](../whitepaper-omniforum.md#s8-4).
 
 ## Bertahap dan berhati-hati
 
@@ -83,9 +83,9 @@ Pemungutan suara akan memperoleh kekuatan mengikat secara bertahap: mula-mula pe
 
 Hingga saat itu, yayasan beroperasi dalam fase tangkas: pengurus mengambil keputusan sehari-hari, atas pilihannya sendiri meminta pendapat komunitas tentang isu penting, dan menerbitkan alasan setiap keputusan penting. Hasil pemungutan suara dan konsultasi secara formal bersifat sebagai saran. Agar hasil secara formal mengikat yayasan, anggaran dasar perlu diubah sebagaimana dijelaskan dalam [daftar perubahan anggaran dasar](../statut/rejestr-zmian.md) sebagai Z4.
 
-Peluncuran penuh pilar selanjutnya (rancangan terbuka untuk benda tahan lama dan hubungan dengan alam) memerlukan tiga syarat sekaligus: pemungutan suara yang memastikan satu suara yang sah dan dihitung bagi orang yang sama, dana enam bulan pemeliharaan Suveria dan Omniforum, serta keputusan komunitas. Syarat pertama baru akan kami anggap terpenuhi ketika jalur yang memungkinkan suara tambahan digantikan sistem seragam dan percobaan mengonfirmasinya.
+Peluncuran penuh pilar selanjutnya (rancangan terbuka untuk benda tahan lama dan hubungan dengan alam) memerlukan tiga syarat sekaligus: pemungutan suara yang memastikan satu suara yang sah dan dihitung bagi orang yang sama, dana enam bulan pemeliharaan Suveria dan OmniForum, serta keputusan komunitas. Syarat pertama baru akan kami anggap terpenuhi ketika jalur yang memungkinkan suara tambahan digantikan sistem seragam dan percobaan mengonfirmasinya.
 
-Selengkapnya: [whitepaper Omniforum, bagian 8.5](../whitepaper-omniforum.md#s8-5), [whitepaper prinsip yayasan, bab 2](../whitepaper-zasady-fundacji.md#s2), dan [manifesto, bagian 6.3](../manifest.md#s6-3).
+Selengkapnya: [whitepaper OmniForum, bagian 8.5](../whitepaper-omniforum.md#s8-5), [whitepaper prinsip yayasan, bab 2](../whitepaper-zasady-fundacji.md#s2), dan [manifesto, bagian 6.3](../manifest.md#s6-3).
 
 ## Apa yang tidak dapat dipastikan oleh sistem ini
 
@@ -96,10 +96,10 @@ Selengkapnya: [whitepaper Omniforum, bagian 8.5](../whitepaper-omniforum.md#s8-5
 
 Kami belum tahu cara sepenuhnya memadukan satu suara per orang tanpa basis data identitas terpusat, kerahasiaan, dan akses bagi seluruh dunia. "Ini mungkin memerlukan waktu lama dan kami menyatakannya dengan terus terang."
 
-Selengkapnya: [whitepaper Omniforum, bagian 8.2](../whitepaper-omniforum.md#s8-2), [bagian 8.6](../whitepaper-omniforum.md#s8-6), [bagian 8.7](../whitepaper-omniforum.md#s8-7), dan [manifesto, bagian 5.2](../manifest.md#s5-2).
+Selengkapnya: [whitepaper OmniForum, bagian 8.2](../whitepaper-omniforum.md#s8-2), [bagian 8.6](../whitepaper-omniforum.md#s8-6), [bagian 8.7](../whitepaper-omniforum.md#s8-7), dan [manifesto, bagian 5.2](../manifest.md#s5-2).
 
 ## Baca dan sampaikan pendapat Anda
 
-Uraian lengkap tersedia dalam [whitepaper Omniforum](../whitepaper-omniforum.md), bab 8, dan [manifesto](../manifest.md), bab 5. Jika ada hal yang membuat Anda bertanya-tanya atau tampak keliru, tandai bagian itu dalam dokumen dan gunakan tombol "Saya punya masukan", atau tulis ke salve@novusignis.org.
+Uraian lengkap tersedia dalam [whitepaper OmniForum](../whitepaper-omniforum.md), bab 8, dan [manifesto](../manifest.md), bab 5. Jika ada hal yang membuat Anda bertanya-tanya atau tampak keliru, tandai bagian itu dalam dokumen dan gunakan tombol "Saya punya masukan", atau tulis ke salve@novusignis.org.
 
-Selengkapnya: [whitepaper Omniforum, bagian 5.5](../whitepaper-omniforum.md#s5-5).
+Selengkapnya: [whitepaper OmniForum, bagian 5.5](../whitepaper-omniforum.md#s5-5).

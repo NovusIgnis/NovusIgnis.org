@@ -7,7 +7,7 @@ menu: Your data
 ---
 # Your data
 
-This page explains what personal data of yours reaches the foundation when you use the novusignis.org website, and what you can do about it. Suveria and Omniforum are at the design stage today; data in those services is covered in their whitepapers.
+This page explains what personal data of yours reaches the foundation when you use the novusignis.org website, and what you can do about it. Suveria and OmniForum are at the design stage today; data in those services is covered in their whitepapers.
 
 ## Who is responsible for your data
 
@@ -32,8 +32,8 @@ You send the message from your own mailbox, even when the "I have a comment" but
 
 ## Waiting list
 
-- You join by sending a message with the subject "[Lista oczekujących] Suveria i Omniforum". This is your consent (Article 6(1)(a) GDPR).
-- We will use your address for one message only: that the first trials of Suveria and Omniforum are starting. After sending it, we remove the address from the list.
+- You join by sending a message with the subject "[Lista oczekujących] Suveria i OmniForum". This is your consent (Article 6(1)(a) GDPR).
+- We will use your address for one message only: that the first trials of Suveria and OmniForum are starting. After sending it, we remove the address from the list.
 - You can withdraw your consent at any time by writing to us; we will then remove the address right away. Withdrawing consent does not affect what we did on its basis before.
 
 ## Donations

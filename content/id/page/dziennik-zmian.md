@@ -9,6 +9,10 @@ menu: Catatan perubahan
 
 Kami mengembangkan dokumen seiring pengetahuan dan pengalaman, sambil mempertahankan riwayat perubahan. Di sini kami mencatat apa yang berubah pada situs serta dokumen dan kapan, juga ketika perubahan berasal dari masukan pembaca. Riwayat perubahan anggaran dasar itu sendiri tersedia terpisah dalam [daftar perubahan anggaran dasar](../statut/rejestr-zmian.md).
 
+## 8 November 2026: penulisan nama OmniForum
+
+- Dalam manifesto, empat whitepaper, dan di seluruh situs, kami mengubah penulisan nama Omniforum menjadi OmniForum, sama seperti pada nama OmniActa dan OmniVox. Selain itu, isi dokumen tidak berubah. Rumusan sebelumnya dari setiap dokumen tetap tersimpan dalam riwayat versinya.
+
 ## 3 November 2026: nama prinsip teladan yang jujur dalam manifesto
 
 - Dalam manifesto, pada bagian 8.1, kami menambahkan paragraf tentang prinsip yang kami sebut pendidikan melalui teladan yang jujur (*Alignment by Honest Example*): kami berusaha mengelola yayasan sebagaimana kami berharap kecerdasan digital kelak mengelola urusan yang dipercayakan kepadanya. Prinsip ini sudah ada dalam draf kami sebelumnya dari September 2026; dalam penyuntingan sebelum penerbitan, implikasinya tetap ada (bagian 1.1 dan 8.1), tetapi kami kehilangan nama dan dasar pemikirannya. Alasannya: tanpa penjelasan tersebut, sulit memahami mengapa kami membuat catatan keputusan dan kesalahan yang begitu terperinci. Versi manifesto: 3 November 2026.

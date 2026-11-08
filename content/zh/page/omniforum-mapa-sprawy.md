@@ -1,6 +1,6 @@
 ---
 tytul: 议题地图与理念卡片
-opis: Omniforum 拟如何将不同人的推理汇成地图、展示结论强度，并从未来图景引向下一步
+opis: OmniForum 拟如何将不同人的推理汇成地图、展示结论强度，并从未来图景引向下一步
 grupa: omniforum
 kolejnosc: 4
 menu: 议题地图
@@ -11,9 +11,9 @@ menu: 议题地图
 
 议题地图是围绕一个问题的论据、经验和未决问题的有序集合。理念卡片描述一个想法：通向哪里，下一步是什么。
 
-Omniforum 原型正在构建中。以下一切均属设计方案；我们尚未完成任何试验。
+OmniForum 原型正在构建中。以下一切均属设计方案；我们尚未完成任何试验。
 
-更多：[Omniforum 白皮书，第 1 章](../whitepaper-omniforum.md#s1)。
+更多：[OmniForum 白皮书，第 1 章](../whitepaper-omniforum.md#s1)。
 
 ## 从想法链条到地图
 
@@ -23,7 +23,7 @@ Omniforum 原型正在构建中。以下一切均属设计方案；我们尚未�
 
 议题是一个人为了理解、比较或共同行动而希望重访的问题。固定链接通向与之相关的一切：问题、来源、论据、知识状态及变更历史。私密议题在 Suveria（与数字智能开展工作的私密空间）中处理；共同议题登记册则是待单独试验的方向。
 
-更多：[Omniforum 白皮书，第 5 章](../whitepaper-omniforum.md#s5)及[第 5.1 节](../whitepaper-omniforum.md#s5-1)。
+更多：[OmniForum 白皮书，第 5 章](../whitepaper-omniforum.md#s5)及[第 5.1 节](../whitepaper-omniforum.md#s5-1)。
 
 ## 如何阅读地图
 
@@ -31,7 +31,7 @@ Omniforum 原型正在构建中。以下一切均属设计方案；我们尚未�
 
 一周或一年后重访时，应只看到变化：新经验、修正、试验结果及仍未解决的问题。浏览完变化后，会明确告知这些就是全部内容，你可以平静地回到自己的事务中。
 
-更多：[Omniforum 白皮书，第 5 章](../whitepaper-omniforum.md#s5)及[第 1.1 节](../whitepaper-omniforum.md#s1-1)。
+更多：[OmniForum 白皮书，第 5 章](../whitepaper-omniforum.md#s5)及[第 1.1 节](../whitepaper-omniforum.md#s1-1)。
 
 ## 结论有多强
 
@@ -43,9 +43,9 @@ Omniforum 原型正在构建中。以下一切均属设计方案；我们尚未�
 
 一项尺度不能替代另一项：若所有参与者的同意只依赖一份未经核验的叙述，结论依然薄弱。评估量表尚待制定；对于已有充分依据的事实，我们不会制造虚假的不确定性。
 
-宣言将共同思考区分为事实（可核验之事）、价值观（需求和关于何为正确的信念）与假设，即标明“要使它运作，必须先实现什么”的大胆想法。事实由来源裁定，而非票数；价值问题中，每个人都是平等的参照点。在 Omniforum 中，每个想法都应获得这类标注。
+宣言将共同思考区分为事实（可核验之事）、价值观（需求和关于何为正确的信念）与假设，即标明“要使它运作，必须先实现什么”的大胆想法。事实由来源裁定，而非票数；价值问题中，每个人都是平等的参照点。在 OmniForum 中，每个想法都应获得这类标注。
 
-更多：[Omniforum 白皮书，第 5 章](../whitepaper-omniforum.md#s5)及[宣言，第 5.1 节](../manifest.md#s5-1)。
+更多：[OmniForum 白皮书，第 5 章](../whitepaper-omniforum.md#s5)及[宣言，第 5.1 节](../manifest.md#s5-1)。
 
 ## 理念卡片
 
@@ -62,7 +62,7 @@ Omniforum 原型正在构建中。以下一切均属设计方案；我们尚未�
 
 卡片并非一个想法，而是许多相互连接的概念、主张、来源、条件与试验的综合视图。首批卡片应来自宣言中的理念。
 
-更多：[Omniforum 白皮书，第 5.2 节](../whitepaper-omniforum.md#s5-2)。
+更多：[OmniForum 白皮书，第 5.2 节](../whitepaper-omniforum.md#s5-2)。
 
 ## 从理念到倡议
 
@@ -70,7 +70,7 @@ Omniforum 原型正在构建中。以下一切均属设计方案；我们尚未�
 
 在进入共同资金决策前，倡议需要宣言所称的绿色路径：一串关联，展示事实依据及社区对其价值基础的同意。之后分别决定目标、后续工作、预算及执行；同意目标不等于确定成本或期限。在具有约束力的投票启动前，由理事会在意见征询后决定。完成后，我们公开实际成本、结果及所学，即使试验失败也如此。
 
-更多：[Omniforum 白皮书，第 5.3 节](../whitepaper-omniforum.md#s5-3)及[宣言，第 5.3 节](../manifest.md#s5-3)。
+更多：[OmniForum 白皮书，第 5.3 节](../whitepaper-omniforum.md#s5-3)及[宣言，第 5.3 节](../manifest.md#s5-3)。
 
 ## 哪些内容排在前面，哪些不会
 
@@ -85,10 +85,10 @@ Omniforum 原型正在构建中。以下一切均属设计方案；我们尚未�
 
 内容及附有日期的来源应居于首位。我们不设公开贡献计数或个人排名，因为这些会鼓励竞赛及大量填充条目，也包括机器人条目。我们希望关注度追随能澄清议题的内容，而非最能煽动情绪的内容。
 
-更多：[Omniforum 白皮书，第 6 章](../whitepaper-omniforum.md#s6)。
+更多：[OmniForum 白皮书，第 6 章](../whitepaper-omniforum.md#s6)。
 
 ## 阅读后，告诉我们你的想法
 
-地图、卡片及倡议的完整说明见 [Omniforum 白皮书](../whitepaper-omniforum.md)，尤其是第 5、6 章。如有疑问或觉得某处有误，请在文档中选中相应段落，使用“我有意见”按钮，或写信至 salve@novusignis.org。
+地图、卡片及倡议的完整说明见 [OmniForum 白皮书](../whitepaper-omniforum.md)，尤其是第 5、6 章。如有疑问或觉得某处有误，请在文档中选中相应段落，使用“我有意见”按钮，或写信至 salve@novusignis.org。
 
-更多：[Omniforum 白皮书，第 5.5 节](../whitepaper-omniforum.md#s5-5)。
+更多：[OmniForum 白皮书，第 5.5 节](../whitepaper-omniforum.md#s5-5)。

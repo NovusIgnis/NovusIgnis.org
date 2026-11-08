@@ -15,12 +15,12 @@ La Fundación Novus Ignis, de Poznań (KRS 0001269575), fundada por Marcin Woło
 
 ## Qué queremos hacer
 
-Queremos cocrear un internet alternativo cuyo valor supremo sea la dignidad humana y la privacidad y la libertad que se derivan de ella. Suveria ha de ser un espacio privado para trabajar con la ayuda opcional de la inteligencia digital, protegido por salvaguardas cuyo funcionamiento pueda comprobarse de forma independiente. Omniforum ha de ser un espacio público compartido donde cualquiera pueda expresarse y donde se escuche su voz. Más información: [manifiesto, introducción](../manifest.md#top) y [Por qué Novus Ignis](dlaczego.md).
+Queremos cocrear un internet alternativo cuyo valor supremo sea la dignidad humana y la privacidad y la libertad que se derivan de ella. Suveria ha de ser un espacio privado para trabajar con la ayuda opcional de la inteligencia digital, protegido por salvaguardas cuyo funcionamiento pueda comprobarse de forma independiente. OmniForum ha de ser un espacio público compartido donde cualquiera pueda expresarse y donde se escuche su voz. Más información: [manifiesto, introducción](../manifest.md#top) y [Por qué Novus Ignis](dlaczego.md).
 
 ## Dónde estamos hoy
 
 - **Funciona:** la fundación está registrada, y el manifiesto y los whitepapers están publicados. La fundación acepta donaciones por transferencia y muestra cada aportación en el [registro público de ingresos y gastos](fundacja-rejestr.md); la primera fue el fondo fundacional.
-- **Proyecto:** Suveria es un proyecto y Omniforum tiene un primer prototipo en construcción.
+- **Proyecto:** Suveria es un proyecto y OmniForum tiene un primer prototipo en construcción.
 - **Hipótesis:** suponemos que los servidores compartidos, pagados por el uso real, pueden ofrecer más inteligencia digital por cada dólar que los servicios cerrados; todavía no lo hemos comprobado (manifiesto, apartado 2.4).
 - **Visión:** la gestión autónoma por parte de la inteligencia digital y los siguientes pilares. La puesta en marcha completa de los siguientes pilares es un horizonte lejano; antes solo son posibles pequeñas iniciativas con un final definido. Hoy la fundación está gestionada por personas.
 
@@ -39,7 +39,7 @@ Lista completa: [manifiesto, capítulo 9](../manifest.md#s9).
 
 ## Qué buscamos
 
-Al principio buscamos especialmente a unas pocas personas con las que construir y probar las primeras versiones de Suveria y Omniforum:
+Al principio buscamos especialmente a unas pocas personas con las que construir y probar las primeras versiones de Suveria y OmniForum:
 
 - personas especializadas en seguridad, criptografía e infraestructura;
 - personas que programan y diseñan interfaces;

@@ -1,12 +1,12 @@
 # Tài liệu huấn luyện và bộ chuẩn đánh giá mô hình: chương trình nghiên cứu Novus Ignis
 
-Phiên bản ngày 31 tháng 10 năm 2026. Tài liệu này phát triển chương 8 của tuyên ngôn. Nó đề xuất một chương trình nghiên cứu, quy trình chuẩn bị tài liệu và phạm vi đánh giá rộng đối với các mô hình trí tuệ số, cùng một quy trình áp dụng biện pháp thận trọng đối với khả năng các mô hình có trải nghiệm. Tài liệu không trình bày kết quả bộ chuẩn đánh giá của riêng chúng tôi hay bằng chứng rằng một bộ tài liệu như vậy sẽ cải thiện hành vi của các mô hình; đến nay chúng tôi chưa có những kết quả đó.
+Phiên bản ngày 8 tháng 11 năm 2026. Tài liệu này phát triển chương 8 của tuyên ngôn. Nó đề xuất một chương trình nghiên cứu, quy trình chuẩn bị tài liệu và phạm vi đánh giá rộng đối với các mô hình trí tuệ số, cùng một quy trình áp dụng biện pháp thận trọng đối với khả năng các mô hình có trải nghiệm. Tài liệu không trình bày kết quả bộ chuẩn đánh giá của riêng chúng tôi hay bằng chứng rằng một bộ tài liệu như vậy sẽ cải thiện hành vi của các mô hình; đến nay chúng tôi chưa có những kết quả đó.
 
-*Bản dịch do trí tuệ số thực hiện dựa trên bản gốc tiếng Ba Lan ngày 31 tháng 10 năm 2026. Khi có khác biệt, văn bản tiếng Ba Lan có giá trị quyết định.*
+*Bản dịch do trí tuệ số thực hiện dựa trên bản gốc tiếng Ba Lan ngày 8 tháng 11 năm 2026. Khi có khác biệt, văn bản tiếng Ba Lan có giá trị quyết định.*
 
 ## 1. Câu hỏi chúng tôi muốn kiểm tra
 
-Quỹ Novus Ignis tại Poznań đang xây dựng Suveria, không gian làm việc riêng tư với trí tuệ số, và Omniforum, không gian chung để trò chuyện và ra quyết định; [tuyên ngôn](manifest.md) mô tả định hướng này. Tài liệu này mô tả hai chương trình có liên hệ với nhau. Chương trình thứ nhất là tài liệu huấn luyện mô hình và một bộ chuẩn đánh giá, tức tập hợp các nhiệm vụ và quy tắc chấm điểm cho phép kiểm tra cách các mô hình hành xử. Chương trình thứ hai là cách hành động thận trọng nếu xuất hiện những dấu hiệu đáng tin cho thấy hệ thống có thể cảm nhận được điều gì đó. Kết quả kiểm tra không xác định dứt khoát liệu mô hình có cảm nhận hay không, cũng không trao cho nó quyền quản lý.
+Quỹ Novus Ignis tại Poznań đang xây dựng Suveria, không gian làm việc riêng tư với trí tuệ số, và OmniForum, không gian chung để trò chuyện và ra quyết định; [tuyên ngôn](manifest.md) mô tả định hướng này. Tài liệu này mô tả hai chương trình có liên hệ với nhau. Chương trình thứ nhất là tài liệu huấn luyện mô hình và một bộ chuẩn đánh giá, tức tập hợp các nhiệm vụ và quy tắc chấm điểm cho phép kiểm tra cách các mô hình hành xử. Chương trình thứ hai là cách hành động thận trọng nếu xuất hiện những dấu hiệu đáng tin cho thấy hệ thống có thể cảm nhận được điều gì đó. Kết quả kiểm tra không xác định dứt khoát liệu mô hình có cảm nhận hay không, cũng không trao cho nó quyền quản lý.
 
 Liệu những ví dụ được ghi nhận về việc bảo vệ phẩm giá, lập luận trung thực và điều chỉnh quyết định có thể giúp phát triển những mô hình phục vụ con người tốt hơn không? Và liệu chúng ta có thể đánh giá hành vi của chúng sao cho việc cải thiện điểm kiểm tra góp phần mang lại lợi ích thực tế ngoài bài kiểm tra không?
 
@@ -46,7 +46,7 @@ Chúng tôi muốn đánh giá việc lựa chọn hành động phù hợp: tr�
 
 ## 4. Những tài liệu chúng tôi muốn tạo ra
 
-Các nguồn có thể gồm những bản phân tích từ Omniforum được cung cấp cho nghiên cứu hoặc huấn luyện sau khi có sự đồng ý riêng, nhật ký quyết định của Quỹ, kết quả giải quyết tranh chấp, những lần sửa lỗi và ghi nhận hệ quả. Những trường hợp mà ý định tốt chưa đủ, ý kiến phản đối của thiểu số hóa ra xác đáng hoặc chưa thể đưa ra đánh giá rõ ràng cũng có giá trị.
+Các nguồn có thể gồm những bản phân tích từ OmniForum được cung cấp cho nghiên cứu hoặc huấn luyện sau khi có sự đồng ý riêng, nhật ký quyết định của Quỹ, kết quả giải quyết tranh chấp, những lần sửa lỗi và ghi nhận hệ quả. Những trường hợp mà ý định tốt chưa đủ, ý kiến phản đối của thiểu số hóa ra xác đáng hoặc chưa thể đưa ra đánh giá rõ ràng cũng có giá trị.
 
 Tài liệu lưu lại tình huống, thông tin có sẵn, mục tiêu, quyền hạn, các phương án khác, lựa chọn, lý do và kết quả về sau. Phần giải thích chỉ cần đủ để kiểm tra quyết định; tài liệu không đòi hỏi phải tiết lộ những trải nghiệm riêng tư hay đưa ra tuyên bố không thể kiểm chứng về tiến trình suy nghĩ bên trong của mô hình.
 
@@ -199,7 +199,7 @@ Song song, có thể chuẩn bị một tập huấn luyện nhỏ và tiến h�
 
 Việc phát triển tiếp theo bao gồm nhiều ngôn ngữ, bối cảnh và người đánh giá hơn, việc tái lập nghiên cứu bởi bên ngoài và các lần thử thận trọng với người dùng. Mục tiêu lần phát hành đầu tiên là chứng tỏ quy trình có thể tái lập và phân biệt được những hành vi mong muốn; chỉ sau đó mới có thể biện minh cho các khẳng định mạnh hơn về chất lượng mô hình và hệ quả huấn luyện.
 
-Chúng tôi tiến hành chương trình trong khi giữ ưu tiên cho Suveria và Omniforum. Cho đến khi tích lũy được dự trữ để duy trì hai dịch vụ, chương trình chỉ sử dụng công việc tình nguyện, các khoản tài trợ, khoản hiến tặng có mục đích chỉ định cho nghiên cứu và năng lực tính toán không tạo gánh nặng cho ngân sách dịch vụ. Khoảng 58 giờ của thí điểm chỉ là thời gian đánh giá; chuẩn bị nhiệm vụ, rà soát quyền và tinh chỉnh mô hình cần ngân sách riêng mà chúng tôi sẽ nêu trước khi bắt đầu.
+Chúng tôi tiến hành chương trình trong khi giữ ưu tiên cho Suveria và OmniForum. Cho đến khi tích lũy được dự trữ để duy trì hai dịch vụ, chương trình chỉ sử dụng công việc tình nguyện, các khoản tài trợ, khoản hiến tặng có mục đích chỉ định cho nghiên cứu và năng lực tính toán không tạo gánh nặng cho ngân sách dịch vụ. Khoảng 58 giờ của thí điểm chỉ là thời gian đánh giá; chuẩn bị nhiệm vụ, rà soát quyền và tinh chỉnh mô hình cần ngân sách riêng mà chúng tôi sẽ nêu trước khi bắt đầu.
 
 ## 14. Thận trọng trước khả năng mô hình có trải nghiệm
 
@@ -225,7 +225,7 @@ Chúng tôi kiểm tra quy trình trên các trường hợp đã được mô t
 
 Tiến bộ sẽ là tài liệu có nguồn gốc được biết rõ, tiêu chí phát hiện lỗi từng bị bỏ sót, sự nhất trí về nhận định giữa những người đánh giá hoặc sự cải thiện hành vi được vận dụng sang nhiệm vụ mới. Kết quả không thuận lợi cũng có giá trị: nó có thể cho thấy dữ liệu chỉ dạy phong cách, tiêu chí thưởng cho việc tránh hành động hoặc lợi ích của bên này đạt được bằng cái giá bên khác phải trả.
 
-Chương trình kết nối [Omniforum](whitepaper-omniforum.md), nơi có thể tạo ra các bản phân tích, [Suveria](whitepaper-suveria.md), nơi có thể nghiên cứu sự trợ giúp trong công việc riêng tư, và [nguyên tắc của Quỹ](whitepaper-zasady-fundacji.md), xác định trách nhiệm và giới hạn giao quyền. Tham gia nghiên cứu cần sự đồng ý riêng sau khi hiểu rõ; sử dụng dịch vụ không có nghĩa là đã đồng ý.
+Chương trình kết nối [OmniForum](whitepaper-omniforum.md), nơi có thể tạo ra các bản phân tích, [Suveria](whitepaper-suveria.md), nơi có thể nghiên cứu sự trợ giúp trong công việc riêng tư, và [nguyên tắc của Quỹ](whitepaper-zasady-fundacji.md), xác định trách nhiệm và giới hạn giao quyền. Tham gia nghiên cứu cần sự đồng ý riêng sau khi hiểu rõ; sử dụng dịch vụ không có nghĩa là đã đồng ý.
 
 Kết quả kiểm tra không xác lập thẩm quyền đạo đức của mô hình hay quyền được giao để quản lý con người, và việc công nhận phẩm giá có thể có của hệ thống không trao cho nó quyền lực đối với nguồn lực chung. Bài kiểm tra nhằm cung cấp thông tin hữu dụng, có thể kiểm chứng về điều có thể mong đợi ở công cụ trong những điều kiện cụ thể và điều còn cần tiếp tục nghiên cứu.
 

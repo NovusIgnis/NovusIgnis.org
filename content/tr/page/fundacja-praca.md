@@ -46,7 +46,7 @@ Daha fazlası: [vakıf ilkeleri teknik raporu, 5.3. madde](../whitepaper-zasady-
 
 ## Gönüllüler için araçlar
 
-Kendi sunucularımız olana kadar, gönüllülerin Suveria’nın (dijital zekâyla çalışmak için özel alan) ve Omniforum’un (ortak konuşma, anlama ve karar alanı) açık kaynak kodunu üretmek ve sınamak için gereken araçların, örneğin dijital zekâ modellerine erişimin giderlerini karşılayabiliriz. Koşul: vakfın bu iki hizmetten oluşan ilk çalışma aşaması I. Sütun kaynakları veya belirli amaca yönelik bağışlar. Böyle desteğin bütçede açık sınırı vardır; ücret değildir. Kapsamını hukuki görüşle doğrulayacağız.
+Kendi sunucularımız olana kadar, gönüllülerin Suveria’nın (dijital zekâyla çalışmak için özel alan) ve OmniForum’un (ortak konuşma, anlama ve karar alanı) açık kaynak kodunu üretmek ve sınamak için gereken araçların, örneğin dijital zekâ modellerine erişimin giderlerini karşılayabiliriz. Koşul: vakfın bu iki hizmetten oluşan ilk çalışma aşaması I. Sütun kaynakları veya belirli amaca yönelik bağışlar. Böyle desteğin bütçede açık sınırı vardır; ücret değildir. Kapsamını hukuki görüşle doğrulayacağız.
 
 Daha fazlası: [vakıf ilkeleri teknik raporu, 5.4. madde](../whitepaper-zasady-fundacji.md#s5-4).
 

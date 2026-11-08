@@ -24,7 +24,7 @@ Puoi sostenere la fondazione con una donazione tramite bonifico in złoty, euro 
 
 ## Che cosa succede alla donazione
 
-- Una donazione senza una destinazione indicata confluisce nei fondi liberamente disponibili per l'assegnazione, sempre con priorità al Pilastro I, cioè a Suveria e Omniforum.
+- Una donazione senza una destinazione indicata confluisce nei fondi liberamente disponibili per l'assegnazione, sempre con priorità al Pilastro I, cioè a Suveria e OmniForum.
 - Una donazione non dà voti, poteri di gestione, accesso ai dati di chi usa i servizi né diritto a una promozione nei nostri servizi e nella nostra comunicazione.
 - Nel registro indichiamo il nome di chi dona solo quando lo desidera; descriviamo gli altri versamenti in termini generali, per esempio «donazione di una persona privata». Non pubblichiamo le causali dei bonifici alla lettera, perché spesso contengono dati personali. Se vuoi che indichiamo il tuo nome o quello della tua azienda, scrivici.
 - Non accettiamo benefici la cui condizione sia una promozione, una raccomandazione o una concessione nelle decisioni.

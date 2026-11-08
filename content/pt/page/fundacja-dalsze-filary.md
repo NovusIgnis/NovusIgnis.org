@@ -7,11 +7,11 @@ menu: Os demais pilares
 ---
 # Os demais pilares
 
-Esta página conta aonde a fundação quer chegar além do software e como cuida para não partir cedo demais. Hoje, atuamos exclusivamente no Pilar I: a Suveria é um projeto, e o Omniforum tem um protótipo em construção. Os Pilares II e III são uma visão, e não trabalhos em andamento.
+Esta página conta aonde a fundação quer chegar além do software e como cuida para não partir cedo demais. Hoje, atuamos exclusivamente no Pilar I: a Suveria é um projeto, e o OmniForum tem um protótipo em construção. Os Pilares II e III são uma visão, e não trabalhos em andamento.
 
 ## Visão geral dos três pilares
 
-- **Pilar I “Software”: começamos aqui.** Software e serviços digitais, ou seja, a Suveria, um espaço privado de trabalho com inteligência digital, e o Omniforum, um espaço compartilhado de conversa, compreensão e decisões.
+- **Pilar I “Software”: começamos aqui.** Software e serviços digitais, ou seja, a Suveria, um espaço privado de trabalho com inteligência digital, e o OmniForum, um espaço compartilhado de conversa, compreensão e decisões.
 - **Pilar II “Hardware”: visão.** Projetos abertos de objetos duráveis e reparáveis.
 - **Pilar III “Natureza”: visão.** Contato mais próximo com a natureza.
 
@@ -36,8 +36,8 @@ Saiba mais: [estatuto, § 5](../statut/statut-2026-09-28.md#par-5) e [registro d
 
 Começamos o desenvolvimento pelo Pilar I, e destinaremos os primeiros recursos do orçamento comum e a capacidade computacional livre aos seus compromissos básicos. O lançamento pleno dos Pilares II e III e o financiamento de seus projetos pelo orçamento comum exigem três condições conjuntas. Em cada uma, indicamos quando a consideraremos cumprida.
 
-1. **Votação em funcionamento.** Omniforum com votação vinculante, ou seja, uma votação cujo resultado a fundação executa (consultas não bastam). Queremos baseá-la em provas de conhecimento zero: uma forma de confirmar o direito de voto sem revelar como cada pessoa votou. A escolha deverá permanecer secreta, deverá ser possível verificar se o voto foi considerado e cada pessoa habilitada deverá ter um voto efetivo. Cumprida após pelo menos uma votação vinculante na qual um teste público com recompensa não conseguiu dar um segundo voto com a mesma habilitação nem ligar um voto a uma pessoa.
-2. **Reserva.** Recursos efetivamente reunidos para pelo menos seis meses de manutenção da Suveria e do Omniforum, intactos após separar o orçamento integral do novo projeto. Cumprida quando uma conta separada contiver seis vezes o custo médio mensal de manutenção dos últimos três meses e mostrarmos o valor mensalmente no registro.
+1. **Votação em funcionamento.** OmniForum com votação vinculante, ou seja, uma votação cujo resultado a fundação executa (consultas não bastam). Queremos baseá-la em provas de conhecimento zero: uma forma de confirmar o direito de voto sem revelar como cada pessoa votou. A escolha deverá permanecer secreta, deverá ser possível verificar se o voto foi considerado e cada pessoa habilitada deverá ter um voto efetivo. Cumprida após pelo menos uma votação vinculante na qual um teste público com recompensa não conseguiu dar um segundo voto com a mesma habilitação nem ligar um voto a uma pessoa.
+2. **Reserva.** Recursos efetivamente reunidos para pelo menos seis meses de manutenção da Suveria e do OmniForum, intactos após separar o orçamento integral do novo projeto. Cumprida quando uma conta separada contiver seis vezes o custo médio mensal de manutenção dos últimos três meses e mostrarmos o valor mensalmente no registro.
 3. **Decisão da comunidade.** Votação aberta a toda a comunidade habilitada em igualdade de condições. Cumprida quando a comunidade aprovar uma proposta concreta com orçamento, impacto sobre a reserva e critério de interrupção.
 
 Promessas não pagas, saldos devidos aos usuários e dinheiro com destinação específica não formam a reserva, e uma simulação de votação não cumpre a primeira condição. Se a votação parar de funcionar ou a reserva cair para menos de seis meses, suspendemos novos compromissos dos demais pilares e primeiro restabelecemos as condições.

@@ -9,6 +9,10 @@ menu: Wijzigingslogboek
 
 De documenten groeien mee met onze kennis en ervaring, met behoud van de wijzigingsgeschiedenis. Hier leggen we vast wat en wanneer op de website en in de documenten is veranderd, ook als een verandering voortkomt uit een opmerking van een lezer. De wijzigingsgeschiedenis van de statuten zelf staat afzonderlijk in het [register van statutenwijzigingen](../statut/rejestr-zmian.md).
 
+## 8 november 2026: schrijfwijze van de naam OmniForum
+
+- In het manifest, in de vier whitepapers en op de hele site hebben we de schrijfwijze van de naam Omniforum gewijzigd in OmniForum, net als bij de namen OmniActa en OmniVox. Verder is de inhoud van de documenten niet veranderd. De vorige tekst van elk document blijft bewaard in zijn versiegeschiedenis.
+
 ## 3 november 2026: naam van het beginsel van het eerlijke voorbeeld in het manifest
 
 - In paragraaf 8.1 van het manifest hebben we een alinea toegevoegd over het beginsel dat we *Alignment by Honest Example* noemen: we proberen de stichting te leiden zoals we zouden willen dat digitale intelligentie ooit de aan haar toevertrouwde zaken zou behartigen. Het beginsel stond al in onze eerdere schetsen uit september 2026; bij de redactie vóór publicatie bleven de gevolgen van dit beginsel in de tekst staan (paragrafen 1.1 en 8.1), maar raakten we de naam en de onderbouwing kwijt. Waarom: zonder die onderbouwing is moeilijk te begrijpen waarom we besluiten en fouten zo gedetailleerd vastleggen. Versie van het manifest: 3 november 2026.

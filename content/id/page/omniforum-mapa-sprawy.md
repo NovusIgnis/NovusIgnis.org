@@ -1,6 +1,6 @@
 ---
 tytul: Peta isu dan kartu ide
-opis: Cara Omniforum dimaksudkan menyandingkan penalaran berbagai orang dalam satu peta, menunjukkan kekuatan kesimpulan, dan memandu dari gambaran masa depan menuju langkah terdekat
+opis: Cara OmniForum dimaksudkan menyandingkan penalaran berbagai orang dalam satu peta, menunjukkan kekuatan kesimpulan, dan memandu dari gambaran masa depan menuju langkah terdekat
 grupa: omniforum
 kolejnosc: 4
 menu: Peta isu
@@ -11,9 +11,9 @@ Pada halaman [Cara percakapan bekerja](omniforum-rozmowa.md), kami menjelaskan c
 
 Peta isu adalah kumpulan argumen, pengalaman, dan pertanyaan terbuka yang tertata di sekitar satu pertanyaan. Kartu ide merupakan uraian ide: ke mana arahnya dan apa langkah terdekatnya.
 
-Prototipe Omniforum sedang dibangun. Semua uraian di bawah masih berupa rancangan; belum ada satu pun percobaan yang kami selesaikan.
+Prototipe OmniForum sedang dibangun. Semua uraian di bawah masih berupa rancangan; belum ada satu pun percobaan yang kami selesaikan.
 
-Selengkapnya: [whitepaper Omniforum, bab 1](../whitepaper-omniforum.md#s1).
+Selengkapnya: [whitepaper OmniForum, bab 1](../whitepaper-omniforum.md#s1).
 
 ## Dari rantai pemikiran menuju peta
 
@@ -23,7 +23,7 @@ Peta isu menyandingkan rantai berbagai orang, termasuk yang saling bertentangan.
 
 Isu adalah pertanyaan yang ingin ditinjau kembali oleh seseorang karena ingin memahami, membandingkan, atau melakukan sesuatu bersama. Tautan tetap mengarah ke semua hal yang menyangkutnya: pertanyaan, sumber, argumen, keadaan pengetahuan, dan riwayat perubahan. Isu pribadi ditangani dalam Suveria (ruang pribadi untuk bekerja dengan kecerdasan digital); daftar isu bersama merupakan arah yang akan kami periksa melalui percobaan terpisah.
 
-Selengkapnya: [whitepaper Omniforum, bab 5](../whitepaper-omniforum.md#s5) dan [bagian 5.1](../whitepaper-omniforum.md#s5-1).
+Selengkapnya: [whitepaper OmniForum, bab 5](../whitepaper-omniforum.md#s5) dan [bagian 5.1](../whitepaper-omniforum.md#s5-1).
 
 ## Cara membaca peta
 
@@ -31,7 +31,7 @@ Peta dirancang agar isinya disajikan dengan tenang. Mula-mula Anda melihat satu 
 
 Dalam rancangan ini, ketika Anda kembali ke topik setelah seminggu atau setahun, Anda hanya akan melihat yang berubah: pengalaman baru, koreksi, hasil percobaan, dan pertanyaan yang masih terbuka. Setelah meninjau perubahan, Anda mendapat informasi tegas bahwa hanya itulah pembaruannya dan dapat kembali dengan tenang pada urusan sendiri.
 
-Selengkapnya: [whitepaper Omniforum, bab 5](../whitepaper-omniforum.md#s5) dan [bagian 1.1](../whitepaper-omniforum.md#s1-1).
+Selengkapnya: [whitepaper OmniForum, bab 5](../whitepaper-omniforum.md#s5) dan [bagian 1.1](../whitepaper-omniforum.md#s1-1).
 
 ## Seberapa kuat kesimpulannya
 
@@ -43,9 +43,9 @@ Pada kesimpulan, kami ingin menunjukkan tiga hal secara terpisah:
 
 Satu ukuran tidak menggantikan yang lain: kesepakatan penuh peserta yang hanya bertumpu pada satu kesaksian yang belum diperiksa tetap merupakan kesimpulan lemah. Skala penilaian ini masih akan kami susun, dan kami tidak menambahkan ketidakpastian semu pada fakta yang telah mapan.
 
-Manifesto membagi perenungan bersama menjadi fakta (apa yang dapat diperiksa), nilai (kebutuhan dan keyakinan tentang apa yang benar), serta hipotesis, yaitu ide berani dengan syarat yang ditandai, "apa yang harus menjadi mungkin agar ini dapat bekerja". Fakta ditentukan oleh sumber, bukan jumlah suara; dalam ranah nilai, setiap orang menjadi titik acuan yang setara. Di Omniforum, setiap pemikiran dimaksudkan mendapat penanda tersebut.
+Manifesto membagi perenungan bersama menjadi fakta (apa yang dapat diperiksa), nilai (kebutuhan dan keyakinan tentang apa yang benar), serta hipotesis, yaitu ide berani dengan syarat yang ditandai, "apa yang harus menjadi mungkin agar ini dapat bekerja". Fakta ditentukan oleh sumber, bukan jumlah suara; dalam ranah nilai, setiap orang menjadi titik acuan yang setara. Di OmniForum, setiap pemikiran dimaksudkan mendapat penanda tersebut.
 
-Selengkapnya: [whitepaper Omniforum, bab 5](../whitepaper-omniforum.md#s5) dan [manifesto, bagian 5.1](../manifest.md#s5-1).
+Selengkapnya: [whitepaper OmniForum, bab 5](../whitepaper-omniforum.md#s5) dan [manifesto, bagian 5.1](../manifest.md#s5-1).
 
 ## Kartu ide
 
@@ -62,7 +62,7 @@ Visi berani mudah dianggap terlepas dari kenyataan, sedangkan rencana berhati-ha
 
 Kartu bukan satu pemikiran, melainkan tampilan banyak konsep, klaim, sumber, syarat, dan percobaan yang saling terkait. Kartu-kartu pertama dimaksudkan memuat ide-ide dari manifesto kami.
 
-Selengkapnya: [whitepaper Omniforum, bagian 5.2](../whitepaper-omniforum.md#s5-2).
+Selengkapnya: [whitepaper OmniForum, bagian 5.2](../whitepaper-omniforum.md#s5-2).
 
 ## Dari ide menuju inisiatif
 
@@ -70,7 +70,7 @@ Ketika percakapan menghasilkan kesepakatan bersama tentang apa yang layak dilaku
 
 Sebelum diajukan untuk keputusan tentang uang bersama, inisiatif memerlukan apa yang disebut manifesto sebagai jalur hijau: rangkaian keterkaitan yang menunjukkan dasar faktual dan persetujuan komunitas terhadap nilai yang melandasinya. Selanjutnya ada keputusan terpisah: tentang tujuan, pekerjaan lanjutan, perkiraan biaya, dan pelaksanaan; persetujuan atas tujuan tidak menentukan biaya ataupun tenggat. Sebelum pemungutan suara yang mengikat tersedia, pengurus mengambilnya setelah konsultasi. Setelah selesai, kami menerbitkan biaya nyata, hasil, dan kesimpulan, juga ketika percobaan gagal.
 
-Selengkapnya: [whitepaper Omniforum, bagian 5.3](../whitepaper-omniforum.md#s5-3) dan [manifesto, bagian 5.3](../manifest.md#s5-3).
+Selengkapnya: [whitepaper OmniForum, bagian 5.3](../whitepaper-omniforum.md#s5-3) dan [manifesto, bagian 5.3](../manifest.md#s5-3).
 
 ## Apa yang kami tampilkan lebih tinggi dan yang tidak
 
@@ -85,10 +85,10 @@ Dalam urutan terakhir, argumen naik ketika diterima orang yang memberi penilaian
 
 Konten dan sumber beserta tanggalnya dimaksudkan berada di depan. Kami tidak mengelola penghitung kontribusi publik ataupun peringkat orang karena mendorong perlombaan dan memenuhi peta dengan entri, termasuk oleh bot. Kami ingin perhatian mengikuti hal yang memperjelas isu, bukan yang paling kuat membangkitkan emosi.
 
-Selengkapnya: [whitepaper Omniforum, bab 6](../whitepaper-omniforum.md#s6).
+Selengkapnya: [whitepaper OmniForum, bab 6](../whitepaper-omniforum.md#s6).
 
 ## Baca dan sampaikan pendapat Anda
 
-Uraian lengkap peta, kartu, dan inisiatif tersedia dalam [whitepaper Omniforum](../whitepaper-omniforum.md), terutama bab 5 dan 6. Jika ada hal yang membuat Anda bertanya-tanya atau tampak keliru, tandai bagian itu dalam dokumen dan gunakan tombol "Saya punya masukan", atau tulis ke salve@novusignis.org.
+Uraian lengkap peta, kartu, dan inisiatif tersedia dalam [whitepaper OmniForum](../whitepaper-omniforum.md), terutama bab 5 dan 6. Jika ada hal yang membuat Anda bertanya-tanya atau tampak keliru, tandai bagian itu dalam dokumen dan gunakan tombol "Saya punya masukan", atau tulis ke salve@novusignis.org.
 
-Selengkapnya: [whitepaper Omniforum, bagian 5.5](../whitepaper-omniforum.md#s5-5).
+Selengkapnya: [whitepaper OmniForum, bagian 5.5](../whitepaper-omniforum.md#s5-5).

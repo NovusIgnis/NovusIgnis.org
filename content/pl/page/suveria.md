@@ -25,7 +25,7 @@ W Suverii chcemy, żeby można było:
 - za własną zgodą korzystać z pamięci wcześniejszych rozmów i budować Osobisty Kanon, czyli zbiór własnych zasad i wartości;
 - wybrać sposób pracy, od modelu na własnym urządzeniu po poufne środowisko na serwerze, wiedząc, przed czym chroni każdy z nich;
 - płacić za rzeczywiste użycie, z limitem wydatków ustalonym przez siebie;
-- dopracować myśl prywatnie, a potem świadomie wnieść ją do wspólnej rozmowy w Omniforum, czyli publicznej przestrzeni rozmowy i decyzji.
+- dopracować myśl prywatnie, a potem świadomie wnieść ją do wspólnej rozmowy w OmniForum, czyli publicznej przestrzeni rozmowy i decyzji.
 
 Już pierwszy dzień ma dawać spokojne poczucie bycia u siebie. Chcemy też umożliwić przeniesienie własnych notatek i archiwów rozmów z innych usług cyfrowej inteligencji. Korzystanie z Suverii nie jest zgodą na użycie rozmów do szkolenia modeli.
 

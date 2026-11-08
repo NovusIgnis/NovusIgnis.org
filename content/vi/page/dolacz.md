@@ -7,7 +7,7 @@ menu: Tham gia
 ---
 # Tham gia
 
-Trang này nói cách bạn có thể giúp Quỹ Novus Ignis hôm nay. Quỹ đã hoạt động, tuyên ngôn và sách trắng đã công bố, có thể gửi ý kiến tại mỗi tài liệu. Chưa có dịch vụ hay khoản đóng góp, các biện pháp bảo vệ Suveria chưa được kiểm tra trong thử nghiệm nào: Suveria, không gian làm việc riêng tư với trí tuệ số, là bản thiết kế; Omniforum, không gian chung cho trò chuyện, thấu hiểu và quyết định, có nguyên mẫu đầu tiên đang xây dựng.
+Trang này nói cách bạn có thể giúp Quỹ Novus Ignis hôm nay. Quỹ đã hoạt động, tuyên ngôn và sách trắng đã công bố, có thể gửi ý kiến tại mỗi tài liệu. Chưa có dịch vụ hay khoản đóng góp, các biện pháp bảo vệ Suveria chưa được kiểm tra trong thử nghiệm nào: Suveria, không gian làm việc riêng tư với trí tuệ số, là bản thiết kế; OmniForum, không gian chung cho trò chuyện, thấu hiểu và quyết định, có nguyên mẫu đầu tiên đang xây dựng.
 
 Công việc tại quỹ dựa trên tình nguyện. Không ai nhận thù lao vì giữ chức, sẽ không có vị trí hưởng lương theo hợp đồng lao động; quỹ hoàn trả chi phí nhiệm vụ cần thiết, có chứng từ, chẳng hạn vé đi họp công việc. Việc giúp đỡ cần nằm vừa trong cuộc sống hằng ngày: bạn chọn nhiệm vụ, đóng góp trong khả năng rồi trở lại việc riêng.
 
@@ -19,19 +19,19 @@ Hãy đọc phần mở đầu tuyên ngôn hoặc một chương được chọ
 
 Nút “Tôi có ý kiến” phục vụ việc này: bạn chọn đoạn tuyên ngôn hay sách trắng, một lần nhấp chuẩn bị thông điệp đã có trích dẫn và liên kết đến vị trí ấy. Thông điệp chỉ đến quỹ; ý kiến dẫn đến thay đổi được ghi trong lịch sử tài liệu.
 
-Xem thêm: [sách trắng Omniforum, mục 5.5](../whitepaper-omniforum.md#s5-5) và [tuyên ngôn, chương 9](../manifest.md#s9).
+Xem thêm: [sách trắng OmniForum, mục 5.5](../whitepaper-omniforum.md#s5-5) và [tuyên ngôn, chương 9](../manifest.md#s9).
 
 ## Chúng tôi đang tìm ai
 
 Tuyên ngôn mời gọi kiến thức và trí tưởng tượng từ nhiều lĩnh vực. Dưới đây là các vai trò cần giúp sớm nhất. Liên kết bên mỗi vai trò mở thông điệp gửi chúng tôi với tiêu đề có sẵn.
 
 - **An toàn, mật mã học và hạ tầng.** Việc đang làm: thiết kế Suveria để quyền riêng tư dựa vào các biện pháp kiểm tra độc lập được, thay vì lòng tin vào quỹ. Điều cần: người giúp thiết kế phép thử bảo vệ và thử phá vỡ trên tài khoản thử nghiệm với dữ liệu hư cấu. Điều đã có: mô tả thử nghiệm trong sách trắng Suveria; chưa thực hiện thử nghiệm nào. [Tôi đăng ký](mailto:salve@novusignis.org?subject=%5BDo%C5%82%C4%85cz%5D%20Bezpiecze%C5%84stwo%2C%20kryptografia%20i%20infrastruktura)
-- **Lập trình và thiết kế giao diện.** Việc đang làm: phần mềm Suveria và Omniforum dưới dạng mã nguồn mở. Điều cần: người cùng kiến tạo, kiểm tra và thiết kế cách sử dụng. Điều đã có: nguyên mẫu Omniforum đang xây dựng; mã sẽ công bố khi phiên bản đầu sẵn sàng thử nghiệm. [Tôi đăng ký](mailto:salve@novusignis.org?subject=%5BDo%C5%82%C4%85cz%5D%20Programowanie%20i%20interfejsy)
+- **Lập trình và thiết kế giao diện.** Việc đang làm: phần mềm Suveria và OmniForum dưới dạng mã nguồn mở. Điều cần: người cùng kiến tạo, kiểm tra và thiết kế cách sử dụng. Điều đã có: nguyên mẫu OmniForum đang xây dựng; mã sẽ công bố khi phiên bản đầu sẵn sàng thử nghiệm. [Tôi đăng ký](mailto:salve@novusignis.org?subject=%5BDo%C5%82%C4%85cz%5D%20Programowanie%20i%20interfejsy)
 - **Pháp luật.** Việc đang làm: trước khoản trả trước đầu tiên, chúng tôi muốn có quy chế dịch vụ được kiểm tra về luật người tiêu dùng và ý kiến pháp lý về chi phí thanh toán. Điều cần: người biết pháp luật quỹ, bảo vệ dữ liệu, dịch vụ số và thanh toán. Điều đã có: điều lệ cùng sổ ghi thay đổi và dự thảo quy chế tương lai. [Tôi đăng ký](mailto:salve@novusignis.org?subject=%5BDo%C5%82%C4%85cz%5D%20Prawo)
 - **Nghiên cứu và bộ chuẩn đánh giá.** Việc đang làm: tài liệu huấn luyện mô hình và bộ chuẩn đánh giá, tức tập hợp nhiệm vụ, nguyên tắc chấm điểm kiểm tra sự trợ giúp của trí tuệ số có phục vụ con người cả ngoài bài kiểm tra hay không. Điều cần: người chuẩn bị ví dụ đầu tiên và lập kế hoạch nghiên cứu với con người. Điều đã có: chương trình đã mô tả; chưa có ví dụ, bộ dữ liệu hay nhóm. [Tôi đăng ký](mailto:salve@novusignis.org?subject=%5BDo%C5%82%C4%85cz%5D%20Badania%20i%20benchmark)
 - **Giới thiệu công nghệ tới công chúng.** Việc đang làm: chúng tôi muốn thử bảo vệ Suveria công khai và ghi kết quả, cả không đạt, vào nhật ký kết quả. Điều cần: người sáng tạo giới thiệu công nghệ cho công chúng rộng rãi và người phê bình. Chúng tôi không trả tiền quảng bá, ghi mọi hợp tác vào sổ ghi nhận lợi ích. [Tôi đăng ký](mailto:salve@novusignis.org?subject=%5BDo%C5%82%C4%85cz%5D%20Pr%C3%B3by%20Suverii)
 - **Trải nghiệm của bạn.** Việc đang làm: dịch vụ nhằm giúp tự do suy nghĩ, học hỏi và lập kế hoạch cuộc đời. Điều cần: người kể những gì đối diện hằng ngày và điều thực sự giúp mình. Bạn không cần kiến thức kỹ thuật cho việc này. [Tôi đăng ký](mailto:salve@novusignis.org?subject=%5BDo%C5%82%C4%85cz%5D%20Moje%20do%C5%9Bwiadczenie)
-- **Dịch thuật và truyền thông.** Việc đang làm: chúng tôi muốn mở Suveria và Omniforum cho mọi người ở mọi nơi trên thế giới. Điều cần: người dịch tài liệu hoặc kể về ý tưởng bằng lời đơn giản. Điều đã có: tuyên ngôn theo giấy phép cho phép sử dụng và sửa đổi có ghi nguồn. [Tôi đăng ký](mailto:salve@novusignis.org?subject=%5BDo%C5%82%C4%85cz%5D%20T%C5%82umaczenia%20i%20komunikacja)
+- **Dịch thuật và truyền thông.** Việc đang làm: chúng tôi muốn mở Suveria và OmniForum cho mọi người ở mọi nơi trên thế giới. Điều cần: người dịch tài liệu hoặc kể về ý tưởng bằng lời đơn giản. Điều đã có: tuyên ngôn theo giấy phép cho phép sử dụng và sửa đổi có ghi nguồn. [Tôi đăng ký](mailto:salve@novusignis.org?subject=%5BDo%C5%82%C4%85cz%5D%20T%C5%82umaczenia%20i%20komunikacja)
 
 Xem thêm: [tuyên ngôn, chương 9](../manifest.md#s9), [sách trắng Suveria, chương 9](../whitepaper-suveria.md#s9), [sách trắng bộ chuẩn đánh giá, chương 1](../whitepaper-materialy-i-benchmark.md#s1) và [sách trắng về nguyên tắc của quỹ, chương 1](../whitepaper-zasady-fundacji.md#s1).
 

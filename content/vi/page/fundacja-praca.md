@@ -46,7 +46,7 @@ Xem thêm: [sách trắng về nguyên tắc của quỹ, mục 5.3](../whitepap
 
 ## Công cụ cho tình nguyện viên
 
-Khi chưa có máy chủ riêng, chúng tôi có thể trả chi phí công cụ mà tình nguyện viên cần để tạo, kiểm tra mã mở Suveria (không gian làm việc riêng tư với trí tuệ số) và Omniforum (không gian chung cho trò chuyện, thấu hiểu, quyết định), như truy cập mô hình trí tuệ số. Điều kiện: tiền Trụ cột I, tức giai đoạn đầu công việc quỹ gồm hai dịch vụ này, hoặc khoản hiến tặng có mục đích chỉ định. Hỗ trợ có hạn mức ngân sách công khai, không phải thù lao; phạm vi sẽ xác nhận bằng ý kiến pháp lý.
+Khi chưa có máy chủ riêng, chúng tôi có thể trả chi phí công cụ mà tình nguyện viên cần để tạo, kiểm tra mã mở Suveria (không gian làm việc riêng tư với trí tuệ số) và OmniForum (không gian chung cho trò chuyện, thấu hiểu, quyết định), như truy cập mô hình trí tuệ số. Điều kiện: tiền Trụ cột I, tức giai đoạn đầu công việc quỹ gồm hai dịch vụ này, hoặc khoản hiến tặng có mục đích chỉ định. Hỗ trợ có hạn mức ngân sách công khai, không phải thù lao; phạm vi sẽ xác nhận bằng ý kiến pháp lý.
 
 Xem thêm: [sách trắng về nguyên tắc của quỹ, mục 5.4](../whitepaper-zasady-fundacji.md#s5-4).
 

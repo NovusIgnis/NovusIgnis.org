@@ -82,7 +82,7 @@ Więcej: [whitepaper zasad fundacji, punkt 12.3](../whitepaper-zasady-fundacji.m
 
 ## Jak zmieniamy dokumenty
 
-Manifest i whitepapery są żywymi dokumentami. Aktualna wersja przedstawia obecne stanowisko fundacji, a historia wcześniejszych wersji i powodów korekt pozostaje dostępna. Chcemy poddawać je publicznemu przeglądowi w Omniforum, budowanej przez nas wspólnej przestrzeni rozmowy, rozumienia i decyzji, rozkładając tezy na molekuły, czyli pojedyncze twierdzenia i argumenty, które można sprawdzić.
+Manifest i whitepapery są żywymi dokumentami. Aktualna wersja przedstawia obecne stanowisko fundacji, a historia wcześniejszych wersji i powodów korekt pozostaje dostępna. Chcemy poddawać je publicznemu przeglądowi w OmniForum, budowanej przez nas wspólnej przestrzeni rozmowy, rozumienia i decyzji, rozkładając tezy na molekuły, czyli pojedyncze twierdzenia i argumenty, które można sprawdzić.
 
 Reguły organizacyjne rozwijamy jawnie: razem z propozycją zmiany pokazujemy jej zakres, uzasadnienie i skutki dla uczestników. Statut zmieniamy tylko wtedy, gdy zmiana jest potrzebna do kolejnego kroku. Rozważamy też zapis warunków finansowania dalszych filarów w statucie (propozycja Z6 w [rejestrze zmian statutu](../statut/rejestr-zmian.md), do decyzji fundatora), żeby nie zależały od samej dobrej woli zarządu.
 

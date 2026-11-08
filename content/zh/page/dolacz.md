@@ -7,7 +7,7 @@ menu: 加入我们
 ---
 # 加入我们
 
-本页说明你现在如何帮助 Novus Ignis 基金会。基金会已在运作，宣言和白皮书已发布，每份文档都可提交意见。服务尚未上线，也尚无付款，我们尚未通过任何试验检验 Suveria 的安全保障：与数字智能开展工作的私密空间 Suveria 处于设计方案阶段，共同对话、理解与决策的空间 Omniforum 则有首个原型正在构建中。
+本页说明你现在如何帮助 Novus Ignis 基金会。基金会已在运作，宣言和白皮书已发布，每份文档都可提交意见。服务尚未上线，也尚无付款，我们尚未通过任何试验检验 Suveria 的安全保障：与数字智能开展工作的私密空间 Suveria 处于设计方案阶段，共同对话、理解与决策的空间 OmniForum 则有首个原型正在构建中。
 
 基金会的工作基于志愿服务。任何人都不因担任职务获得报酬，基金会不会设立雇员岗位；基金会报销任务所必需且有凭证的成本，例如参加工作会议的车票。帮助应融入日常生活：选择任务，按能力贡献，再回到自己的事务中。
 
@@ -19,19 +19,19 @@ menu: 加入我们
 
 “我有意见”按钮正用于此：选中宣言或白皮书的一段文字，点击一次，即可准备好附有引文及对应链接的邮件。邮件只发送给基金会；促成修改的意见会记入文档历史。
 
-更多：[Omniforum 白皮书，第 5.5 节](../whitepaper-omniforum.md#s5-5)及[宣言，第 9 章](../manifest.md#s9)。
+更多：[OmniForum 白皮书，第 5.5 节](../whitepaper-omniforum.md#s5-5)及[宣言，第 9 章](../manifest.md#s9)。
 
 ## 我们需要谁
 
 宣言邀请来自各领域的知识与想象力。以下是最早需要帮助的角色。每项链接都会打开一封主题已填好的邮件。
 
 - **安全、密码学与基础设施。**我们正在做什么：设计 Suveria，使隐私保护依赖可独立核验的安全保障，而非对基金会的信任。我们需要什么：帮助设计保护测试、用虚构数据在测试账户上尝试突破保护的人。已有内容：Suveria 白皮书中的试验说明；我们尚未进行任何一项。[我愿参与](mailto:salve@novusignis.org?subject=%5BDo%C5%82%C4%85cz%5D%20Bezpiecze%C5%84stwo%2C%20kryptografia%20i%20infrastruktura)
-- **编程与界面设计。**我们正在做什么：以开源代码构建 Suveria 和 Omniforum 软件。我们需要什么：共同编写、测试软件并设计使用方式的人。已有内容：构建中的 Omniforum 原型；首个版本准备好试验后，我们会发布代码。[我愿参与](mailto:salve@novusignis.org?subject=%5BDo%C5%82%C4%85cz%5D%20Programowanie%20i%20interfejsy)
+- **编程与界面设计。**我们正在做什么：以开源代码构建 Suveria 和 OmniForum 软件。我们需要什么：共同编写、测试软件并设计使用方式的人。已有内容：构建中的 OmniForum 原型；首个版本准备好试验后，我们会发布代码。[我愿参与](mailto:salve@novusignis.org?subject=%5BDo%C5%82%C4%85cz%5D%20Programowanie%20i%20interfejsy)
 - **法律。**我们正在做什么：希望在接受首次预付款前，取得经过消费者法审查的服务规章及关于支付成本的法律意见。我们需要什么：熟悉基金会法、数据保护、数字服务及支付的人。已有内容：章程、章程变更登记册及未来规章草案。[我愿参与](mailto:salve@novusignis.org?subject=%5BDo%C5%82%C4%85cz%5D%20Prawo)
 - **研究与基准测试。**我们正在做什么：模型训练材料及基准测试，即一套任务和评分规则，用于检验数字智能的协助是否在测试之外也有益于人。我们需要什么：准备首批示例、规划有人参与的研究的人。已有内容：成文的计划；尚无示例、数据集或团队。[我愿参与](mailto:salve@novusignis.org?subject=%5BDo%C5%82%C4%85cz%5D%20Badania%20i%20benchmark)
 - **向公众展示技术。**我们正在做什么：希望公开进行 Suveria 保护试验，并将结果，包括失败结果，写入结果日志。我们需要什么：向广泛公众展示技术的创作者及批评者。我们不为宣传推广付费，每项合作都在利益登记册中标明。[我愿参与](mailto:salve@novusignis.org?subject=%5BDo%C5%82%C4%85cz%5D%20Pr%C3%B3by%20Suverii)
 - **你的经历。**我们正在做什么：应帮助人自由思考、学习和规划自己生活的服务。我们需要什么：愿意讲述日常面对的问题，以及什么才会真正有帮助的人。这不需要技术知识。[我愿参与](mailto:salve@novusignis.org?subject=%5BDo%C5%82%C4%85cz%5D%20Moje%20do%C5%9Bwiadczenie)
-- **翻译与传播。**我们正在做什么：希望向世界各地的人开放 Suveria 和 Omniforum。我们需要什么：翻译文档或用通俗语言讲述理念的人。已有内容：宣言采用允许注明来源后使用及改编的许可协议。[我愿参与](mailto:salve@novusignis.org?subject=%5BDo%C5%82%C4%85cz%5D%20T%C5%82umaczenia%20i%20komunikacja)
+- **翻译与传播。**我们正在做什么：希望向世界各地的人开放 Suveria 和 OmniForum。我们需要什么：翻译文档或用通俗语言讲述理念的人。已有内容：宣言采用允许注明来源后使用及改编的许可协议。[我愿参与](mailto:salve@novusignis.org?subject=%5BDo%C5%82%C4%85cz%5D%20T%C5%82umaczenia%20i%20komunikacja)
 
 更多：[宣言，第 9 章](../manifest.md#s9)、[Suveria 白皮书，第 9 章](../whitepaper-suveria.md#s9)、[基准测试白皮书，第 1 章](../whitepaper-materialy-i-benchmark.md#s1)及[基金会运作原则白皮书，第 1 章](../whitepaper-zasady-fundacji.md#s1)。
 

@@ -7,7 +7,7 @@ menu: Deine Daten
 ---
 # Deine Daten
 
-Diese Seite beschreibt, welche personenbezogenen Daten von dir die Stiftung erhält, wenn du die Website novusignis.org nutzt, und was du damit tun kannst. Suveria und Omniforum sind heute Entwürfe; Daten in diesen Diensten behandeln ihre Whitepaper.
+Diese Seite beschreibt, welche personenbezogenen Daten von dir die Stiftung erhält, wenn du die Website novusignis.org nutzt, und was du damit tun kannst. Suveria und OmniForum sind heute Entwürfe; Daten in diesen Diensten behandeln ihre Whitepaper.
 
 ## Wer für deine Daten verantwortlich ist
 
@@ -32,8 +32,8 @@ Die Nachricht sendest du aus deinem eigenen Postfach, auch wenn die Schaltfläch
 
 ## Warteliste
 
-- Du meldest dich an, indem du eine Nachricht mit dem Betreff „[Warteliste] Suveria und Omniforum“ sendest. Das ist deine Einwilligung (Art. 6 Abs. 1 Buchst. a DSGVO).
-- Deine Adresse werden wir nur für eine einzige Nachricht nutzen: dass die ersten Versuche mit Suveria und Omniforum beginnen. Nach dem Versand entfernen wir die Adresse von der Liste.
+- Du meldest dich an, indem du eine Nachricht mit dem Betreff „[Warteliste] Suveria und OmniForum“ sendest. Das ist deine Einwilligung (Art. 6 Abs. 1 Buchst. a DSGVO).
+- Deine Adresse werden wir nur für eine einzige Nachricht nutzen: dass die ersten Versuche mit Suveria und OmniForum beginnen. Nach dem Versand entfernen wir die Adresse von der Liste.
 - Du kannst deine Einwilligung jederzeit widerrufen, indem du uns schreibst; dann entfernen wir die Adresse sofort. Der Widerruf ändert nichts daran, was wir zuvor auf Grundlage deiner Einwilligung getan haben.
 
 ## Spenden

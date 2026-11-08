@@ -9,7 +9,7 @@ menu: Chúng tôi là ai
 
 Trang này kể ngắn gọn Quỹ Novus Ignis là tổ chức như thế nào. Chi tiết được mô tả trong sách trắng về nguyên tắc của quỹ, có liên kết tại mỗi phần.
 
-Quỹ Novus Ignis là một tổ chức tại Poznań (KRS 0001269575), muốn xây dựng internet thay thế dựa trên phẩm giá con người. Trụ cột đầu tiên là hai dịch vụ mới đang được xây dựng: Suveria, không gian làm việc riêng tư với trí tuệ số, và Omniforum, không gian chung cho trò chuyện, thấu hiểu và quyết định. Chúng tôi ở điểm khởi đầu: quỹ đã đăng ký, tài liệu đã công bố, còn dịch vụ đang hình thành.
+Quỹ Novus Ignis là một tổ chức tại Poznań (KRS 0001269575), muốn xây dựng internet thay thế dựa trên phẩm giá con người. Trụ cột đầu tiên là hai dịch vụ mới đang được xây dựng: Suveria, không gian làm việc riêng tư với trí tuệ số, và OmniForum, không gian chung cho trò chuyện, thấu hiểu và quyết định. Chúng tôi ở điểm khởi đầu: quỹ đã đăng ký, tài liệu đã công bố, còn dịch vụ đang hình thành.
 
 Tất cả bắt đầu từ câu hỏi của người sáng lập, Marcin Wołowski: chúng ta đang truyền những khuôn mẫu hành xử nào của chính mình cho trí tuệ số trong quá trình huấn luyện?
 
@@ -27,7 +27,7 @@ Novus Ignis là tổ chức không có cổ đông: không trả lợi nhuận c
 | Điều lệ, tuyên ngôn và sách trắng | đã công bố |
 | Sổ ghi thay đổi điều lệ | đang hoạt động |
 | Suveria | bản thiết kế |
-| Omniforum | nguyên mẫu đang xây dựng |
+| OmniForum | nguyên mẫu đang xây dựng |
 | Quy chế | sẽ được tạo |
 | Các sổ khác: đóng góp và chi tiêu, lợi ích, quyết định, sai lầm và sổ chỉ được thêm mục (không thể âm thầm thay đổi hay xóa mục) | sẽ được tạo |
 
@@ -54,7 +54,7 @@ Xem thêm: [sách trắng về nguyên tắc của quỹ, chương 2](../whitepa
 - **tiền thuộc về người dùng:** tiền trả trước chưa dùng và số dư người tham gia;
 - **tiền được giao cho mục đích cụ thể:** các khoản hiến tặng có mục đích chỉ định, chỉ được chi cho mục đích ấy;
 - **cam kết đã nhận:** tiền đã dành cho chi tiêu dự kiến;
-- **phần bảo đảm duy trì dịch vụ:** dự phòng mà nếu thiếu, Suveria và Omniforum sẽ ngừng hoạt động;
+- **phần bảo đảm duy trì dịch vụ:** dự phòng mà nếu thiếu, Suveria và OmniForum sẽ ngừng hoạt động;
 - **tiền tự do phân bổ:** phần còn lại sau khi trừ các khoản khác, mà chúng tôi còn phải quyết định.
 
 Chúng tôi duy trì sổ ghi các khoản đóng góp và chi tiêu công khai trên trang [Sổ ghi các khoản đóng góp và chi tiêu](fundacja-rejestr.md).
@@ -73,7 +73,7 @@ Xem thêm: [sách trắng về nguyên tắc của quỹ, chương 5](../whitepa
 
 ## Quyền lực có thể chuyển giao
 
-Quỹ do một người sáng lập, Marcin Wołowski; hiện người sáng lập nắm nhiều quyền nhất: bổ nhiệm và bãi nhiệm ban điều hành. Chỉ toàn bộ ban điều hành nhất trí mới có thể sửa điều lệ; khi người sáng lập không ở trong ban, cũng cần sự đồng ý của người sáng lập. Chúng tôi không muốn điều này giữ nguyên: người sáng lập muốn dùng Suveria và Omniforum với quyền như mọi người và rút khỏi vai trò công chúng thường trực.
+Quỹ do một người sáng lập, Marcin Wołowski; hiện người sáng lập nắm nhiều quyền nhất: bổ nhiệm và bãi nhiệm ban điều hành. Chỉ toàn bộ ban điều hành nhất trí mới có thể sửa điều lệ; khi người sáng lập không ở trong ban, cũng cần sự đồng ý của người sáng lập. Chúng tôi không muốn điều này giữ nguyên: người sáng lập muốn dùng Suveria và OmniForum với quyền như mọi người và rút khỏi vai trò công chúng thường trực.
 
 Việc chuyển giao cần hiệu lực trên giấy lẫn thực tế: ngoài sửa điều lệ, phải giao quyền truy cập tài khoản, tên miền và hạ tầng. Kế hoạch chuyển giao trách nhiệm sẽ đặt ngày rà soát đầu tiên và báo cáo tiến độ định kỳ. Chúng tôi bổ nhiệm vào ban điều hành vì năng lực và hướng đi chung, không bao giờ vì đóng tiền.
 

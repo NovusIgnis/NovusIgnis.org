@@ -7,7 +7,7 @@ menu: Würde
 ---
 # Würde als Ausgangspunkt
 
-Diese Seite erklärt, was „Würde“ im Manifest von Novus Ignis bedeutet und was daraus folgt: Freiheit, Privatsphäre, Schutz der Aufmerksamkeit und Grundsätze, die im Handeln verankert sind. Sie fasst Kapitel 2 des Manifests zusammen, aus dem Suveria und Omniforum erwachsen. Bei jedem Teil findest du einen Link zum vollständigen Text.
+Diese Seite erklärt, was „Würde“ im Manifest von Novus Ignis bedeutet und was daraus folgt: Freiheit, Privatsphäre, Schutz der Aufmerksamkeit und Grundsätze, die im Handeln verankert sind. Sie fasst Kapitel 2 des Manifests zusammen, aus dem Suveria und OmniForum erwachsen. Bei jedem Teil findest du einen Link zum vollständigen Text.
 
 ## Was Würde im Manifest bedeutet
 
@@ -73,9 +73,9 @@ Gemeinsame Grundsätze erfordern verständliche Begründungen von Entscheidungen
 
 Mehr: [Manifest, Abschnitt 2.5](../manifest.md#s2-5).
 
-## Was daraus für Suveria und Omniforum folgt
+## Was daraus für Suveria und OmniForum folgt
 
-Aus diesen Grundsätzen erwachsen zwei einander ergänzende Richtungen: Suveria soll ein privater Raum zum Denken, Gestalten und Planen mit Hilfe digitaler Intelligenz sein und Omniforum ein gemeinsamer Raum, um eigene Gründe darzustellen und andere Perspektiven kennenzulernen. Suveria ist heute ein Entwurf, und für das Omniforum entsteht ein erster Prototyp. Jeder Mensch soll selbst wählen, was privat bleibt und was mit anderen geteilt wird. Siehe: [Was Suveria ist](suveria.md) und [Was das Omniforum ist](omniforum.md).
+Aus diesen Grundsätzen erwachsen zwei einander ergänzende Richtungen: Suveria soll ein privater Raum zum Denken, Gestalten und Planen mit Hilfe digitaler Intelligenz sein und OmniForum ein gemeinsamer Raum, um eigene Gründe darzustellen und andere Perspektiven kennenzulernen. Suveria ist heute ein Entwurf, und für das OmniForum entsteht ein erster Prototyp. Jeder Mensch soll selbst wählen, was privat bleibt und was mit anderen geteilt wird. Siehe: [Was Suveria ist](suveria.md) und [Was das OmniForum ist](omniforum.md).
 
 Mehr: [Manifest, „Wo wir heute stehen“](../manifest.md#top).
 

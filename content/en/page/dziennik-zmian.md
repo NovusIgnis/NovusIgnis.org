@@ -9,6 +9,10 @@ menu: Change log
 
 We develop the documents along with our knowledge and experience, keeping a history of changes. Here we record what changed on the site and in the documents, and when, including when a change follows from a reader's comment. The history of changes to the statute itself is kept separately, in the [statute change register](../statut/rejestr-zmian.md).
 
+## 8 November 2026: spelling of the name OmniForum
+
+- In the manifesto, in the four whitepapers and across the whole site we changed the spelling of the name Omniforum to OmniForum, in the same way as in the names OmniActa and OmniVox. Otherwise the content of the documents has not changed. The previous wording of each document is kept in its version history.
+
 ## 3 November 2026: the name of the honest example principle in the manifesto
 
 - In the manifesto, section 8.1, we added a paragraph about the principle we call *Alignment by Honest Example*: we try to run the foundation the way we would like digital intelligence one day to run the matters entrusted to it. The principle was in our earlier drafts from September 2026; in the editing before publication its consequences remained (sections 1.1 and 8.1), but we lost its name and rationale. Why: without the rationale it is hard to understand why we keep such detailed records of decisions and mistakes. Manifesto version: 3 November 2026.

@@ -82,7 +82,7 @@ Per saperne di più: [whitepaper sui principi di funzionamento della fondazione,
 
 ## Come cambiamo i documenti
 
-Il manifesto e i whitepaper sono documenti vivi. La versione attuale presenta la posizione attuale della fondazione, mentre la cronologia delle versioni precedenti e dei motivi delle correzioni resta disponibile. Vogliamo sottoporli a una revisione pubblica in Omniforum, lo spazio comune di conversazione, comprensione e decisione che stiamo costruendo, scomponendo le tesi in molecole, cioè singole affermazioni e argomenti verificabili.
+Il manifesto e i whitepaper sono documenti vivi. La versione attuale presenta la posizione attuale della fondazione, mentre la cronologia delle versioni precedenti e dei motivi delle correzioni resta disponibile. Vogliamo sottoporli a una revisione pubblica in OmniForum, lo spazio comune di conversazione, comprensione e decisione che stiamo costruendo, scomponendo le tesi in molecole, cioè singole affermazioni e argomenti verificabili.
 
 Sviluppiamo pubblicamente le regole organizzative: insieme alla proposta di modifica mostriamo l'ambito, la motivazione e gli effetti su chi partecipa. Modifichiamo lo statuto soltanto quando serve per il passo successivo. Consideriamo anche di inserire nello statuto le condizioni di finanziamento degli ulteriori pilastri (proposta Z6 nel [registro delle modifiche dello statuto](../statut/rejestr-zmian.md), da sottoporre alla decisione del fondatore), affinché non dipendano dalla sola buona volontà del consiglio di amministrazione.
 

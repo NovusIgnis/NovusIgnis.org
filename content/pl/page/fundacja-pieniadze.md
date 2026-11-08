@@ -17,14 +17,14 @@ Więcej: [whitepaper zasad fundacji, rozdział 1](../whitepaper-zasady-fundacji.
 
 Nie pokazujemy jednej kwoty na koncie, tylko dzielimy pieniądze według tego, do kogo należą i na co są przeznaczone. Saldo rachunku bankowego nie jest budżetem do rozdysponowania.
 
-Rezerwa to odłożone pieniądze, które mają utrzymać Suverię i Omniforum, gdyby wpłat zabrakło; whitepaper nazywa ją też zabezpieczeniem Filaru I (Filar I to Suveria i Omniforum).
+Rezerwa to odłożone pieniądze, które mają utrzymać Suverię i OmniForum, gdyby wpłat zabrakło; whitepaper nazywa ją też zabezpieczeniem Filaru I (Filar I to Suveria i OmniForum).
 
 | Rodzaj pieniędzy | Skąd | Na co wolno |
 | --- | --- | --- |
 | Środki należne użytkownikom | Niewykorzystane przedpłaty uczestników | Tylko na ich usługi; można je odzyskać |
 | Pieniądze powierzone na określony cel | Darowizny celowe, na przykład na pilotaż Suverii | Tylko na ten cel |
 | Podjęte zobowiązania | Pieniądze już przeznaczone na zaplanowane wydatki | Tylko na te wydatki |
-| Zabezpieczenie utrzymania usług | Rezerwa budowana z darowizn, także z zaokrągleń rachunków | Na to, bez czego Suveria i Omniforum przestałyby działać |
+| Zabezpieczenie utrzymania usług | Rezerwa budowana z darowizn, także z zaokrągleń rachunków | Na to, bez czego Suveria i OmniForum przestałyby działać |
 | Środki wolne do rozdysponowania | Wpłaty bez wskazanego celu (darowizny, granty, dotacje, zbiórki), po odliczeniu wszystkiego powyżej | Na nowe cele, zawsze z pierwszeństwem Filaru I |
 
 Każdą kwotę przypisujemy tylko do jednej kategorii, żeby niczego nie liczyć dwa razy. Do rezerwy liczymy tylko pieniądze, które faktycznie wpłynęły i nie należą do nikogo innego; obietnice wpłat się nie liczą.
@@ -78,8 +78,8 @@ Więcej: [whitepaper zasad fundacji, rozdział 4](../whitepaper-zasady-fundacji.
 
 Pierwszeństwo ma Filar I. Filar II „Hardware” (otwarte rozwiązania materialne) i Filar III „Natura” (kontakt z naturą) mogą być finansowane ze wspólnego budżetu dopiero wtedy, gdy spełnimy łącznie trzy warunki:
 
-1. działa Omniforum z głosowaniem opartym na dowodach z wiedzą zerową, w którym wybór jest tajny, można sprawdzić, czy głos został policzony, i każda uprawniona osoba ma jeden głos;
-2. na wydzielonym rachunku leżą rzeczywiście zgromadzone środki na co najmniej sześć miesięcy utrzymania Suverii i Omniforum, nienaruszone po odłożeniu pełnego budżetu nowego projektu;
+1. działa OmniForum z głosowaniem opartym na dowodach z wiedzą zerową, w którym wybór jest tajny, można sprawdzić, czy głos został policzony, i każda uprawniona osoba ma jeden głos;
+2. na wydzielonym rachunku leżą rzeczywiście zgromadzone środki na co najmniej sześć miesięcy utrzymania Suverii i OmniForum, nienaruszone po odłożeniu pełnego budżetu nowego projektu;
 3. społeczność zatwierdziła projekt i jego finansowanie w głosowaniu otwartym dla wszystkich uprawnionych na równych zasadach.
 
 Makieta głosowania, niewpłacone deklaracje ani cudze salda tych warunków nie spełniają.

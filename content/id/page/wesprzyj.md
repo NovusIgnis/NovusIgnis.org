@@ -24,7 +24,7 @@ Anda dapat mendukung yayasan dengan donasi melalui transfer bank dalam zloty, eu
 
 ## Apa yang terjadi pada donasi
 
-- Donasi tanpa tujuan tertentu masuk ke dana yang bebas dialokasikan; prioritas selalu diberikan kepada Pilar I, yaitu Suveria dan Omniforum.
+- Donasi tanpa tujuan tertentu masuk ke dana yang bebas dialokasikan; prioritas selalu diberikan kepada Pilar I, yaitu Suveria dan OmniForum.
 - Donasi tidak memberikan suara, kewenangan pengelolaan, akses ke data pengguna, ataupun hak promosi dalam layanan dan komunikasi kami.
 - Nama donatur kami cantumkan dalam daftar hanya jika mereka menghendakinya; setoran lain diuraikan secara umum, misalnya "donasi dari perorangan". Keterangan transfer tidak kami terbitkan secara langsung karena sering memuat data pribadi.  Jika Anda ingin nama Anda atau perusahaan dicantumkan, tulis kepada kami.
 - Kami tidak menerima manfaat yang mensyaratkan promosi, rekomendasi, ataupun konsesi dalam keputusan.

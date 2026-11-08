@@ -1,19 +1,19 @@
 ---
-tytul: Omniforum의 공동 결정
+tytul: OmniForum의 공동 결정
 opis: 의견 수렴과 투표의 차이, 생체정보 없는 투표권 획득 구상, 항상 지킬 원칙과 투표 구속력을 점진적으로 늘리려는 이유
 grupa: omniforum
 kolejnosc: 3
 menu: 공동 결정
 ---
-# Omniforum의 공동 결정
+# OmniForum의 공동 결정
 
-이 페이지는 [Omniforum이란](omniforum.md)에서 간략히 소개한 공동 결정을 더 깊이 설명합니다. 의견 수렴과 투표의 차이, 생체정보 없이 투표권을 주려는 방법, 항상 지킬 원칙과 투표 결과가 점진적으로 재단을 구속하도록 하려는 이유를 설명합니다.
+이 페이지는 [OmniForum이란](omniforum.md)에서 간략히 소개한 공동 결정을 더 깊이 설명합니다. 의견 수렴과 투표의 차이, 생체정보 없이 투표권을 주려는 방법, 항상 지킬 원칙과 투표 결과가 점진적으로 재단을 구속하도록 하려는 이유를 설명합니다.
 
-현재 진행 중인 투표나 의견 수렴은 없습니다. Omniforum 시제품은 제작 중이며 아래에 설명하는 모든 것은 설계 단계입니다.
+현재 진행 중인 투표나 의견 수렴은 없습니다. OmniForum 시제품은 제작 중이며 아래에 설명하는 모든 것은 설계 단계입니다.
 
 전체 작업에서 가장 어려운 부분 중 하나이므로 가까이 다가온 것과 오랫동안 작업해야 할 것을 공개적으로 설명합니다.
 
-더 알아보기: [Omniforum 백서 8장](../whitepaper-omniforum.md#s8).
+더 알아보기: [OmniForum 백서 8장](../whitepaper-omniforum.md#s8).
 
 ## 사실, 가치와 가설
 
@@ -36,7 +36,7 @@ menu: 공동 결정
 
 각 투표자가 서로 다른 사람이라는 점이 시험으로 확인되기 전까지는 정관상 투표가 아니라 의견 수렴이라 부릅니다.
 
-더 알아보기: [정관 § 8](../statut/statut-2026-09-28.md#par-8), [Omniforum 백서 8.1절](../whitepaper-omniforum.md#s8-1), [재단 원칙 백서 2장](../whitepaper-zasady-fundacji.md#s2).
+더 알아보기: [정관 § 8](../statut/statut-2026-09-28.md#par-8), [OmniForum 백서 8.1절](../whitepaper-omniforum.md#s8-1), [재단 원칙 백서 2장](../whitepaper-zasady-fundacji.md#s2).
 
 ## 투표권 획득 방법
 
@@ -53,7 +53,7 @@ menu: 공동 결정
 
 경로를 결합하면 같은 사람이 추가 자격을 얻을 위험이 남습니다. 처음에는 세계 곳곳의 최대한 많은 사람이 참여하도록 이를 의식적으로 받아들이며 목표는 여전히 1인 1표 체계입니다. 가입 거절에는 근거와 이의 제기 경로가 있습니다.
 
-더 알아보기: [Omniforum 백서 8.3절](../whitepaper-omniforum.md#s8-3), [선언문 5.2절](../manifest.md#s5-2).
+더 알아보기: [OmniForum 백서 8.3절](../whitepaper-omniforum.md#s8-3), [선언문 5.2절](../manifest.md#s5-2).
 
 ## 항상 지킬 원칙
 
@@ -67,15 +67,15 @@ menu: 공동 결정
 - 지출 제안에는 계획의 사실적 근거와 이면의 선택에 대한 공동체 동의를 보여 주는 연결의 사슬인 선언문의 “녹색 경로”가 필요합니다. 동의 기준은 사안의 중요성, 지출 규모와 결과를 되돌릴 수 있는 정도에 따라 미리 정합니다.
 - 투표 전에 누구나 미리 공개한 입장, 이의와 출처의 짧고 쉬운 요약을 봅니다. 논쟁 당사자는 자신의 입장이 빠졌다고 알릴 수 있으며 그러면 그 옆에 당사자의 설명을 제시합니다.
 
-더 알아보기: [Omniforum 백서 8장](../whitepaper-omniforum.md#s8), [8.3절](../whitepaper-omniforum.md#s8-3), [선언문 5.3절](../manifest.md#s5-3).
+더 알아보기: [OmniForum 백서 8장](../whitepaper-omniforum.md#s8), [8.3절](../whitepaper-omniforum.md#s8-3), [선언문 5.3절](../manifest.md#s5-3).
 
 ## 어려운 사안: 세 단계
 
-1. 누구나 참여할 수 있는 Omniforum의 **공개 사안 지도**.
+1. 누구나 참여할 수 있는 OmniForum의 **공개 사안 지도**.
 2. **추첨 자문 모임**: 공개 데이터에 따라 누구나 추첨 결과를 직접 검증할 수 있는 방식으로 유자격자 기록부에서 뽑은 사람들입니다. 시간, 자료와 제안 작성자와 대화할 기회를 받습니다. 조언하되 결정하지 않습니다.
 3. **유자격자 전체의 투표.**
 
-더 알아보기: [Omniforum 백서 8.4절](../whitepaper-omniforum.md#s8-4).
+더 알아보기: [OmniForum 백서 8.4절](../whitepaper-omniforum.md#s8-4).
 
 ## 점진적이고 신중하게
 
@@ -83,9 +83,9 @@ menu: 공동 결정
 
 그때까지 재단은 애자일 단계로 운영합니다. 이사회가 일상 결정을 내리고 스스로 선택하여 중요한 사안에 관한 공동체 의견을 묻고 모든 중요한 결정의 근거를 공개합니다. 투표와 의견 수렴 결과는 형식적으로 자문입니다. 결과가 재단을 형식적으로 구속하려면 [정관 변경 기록부](../statut/rejestr-zmian.md)의 Z4에 설명한 정관 변경이 필요합니다.
 
-후속 기둥(내구성 있는 물건의 개방형 설계와 자연과의 접촉)을 본격적으로 시작하려면 세 조건을 모두 충족해야 합니다. 동일한 사람에게 하나의 유효한 표를 보장하는 투표, Suveria와 Omniforum의 6개월 유지 자금, 공동체의 결정입니다. 추가 표를 허용하는 경로가 통일된 체계로 대체되고 시험으로 확인된 뒤에야 첫 조건을 충족한 것으로 보겠습니다.
+후속 기둥(내구성 있는 물건의 개방형 설계와 자연과의 접촉)을 본격적으로 시작하려면 세 조건을 모두 충족해야 합니다. 동일한 사람에게 하나의 유효한 표를 보장하는 투표, Suveria와 OmniForum의 6개월 유지 자금, 공동체의 결정입니다. 추가 표를 허용하는 경로가 통일된 체계로 대체되고 시험으로 확인된 뒤에야 첫 조건을 충족한 것으로 보겠습니다.
 
-더 알아보기: [Omniforum 백서 8.5절](../whitepaper-omniforum.md#s8-5), [재단 원칙 백서 2장](../whitepaper-zasady-fundacji.md#s2), [선언문 6.3절](../manifest.md#s6-3).
+더 알아보기: [OmniForum 백서 8.5절](../whitepaper-omniforum.md#s8-5), [재단 원칙 백서 2장](../whitepaper-zasady-fundacji.md#s2), [선언문 6.3절](../manifest.md#s6-3).
 
 ## 이것으로 보장하지 못하는 것
 
@@ -96,10 +96,10 @@ menu: 공동 결정
 
 중앙 신원 데이터베이스 없이 1인 1표, 비밀과 전 세계의 접근을 완전히 조화시킬 방법은 아직 모릅니다. “오래 걸릴 수 있으며 이를 명확히 말합니다.”
 
-더 알아보기: [Omniforum 백서 8.2절](../whitepaper-omniforum.md#s8-2), [8.6절](../whitepaper-omniforum.md#s8-6), [8.7절](../whitepaper-omniforum.md#s8-7), [선언문 5.2절](../manifest.md#s5-2).
+더 알아보기: [OmniForum 백서 8.2절](../whitepaper-omniforum.md#s8-2), [8.6절](../whitepaper-omniforum.md#s8-6), [8.7절](../whitepaper-omniforum.md#s8-7), [선언문 5.2절](../manifest.md#s5-2).
 
 ## 읽고 생각을 들려주세요
 
-전체 설명은 [Omniforum 백서](../whitepaper-omniforum.md) 8장과 [선언문](../manifest.md) 5장에 있습니다. 의문이 들거나 잘못된 듯한 내용이 있다면 문서에서 해당 부분을 선택하고 “의견이 있습니다” 버튼을 이용하거나 salve@novusignis.org로 연락해 주세요.
+전체 설명은 [OmniForum 백서](../whitepaper-omniforum.md) 8장과 [선언문](../manifest.md) 5장에 있습니다. 의문이 들거나 잘못된 듯한 내용이 있다면 문서에서 해당 부분을 선택하고 “의견이 있습니다” 버튼을 이용하거나 salve@novusignis.org로 연락해 주세요.
 
-더 알아보기: [Omniforum 백서 5.5절](../whitepaper-omniforum.md#s5-5).
+더 알아보기: [OmniForum 백서 5.5절](../whitepaper-omniforum.md#s5-5).

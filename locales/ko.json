@@ -72,7 +72,7 @@
     "grid_title": "세 기둥",
     "col1": {
       "badge": "기둥 I · 여기서 시작합니다",
-      "title": "Suveria와 Omniforum",
+      "title": "Suveria와 OmniForum",
       "r1_h": "사적인 공간",
       "r2_h": "공동의 이해",
       "r3_h": "원가에 가까운 서비스 요금"
@@ -103,12 +103,12 @@
   },
   "meta": {
     "title": "Novus Ignis · 인간의 존엄성에 기반한 인터넷",
-    "description": "Novus Ignis 재단은 인간의 존엄성을 최우선 가치로 삼는 대안 인터넷을 함께 만들고 있습니다. Suveria: 사적인 디지털 공간. Omniforum: 공동의 대화·결정 공간."
+    "description": "Novus Ignis 재단은 인간의 존엄성을 최우선 가치로 삼는 대안 인터넷을 함께 만들고 있습니다. Suveria: 사적인 디지털 공간. OmniForum: 공동의 대화·결정 공간."
   },
   "hub": {
     "badge": "NOVUS IGNIS 재단",
     "title": "인터넷,<br><span class=\"gradient-text--fire\">인간의 존엄성</span>을 바탕으로",
-    "subtitle": "인간의 존엄성과 거기서 비롯되는 사생활과 자유에 대한 필요를 최우선 가치로 삼는 대안 인터넷을 함께 만드는 일로 활동을 시작합니다. 이 가치를 바탕으로 두 가지 작업 방향을 이끌어냅니다. 사람을 위한 사적인 디지털 공간 <strong>Suveria</strong>와, 사람들이 만나 서로 이해하고 함께 행동할 수 있는 공동의 공개 공간 <strong>Omniforum</strong>입니다.",
+    "subtitle": "인간의 존엄성과 거기서 비롯되는 사생활과 자유에 대한 필요를 최우선 가치로 삼는 대안 인터넷을 함께 만드는 일로 활동을 시작합니다. 이 가치를 바탕으로 두 가지 작업 방향을 이끌어냅니다. 사람을 위한 사적인 디지털 공간 <strong>Suveria</strong>와, 사람들이 만나 서로 이해하고 함께 행동할 수 있는 공동의 공개 공간 <strong>OmniForum</strong>입니다.",
     "cta_manifesto": "선언문 읽기",
     "cta_docs": "선언문과 백서",
     "docs_title": "선언문, 백서와 정관",
@@ -162,7 +162,7 @@
       "works": "작동 중",
       "works_text": "재단은 등록되었고 선언문과 백서는 공개되었습니다. 문서의 각 문장에 있는 “의견이 있습니다” 버튼도 작동합니다.",
       "project": "설계 단계",
-      "project_text": "Omniforum은 첫 시제품을 제작 중이며 Suveria는 설계 단계입니다.",
+      "project_text": "OmniForum은 첫 시제품을 제작 중이며 Suveria는 설계 단계입니다.",
       "hypothesis": "가설",
       "hypothesis_text": "비용 계산은 검증해야 할 가설입니다. 소규모 그룹도 사생활 보호를 검증할 수 있는 조건에서 같은 1달러로 폐쇄형 서비스보다 디지털 지능을 더 많이 이용할 수도 있습니다.",
       "vision": "비전",
@@ -174,9 +174,9 @@
       "suveria_title": "Suveria",
       "suveria_text": "Suveria는 집에서 문을 닫고 지내듯 디지털 지능과 대화하고 자신의 자료로 작업하며 이전 생각으로 돌아올 수 있는 사적인 인터넷 공간이 되도록 하려 합니다. 오늘의 Suveria는 디지털 지능과 사적으로 작업하는 데 이르는 우리의 가장 좋은 경로이며 그 자체가 목적은 아닙니다.",
       "suveria_link": "Suveria란 무엇인가 →",
-      "omniforum_title": "Omniforum",
-      "omniforum_text": "Omniforum은 누구나 어떤 주제든 말할 수 있고 다른 이들이 그 말에 귀를 기울이는 곳이 되도록 하려 합니다. “그러니까 이런 뜻인가요? 제가 제대로 이해했나요?”라는 단순한 질문이 양쪽의 대화 어조를 바꿉니다. Omniforum의 모든 기술 계층은 바로 이 반응을 뒷받침하도록 하려 합니다.",
-      "omniforum_link": "Omniforum이란 무엇인가 →"
+      "omniforum_title": "OmniForum",
+      "omniforum_text": "OmniForum은 누구나 어떤 주제든 말할 수 있고 다른 이들이 그 말에 귀를 기울이는 곳이 되도록 하려 합니다. “그러니까 이런 뜻인가요? 제가 제대로 이해했나요?”라는 단순한 질문이 양쪽의 대화 어조를 바꿉니다. OmniForum의 모든 기술 계층은 바로 이 반응을 뒷받침하도록 하려 합니다.",
+      "omniforum_link": "OmniForum이란 무엇인가 →"
     },
     "help": {
       "title": "도울 수 있는 방법",
@@ -184,7 +184,7 @@
       "m5_text": "선언문 서두를 읽고 불분명하거나 동의하지 않는 문장을 표시한 다음 “의견이 있습니다”를 누르세요.",
       "m5_model": "모델을 통해 우리 글을 읽는다면 가장 취약한 부분도 물어보고 찾아낸 내용을 보내 주세요.",
       "h1_title": "한 시간",
-      "h1_text": "자신의 분야에 해당하는 백서를 살펴보세요: <a href=\"#\" data-doc-link=\"suveria\">보안과 인프라(Suveria)</a>, <a href=\"#\" data-doc-link=\"fundacja\">법과 재정(재단 운영 원칙)</a>, <a href=\"#\" data-doc-link=\"benchmark\">연구(학습 자료와 벤치마크)</a>, <a href=\"#\" data-doc-link=\"omniforum\">대화와 결정(Omniforum)</a>.",
+      "h1_text": "자신의 분야에 해당하는 백서를 살펴보세요: <a href=\"#\" data-doc-link=\"suveria\">보안과 인프라(Suveria)</a>, <a href=\"#\" data-doc-link=\"fundacja\">법과 재정(재단 운영 원칙)</a>, <a href=\"#\" data-doc-link=\"benchmark\">연구(학습 자료와 벤치마크)</a>, <a href=\"#\" data-doc-link=\"omniforum\">대화와 결정(OmniForum)</a>.",
       "more_title": "더 오래",
       "more_text": "첫 버전을 함께 만들어 주세요. 역할과 필요한 일은 <a href=\"#\" data-page-link=\"dolacz\">참여하기</a> 페이지에서 설명합니다.",
       "money_title": "재정 지원",
@@ -194,9 +194,9 @@
     "join_page": "역할을 보고 연락하기",
     "next": {
       "title": "다음에 할 수 있는 일",
-      "status": "재단은 운영 중이며 문서와 공개 납입 기록부도 이용할 수 있습니다. Suveria와 Omniforum은 우리가 작업 중인 설계안입니다.",
+      "status": "재단은 운영 중이며 문서와 공개 납입 기록부도 이용할 수 있습니다. Suveria와 OmniForum은 우리가 작업 중인 설계안입니다.",
       "wait_title": "시험해 보고 싶다고 알려 주세요",
-      "wait_text": "대기 명단에 등록하세요. Suveria와 Omniforum의 첫 시험을 시작하면 연락드리겠습니다.",
+      "wait_text": "대기 명단에 등록하세요. Suveria와 OmniForum의 첫 시험을 시작하면 연락드리겠습니다.",
       "wait_btn": "대기 명단 등록",
       "wait_note": "미리 준비된 제목으로 메시지를 보내면 됩니다. 이메일 주소는 그 한 번의 메시지에만 사용하며 요청하면 즉시 삭제하겠습니다. <a href=\"twoje-dane.html\">개인정보</a>",
       "read_title": "더 읽기",
@@ -226,7 +226,7 @@
     "docs": {
       "manifest": "선언문",
       "suveria": "Suveria 백서",
-      "omniforum": "Omniforum 백서",
+      "omniforum": "OmniForum 백서",
       "fundacja": "재단 운영 원칙",
       "benchmark": "학습 자료와 벤치마크",
       "statut": "정관과 변경 기록부"
@@ -244,7 +244,7 @@
     "groups": {
       "dlaczego": "필요한 이유",
       "suveria": "Suveria",
-      "omniforum": "Omniforum",
+      "omniforum": "OmniForum",
       "fundacja": "재단",
       "dokumenty": "문서",
       "dolacz": "참여하기",
@@ -260,7 +260,7 @@
     "overview": {
       "dlaczego": "Novus Ignis가 필요한 이유",
       "suveria": "Suveria란",
-      "omniforum": "Omniforum이란",
+      "omniforum": "OmniForum이란",
       "fundacja": "우리는 누구인가",
       "dokumenty": "모든 문서",
       "dolacz": "찾는 역할과 시작 방법"

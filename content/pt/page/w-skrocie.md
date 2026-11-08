@@ -15,12 +15,12 @@ A Fundação Novus Ignis, de Poznań (KRS 0001269575), criada por Marcin Wołows
 
 ## O que queremos fazer
 
-Queremos participar da criação de uma internet alternativa cujo valor supremo seja a dignidade humana, da qual decorrem a privacidade e a liberdade. A Suveria deverá ser um espaço privado de trabalho com a ajuda opcional da inteligência digital, protegido por salvaguardas cujo funcionamento possa ser verificado de forma independente. O Omniforum deverá ser um espaço público compartilhado no qual qualquer pessoa possa se manifestar e ser ouvida. Saiba mais: [manifesto, introdução](../manifest.md#top) e [Por que Novus Ignis](dlaczego.md).
+Queremos participar da criação de uma internet alternativa cujo valor supremo seja a dignidade humana, da qual decorrem a privacidade e a liberdade. A Suveria deverá ser um espaço privado de trabalho com a ajuda opcional da inteligência digital, protegido por salvaguardas cujo funcionamento possa ser verificado de forma independente. O OmniForum deverá ser um espaço público compartilhado no qual qualquer pessoa possa se manifestar e ser ouvida. Saiba mais: [manifesto, introdução](../manifest.md#top) e [Por que Novus Ignis](dlaczego.md).
 
 ## Onde estamos hoje
 
 - **Em funcionamento:** a fundação está registrada, e o manifesto e os whitepapers estão publicados. A fundação aceita doações por transferência bancária e mostra cada entrada no [registro público de entradas e despesas](fundacja-rejestr.md); a primeira foi o fundo de constituição.
-- **Em projeto:** a Suveria é um projeto, e o Omniforum tem um primeiro protótipo em construção.
+- **Em projeto:** a Suveria é um projeto, e o OmniForum tem um primeiro protótipo em construção.
 - **Hipótese:** supomos que servidores compartilhados, pagos pelo uso real, possam oferecer mais inteligência digital por dólar do que serviços fechados; ainda não verificamos isso (manifesto, seção 2.4).
 - **Visão:** gestão autônoma pela inteligência digital e os demais pilares. O lançamento pleno dos demais pilares é uma direção distante; antes disso, só são possíveis pequenas iniciativas com término definido. Hoje, a fundação é administrada por pessoas.
 
@@ -39,7 +39,7 @@ Lista completa: [manifesto, capítulo 9](../manifest.md#s9).
 
 ## O que estamos buscando
 
-No início, buscamos especialmente algumas pessoas com quem construiremos e testaremos as primeiras versões da Suveria e do Omniforum:
+No início, buscamos especialmente algumas pessoas com quem construiremos e testaremos as primeiras versões da Suveria e do OmniForum:
 
 - pessoas das áreas de segurança, criptografia e infraestrutura;
 - profissionais de programação e design de interfaces;

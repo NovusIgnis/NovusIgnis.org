@@ -7,7 +7,7 @@ menu: Martabat
 ---
 # Martabat sebagai titik awal
 
-Halaman ini menjelaskan makna "martabat" dalam manifesto Novus Ignis dan apa yang lahir darinya: kebebasan, privasi, perlindungan perhatian, dan prinsip yang ditopang tindakan. Ini merupakan ringkasan bab 2 manifesto yang menjadi dasar Suveria dan Omniforum. Setiap bagian memiliki tautan ke teks lengkap.
+Halaman ini menjelaskan makna "martabat" dalam manifesto Novus Ignis dan apa yang lahir darinya: kebebasan, privasi, perlindungan perhatian, dan prinsip yang ditopang tindakan. Ini merupakan ringkasan bab 2 manifesto yang menjadi dasar Suveria dan OmniForum. Setiap bagian memiliki tautan ke teks lengkap.
 
 ## Makna martabat dalam manifesto
 
@@ -73,9 +73,9 @@ Prinsip bersama memerlukan alasan keputusan yang jelas serta kesempatan melapork
 
 Selengkapnya: [manifesto, bagian 2.5](../manifest.md#s2-5).
 
-## Artinya bagi Suveria dan Omniforum
+## Artinya bagi Suveria dan OmniForum
 
-Dari prinsip-prinsip ini tumbuh dua arah yang saling melengkapi: Suveria direncanakan sebagai ruang pribadi untuk berpikir, mencipta, dan merencanakan dengan bantuan kecerdasan digital, sedangkan Omniforum direncanakan sebagai ruang bersama untuk menyampaikan alasan dan mengenal perspektif lain. Saat ini Suveria masih berupa rancangan, sedangkan prototipe pertama Omniforum sedang dibangun. Rencananya, setiap orang dapat memilih sendiri apa yang disimpan untuk dirinya dan apa yang dibagikan kepada orang lain. Lihat: [Apa itu Suveria](suveria.md) dan [Apa itu Omniforum](omniforum.md).
+Dari prinsip-prinsip ini tumbuh dua arah yang saling melengkapi: Suveria direncanakan sebagai ruang pribadi untuk berpikir, mencipta, dan merencanakan dengan bantuan kecerdasan digital, sedangkan OmniForum direncanakan sebagai ruang bersama untuk menyampaikan alasan dan mengenal perspektif lain. Saat ini Suveria masih berupa rancangan, sedangkan prototipe pertama OmniForum sedang dibangun. Rencananya, setiap orang dapat memilih sendiri apa yang disimpan untuk dirinya dan apa yang dibagikan kepada orang lain. Lihat: [Apa itu Suveria](suveria.md) dan [Apa itu OmniForum](omniforum.md).
 
 Selengkapnya: [manifesto, "Posisi kami saat ini"](../manifest.md#top).
 

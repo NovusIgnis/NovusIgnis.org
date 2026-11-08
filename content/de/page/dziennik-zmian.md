@@ -9,6 +9,10 @@ menu: Änderungsprotokoll
 
 Wir entwickeln die Dokumente mit unserem Wissen und unserer Erfahrung weiter und bewahren die Änderungsgeschichte. Hier halten wir fest, was sich wann auf der Website und in den Dokumenten geändert hat, auch wenn die Änderung auf eine Anmerkung von Lesenden zurückgeht. Die Geschichte der Satzungsänderungen wird gesondert im [Register der Satzungsänderungen](../statut/rejestr-zmian.md) geführt.
 
+## 8. November 2026: Schreibweise des Namens OmniForum
+
+- Im Manifest, in den vier Whitepapers und auf der ganzen Website haben wir die Schreibweise des Namens Omniforum in OmniForum geändert, so wie bei den Namen OmniActa und OmniVox. Ansonsten hat sich der Inhalt der Dokumente nicht geändert. Der bisherige Wortlaut jedes Dokuments bleibt in seiner Versionsgeschichte erhalten.
+
 ## 3. November 2026: Name des Prinzips des ehrlichen Beispiels im Manifest
 
 - Im Manifest haben wir in Abschnitt 8.1 einen Absatz über das Prinzip ergänzt, das wir Erziehung durch ein ehrliches Beispiel (*Alignment by Honest Example*) nennen: Wir bemühen uns, die Stiftung so zu führen, wie wir uns wünschen würden, dass digitale Intelligenz eines Tages die ihr anvertrauten Angelegenheiten führt. Das Prinzip war in unseren früheren Entwürfen vom September 2026 enthalten; bei der redaktionellen Überarbeitung vor der Veröffentlichung blieben seine Auswirkungen erhalten (Abschnitte 1.1 und 8.1), doch wir haben den Namen und die Begründung verloren. Warum: Ohne die Begründung ist schwer zu verstehen, weshalb wir Entscheidungen und Fehler so ausführlich dokumentieren. Fassung des Manifests: 3. November 2026.

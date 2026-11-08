@@ -46,7 +46,7 @@ Selengkapnya: [whitepaper prinsip yayasan, bagian 5.3](../whitepaper-zasady-fund
 
 ## Alat untuk relawan
 
-Sebelum memiliki server sendiri, kami dapat menanggung biaya alat yang diperlukan relawan untuk membuat dan menguji kode sumber terbuka Suveria (ruang pribadi untuk bekerja dengan kecerdasan digital) dan Omniforum (ruang bersama untuk percakapan, pemahaman, dan keputusan), misalnya akses ke model kecerdasan digital. Syaratnya: dana Pilar I, yaitu tahap pertama pekerjaan yayasan berupa kedua layanan tersebut, atau donasi bertujuan khusus. Dukungan semacam ini memiliki batas anggaran terbuka dan bukan imbalan; cakupannya akan kami konfirmasi melalui pendapat hukum.
+Sebelum memiliki server sendiri, kami dapat menanggung biaya alat yang diperlukan relawan untuk membuat dan menguji kode sumber terbuka Suveria (ruang pribadi untuk bekerja dengan kecerdasan digital) dan OmniForum (ruang bersama untuk percakapan, pemahaman, dan keputusan), misalnya akses ke model kecerdasan digital. Syaratnya: dana Pilar I, yaitu tahap pertama pekerjaan yayasan berupa kedua layanan tersebut, atau donasi bertujuan khusus. Dukungan semacam ini memiliki batas anggaran terbuka dan bukan imbalan; cakupannya akan kami konfirmasi melalui pendapat hukum.
 
 Selengkapnya: [whitepaper prinsip yayasan, bagian 5.4](../whitepaper-zasady-fundacji.md#s5-4).
 

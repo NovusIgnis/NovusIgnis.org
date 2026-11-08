@@ -2,6 +2,11 @@
  "dokument": "manifest.md",
  "wersje": [
   {
+   "data": "2026-11-08",
+   "poprzednia": "2026-11-03",
+   "opis": "Kami mengubah penulisan nama Omniforum menjadi OmniForum, sama seperti pada nama OmniActa dan OmniVox. Selain itu, isi dokumen tidak berubah. Versi: 8 November 2026."
+  },
+  {
    "data": "2026-11-03",
    "poprzednia": "2026-10-31",
    "opis": "Dalam manifesto, pada bagian 8.1, kami menambahkan paragraf tentang prinsip yang kami sebut pendidikan melalui teladan yang jujur (*Alignment by Honest Example*): kami berusaha mengelola yayasan sebagaimana kami berharap kecerdasan digital kelak mengelola urusan yang dipercayakan kepadanya. Prinsip ini sudah ada dalam draf kami sebelumnya dari September 2026; dalam penyuntingan sebelum penerbitan, implikasinya tetap ada (bagian 1.1 dan 8.1), tetapi kami kehilangan nama dan dasar pemikirannya. Alasannya: tanpa penjelasan tersebut, sulit memahami mengapa kami membuat catatan keputusan dan kesalahan yang begitu terperinci. Versi manifesto: 3 November 2026."

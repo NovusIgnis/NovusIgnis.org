@@ -7,7 +7,7 @@ menu: 尊严
 ---
 # 从尊严出发
 
-本页说明 Novus Ignis 宣言中的“尊严”及其引申之义：自由、隐私、注意力保护，以及有实际运作支撑的原则。这是宣言第 2 章的摘要，Suveria 和 Omniforum 正是从中生长而来。每部分均附有完整文本的链接。
+本页说明 Novus Ignis 宣言中的“尊严”及其引申之义：自由、隐私、注意力保护，以及有实际运作支撑的原则。这是宣言第 2 章的摘要，Suveria 和 OmniForum 正是从中生长而来。每部分均附有完整文本的链接。
 
 ## 宣言中的尊严是什么
 
@@ -73,9 +73,9 @@ X 平台的一项实验表明，改变表达政治敌意的内容的可见度，
 
 更多：[宣言，第 2.5 节](../manifest.md#s2-5)。
 
-## 这对 Suveria 和 Omniforum 意味着什么
+## 这对 Suveria 和 OmniForum 意味着什么
 
-这些原则产生了两个相辅相成的方向：Suveria 旨在成为借助数字智能进行思考、创作和规划的私密空间；Omniforum 则旨在成为阐述理由、了解其他视角的共同空间。目前 Suveria 处于设计方案阶段，Omniforum 的首个原型正在构建中。每个人应自行选择将什么留给自己、将什么与他人分享。参见：[Suveria 是什么](suveria.md)及 [Omniforum 是什么](omniforum.md)。
+这些原则产生了两个相辅相成的方向：Suveria 旨在成为借助数字智能进行思考、创作和规划的私密空间；OmniForum 则旨在成为阐述理由、了解其他视角的共同空间。目前 Suveria 处于设计方案阶段，OmniForum 的首个原型正在构建中。每个人应自行选择将什么留给自己、将什么与他人分享。参见：[Suveria 是什么](suveria.md)及 [OmniForum 是什么](omniforum.md)。
 
 更多：[宣言，“我们目前的进展”](../manifest.md#top)。
 

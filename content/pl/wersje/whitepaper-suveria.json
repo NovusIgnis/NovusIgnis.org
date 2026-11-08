@@ -2,6 +2,12 @@
  "dokument": "whitepaper-suveria.md",
  "wersje": [
   {
+   "data": "2026-11-08",
+   "poprzednia": "2026-10-31",
+   "opis": "Zmieniliśmy zapis nazwy Omniforum na OmniForum, tak samo jak w nazwach OmniActa i OmniVox. Treść dokumentu poza tym się nie zmieniła. Wersja: 8 listopada 2026 r.",
+   "skrot": "3ed952b09c14a12bba4145f42695b9a27af92b80"
+  },
+  {
    "data": "2026-10-31",
    "opis": "Pierwsza publiczna wersja.",
    "skrot": "8205a4c5923cdf8fad7238c7a409348d747030bd"

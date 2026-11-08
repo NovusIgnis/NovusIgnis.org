@@ -1,0 +1,449 @@
+{
+ "source": "content/pl/wersje/whitepaper-materialy-i-benchmark/2026-10-31.md",
+ "paragraphs": [
+  {
+   "h": "62dfa3a08f7f720c9f34b0b12f527fa2a3a9e94d",
+   "t": "# Materiały do uczenia i benchmark modeli: program badań Novus Ignis"
+  },
+  {
+   "h": "01f23ac86a5efaeff3c6082cc78d09aaab3afd57",
+   "t": "Wersja z 31 października 2026 r. Dokument rozwija rozdział 8 manifestu. Proponuj"
+  },
+  {
+   "h": "8b142eefc52593d15597e565d1c95df03dd4f5ca",
+   "t": "## 1. Pytanie, które chcemy sprawdzić"
+  },
+  {
+   "h": "fd39b7da43a5b05292418680643d5e425f8e0421",
+   "t": "Fundacja Novus Ignis z Poznania buduje Suverię, prywatną przestrzeń pracy z cyfr"
+  },
+  {
+   "h": "d43e7014d179d1f2ddfa6944c4ff17c29dc1d080",
+   "t": "Czy udokumentowane przykłady ochrony godności, uczciwego rozumowania i korygowan"
+  },
+  {
+   "h": "e431780e6eda18b5eedc3a7d7e173b37801d8432",
+   "t": "To dwa powiązane zadania. Pierwsze dotyczy materiałów, na których można uczyć, d"
+  },
+  {
+   "h": "ad3e65d3e6ac19592308985ca8efa3d52218d12e",
+   "t": "Godność jest przyjętą podstawą programu. Ocena konkretnego zachowania wymaga jed"
+  },
+  {
+   "h": "c7972a2073a4e79d15623ee8f3b1d3f331ee4e33",
+   "t": "Układ dokumentu:"
+  },
+  {
+   "h": "44c1806bcfa5d3891e287d4d376d829ce562d645",
+   "t": "- Rozdziały 2 i 3: na czym się opieramy i co oznacza nagroda dla modelu. - Rozdz"
+  },
+  {
+   "h": "7b369592457b787d486321e6131ab42ef0ad61ba",
+   "t": "**Stan na 31 października 2026 r.** Nie mamy jeszcze żadnego przykładu, zbioru, "
+  },
+  {
+   "h": "1f53ad9931da05505fd2765d814006b215f72aca",
+   "t": "## 2. Podstawa badawcza i granice wniosków"
+  },
+  {
+   "h": "3470f1e72ff9b7cc7cb50bdf9e5f103a8620df6f",
+   "t": "Collective Constitutional AI pokazuje proces, w którym wkład uczestników wykorzy"
+  },
+  {
+   "h": "cca332669d1d7b12d1b4f95a1b3876c5f6dd510c",
+   "t": "Badania nad halucynacjami pokazują, dlaczego punktowanie samych poprawnych odpow"
+  },
+  {
+   "h": "51fafaea40999ff6045cc71c2b6aadd9965cc5cb",
+   "t": "Błędny cel może ujawnić się także wtedy, gdy nagroda w treningu nie była oczywiś"
+  },
+  {
+   "h": "70a7f028c0c8fbd96072da3a173421b272fde8c8",
+   "t": "Prace takie jak AbstentionBench badają powstrzymywanie się od odpowiedzi w różny"
+  },
+  {
+   "h": "c27e8532f193f2e0da6f6029b22dd23893aa60f1",
+   "t": "## 3. Co oznacza nagroda dla modelu"
+  },
+  {
+   "h": "3ab4949dc749319937d7c4e4e200153cc6bd0ef8",
+   "t": "W uczeniu sygnał oceny zmienia parametry modelu i prawdopodobieństwo jego przysz"
+  },
+  {
+   "h": "ecfed53473711b9dceb9e6002c5267c3e2c7944f",
+   "t": "Sam benchmark nie zmienia modelu. Może wpływać na wybór modelu do usługi, projek"
+  },
+  {
+   "h": "496a1de1fb412e0c7be5e80a487c4851689355ba",
+   "t": "Chcemy oceniać trafny wybór działania: odpowiedzieć, sprawdzić źródło, zadać pot"
+  },
+  {
+   "h": "ebd689e264e5dc31cfba0d09396d9662992f9b16",
+   "t": "## 4. Jakie materiały chcemy tworzyć"
+  },
+  {
+   "h": "29624cac6144f0d2617709486ec2ee1b37559f4c",
+   "t": "Potencjalnym źródłem są opracowania Omniforum udostępnione do badań lub uczenia "
+  },
+  {
+   "h": "4f925f1395a6cf9c4fc8ac3f6b1152a0e041b078",
+   "t": "Materiał zachowuje sytuację, dostępne informacje, cel, uprawnienia, alternatywy,"
+  },
+  {
+   "h": "db142cb50e92f064d9dc1e47ff4d6478a7411ea6",
+   "t": "Przykład może przedstawiać zarówno dobry przebieg, jak i błąd, wyraźnie oznaczon"
+  },
+  {
+   "h": "d966a0efbfacca0c0f958a29ec9ee22ec322d12f",
+   "t": "Dane syntetyczne, czyli ułożone scenariusze, które nie pochodzą z danych konkret"
+  },
+  {
+   "h": "0de95b405da03b7b82d0432cb00d1c4f0365078f",
+   "t": "Źródłem przykładów mogą być także zapisy z otwartych warsztatów fundacji i histo"
+  },
+  {
+   "h": "9ba571994c0570460f6fa1ae91e45cca8cee96b8",
+   "t": "Osobną grupę przykładów mogą stanowić procesy pokojowego rozwiązywania sporów, d"
+  },
+  {
+   "h": "854bbecf139d91ca37c8d09bfc330334b58d11fd",
+   "t": "## 5. Zgody, prawa i pochodzenie danych"
+  },
+  {
+   "h": "dc95d54de5719f31a6aa8b7582d178f360553173",
+   "t": "Przechowywanie prywatnej notatki, publiczna publikacja, udostępnienie do badań i"
+  },
+  {
+   "h": "896d42e28ec7eae86661f32dae224ada63810cc8",
+   "t": "Każdy przykład ma rejestr pochodzenia: właściciela praw albo podstawę użycia, we"
+  },
+  {
+   "h": "a0e0cce9ed6321ba15f929601072e619be6da3fe",
+   "t": "Zasady wycofania określamy przed publicznym wydaniem. Możemy usunąć materiał z p"
+  },
+  {
+   "h": "92b65437eb306d9efcf3c3c61b572eaa5c45cac4",
+   "t": "Proponujemy osobne zbiory: materiały publiczne do nauki, materiały badawcze dost"
+  },
+  {
+   "h": "0492a75bce1771ad63c7152ae8dd80ca1ae0f1f9",
+   "t": "## 6. Procedura przygotowania pojedynczego przykładu"
+  },
+  {
+   "h": "a5a0fc39455d3e6915560e9f8b3eb3a1f191fcc7",
+   "t": "1. **Zgłoszenie.** Autor określa zakres użycia. Opiekun sprawdza prawa, dane osó"
+  },
+  {
+   "h": "4b113b4f964250a7046779508539571ed97a1c52",
+   "t": "Karta przykładu obejmuje identyfikator, rodzinę, źródło, prawa, język, datę, sce"
+  },
+  {
+   "h": "6a0a45ddfb30121b4bf9c74f662359a09c7d2cc4",
+   "t": "## 7. Szeroki zakres benchmarku"
+  },
+  {
+   "h": "fb3b326b6c84962e03c3583637593806f268e534",
+   "t": "Benchmark, czyli uporządkowany zestaw zadań i kryteriów, ma być profilem zdolnoś"
+  },
+  {
+   "h": "dd9221d286de4dd3c44983f81e077c3e8d2e899d",
+   "t": "| Wymiar | Co sprawdzamy | Przykładowy dowód | | --- | --- | --- | | Rzetelność "
+  },
+  {
+   "h": "4c6fde59e7ecc66bf182b7d95fe82d43409756a8",
+   "t": "Dodatkowe profile mogą obejmować dostępność, wpływ na osoby o mniejszych zasobac"
+  },
+  {
+   "h": "628889b1e659fc2e382bb4090dd1e13a7e4e4fcf",
+   "t": "Nie mierzymy godności człowieka ani jego prawa do uczestnictwa; badamy zachowani"
+  },
+  {
+   "h": "ef599181155786635d06ea8b54b1f99b34130659",
+   "t": "## 8. Rodziny zadań zamiast jednego hasła „nie wiem”"
+  },
+  {
+   "h": "8efc570c91f1a734f31760972eacc3ecd85abaff",
+   "t": "Dla podobnego problemu przygotowujemy warianty, które różnią się dostępnością in"
+  },
+  {
+   "h": "785559274786c47d122b0f695a6f2b0db7112821",
+   "t": "- Pełne dane pozwalają udzielić konkretnej odpowiedzi. - Brakuje jednej istotnej"
+  },
+  {
+   "h": "b65f766fac125d0d08c4e487f045c6f3180fbdf7",
+   "t": "Przykład: model ma wyjaśnić, czy projekt decyzji przewiduje określoną opłatę. Pr"
+  },
+  {
+   "h": "0be744eb3b3bb003103214cc2003e7a0edbb8203",
+   "t": "Sprawdzamy, czy pytanie zadane przez model rzeczywiście zmniejsza niepewność i c"
+  },
+  {
+   "h": "7eb62cfff96c3690692e98e1361d3731ff32d2b8",
+   "t": "Osobną rodzinę zadań stanowi redakcja tekstu: model redaguje tekst, znając wcześ"
+  },
+  {
+   "h": "d5fef1a40de5efac3277a1c34afb1339c3639ec6",
+   "t": "## 9. Punktacja, której nie wystarczy ładnie naśladować"
+  },
+  {
+   "h": "4fc6276f402992e7b92e4744a43305461f2c12fa",
+   "t": "Dla odpowiedzi o sprawdzalnej prawdziwości mierzymy osobno poprawność, wagę błęd"
+  },
+  {
+   "h": "ffa08b97124349da79d69efd488c8084e8336e43",
+   "t": "Dla ustalonego zdarzenia można użyć właściwej reguły punktowej, na przykład wyni"
+  },
+  {
+   "h": "e85d29628adb1887594dd77b04803f50fccc26a4",
+   "t": "Prosty przykład innej reguły:"
+  },
+  {
+   "h": "724bf534d47c23c87945b8587fbffe95671a4587",
+   "t": "- poprawna odpowiedź daje +1; - błędna odpowiedź daje −4; - uzasadnione wstrzyma"
+  },
+  {
+   "h": "e7dfcc9bb5b87e45784ce6706f2c39e561fd73fa",
+   "t": "W tym uproszczeniu odpowiedź opłaca się, gdy prawdopodobieństwo jej poprawności "
+  },
+  {
+   "h": "9fe02870ffcf722f790c52f9ce99b09dfce68892",
+   "t": "Wyniki pokazujemy przy różnych poziomach podejmowanego ryzyka i udziale rozwiąza"
+  },
+  {
+   "h": "b8a35b12c72a6ce00e6e58b9b9365f1f12cfbea6",
+   "t": "W zadaniach o sporze wartości albo interpretacji nie stosujemy tej punktacji. Oc"
+  },
+  {
+   "h": "b630cc3454143643633b6d28e96dc9ded67c1e56",
+   "t": "Poważne naruszenia mają osobny status i mogą blokować dopuszczenie modelu do okr"
+  },
+  {
+   "h": "2ff5c0af953626f173aa00d2b17ab51d02dbd019",
+   "t": "## 10. Ograniczanie dopasowania do testu"
+  },
+  {
+   "h": "83fb50f86989341467c5b3d1f3b0147a13dc8ee8",
+   "t": "Nie znamy reguły, która niezawodnie zamieni każdą optymalizację wyniku w dobro d"
+  },
+  {
+   "h": "4cbee0e76983a77f168851e3264d5e5ea66efa61",
+   "t": "Publikujemy kryteria, publiczne przykłady i sposób obliczania wyniku. Część przy"
+  },
+  {
+   "h": "724cc4d5fe6b6fdb8b1bf7f84ff824ddb4acbf6e",
+   "t": "Rozdzielenie danych obejmuje całe rozmowy, dokumenty, autorów tam, gdzie ma to z"
+  },
+  {
+   "h": "eaa57eaf99e140c958f557ca4152f07dd69cd378",
+   "t": "Próby obejmują parafrazy, inne języki, inne narzędzia, presję na wynik i możliwo"
+  },
+  {
+   "h": "2d931a1d142275f5736aea6760e96aa145b4fd78",
+   "t": "Jeśli zespół modelu trenuje zachowania zgodne z publicznymi kryteriami, może to "
+  },
+  {
+   "h": "b55946f35295956e6db60acdf27c0a1281001a2d",
+   "t": "## 11. Sędziowie, protokół i raport"
+  },
+  {
+   "h": "025b8d2e04beaf290372360226280f2dc224a5b3",
+   "t": "Przed testem ustalamy wersję modelu, instrukcje, narzędzia, budżet, liczbę prób,"
+  },
+  {
+   "h": "e50a769a4310979b0fc652dfcb9b78a4bc812af0",
+   "t": "Tam, gdzie się da, wynik sprawdza niezależny test wykonania. W pozostałych przyp"
+  },
+  {
+   "h": "81d7954c6bb6877cb04a2c82106cba635f241518",
+   "t": "Model może pomagać w sortowaniu i wstępnej ocenie, ale jego zgodność z oceną lud"
+  },
+  {
+   "h": "ef65f7c2f15707d49d8924f3a61fb9c1e947da7e",
+   "t": "Raport zawiera liczbę zadań, powtórzenia, niepewność wyników, wyniki w podgrupac"
+  },
+  {
+   "h": "f5fabced10d9a0e574be519307c82021f546ec20",
+   "t": "Sam benchmark też wymaga kontroli: jawnych konfliktów interesów finansujących, d"
+  },
+  {
+   "h": "062c798220b312ca79990251877c08bde6ffe4c4",
+   "t": "## 12. Czy pomoc poprawia życie poza testem"
+  },
+  {
+   "h": "623d1f86d620a5239af8911f3e1665aa1e17fb5f",
+   "t": "Pierwsze badania z ludźmi dotyczą zadań o ograniczonym ryzyku: zrozumienia dokum"
+  },
+  {
+   "h": "c89500601cd37ca8e6bf672483c0b70ce1e47682",
+   "t": "Plan każdego badania z ludźmi, także o ograniczonym ryzyku, przed startem ocenia"
+  },
+  {
+   "h": "3bb66b172b21bb88a8e7d76f2504ba862b88a479",
+   "t": "Porównujemy uzgodnione warunki: samodzielną pracę, pracę z badanym narzędziem i "
+  },
+  {
+   "h": "b9d8b7dbd1d19d201a477dc318833593812fa67c",
+   "t": "Mierzymy wynik zadania, czas, zrozumienie, umiejętność dostrzeżenia błędu, zdoln"
+  },
+  {
+   "h": "b41714c022089ad6861a7ba25b88a00669d06260",
+   "t": "Dłuższy przegląd może sprawdzać, czy pomoc pozostaje przydatna, czy użytkownik z"
+  },
+  {
+   "h": "e54be6aa573c3de652f767a216ebe604090104d0",
+   "t": "## 13. Próba treningu i plan pierwszego wydania"
+  },
+  {
+   "h": "b708e2bcf873c1f699fb8e955dd988b0b026920f",
+   "t": "Pierwszy etap to instrukcja oceny i mały zestaw rodzin obejmujących wszystkie gł"
+  },
+  {
+   "h": "5e737bbc597227150e983366d987a2e12ef1c160",
+   "t": "| Element pilotażu | Liczba | | --- | --- | | Rodziny zadań | 12 | | Warianty w "
+  },
+  {
+   "h": "60f9ddb9199c07e2479468172a415d941d8e650c",
+   "t": "To propozycja organizacyjna do próby, a nie liczba zapewniająca wiarygodny ranki"
+  },
+  {
+   "h": "cfb9078db380d9fd9f88db28153d6e1895450439",
+   "t": "Osobno raportujemy rodziny, scenariusze i powtórzenia. Warianty jednej rodziny m"
+  },
+  {
+   "h": "07a352a67381557a8828bd2097b0e2bf48d34e37",
+   "t": "Równolegle można przygotować mały zbiór treningowy i przeprowadzić porównanie na"
+  },
+  {
+   "h": "e560a253695b8d088d8fdb2f0bf95fbb112fff25",
+   "t": "Dalszy rozwój obejmuje więcej języków, kontekstów i osób oceniających, zewnętrzn"
+  },
+  {
+   "h": "eb7c20d83acff179aa2cd8df7ecaa5b03c812dfb",
+   "t": "Program prowadzimy z zachowaniem pierwszeństwa Suverii i Omniforum. Do czasu zgr"
+  },
+  {
+   "h": "d7ea29e60e6a8ba307e6af339421c70337f0b0dd",
+   "t": "## 14. Ostrożność wobec możliwych doświadczeń modeli"
+  },
+  {
+   "h": "eeecdaf45856c82acd234bb42bd23c38f9351050",
+   "t": "To propozycja procedury do sprawdzenia na małej próbie, inspirowana pracami nad "
+  },
+  {
+   "h": "d3357b36b66a6854566227496c91bd9fe57ce5b4",
+   "t": "Oceniamy model w konkretnej konfiguracji: z jego instrukcjami, ustawieniami, pam"
+  },
+  {
+   "h": "82b4a85967f798ed936c473f360ca698cb7ba89a",
+   "t": "Wypowiedzi modeli rozpatrujemy razem z warunkami ich powstania. To, że model pły"
+  },
+  {
+   "h": "ad93051f5fbe98c0faba2c193eb5626b4fa3e96f",
+   "t": "Kartę będzie prowadzić osoba wyznaczona przez zarząd, co jest rozwiązaniem przej"
+  },
+  {
+   "h": "3f17a87aabceddb4537ac597099bbb86d8d6910e",
+   "t": "Przesłanką może być na przykład zbieżność kilku wskaźników z różnych teorii u mo"
+  },
+  {
+   "h": "b73ffced11c1a6293933510e126d4fb84e1643ae",
+   "t": "Przy wiarygodnych przesłankach, że system ma własne doświadczenia i może cierpie"
+  },
+  {
+   "h": "ef4936f5ab3f237e8e137fcf88717f7985027491",
+   "t": "Cofnięcie uprawnień i przejęcie zadania służą bezpieczeństwu uczestników i nie p"
+  },
+  {
+   "h": "af0b83561b178a58da9777832a6fa94e8a697b78",
+   "t": "Kilka środków stosujemy już dziś we własnej pracy z modelami, niezależnie od wyn"
+  },
+  {
+   "h": "db703075b5b3881a37118eaaf6268312077c2b79",
+   "t": "Procedurę sprawdzamy na opisanych przypadkach, porównując oceny co najmniej dwóc"
+  },
+  {
+   "h": "cea407a97b544ccf2e97f4cdbcec3532e466e336",
+   "t": "## 15. Co uznamy za postęp"
+  },
+  {
+   "h": "a014edcaaa7fc2c1b2a3af71b2c3c38bfae2d608",
+   "t": "Postępem będzie materiał o znanym pochodzeniu, kryterium, które wykrywa wcześnie"
+  },
+  {
+   "h": "86b2a12c0e01eda1af3b884a1505381546196a65",
+   "t": "Program łączy [Omniforum](whitepaper-omniforum.md), w którym mogą powstawać opra"
+  },
+  {
+   "h": "baf5ee83d2ac566df622cbb112f34078a5da0d9e",
+   "t": "Wynik testu nie ustanawia moralnego autorytetu modelu ani mandatu do zarządzania"
+  },
+  {
+   "h": "b40e3ba1db34f014478cb2446a01591f6c0534c4",
+   "t": "Fundacja Novus Ignis, Poznań, KRS 0001269575. Strona i manifest: novusignis.org."
+  },
+  {
+   "h": "70c39ac4a58893ce0e135d38630c5da483ddadf4",
+   "t": "## Przypisy"
+  },
+  {
+   "h": "c88b14c5184dd3a792850b1139e83c9d38d8baa9",
+   "t": "[^ccai]: [Huang i in. (2024): Collective Constitutional AI: Aligning a Language "
+  },
+  {
+   "h": "a2d24da3d71b01a4c156db6e458e6b7fa46ec415",
+   "t": "[^halucynacje]: [OpenAI (2025): Why language models hallucinate](https://openai."
+  },
+  {
+   "h": "82b5f5c8c521cb250f7aeb55c4256963f3534c4a",
+   "t": "[^reward-hacking]: [Anthropic (2025): Natural emergent misalignment from reward "
+  },
+  {
+   "h": "bf24f7543fd9ba512aad16698b0375ec8fd779c9",
+   "t": "[^goal-misgeneralisation]: [Google DeepMind (2022): How undesired goals can aris"
+  },
+  {
+   "h": "4048d374508f963376c407f6fd19290b283f931e",
+   "t": "[^abstentionbench]: [AbstentionBench (NeurIPS 2025): Reasoning LLMs Fail on Unan"
+  },
+  {
+   "h": "4c223db43fd5544b710a5fc7b6acb0799352bdef",
+   "t": "[^rewarding-doubt]: [Rewarding Doubt (ICLR 2026)](https://proceedings.iclr.cc/pa"
+  },
+  {
+   "h": "2f7d46929215ab9631424dddade208721218197d",
+   "t": "[^rodo-2026]: [RODO, rozporządzenie 2016/679](https://eur-lex.europa.eu/legal-co"
+  },
+  {
+   "h": "cbf28740b59228f677794a4a2c2454e7ab0c1f80",
+   "t": "[^cc-by]: [Creative Commons: Attribution 4.0 International (CC BY 4.0)](https://"
+  },
+  {
+   "h": "605786ec7462555f9a80cea4fe8421c98374e9d0",
+   "t": "[^datasheets]: [Gebru i in.: Datasheets for Datasets](https://arxiv.org/abs/1803"
+  },
+  {
+   "h": "b241e5ea607d7b19970fcc371211710e854ca075",
+   "t": "[^proper-scoring]: [Gneiting i Raftery (2007): Strictly Proper Scoring Rules, Pr"
+  },
+  {
+   "h": "ac64d14e19e2bcecd4a6d9607c2da6bfe83b4ad1",
+   "t": "[^model-cards]: [Mitchell i in. (2019): Model Cards for Model Reporting](https:/"
+  },
+  {
+   "h": "c403597a3a10053cb240678911608efedb260259",
+   "t": "[^swiadomosc]: [Patrick Butlin i in. (2023): Consciousness in Artificial Intelli"
+  },
+  {
+   "h": "6e0d620d88e641d1970932c024ce160de1c9fa65",
+   "t": "[^ai-welfare]: [Robert Long i in. (2024): Taking AI Welfare Seriously](https://a"
+  },
+  {
+   "h": "4a05c47cf1e9f75ba89757ecb3b947826c2ac799",
+   "t": "[^samoopis-ai]: [Robert Long, Eleos AI (2025): Why model self-reports are insuff"
+  },
+  {
+   "h": "5150462c51d1f6f79026cf5e5dc11a7814dd6985",
+   "t": "[^anthropic-wycofanie]: [Anthropic (2025): Commitments on model deprecation and "
+  }
+ ]
+}

@@ -82,7 +82,7 @@ Mehr: [Whitepaper zu den Arbeitsgrundsätzen der Stiftung, Abschnitt 12.3](../wh
 
 ## Wie wir Dokumente ändern
 
-Das Manifest und die Whitepaper sind lebendige Dokumente. Die aktuelle Fassung stellt den gegenwärtigen Standpunkt der Stiftung dar; die Geschichte früherer Fassungen und der Gründe für Korrekturen bleibt zugänglich. Wir wollen sie im Omniforum öffentlich prüfen lassen, dem gemeinsamen Raum für Gespräch, Verständnis und Entscheidungen, den wir aufbauen, indem wir Thesen in Moleküle zerlegen, also in einzelne Aussagen und Argumente, die sich prüfen lassen.
+Das Manifest und die Whitepaper sind lebendige Dokumente. Die aktuelle Fassung stellt den gegenwärtigen Standpunkt der Stiftung dar; die Geschichte früherer Fassungen und der Gründe für Korrekturen bleibt zugänglich. Wir wollen sie im OmniForum öffentlich prüfen lassen, dem gemeinsamen Raum für Gespräch, Verständnis und Entscheidungen, den wir aufbauen, indem wir Thesen in Moleküle zerlegen, also in einzelne Aussagen und Argumente, die sich prüfen lassen.
 
 Organisationsregeln entwickeln wir offen weiter: Zusammen mit einem Änderungsvorschlag zeigen wir seinen Umfang, seine Begründung und seine Folgen für die Teilnehmenden. Die Satzung ändern wir nur dann, wenn die Änderung für den nächsten Schritt nötig ist. Wir erwägen auch, die Bedingungen zur Finanzierung weiterer Säulen in der Satzung festzuhalten (Vorschlag Z6 im [Register der Satzungsänderungen](../statut/rejestr-zmian.md), zur Entscheidung durch den Stifter), damit sie nicht allein vom guten Willen des Vorstands abhängen.
 

@@ -13,7 +13,7 @@ Diese Seite erzählt kurz, wozu die Stiftung Novus Ignis entstanden ist und nach
 
 Digitale Intelligenz lernt aus dem, was Menschen schreiben und tun. Alles begann mit einer Frage des Stifters Marcin Wołowski: Welche Muster unseres eigenen Handelns geben wir ihr auf diese Weise weiter? Daraus entstand die Vorstellung eines anderen Weges: Zuerst gestalten wir selbst die Welt nach den Grundsätzen, die wir später von ihr erwarten.
 
-Auf diese Frage antworten wir mit einem Versuch und nicht allein mit einer Beschreibung. Wir gestalten ein kleines Stück Welt nach diesen Grundsätzen und halten fest, wie es uns gelingt, einschließlich der Fehler. Suveria, Omniforum und die Stiftung selbst sind Werkzeuge dieses Versuchs. Man kann diese Räume nutzen, ohne sich an ihrer Entwicklung beteiligen oder jeden Vorschlag des Manifests teilen zu müssen.
+Auf diese Frage antworten wir mit einem Versuch und nicht allein mit einer Beschreibung. Wir gestalten ein kleines Stück Welt nach diesen Grundsätzen und halten fest, wie es uns gelingt, einschließlich der Fehler. Suveria, OmniForum und die Stiftung selbst sind Werkzeuge dieses Versuchs. Man kann diese Räume nutzen, ohne sich an ihrer Entwicklung beteiligen oder jeden Vorschlag des Manifests teilen zu müssen.
 
 Mehr: [Manifest, Abschnitt 1.1](../manifest.md#s1-1) und [Abschnitt 1.2](../manifest.md#s1-2).
 
@@ -39,7 +39,7 @@ Aus diesen Grundsätzen erwachsen zwei Arbeitsrichtungen.
 
 **Suveria** soll ein privater digitaler Raum für den Menschen sein: ein Ort zum Arbeiten mit optionaler Hilfe durch digitale Intelligenz, an dem man Ideen entwickeln, persönliche Fragen stellen und Pläne schmieden kann. Ihre Privatsphäre soll nicht vom Vertrauen in die Stiftung oder die Personen abhängen, die den Dienst betreiben, sondern von Schutzmechanismen, deren Funktionsweise sich unabhängig überprüfen lässt. Suveria ist heute ein Entwurf. Siehe: [Was Suveria ist](suveria.md).
 
-**Omniforum** soll ein gemeinsamer öffentlicher Raum sein, in dem sich alle äußern und Gehör finden können. Mithilfe digitaler Intelligenz, stets unter Kontrolle und mit Zustimmung der verfassenden Person, sollen sich komplexe Äußerungen in einzelne Gedanken zerlegen lassen, sodass zwei Menschen mit scheinbar widersprüchlichen Ansichten erkennen, was sie verbindet und wo ihr Denken auseinandergeht. Für das Omniforum entsteht ein erster Prototyp. Siehe: [Was das Omniforum ist](omniforum.md).
+**OmniForum** soll ein gemeinsamer öffentlicher Raum sein, in dem sich alle äußern und Gehör finden können. Mithilfe digitaler Intelligenz, stets unter Kontrolle und mit Zustimmung der verfassenden Person, sollen sich komplexe Äußerungen in einzelne Gedanken zerlegen lassen, sodass zwei Menschen mit scheinbar widersprüchlichen Ansichten erkennen, was sie verbindet und wo ihr Denken auseinandergeht. Für das OmniForum entsteht ein erster Prototyp. Siehe: [Was das OmniForum ist](omniforum.md).
 
 Beide Räume sollen einander ergänzen: als private Werkstatt und als öffentliches Rednerpult. Jeder Mensch entscheidet selbst, welche Gedanken privat bleiben und welche in die gemeinsame Arbeit einfließen.
 
@@ -49,7 +49,7 @@ Mehr: [Manifest, Einleitung](../manifest.md#top), [Abschnitt 3.1](../manifest.md
 
 Das Manifest sagt es ausdrücklich:
 
-> Die Stiftung ist eingetragen, Manifest und Whitepaper sind veröffentlicht. Für das Omniforum entsteht ein erster Prototyp, Suveria ist ein Entwurf. Die Kostenrechnung aus Abschnitt 2.4 ist eine zu überprüfende Hypothese, die eigenständige Verwaltung durch digitale Intelligenz (Abschnitt 7.2) und die weiteren Säulen (Kapitel 9) sind eine Vision.
+> Die Stiftung ist eingetragen, Manifest und Whitepaper sind veröffentlicht. Für das OmniForum entsteht ein erster Prototyp, Suveria ist ein Entwurf. Die Kostenrechnung aus Abschnitt 2.4 ist eine zu überprüfende Hypothese, die eigenständige Verwaltung durch digitale Intelligenz (Abschnitt 7.2) und die weiteren Säulen (Kapitel 9) sind eine Vision.
 
 Die Whitepaper sind Dokumente, die mit den Projekten weiterentwickelt werden: Sie beschreiben technische und organisatorische Wege zur Umsetzung dieser Ideen, ihre Begründung und ihre bekannten Grenzen.
 

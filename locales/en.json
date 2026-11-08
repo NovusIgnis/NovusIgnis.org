@@ -72,7 +72,7 @@
     "grid_title": "THREE PILLARS",
     "col1": {
       "badge": "PILLAR I · WE START HERE",
-      "title": "Suveria and Omniforum",
+      "title": "Suveria and OmniForum",
       "r1_h": "A private space",
       "r2_h": "Shared understanding",
       "r3_h": "Services close to cost"
@@ -103,12 +103,12 @@
   },
   "meta": {
     "title": "Novus Ignis · An internet built on human dignity",
-    "description": "The Novus Ignis Foundation is co-creating an alternative internet whose highest value is human dignity. Suveria: a private digital space. Omniforum: a shared space for conversation and decisions."
+    "description": "The Novus Ignis Foundation is co-creating an alternative internet whose highest value is human dignity. Suveria: a private digital space. OmniForum: a shared space for conversation and decisions."
   },
   "hub": {
     "badge": "NOVUS IGNIS FOUNDATION",
     "title": "An internet built<br>on <span class=\"gradient-text--fire\">human dignity</span>",
-    "subtitle": "We begin by co-creating an alternative internet whose highest value is human dignity and the needs for privacy and freedom that follow from it. From these values come two directions of work: <strong>Suveria</strong>, a private digital space for each person, and <strong>Omniforum</strong>, a shared public space where people can meet, understand each other and act together.",
+    "subtitle": "We begin by co-creating an alternative internet whose highest value is human dignity and the needs for privacy and freedom that follow from it. From these values come two directions of work: <strong>Suveria</strong>, a private digital space for each person, and <strong>OmniForum</strong>, a shared public space where people can meet, understand each other and act together.",
     "cta_manifesto": "Read the manifesto",
     "cta_docs": "Manifesto and whitepapers",
     "docs_title": "Manifesto, whitepapers and statute",
@@ -162,7 +162,7 @@
       "works": "It works",
       "works_text": "The foundation is registered, and the manifesto and whitepapers are published. Every sentence in the documents has a working “I have a comment” button.",
       "project": "Design",
-      "project_text": "Omniforum has a first prototype under construction, and Suveria is at the design stage.",
+      "project_text": "OmniForum has a first prototype under construction, and Suveria is at the design stage.",
       "hypothesis": "Hypothesis",
       "hypothesis_text": "The cost calculation is a hypothesis to be tested: even a small group may get more digital intelligence for every dollar than from closed services, with privacy that can be checked.",
       "vision": "Vision",
@@ -174,9 +174,9 @@
       "suveria_title": "Suveria",
       "suveria_text": "Suveria is meant to be a private space on the internet where a person talks with digital intelligence, works on their own materials and returns to earlier thoughts, as in their own home behind closed doors. Today Suveria is our best route to private work with digital intelligence, not a goal in itself.",
       "suveria_link": "What Suveria is →",
-      "omniforum_title": "Omniforum",
-      "omniforum_text": "Omniforum is meant to be a place where anyone can speak on any subject and be heard. A simple question, “so you want to say this and that, do I understand you correctly?”, changes the tone of a conversation on both sides. The whole technical layer of Omniforum is meant to support exactly that reflex.",
-      "omniforum_link": "What Omniforum is →"
+      "omniforum_title": "OmniForum",
+      "omniforum_text": "OmniForum is meant to be a place where anyone can speak on any subject and be heard. A simple question, “so you want to say this and that, do I understand you correctly?”, changes the tone of a conversation on both sides. The whole technical layer of OmniForum is meant to support exactly that reflex.",
+      "omniforum_link": "What OmniForum is →"
     },
     "help": {
       "title": "How you can help",
@@ -184,7 +184,7 @@
       "m5_text": "Read the introduction to the manifesto and mark a sentence that is unclear or that you disagree with, then click “I have a comment”.",
       "m5_model": "If you read us through a model, ask it also about our weakest points and send us what it found.",
       "h1_title": "One hour",
-      "h1_text": "Look through the whitepaper from your own field: <a href=\"#\" data-doc-link=\"suveria\">security and infrastructure (Suveria)</a>, <a href=\"#\" data-doc-link=\"fundacja\">law and finance (foundation rules)</a>, <a href=\"#\" data-doc-link=\"benchmark\">research (materials and benchmark)</a>, <a href=\"#\" data-doc-link=\"omniforum\">conversation and decisions (Omniforum)</a>.",
+      "h1_text": "Look through the whitepaper from your own field: <a href=\"#\" data-doc-link=\"suveria\">security and infrastructure (Suveria)</a>, <a href=\"#\" data-doc-link=\"fundacja\">law and finance (foundation rules)</a>, <a href=\"#\" data-doc-link=\"benchmark\">research (materials and benchmark)</a>, <a href=\"#\" data-doc-link=\"omniforum\">conversation and decisions (OmniForum)</a>.",
       "more_title": "Longer",
       "more_text": "Help build the first versions: the roles and what we need are described on the <a href=\"#\" data-page-link=\"dolacz\">Join</a> page.",
       "money_title": "Financial support",
@@ -194,9 +194,9 @@
     "join_page": "See the roles and write to us",
     "next": {
       "title": "What you can do next",
-      "status": "The foundation, the documents and the public register of contributions are in place. Suveria and Omniforum are designs we are working on.",
+      "status": "The foundation, the documents and the public register of contributions are in place. Suveria and OmniForum are designs we are working on.",
       "wait_title": "Let us know you would like to try it",
-      "wait_text": "Join the waiting list. We will write to you when the first trials of Suveria and Omniforum begin.",
+      "wait_text": "Join the waiting list. We will write to you when the first trials of Suveria and OmniForum begin.",
       "wait_btn": "Join the waiting list",
       "wait_note": "Just send a message with the subject already filled in. We will use your address for that one message only, and we will remove it right away whenever you ask. <a href=\"twoje-dane.html\">Your data</a>",
       "read_title": "Read more",
@@ -226,7 +226,7 @@
     "docs": {
       "manifest": "Manifesto",
       "suveria": "Suveria whitepaper",
-      "omniforum": "Omniforum whitepaper",
+      "omniforum": "OmniForum whitepaper",
       "fundacja": "Foundation rules",
       "benchmark": "Materials and benchmark",
       "statut": "Statute and change register"
@@ -244,7 +244,7 @@
     "groups": {
       "dlaczego": "Why",
       "suveria": "Suveria",
-      "omniforum": "Omniforum",
+      "omniforum": "OmniForum",
       "fundacja": "Foundation",
       "dokumenty": "Documents",
       "dolacz": "Join us",
@@ -260,7 +260,7 @@
     "overview": {
       "dlaczego": "Why Novus Ignis",
       "suveria": "What is Suveria",
-      "omniforum": "What is Omniforum",
+      "omniforum": "What is OmniForum",
       "fundacja": "Who we are",
       "dokumenty": "All documents",
       "dolacz": "Who we are looking for and how to start"

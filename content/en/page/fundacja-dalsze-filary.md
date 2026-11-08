@@ -7,11 +7,11 @@ menu: Further pillars
 ---
 # Further pillars
 
-This page describes where the foundation wants to go beyond software and how it makes sure not to set out too early. Today we work only in Pillar I: Suveria is at the design stage, and Omniforum has a prototype under construction. Pillars II and III are a vision, not work in progress.
+This page describes where the foundation wants to go beyond software and how it makes sure not to set out too early. Today we work only in Pillar I: Suveria is at the design stage, and OmniForum has a prototype under construction. Pillars II and III are a vision, not work in progress.
 
 ## The three pillars at a glance
 
-- **Pillar I “Software”: we start here.** Software and digital services, that is, Suveria, a private space for working with digital intelligence, and Omniforum, a shared space for conversation, understanding and decisions.
+- **Pillar I “Software”: we start here.** Software and digital services, that is, Suveria, a private space for working with digital intelligence, and OmniForum, a shared space for conversation, understanding and decisions.
 - **Pillar II “Hardware”: vision.** Open designs for durable, repairable objects.
 - **Pillar III “Nature”: vision.** Closer contact with nature.
 
@@ -36,8 +36,8 @@ More: [statute, § 5](../statut/statut-2026-09-28.md#par-5) and [statute change 
 
 We are beginning development with Pillar I, and we will direct the first funds from the shared budget and spare computing resources to its basic commitments. Fully launching Pillars II and III and funding their projects from the shared budget requires three conditions together. For each one, we state when we will consider it met.
 
-1. **A working vote.** Omniforum with a binding vote, that is, one whose result the foundation carries out (consultations are not enough). We want to base it on zero-knowledge proofs: a way of confirming the right to vote without revealing who voted how. The choice is to remain secret, it is to be possible to check that a vote has been counted, and every eligible person is to have one effective vote. Met after at least one binding vote in which a public test with a reward failed to cast a second vote using the same entitlement or to link a vote to a person.
-2. **Reserve.** Funds actually collected for at least six months of maintaining Suveria and Omniforum, untouched after the full budget of the new project has been set aside. Met when six times the average monthly cost of maintenance over the last three months is held in a separate account, and we show this amount in the register every month.
+1. **A working vote.** OmniForum with a binding vote, that is, one whose result the foundation carries out (consultations are not enough). We want to base it on zero-knowledge proofs: a way of confirming the right to vote without revealing who voted how. The choice is to remain secret, it is to be possible to check that a vote has been counted, and every eligible person is to have one effective vote. Met after at least one binding vote in which a public test with a reward failed to cast a second vote using the same entitlement or to link a vote to a person.
+2. **Reserve.** Funds actually collected for at least six months of maintaining Suveria and OmniForum, untouched after the full budget of the new project has been set aside. Met when six times the average monthly cost of maintenance over the last three months is held in a separate account, and we show this amount in the register every month.
 3. **Community decision.** A vote open to the whole eligible community on equal terms. Met when the community votes in favor of a specific proposal with a budget, its impact on the reserve and a criterion for stopping it.
 
 The reserve is not made up of unpaid pledges, balances owed to users or earmarked money, and a mock-up of voting does not meet the first condition. If voting stops working or the reserve falls below six months, we suspend new commitments for the further pillars and first restore the conditions.

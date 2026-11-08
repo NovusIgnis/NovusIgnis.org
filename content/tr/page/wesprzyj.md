@@ -24,7 +24,7 @@ Vakfı zloti, euro veya dolar cinsinden banka havalesiyle bağış yaparak deste
 
 ## Bağışa ne olur
 
-- Amacı belirtilmeyen bağış, her zaman I. Sütun’a, yani Suveria ve Omniforum’a öncelik verilerek tahsis edilebilecek serbest kaynaklara gider.
+- Amacı belirtilmeyen bağış, her zaman I. Sütun’a, yani Suveria ve OmniForum’a öncelik verilerek tahsis edilebilecek serbest kaynaklara gider.
 - Bağış; oy, yönetim yetkisi, kullanıcı verilerine erişim veya hizmetlerimizde ve iletişimimizde tanıtım hakkı vermez.
 - Bağışçıları sicilde yalnızca kendileri isterse adlarıyla gösteririz; diğer ödemeleri, örneğin “özel kişiden bağış” gibi genel biçimde anlatırız. Havale açıklamalarını, çoğu zaman kişisel veri içerdikleri için doğrudan yayımlamayız.  Adını veya şirketinin adını belirtmemizi istersen bize yaz.
 - Tanıtım, tavsiye veya kararlarda ödün koşuluna bağlı menfaatleri kabul etmeyiz.

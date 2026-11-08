@@ -17,14 +17,14 @@ Daha fazlası: [vakıf ilkeleri teknik raporu, 1. bölüm](../whitepaper-zasady-
 
 Hesapta tek bir tutar göstermek yerine parayı kime ait olduğuna ve nereye ayrıldığına göre ayırırız. Banka hesabı bakiyesi tahsis edilecek bütçe değildir.
 
-Rezerv, ödemeler yetersiz kalırsa Suveria ve Omniforum’u sürdürmesi amaçlanan, ayrılmış paradır; teknik rapor buna I. Sütun güvencesi de der (I. Sütun Suveria ve Omniforum’dur).
+Rezerv, ödemeler yetersiz kalırsa Suveria ve OmniForum’u sürdürmesi amaçlanan, ayrılmış paradır; teknik rapor buna I. Sütun güvencesi de der (I. Sütun Suveria ve OmniForum’dur).
 
 | Para türü | Nereden | Nereye harcanabilir |
 | --- | --- | --- |
 | Kullanıcılara ait kaynaklar | Katılımcıların kullanılmayan ön ödemeleri | Yalnızca kendi hizmetlerine; geri alınabilir |
 | Belirli amaçla emanet edilmiş para | Örneğin Suveria pilotu için belirli amaca yönelik bağışlar | Yalnızca o amaca |
 | Üstlenilmiş taahhütler | Planlanan harcamalara zaten ayrılmış para | Yalnızca o harcamalara |
-| Hizmetlerin sürdürülmesine ayrılan güvence | Faturaların yuvarlanması dâhil bağışlardan oluşturulan rezerv | Onsuz Suveria ve Omniforum’un çalışmayı durduracağı şeylere |
+| Hizmetlerin sürdürülmesine ayrılan güvence | Faturaların yuvarlanması dâhil bağışlardan oluşturulan rezerv | Onsuz Suveria ve OmniForum’un çalışmayı durduracağı şeylere |
 | Tahsis edilebilecek serbest kaynaklar | Yukarıdakilerin tamamı çıkarıldıktan sonra, amaç belirtilmeyen ödemeler (bağışlar, hibeler, destekler, bağış kampanyaları) | Her zaman I. Sütun’a öncelik verilerek yeni amaçlara |
 
 Hiçbir şeyi iki kez saymamak için her tutarı yalnızca bir kategoriye atarız. Rezerve yalnızca gerçekten gelen ve başkasına ait olmayan parayı sayarız; ödeme vaatleri sayılmaz.
@@ -78,8 +78,8 @@ Daha fazlası: [vakıf ilkeleri teknik raporu, 4. bölüm](../whitepaper-zasady-
 
 Öncelik I. Sütun’undur. II. Sütun “Hardware” (açık fiziksel çözümler) ve III. Sütun “Natura” (doğayla temas), ancak üç koşulu birlikte sağladığımızda ortak bütçeden finanse edilebilir:
 
-1. seçimin gizli olduğu, oyun sayıldığının denetlenebildiği ve oy hakkına sahip her kişinin bir oyu olduğu, sıfır bilgi kanıtlarına dayanan oylamalı Omniforum çalışıyor;
-2. yeni projenin tam bütçesi ayrıldıktan sonra dokunulmadan kalan, Suveria ve Omniforum’u en az altı ay sürdürmek için gerçekten toplanmış kaynaklar ayrı hesapta bulunuyor;
+1. seçimin gizli olduğu, oyun sayıldığının denetlenebildiği ve oy hakkına sahip her kişinin bir oyu olduğu, sıfır bilgi kanıtlarına dayanan oylamalı OmniForum çalışıyor;
+2. yeni projenin tam bütçesi ayrıldıktan sonra dokunulmadan kalan, Suveria ve OmniForum’u en az altı ay sürdürmek için gerçekten toplanmış kaynaklar ayrı hesapta bulunuyor;
 3. topluluk, tüm oy hakkı sahiplerine eşit koşullarda açık oylamada projeyi ve finansmanını onayladı.
 
 Oylama maketi, ödenmemiş vaatler veya başkalarının bakiyeleri bu koşulları karşılamaz.

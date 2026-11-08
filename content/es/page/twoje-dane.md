@@ -7,7 +7,7 @@ menu: Tus datos
 ---
 # Tus datos
 
-Esta página explica qué datos personales tuyos llegan a la fundación cuando usas el sitio novusignis.org y qué puedes hacer con ellos. Suveria y Omniforum son hoy proyectos; sus whitepapers hablan de los datos en esos servicios.
+Esta página explica qué datos personales tuyos llegan a la fundación cuando usas el sitio novusignis.org y qué puedes hacer con ellos. Suveria y OmniForum son hoy proyectos; sus whitepapers hablan de los datos en esos servicios.
 
 ## Quién se responsabiliza de tus datos
 
@@ -32,8 +32,8 @@ Envías el mensaje desde tu propio correo, también cuando el botón «Tengo un 
 
 ## Lista de espera
 
-- Te apuntas enviando un mensaje con el asunto «[Lista oczekujących] Suveria i Omniforum». Ese es tu consentimiento (art. 6.1.a del RGPD).
-- Usaremos tu dirección para un solo mensaje: el que anuncie el inicio de las primeras pruebas de Suveria y Omniforum. Después de enviarlo, eliminamos la dirección de la lista.
+- Te apuntas enviando un mensaje con el asunto «[Lista oczekujących] Suveria i OmniForum». Ese es tu consentimiento (art. 6.1.a del RGPD).
+- Usaremos tu dirección para un solo mensaje: el que anuncie el inicio de las primeras pruebas de Suveria y OmniForum. Después de enviarlo, eliminamos la dirección de la lista.
 - Puedes retirar tu consentimiento en cualquier momento escribiéndonos; entonces eliminaremos la dirección de inmediato. La retirada del consentimiento no cambia lo que hayamos hecho antes basándonos en él.
 
 ## Donaciones

@@ -46,7 +46,7 @@ Mehr: [Whitepaper zu den Arbeitsgrundsätzen der Stiftung, Abschnitt 5.3](../whi
 
 ## Werkzeuge für Freiwillige
 
-Solange wir keine eigenen Server haben, können wir Kosten für Werkzeuge übernehmen, die Freiwillige zum Erstellen und Testen des offenen Codes von Suveria (dem privaten Arbeitsraum mit digitaler Intelligenz) und Omniforum (dem gemeinsamen Raum für Gespräch, Verständnis und Entscheidungen) benötigen, etwa den Zugang zu Modellen digitaler Intelligenz. Voraussetzung sind Mittel von Säule I, also der ersten Arbeitsphase der Stiftung, die diese beiden Dienste umfasst, oder zweckgebundene Spenden. Solche Unterstützung hat ein öffentliches Limit im Budget und ist keine Vergütung; ihren Umfang werden wir in einem Rechtsgutachten bestätigen.
+Solange wir keine eigenen Server haben, können wir Kosten für Werkzeuge übernehmen, die Freiwillige zum Erstellen und Testen des offenen Codes von Suveria (dem privaten Arbeitsraum mit digitaler Intelligenz) und OmniForum (dem gemeinsamen Raum für Gespräch, Verständnis und Entscheidungen) benötigen, etwa den Zugang zu Modellen digitaler Intelligenz. Voraussetzung sind Mittel von Säule I, also der ersten Arbeitsphase der Stiftung, die diese beiden Dienste umfasst, oder zweckgebundene Spenden. Solche Unterstützung hat ein öffentliches Limit im Budget und ist keine Vergütung; ihren Umfang werden wir in einem Rechtsgutachten bestätigen.
 
 Mehr: [Whitepaper zu den Arbeitsgrundsätzen der Stiftung, Abschnitt 5.4](../whitepaper-zasady-fundacji.md#s5-4).
 

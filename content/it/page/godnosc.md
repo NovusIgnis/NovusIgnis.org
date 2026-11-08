@@ -7,7 +7,7 @@ menu: Dignità
 ---
 # La dignità come punto di partenza
 
-Questa pagina spiega che cosa significa «dignità» nel manifesto di Novus Ignis e che cosa ne deriva: libertà, privacy, protezione dell'attenzione e principi sostenuti dall'azione. È una sintesi del capitolo 2 del manifesto, da cui nascono Suveria e Omniforum. In ogni parte trovi un link al testo completo.
+Questa pagina spiega che cosa significa «dignità» nel manifesto di Novus Ignis e che cosa ne deriva: libertà, privacy, protezione dell'attenzione e principi sostenuti dall'azione. È una sintesi del capitolo 2 del manifesto, da cui nascono Suveria e OmniForum. In ogni parte trovi un link al testo completo.
 
 ## Che cos'è la dignità nel manifesto
 
@@ -73,9 +73,9 @@ I principi comuni richiedono motivazioni chiare delle decisioni e la possibilit�
 
 Per saperne di più: [manifesto, punto 2.5](../manifest.md#s2-5).
 
-## Che cosa ne deriva per Suveria e Omniforum
+## Che cosa ne deriva per Suveria e OmniForum
 
-Da questi principi nascono due direzioni complementari: Suveria deve essere uno spazio privato per pensare, creare e pianificare con l'aiuto dell'intelligenza digitale, mentre Omniforum deve essere uno spazio comune per presentare le proprie ragioni e conoscere altre prospettive. Suveria è oggi un progetto e Omniforum ha un primo prototipo in costruzione. Ogni persona deve poter scegliere che cosa tenere per sé e che cosa condividere con altre persone. Vedi: [Che cos'è Suveria](suveria.md) e [Che cos'è Omniforum](omniforum.md).
+Da questi principi nascono due direzioni complementari: Suveria deve essere uno spazio privato per pensare, creare e pianificare con l'aiuto dell'intelligenza digitale, mentre OmniForum deve essere uno spazio comune per presentare le proprie ragioni e conoscere altre prospettive. Suveria è oggi un progetto e OmniForum ha un primo prototipo in costruzione. Ogni persona deve poter scegliere che cosa tenere per sé e che cosa condividere con altre persone. Vedi: [Che cos'è Suveria](suveria.md) e [Che cos'è OmniForum](omniforum.md).
 
 Per saperne di più: [manifesto, «Dove siamo oggi»](../manifest.md#top).
 

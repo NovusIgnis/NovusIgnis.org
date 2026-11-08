@@ -27,7 +27,7 @@ Saiba mais: [estatuto, § 13](../statut/statut-2026-09-28.md#par-13) e [§ 15](.
 
 ## Por que isso deverá mudar
 
-O manifesto diz claramente: buscamos o encerramento gradual dos poderes especiais do fundador e a transferência à comunidade de influência real sobre o rumo da fundação e a escolha de quem a administra. As decisões da comunidade deverão vincular a diretoria dentro dos limites da lei, do estatuto e da segurança dos serviços. O fundador quer usar a Suveria, o Omniforum e os projetos seguintes com os mesmos direitos que as outras pessoas e se retirar de uma função pública permanente.
+O manifesto diz claramente: buscamos o encerramento gradual dos poderes especiais do fundador e a transferência à comunidade de influência real sobre o rumo da fundação e a escolha de quem a administra. As decisões da comunidade deverão vincular a diretoria dentro dos limites da lei, do estatuto e da segurança dos serviços. O fundador quer usar a Suveria, o OmniForum e os projetos seguintes com os mesmos direitos que as outras pessoas e se retirar de uma função pública permanente.
 
 O whitepaper evoca Cincinato: segundo Tito Lívio, em 458 a.C., os enviados o encontraram trabalhando no campo com a notícia de que lhe haviam confiado o poder supremo durante a guerra. No décimo sexto dia, quando o perigo passou, devolveu-o e voltou à propriedade rural. Assume-se a responsabilidade por algum tempo e depois se passa adiante.
 

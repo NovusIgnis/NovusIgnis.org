@@ -1,8 +1,8 @@
 # Suveria: dijital zekâyla özel çalışma
 
-31 Ekim 2026 tarihli sürüm. Bu belge, manifestonun Suveria’ya ilişkin ilkelerini ayrıntılandırır: mahremiyeti nasıl korumak istediğimizi, dijital zekâyla çalışmanın nasıl işlemesinin amaçlandığını, neye mal olduğunu ve bunu nasıl sınayacağımızı. Açıklanan mimari bir tasarımdır. Mevcut bir teknolojiye veya sağlayıcının belgelerine işaret etmek, onu Suveria’da çalıştırdığımız anlamına gelmez. Denemelerimizin sonuçlarını 9. bölüme her zaman tarih, yapılandırma sürümü ve ölçüm kapsamıyla ekleriz.
+8 Kasım 2026 tarihli sürüm. Bu belge, manifestonun Suveria’ya ilişkin ilkelerini ayrıntılandırır: mahremiyeti nasıl korumak istediğimizi, dijital zekâyla çalışmanın nasıl işlemesinin amaçlandığını, neye mal olduğunu ve bunu nasıl sınayacağımızı. Açıklanan mimari bir tasarımdır. Mevcut bir teknolojiye veya sağlayıcının belgelerine işaret etmek, onu Suveria’da çalıştırdığımız anlamına gelmez. Denemelerimizin sonuçlarını 9. bölüme her zaman tarih, yapılandırma sürümü ve ölçüm kapsamıyla ekleriz.
 
-*Bu çeviri, 31 Ekim 2026 tarihli Lehçe asıl metin temel alınarak dijital zekâ tarafından hazırlanmıştır. Farklılık olması hâlinde Lehçe metin bağlayıcıdır.*
+*Bu çeviri, 8 Kasım 2026 tarihli Lehçe asıl metin temel alınarak dijital zekâ tarafından hazırlanmıştır. Farklılık olması hâlinde Lehçe metin bağlayıcıdır.*
 
 ## 1. Suveria nedir ve neden oluşturuluyor
 
@@ -18,7 +18,7 @@ Suveria’da şunların mümkün olmasını istiyoruz:
 - kendi rızasıyla önceki konuşmaların belleğinden yararlanmak, eski kararların gerekçelerine dönmek ve kendi ilke ve değerlerinden oluşan bir derleme olan Kişisel Kanon’u (*Canon Personalis*) oluşturmak;
 - her birinin neye karşı koruduğu açıkça belirtilerek, kendi cihazındaki modelden sunucudaki gizlilik korumalı ortama kadar çalışma yolunu seçmek;
 - kendi belirlediği harcama sınırıyla gerçek kullanım için ödeme yapmak;
-- bir düşünceyi özel alanda geliştirmek, ardından bilinçli biçimde Omniforum’daki ortak konuşmaya katmak.
+- bir düşünceyi özel alanda geliştirmek, ardından bilinçli biçimde OmniForum’daki ortak konuşmaya katmak.
 
 İlk sürümle, doğrulanabilir mahremiyeti tercih nedeni sayan kişilere hitap ediyoruz.
 
@@ -34,7 +34,7 @@ Başlangıç noktası, koruma düzeyi açıkça anlatılmış, harcama sınırı
 
 Suveria’yı kullanmak, konuşmaların modelleri eğitmek için kullanılmasına rıza göstermek değildir. Kullanıcı içerikleri araştırma materyallerine yalnızca ayrı, bilinçli rızayla girer; diğer materyaller ise [materyaller ve kıyaslama testi teknik raporunda](whitepaper-materialy-i-benchmark.md) anlatıldığı gibi, vakfın kamuya açık çalışmalarından ve kullanım dayanağı açık başka kaynaklardan gelir.
 
-Suveria, ortak konuşma ve karar alanı Omniforum’u tamamlar: biri özel bir atölye, diğeri kamuya açık bir kürsü sunar. Her iki projenin kaynaklandığı değerleri vakfın manifestosu anlatır. Bundan sonra sırasıyla şunları gösteriyoruz:
+Suveria, ortak konuşma ve karar alanı OmniForum’u tamamlar: biri özel bir atölye, diğeri kamuya açık bir kürsü sunar. Her iki projenin kaynaklandığı değerleri vakfın manifestosu anlatır. Bundan sonra sırasıyla şunları gösteriyoruz:
 
 - neyi, neye karşı koruduğumuz, veri ve anahtarların nerede olduğu (2. bölüm);
 - mesajın cihazdan modele nasıl geçtiği ve bunun nasıl sınanacağı (3);
@@ -173,7 +173,7 @@ Suveria’nın işleyişi hakkında bildiğimiz her şeyi herkes bilebilir. Hizm
 
 Onurun korunmasını, araçlarımızın kullanımının sonuçlarından etkilenebilecek insanlara da uygularız. Kötüye kullanımı özel konuşmaları okumadan önlemek istiyoruz: asistanın kendi izlediği ilkeler, araç ve ağ bağlantısı yetkilerinin sınırları, kaynak sınırları ve toplu hesap açmaya karşı koruma yoluyla. Özel içeriğe gizli erişim yolları oluşturmuyoruz; çünkü herkesin korunmasını zayıflatırlardı.
 
-Hesap, tamamen özel olandan (kendi cihazındaki anahtar, e-posta adresi olmadan) kolay olana (dış sağlayıcı üzerinden oturum açma) kadar birkaç yolla açılabilecek. Her yolda seçimden önce vakıf dışında kimin hesabın açıldığını öğrendiğini, hangi verileri gördüğünü ve o sağlayıcı yok olursa ne olduğunu göstereceğiz. Hesabın açılma yolu katılımcının haklarını etkilemez; Omniforum’daki oy hakkı, hesaba eklenen ayrı bir oy hakkı belgesidir.
+Hesap, tamamen özel olandan (kendi cihazındaki anahtar, e-posta adresi olmadan) kolay olana (dış sağlayıcı üzerinden oturum açma) kadar birkaç yolla açılabilecek. Her yolda seçimden önce vakıf dışında kimin hesabın açıldığını öğrendiğini, hangi verileri gördüğünü ve o sağlayıcı yok olursa ne olduğunu göstereceğiz. Hesabın açılma yolu katılımcının haklarını etkilemez; OmniForum’daki oy hakkı, hesaba eklenen ayrı bir oy hakkı belgesidir.
 
 Mahremiyeti ve kötüye kullanımı sınırlamayı ayrı değerlendiriyoruz. Suveria’yı, vakfın belirli kişi hakkında teslim edebileceği verileri olmayacak biçimde tasarlıyoruz: içerikler kullanıcının anahtarlarıyla şifrelenir, hizmetin işleyişi hakkındaki verileri yalnızca 3. bölümde anlatılan açık kapsamda toplarız; kişisel verileri ise hukukun ödeme ve muhasebede gerektirdiği en az kapsamla sınırlarız; bu kapsamı da yayımlarız. Birisi bizden belirli kişinin verilerini isterse, açıkça anlatılan bu asgari kapsam dışında verilerine sahip olmadığımızı dürüstçe söyleyebilmek istiyoruz. Kötüye kullanıma karşı her önlem için hangi verileri gerektirdiğini, bunları ne kadar sakladığımızı, dürüst katılımcı için sonuçlarını ve yanlış engellemeye nasıl itiraz edilebileceğini anlatacağız.
 
@@ -185,7 +185,7 @@ Konuşma yaşamı veya sağlığı tehdit eden bir durumla ilgili olduğunda asi
 
 ### 4.1. Asistanın açık talimatları ve ortak kütüphane
 
-Asistanın davranışını, ana talimatı ve çalışma yolu da belirler: görevi adımlara nasıl böldüğü, belleği nasıl kullandığı ve yanıtları nasıl sınadığı. Suveria’da insanın, asistanının tam talimatını her zaman okuyabilmesi amaçlanıyor. Ortak altyapının yalnızca kıyaslama testinin açık denemelerini geçen model ve ayarları sunması amaçlanıyor; bu asgari düzeyin üzerinde çalışma tarzını kullanıcı seçer: düşünceleri sakince düzenlemekten, asistanın akıl yürütmedeki boşlukları gösterdiği zorlayıcı konuşmaya kadar. Katılımcıların Omniforum’da geliştirdiği ve kıyaslama testinde sınadığı, sınanmış talimatlardan oluşan açık kütüphane oluşturmak istiyoruz.
+Asistanın davranışını, ana talimatı ve çalışma yolu da belirler: görevi adımlara nasıl böldüğü, belleği nasıl kullandığı ve yanıtları nasıl sınadığı. Suveria’da insanın, asistanının tam talimatını her zaman okuyabilmesi amaçlanıyor. Ortak altyapının yalnızca kıyaslama testinin açık denemelerini geçen model ve ayarları sunması amaçlanıyor; bu asgari düzeyin üzerinde çalışma tarzını kullanıcı seçer: düşünceleri sakince düzenlemekten, asistanın akıl yürütmedeki boşlukları gösterdiği zorlayıcı konuşmaya kadar. Katılımcıların OmniForum’da geliştirdiği ve kıyaslama testinde sınadığı, sınanmış talimatlardan oluşan açık kütüphane oluşturmak istiyoruz.
 
 ## 5. Birden fazla ekran kartında hesaplama
 
@@ -239,7 +239,7 @@ Dışa aktarma, seçilen özgün materyalleri, geçmişi, kaynakları ve bağlan
 
 API’lerin, yani programların belgelenmiş iletişim yollarının, kişinin kendi oluşturduğu araçlar dâhil başka araçlarda materyallerle çalışmaya olanak vermesi amaçlanıyor. Kullanıcı veri kapsamını ve izin verilen eylemleri seçer, entegrasyon yetkilerini geri alabilir. Yetkiyi geri almak sonraki erişimi durdurur; daha önce aktarılan kopyaların akıbeti alıcıya da bağlıdır.
 
-Özel alan, ortak projeler yararına çalışmaya da hizmet edebilir. Kullanıcı teslim veya yayın için vermek istediği materyalleri seçer; araç bunlardan erişim anahtarlarını, parolaları, kişisel verileri ve yaması yapılmamış açıklarla ilgili bilgileri yerel olarak çıkarmaya yardımcı olur. Özel olarak ödenen kaynakları kullanmak çalışma konuşmalarını açıklamayı gerektirmez. Vakfın ortak kaynaklarıyla finanse edilen görevde kamuya açık kaydın kapsamını, takma ad seçimini ve materyal hazırlığını [vakfın atölye ilkeleri](whitepaper-zasady-fundacji.md) önceden belirler (11.1. bölüm). Suveria’daki düşüncelerden tek bir soru veya argüman da bilinçli seçilip Omniforum’da yayımlanabilir; manifestoda Ignis Töreni (*Caerimonia Ignis*) olarak anlatılan bu adım her zaman ayrı karar gerektirir.
+Özel alan, ortak projeler yararına çalışmaya da hizmet edebilir. Kullanıcı teslim veya yayın için vermek istediği materyalleri seçer; araç bunlardan erişim anahtarlarını, parolaları, kişisel verileri ve yaması yapılmamış açıklarla ilgili bilgileri yerel olarak çıkarmaya yardımcı olur. Özel olarak ödenen kaynakları kullanmak çalışma konuşmalarını açıklamayı gerektirmez. Vakfın ortak kaynaklarıyla finanse edilen görevde kamuya açık kaydın kapsamını, takma ad seçimini ve materyal hazırlığını [vakfın atölye ilkeleri](whitepaper-zasady-fundacji.md) önceden belirler (11.1. bölüm). Suveria’daki düşüncelerden tek bir soru veya argüman da bilinçli seçilip OmniForum’da yayımlanabilir; manifestoda Ignis Töreni (*Caerimonia Ignis*) olarak anlatılan bu adım her zaman ayrı karar gerektirir.
 
 ## 7. Ölçek: 30 kişiden bütün insanlığa
 
@@ -320,7 +320,7 @@ Altyapıyı, her biri sonraki adıma geçme zorunluluğu olmadan katılımcılar
 
 Her geçişi bir karar kartıyla anlatırız: kazanımlar, tam maliyet, riskler, başlama ve geri çekilme koşulları, veri ve anahtar taşıma yolu ve [rezerv ile sonraki sütunları başlatma ilkelerine](whitepaper-zasady-fundacji.md) uygunluk (vakıf ilkeleri teknik raporunun 8. bölümü). Kendi makinemizi trafik tepeleri için gizlilik korumalı API’yle birleştirmeye yalnızca her yolun kabul edilmiş koruma düzeyi varsa izin veririz; daha zayıf seçeneğe geçiş kullanıcının ayrı, bilinçli kararını gerektirir. İlk ölçümü daha küçük modelle gizlilik korumalı tek kartta, sonrakini tam modelin sığdığı makinede planlıyoruz.
 
-Bütün kapasiteyi en yüksek tepeye göre boyutlandırmadan trafiğe uyarlarız. Bekleme süresi görünen kısa kuyruk tasarlıyoruz; gerçek süresini, sınırını ve dolduğunda davranışını pilot uygulamada ölçeceğiz. Daha uzun tepeler için esnek kapasiteyi öncelikle, kabul edilmiş koruma düzeyini, kullanıcının rızasını ve harcama sınırını koruması koşuluyla gizlilik korumalı API sağlar; böyle yol yoksa beklemeyi veya erişilemezliği dürüstçe bildiririz. Saatlik kiralama, gizlilik korumalı API’de olmayan veya belirgin pahalı modeller için ve yalnızca sağlayıcı gizlilik korumalı makinelerin gerçekten hızla açılıp serbest bırakılmasına izin verdiğinde anlamlıdır. Kendi makinemizin sakin saatlerdeki boş kapasitesini Omniforum için çalışmalar gibi vakıf görevlerinde kullanmak istiyoruz; bu kapasitenin API fiyatlarına göre hesaplanan değeri bütçe geliri sayılmaz; bu görevlerin kendi amacı ve bütçesi vardır. İlk pilot uygulamadan sonra iki modu sınamak istiyoruz: asistanla olağan çalışma için “Konuşma” ve belge çevirisi gibi bekleyebilecek görevler için “Acele etmeden”. “Acele etmeden” modunda yaklaşık başlama aralığını, maliyet tahminini, azami bütçeyi, yapılan işin ücretinin hesaplanmasıyla iptal olanağını ve aynı koruma bilgisini gösteririz. Böyle işin düşük fiyatı ancak sabit maliyeti iki kez saymadan kamuya açık maliyet paylaşım yönteminden doğuyorsa mümkündür.
+Bütün kapasiteyi en yüksek tepeye göre boyutlandırmadan trafiğe uyarlarız. Bekleme süresi görünen kısa kuyruk tasarlıyoruz; gerçek süresini, sınırını ve dolduğunda davranışını pilot uygulamada ölçeceğiz. Daha uzun tepeler için esnek kapasiteyi öncelikle, kabul edilmiş koruma düzeyini, kullanıcının rızasını ve harcama sınırını koruması koşuluyla gizlilik korumalı API sağlar; böyle yol yoksa beklemeyi veya erişilemezliği dürüstçe bildiririz. Saatlik kiralama, gizlilik korumalı API’de olmayan veya belirgin pahalı modeller için ve yalnızca sağlayıcı gizlilik korumalı makinelerin gerçekten hızla açılıp serbest bırakılmasına izin verdiğinde anlamlıdır. Kendi makinemizin sakin saatlerdeki boş kapasitesini OmniForum için çalışmalar gibi vakıf görevlerinde kullanmak istiyoruz; bu kapasitenin API fiyatlarına göre hesaplanan değeri bütçe geliri sayılmaz; bu görevlerin kendi amacı ve bütçesi vardır. İlk pilot uygulamadan sonra iki modu sınamak istiyoruz: asistanla olağan çalışma için “Konuşma” ve belge çevirisi gibi bekleyebilecek görevler için “Acele etmeden”. “Acele etmeden” modunda yaklaşık başlama aralığını, maliyet tahminini, azami bütçeyi, yapılan işin ücretinin hesaplanmasıyla iptal olanağını ve aynı koruma bilgisini gösteririz. Böyle işin düşük fiyatı ancak sabit maliyeti iki kez saymadan kamuya açık maliyet paylaşım yönteminden doğuyorsa mümkündür.
 
 ### 8.3. Konuşma içeriği olmadan kullanım ölçümü
 

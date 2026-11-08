@@ -82,7 +82,7 @@ Pour en savoir plus : [livre blanc sur les principes de la fondation, point 12.
 
 ## Comment nous modifions les documents
 
-Le manifeste et les livres blancs sont des documents vivants. La version actuelle présente la position actuelle de la fondation, et l’historique des versions antérieures et des raisons des corrections reste accessible. Nous voulons les soumettre à un examen public dans Omniforum, l’espace commun de conversation, de compréhension et de décision que nous construisons, en décomposant les thèses en molécules, c’est-à-dire en affirmations et arguments individuels vérifiables.
+Le manifeste et les livres blancs sont des documents vivants. La version actuelle présente la position actuelle de la fondation, et l’historique des versions antérieures et des raisons des corrections reste accessible. Nous voulons les soumettre à un examen public dans OmniForum, l’espace commun de conversation, de compréhension et de décision que nous construisons, en décomposant les thèses en molécules, c’est-à-dire en affirmations et arguments individuels vérifiables.
 
 Nous développons les règles de l’organisation de manière transparente : nous présentons avec chaque proposition de modification son périmètre, sa justification et ses effets pour les participants. Nous ne modifions les statuts que lorsque le changement est nécessaire à l’étape suivante. Nous envisageons aussi d’y inscrire les conditions de financement des piliers suivants (proposition Z6 dans le [registre des modifications des statuts](../statut/rejestr-zmian.md), soumise à la décision du fondateur), afin qu’elles ne dépendent pas de la seule bonne volonté du conseil d’administration.
 

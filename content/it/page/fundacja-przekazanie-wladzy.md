@@ -27,7 +27,7 @@ Per saperne di più: [statuto, § 13](../statut/statut-2026-09-28.md#par-13) e [
 
 ## Perché questo deve cambiare
 
-Il manifesto lo dice chiaramente: puntiamo all'estinzione graduale dei poteri speciali del fondatore e al trasferimento alla comunità di un'influenza reale sulla direzione della fondazione e sulla scelta delle persone che la gestiscono. Le decisioni della comunità devono vincolare il consiglio di amministrazione nei limiti della legge, dello statuto e della sicurezza dei servizi. Il fondatore vuole usare Suveria, Omniforum e i progetti successivi con gli stessi diritti delle altre persone e ritirarsi da un ruolo pubblico stabile.
+Il manifesto lo dice chiaramente: puntiamo all'estinzione graduale dei poteri speciali del fondatore e al trasferimento alla comunità di un'influenza reale sulla direzione della fondazione e sulla scelta delle persone che la gestiscono. Le decisioni della comunità devono vincolare il consiglio di amministrazione nei limiti della legge, dello statuto e della sicurezza dei servizi. Il fondatore vuole usare Suveria, OmniForum e i progetti successivi con gli stessi diritti delle altre persone e ritirarsi da un ruolo pubblico stabile.
 
 Il whitepaper richiama qui Cincinnato: secondo Livio, nel 458 a.C. gli inviati lo trovarono al lavoro nei campi con la notizia che gli era stato affidato il potere supremo per la durata della guerra. Il sedicesimo giorno, passato il pericolo, lo restituì e tornò alla sua fattoria. Si assume una responsabilità per un periodo e poi la si cede.
 

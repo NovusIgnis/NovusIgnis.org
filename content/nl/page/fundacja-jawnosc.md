@@ -82,7 +82,7 @@ Meer: [whitepaper over de werkingsprincipes van de stichting, paragraaf 12.3](..
 
 ## Hoe we documenten veranderen
 
-Het manifest en de whitepapers zijn levende documenten. De actuele versie geeft het huidige standpunt van de stichting weer en de geschiedenis van eerdere versies en correctieredenen blijft toegankelijk. We willen ze openbaar laten beoordelen in Omniforum, de gedeelde ruimte voor gesprek, begrip en besluiten die we bouwen, waarbij we stellingen opsplitsen in moleculen: afzonderlijke beweringen en argumenten die kunnen worden getoetst.
+Het manifest en de whitepapers zijn levende documenten. De actuele versie geeft het huidige standpunt van de stichting weer en de geschiedenis van eerdere versies en correctieredenen blijft toegankelijk. We willen ze openbaar laten beoordelen in OmniForum, de gedeelde ruimte voor gesprek, begrip en besluiten die we bouwen, waarbij we stellingen opsplitsen in moleculen: afzonderlijke beweringen en argumenten die kunnen worden getoetst.
 
 We ontwikkelen organisatieregels openlijk: bij een wijzigingsvoorstel tonen we de reikwijdte, onderbouwing en gevolgen voor deelnemers. We wijzigen de statuten alleen wanneer dat voor een volgende stap nodig is. We overwegen ook de financieringsvoorwaarden voor verdere pijlers in de statuten vast te leggen (voorstel Z6 in het [register van statutenwijzigingen](../statut/rejestr-zmian.md), ter beslissing aan de oprichter), zodat die niet uitsluitend van de goede wil van het bestuur afhangen.
 

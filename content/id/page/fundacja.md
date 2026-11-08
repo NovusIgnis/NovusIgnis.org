@@ -9,7 +9,7 @@ menu: Siapa kami
 
 Halaman ini menjelaskan secara singkat Yayasan Novus Ignis sebagai organisasi. Rinciannya diuraikan dalam whitepaper prinsip yayasan yang ditautkan pada setiap bagian.
 
-Kami adalah yayasan dari Poznań (KRS 0001269575) yang ingin membangun internet alternatif berlandaskan martabat manusia. Pilar pertama kami terdiri atas dua layanan yang baru sedang dibangun: Suveria, ruang pribadi untuk bekerja dengan kecerdasan digital, dan Omniforum, ruang bersama untuk percakapan, pemahaman, dan keputusan. Kami berada di awal perjalanan: yayasan telah terdaftar, dokumen telah diterbitkan, sedangkan layanan masih dikembangkan.
+Kami adalah yayasan dari Poznań (KRS 0001269575) yang ingin membangun internet alternatif berlandaskan martabat manusia. Pilar pertama kami terdiri atas dua layanan yang baru sedang dibangun: Suveria, ruang pribadi untuk bekerja dengan kecerdasan digital, dan OmniForum, ruang bersama untuk percakapan, pemahaman, dan keputusan. Kami berada di awal perjalanan: yayasan telah terdaftar, dokumen telah diterbitkan, sedangkan layanan masih dikembangkan.
 
 Semuanya bermula dari pertanyaan pendiri, Marcin Wołowski: pola perilaku kita sendiri seperti apa yang kita wariskan kepada kecerdasan digital selama pelatihannya?
 
@@ -27,7 +27,7 @@ Novus Ignis adalah badan tanpa pemegang saham: tidak membagikan laba kepada siap
 | Anggaran dasar, manifesto, dan whitepaper | telah diterbitkan |
 | Daftar perubahan anggaran dasar | berfungsi |
 | Suveria | rancangan |
-| Omniforum | prototipe sedang dibangun |
+| OmniForum | prototipe sedang dibangun |
 | Peraturan | akan dibuat |
 | Daftar lain: setoran dan pengeluaran, manfaat, keputusan, kesalahan, serta daftar yang hanya dapat ditambahi (entri di dalamnya tidak dapat diam-diam diubah atau dihapus) | akan dibuat |
 
@@ -54,7 +54,7 @@ Agar anggaran dapat dipahami, kami membagi uang menjadi lima jenis:
 - **dana yang menjadi hak pengguna:** pembayaran di muka yang belum digunakan dan saldo peserta;
 - **uang yang dipercayakan untuk tujuan tertentu:** donasi bertujuan khusus, yang hanya boleh dibelanjakan untuk tujuan itu;
 - **komitmen yang telah diambil:** uang yang sudah dialokasikan bagi pengeluaran terencana;
-- **dana pengamanan pemeliharaan layanan:** cadangan yang tanpanya Suveria dan Omniforum akan berhenti berfungsi;
+- **dana pengamanan pemeliharaan layanan:** cadangan yang tanpanya Suveria dan OmniForum akan berhenti berfungsi;
 - **dana yang bebas dialokasikan:** sisa setelah bagian lain dikurangkan dan yang penggunaannya belum diputuskan.
 
 Daftar setoran dan pengeluaran yang terbuka kami kelola di halaman [Daftar setoran dan pengeluaran](fundacja-rejestr.md).
@@ -73,7 +73,7 @@ Selengkapnya: [whitepaper prinsip yayasan, bab 5](../whitepaper-zasady-fundacji.
 
 ## Kekuasaan yang dapat diserahkan
 
-Yayasan didirikan oleh satu orang, Marcin Wołowski, dan saat ini pendiri memegang kekuasaan terbesar di dalamnya: mengangkat dan memberhentikan pengurus. Anggaran dasar hanya dapat diubah oleh seluruh pengurus secara bulat, dan ketika pendiri tidak menjadi anggotanya, persetujuan pendiri juga diperlukan. Kami tidak ingin keadaan ini tetap demikian: pendiri ingin menggunakan Suveria dan Omniforum dengan hak yang sama seperti orang lain dan mundur dari peran publik tetap.
+Yayasan didirikan oleh satu orang, Marcin Wołowski, dan saat ini pendiri memegang kekuasaan terbesar di dalamnya: mengangkat dan memberhentikan pengurus. Anggaran dasar hanya dapat diubah oleh seluruh pengurus secara bulat, dan ketika pendiri tidak menjadi anggotanya, persetujuan pendiri juga diperlukan. Kami tidak ingin keadaan ini tetap demikian: pendiri ingin menggunakan Suveria dan OmniForum dengan hak yang sama seperti orang lain dan mundur dari peran publik tetap.
 
 Penyerahan dimaksudkan efektif di atas kertas dan dalam praktik: selain mengubah anggaran dasar, akses ke rekening, domain, dan infrastruktur perlu diserahkan. Rencana penyerahan tanggung jawab akan menentukan tanggal tinjauan pertama dan laporan kemajuan berkala. Kami mengangkat anggota pengurus berdasarkan kompetensi dan arah bersama, tidak pernah karena setoran.
 

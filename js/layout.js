@@ -87,7 +87,7 @@
   /**
    * Odnośnik pozycji głównej: strona przeglądowa grupy (podstrona o slugu = klucz grupy), a gdy jej nie ma,
    * dla „dokumentów” i „Dołącz” odpowiednia sekcja strony głównej, dla pozostałych grup pierwsza podstrona,
-   * dokument (Suveria, Omniforum) albo początek strony głównej.
+   * dokument (Suveria, OmniForum) albo początek strony głównej.
    */
   function groupHref(site, group, lang, base, home) {
     if (site && site.pages && site.pages[group]) return pageHref(site, group, lang, base);

@@ -82,7 +82,7 @@ Xem thêm: [sách trắng về nguyên tắc của quỹ, mục 12.3](../whitepa
 
 ## Cách đổi tài liệu
 
-Tuyên ngôn và sách trắng là tài liệu sống. Phiên bản hiện hành thể hiện lập trường hiện tại; lịch sử phiên bản cũ, lý do sửa vẫn truy cập được. Chúng tôi muốn đưa ra rà soát công khai trong Omniforum, không gian chung cho trò chuyện, thấu hiểu và quyết định đang xây, tách luận điểm thành phân tử, tức từng khẳng định và lập luận kiểm tra được.
+Tuyên ngôn và sách trắng là tài liệu sống. Phiên bản hiện hành thể hiện lập trường hiện tại; lịch sử phiên bản cũ, lý do sửa vẫn truy cập được. Chúng tôi muốn đưa ra rà soát công khai trong OmniForum, không gian chung cho trò chuyện, thấu hiểu và quyết định đang xây, tách luận điểm thành phân tử, tức từng khẳng định và lập luận kiểm tra được.
 
 Quy tắc tổ chức được phát triển công khai: cùng đề xuất đổi, cho thấy phạm vi, lý giải và hệ quả cho người tham gia. Chỉ sửa điều lệ khi cần cho bước tiếp theo. Chúng tôi cũng cân nhắc ghi điều kiện tài trợ các trụ cột tiếp theo vào điều lệ (đề xuất Z6 ở [sổ ghi thay đổi điều lệ](../statut/rejestr-zmian.md), chờ người sáng lập quyết định), để không chỉ phụ thuộc thiện chí ban điều hành.
 
