@@ -93,6 +93,11 @@
       "code": "vi",
       "name": "Tiếng Việt",
       "status": "eksperymentalny"
+    },
+    {
+      "code": "bn",
+      "name": "বাংলা",
+      "status": "eksperymentalny"
     }
   ],
   "documents": [

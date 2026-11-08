@@ -1,0 +1,149 @@
+{
+ "source": "content/pl/page/godnosc.md",
+ "paragraphs": [
+  {
+   "h": "d542c785a3f8ebe4778e2265b4715b1719691c33",
+   "t": "# Godność jako punkt wyjścia"
+  },
+  {
+   "h": "fa639366126ec1f74c1651082a25e9bb232d35ab",
+   "t": "Ta strona wyjaśnia, co w manifeście Novus Ignis znaczy „godność” i co z niej wyn"
+  },
+  {
+   "h": "6a43ec0f89c58a42d76e85c1de1108dfefb743db",
+   "t": "## Czym jest godność w manifeście"
+  },
+  {
+   "h": "2117dc3d2daf70f83993fe2640e2c2fe850213f9",
+   "t": "Godność człowieka traktujemy jako wartość niezależną od jego sprawności, produkt"
+  },
+  {
+   "h": "de9932ad4c78cebaae101aba94d3bb44b4d376c9",
+   "t": "Troskę o godność manifest nazywa miłością, choć każdy może opisywać ją własnym j"
+  },
+  {
+   "h": "5bb1d49ce970020c592becc366ca4069bd1532b7",
+   "t": "Więcej: [manifest, rozdział 2](../manifest.md#s2) i [punkt 1.1](../manifest.md#s"
+  },
+  {
+   "h": "c1799adee0c9520b22022fb9958d960213e3a237",
+   "t": "## Wolność to także świadomy wybór"
+  },
+  {
+   "h": "cb8d090b74a7827ccd6a9ee243677d3470d003e7",
+   "t": "Z ochrony godności wyprowadzamy prawo człowieka do decydowania o sobie. Wolność "
+  },
+  {
+   "h": "8a2a353b5d53b3b180cf8a945018d32465952568",
+   "t": "Świadomy wybór wymaga rzetelnej informacji. Gdy ktoś celowo zniekształca obraz s"
+  },
+  {
+   "h": "030fb7282562801adb4146c3acb61f84d0163fc0",
+   "t": "Do Ciebie należy decyzja, ile uwagi chcesz temu poświęcić: możesz poprzestać na "
+  },
+  {
+   "h": "a872c3ec8832cadb9b5c527fbf85c2640f025c65",
+   "t": "Więcej: [manifest, punkt 2.1](../manifest.md#s2-1)."
+  },
+  {
+   "h": "e5b9fe78d0e5b6efd8e11c4c1376108d070b60ae",
+   "t": "## Prywatność: dom, którego drzwi można zamknąć"
+  },
+  {
+   "h": "2d62364beeb9bb9f62b4c5de99ec4f0d7612ff9e",
+   "t": "Decydowanie o sobie obejmuje także wybór tego, co zachowujemy dla siebie. Potrze"
+  },
+  {
+   "h": "d8264f093ff750d08f26aadcb5230db887e9a2e1",
+   "t": "W technologii ma to znaczyć:"
+  },
+  {
+   "h": "9e815ad40d2266c7da19efd88560d1d79bb0a24b",
+   "t": "- Podstawowym miejscem przechowywania prywatnych materiałów mają być własne urzą"
+  },
+  {
+   "h": "47cb3d037351965bcecd9bbc30ad107b44d96bf2",
+   "t": "Dążymy do pełnej prywatności takiej przestrzeni, również wobec operatora usługi,"
+  },
+  {
+   "h": "a3b9cadece406df66d2c5a47985bb29b2ae3133f",
+   "t": "Suveria, która ma tę przestrzeń urzeczywistnić, jest dziś projektem."
+  },
+  {
+   "h": "bdac88c97568c69e3ce5c3f7035860c6a5b49c0e",
+   "t": "Więcej: [manifest, punkt 2.2](../manifest.md#s2-2)."
+  },
+  {
+   "h": "17d308bc8df3ed30c637463b3793f58dbee917a3",
+   "t": "## Uwaga i spokój"
+  },
+  {
+   "h": "dd672a0c4e8310fa25f0d666914e10c8ff4c2b44",
+   "t": "Ochrona godności obejmuje również troskę o to, jak człowiek doświadcza świata, t"
+  },
+  {
+   "h": "cff7bc6a193a2b5ee8c2463a358437a5a016b2ad",
+   "t": "W eksperymencie na platformie X zmiana widoczności treści wyrażających wrogość p"
+  },
+  {
+   "h": "6084a85696f9c151e33689c63f2e883509e2a029",
+   "t": "Bliskie są nam zasady spokojnej technologii: narzędzi, które wymagają tylko tyle"
+  },
+  {
+   "h": "f4542502fdbef7de3306b93fb0b946910ccbf6c4",
+   "t": "W takiej przestrzeni jest też miejsce na gniew, smutek i zdecydowany sprzeciw, b"
+  },
+  {
+   "h": "9adaf805b7c9b61cf35119ed8fd3ab4d3e0fd3fe",
+   "t": "Tak samo traktujemy własną komunikację: pełne publikacje czytasz na tej stronie "
+  },
+  {
+   "h": "31f84df0c9997a6e66487f17d85b1cdbf398ce1a",
+   "t": "Więcej: [manifest, punkt 2.3](../manifest.md#s2-3)."
+  },
+  {
+   "h": "8e3f24bb90b8970bc45128638cdd5bf9fd11db54",
+   "t": "## Zasady, które muszą działać, nie tylko brzmieć"
+  },
+  {
+   "h": "a0cbf1c0adc50c42ec8c05e7e58fd965c96aeeb8",
+   "t": "Chcemy, aby prawa uczestników miały oparcie w konstrukcji technologii, jawnych z"
+  },
+  {
+   "h": "8bbb5a4ee0ca55ef4699c74928eca0b3efa46324",
+   "t": "| Rodzaj obietnicy | Czego wymaga | |---|---| | techniczna | sprawdzalnego mecha"
+  },
+  {
+   "h": "ec2733c555c2f62717987bab56cbc4ba64585f90",
+   "t": "Wolność korzystania obejmuje możliwość odejścia i kontynuowania pracy w innym mi"
+  },
+  {
+   "h": "f933623dc55f54dca6fd73069c99593aaf2e92e9",
+   "t": "Wspólne zasady wymagają czytelnych uzasadnień decyzji oraz możliwości zgłoszenia"
+  },
+  {
+   "h": "c2479b93dc57786d104dc3ebfe48b38a9b63a022",
+   "t": "Więcej: [manifest, punkt 2.5](../manifest.md#s2-5)."
+  },
+  {
+   "h": "405bd96a2e18b1fe5e02a308134258de28a05ed1",
+   "t": "## Co z tego wynika dla Suverii i Omniforum"
+  },
+  {
+   "h": "c6d13760cb903b20223ddbba07fe79dae96e9e9d",
+   "t": "Z tych zasad wyrastają dwa uzupełniające się kierunki: Suveria ma być prywatną p"
+  },
+  {
+   "h": "c6baaefdb4fcb9a164f1ee5fc4bc333a8f817559",
+   "t": "Więcej: [manifest, „Gdzie jesteśmy dziś”](../manifest.md#top)."
+  },
+  {
+   "h": "dbd729a4bebd65f560d1601db4be5811d62ffdc0",
+   "t": "## Przeczytaj i powiedz, co myślisz"
+  },
+  {
+   "h": "37301f05c6f6091506f19179056b487f15a4e8d5",
+   "t": "Warto przeczytać [rozdział 2 manifestu](../manifest.md#s2) w całości. Jeśli uzna"
+  }
+ ]
+}
