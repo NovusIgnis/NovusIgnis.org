@@ -93,6 +93,8 @@ Każda zmiana treści manifestu albo whitepapera to nowa wersja z datą (statut 
 
 Przy zmianie: skopiuj bieżący dokument do `wersje/<dokument>/<data poprzedniej wersji>.md`, zmień tekst i wiersz wersji, dopisz wersję do rejestru z opisem i odciskiem (generator podaje go w ostrzeżeniu), dopisz wpis w dzienniku zmian. Przekład dostaje akapit i opis. Gdy treść oryginału różni się od odcisku w rejestrze, generator ostrzega, że zmiana nie ma wersji; przy poprawce bez zmiany sensu (literówka) wystarczy nowy odcisk i wpis w dzienniku.
 
+**Poprawka przekładu po publikacji wersji.** Gdy wersja jest już na serwerze, a poprawiamy tylko przekład, oryginał i jego rejestr zostają bez zmian. W poprawianym języku skopiuj opublikowany przekład do `wersje/<dokument>/<data wersji>.md`, popraw tekst, w wierszu wersji dopisz datę poprawki przekładu, a w rejestrze tego języka dopisz na górze wpis z `data` (dzień wysyłki), `poprzednia` (data wersji), `rodzaj: "przeklad"` i opisem, co poprawiliśmy, ze zdaniem, że oryginał się nie zmienił. Poprawki z jednego dnia wysyłki łączymy w jeden wpis. Dziennika zmian przy poprawce przekładu nie uzupełniamy. Przed wysyłką wersji poprawkę przekładu opisujemy jednym zdaniem w opisie tej wersji.
+
 Z rejestru generator tworzy `<język>/<dokument>-zmiany.html` (tylko zmienione miejsca: dodane podkreślone, usunięte przekreślone, w zmienionym akapicie na poziomie słów, z opisem zmiany) i wersje historyczne `<język>/wersje/<dokument>-<data>.html`, a pod wierszem wersji w dokumencie dodaje odnośnik „Co się zmieniło od poprzedniej wersji” (`versions` w `locales`). Zachowane wersje tłumaczeń oznacz `node tools/i18n-sync.mjs mark content/<język>/wersje/<dokument>/<data>.md`.
 
 ## Generator
