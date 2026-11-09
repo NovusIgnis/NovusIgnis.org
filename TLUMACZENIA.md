@@ -86,7 +86,7 @@ Akapit to blok rozdzielony pustą linią. Generator robi to samo porównanie: gd
 
 ## Wersje dokumentów
 
-Każda zmiana treści manifestu albo whitepapera to nowa wersja z datą (statut ma osobny rejestr zmian w `content/<język>/statut/`). Pliki:
+Każda zmiana treści manifestu albo whitepapera to nowa wersja z datą (statut ma osobny rejestr zmian w `content/<język>/statut/`). **Data wersji to dzień publikacji** (decyzja fundatora z 3.11.2026): tylko ten dzień da się sprawdzić z zewnątrz (wysyłka do repozytorium, wgranie strony). Datę w wierszu wersji, we wpisie dziennika i w rejestrze ustawiamy w dniu wysyłki, a commity robimy tego samego dnia. Pliki:
 
 - `content/<język>/wersje/<dokument>/<data>.md`: zachowane poprzednie brzmienie, bez zmian;
 - `content/<język>/wersje/<dokument>.json`: rejestr wersji, najnowsza pierwsza: `data`, `poprzednia`, `opis` (co i dlaczego, ten sam tekst co wpis w dzienniku zmian), a w oryginale przy najnowszej wersji `skrot` (odcisk treści).
