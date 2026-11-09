@@ -1,0 +1,879 @@
+{
+ "_opis": "Sprawy na stronie OmniActa (D Marcina 4.11.2026: akta to surowy rejestr, sprawy i ich opisy prowadzi strona; 9.11.2026, w11: grupy, najpierw tytuły, opisy partiami). Pole sprawy w zdarzeniach akt to etykiety; tu są ich tytuły, grupy i zatwierdzone opisy. Strona pokazuje opis tylko z datą zatwierdzenia w zatwierdzone.opis. kamien-milowy nie jest sprawą, tylko oznaczeniem ważnego kroku (filtr).",
+ "zatwierdzone": {
+  "grupy_i_tytuly": "2026-11-09, sprawa w11 (formularz sesji Strona)",
+  "teksty_strony": "2026-11-09, sprawa w11 (formularz sesji Strona)"
+ },
+ "grupy": [
+  {
+   "id": "suveria",
+   "pl": {
+    "tytul": "Suveria"
+   },
+   "en": {
+    "tytul": "Suveria"
+   },
+   "sprawy": [
+    "suveria",
+    "osobisty-asystent",
+    "omniarca",
+    "mapa-ochrony"
+   ]
+  },
+  {
+   "id": "dostawcy",
+   "pl": {
+    "tytul": "Dostawcy poufnego przetwarzania"
+   },
+   "en": {
+    "tytul": "Confidential computing providers"
+   },
+   "sprawy": [
+    "dostawcy",
+    "dostawca-confidential-ai",
+    "dostawca-phala",
+    "dostawca-privatemode",
+    "dostawca-tinfoil"
+   ]
+  },
+  {
+   "id": "omniforum",
+   "pl": {
+    "tytul": "OmniForum"
+   },
+   "en": {
+    "tytul": "OmniForum"
+   },
+   "sprawy": [
+    "omniforum",
+    "decyzje-wedlug-potrzeb",
+    "nazwy-lacinskie"
+   ]
+  },
+  {
+   "id": "omniacta",
+   "pl": {
+    "tytul": "OmniActa"
+   },
+   "en": {
+    "tytul": "OmniActa"
+   },
+   "sprawy": [
+    "omniacta"
+   ]
+  },
+  {
+   "id": "fundacja",
+   "pl": {
+    "tytul": "Fundacja: statut, zasady, pieniądze, ludzie"
+   },
+   "en": {
+    "tytul": "The foundation: statute, principles, money, people"
+   },
+   "sprawy": [
+    "fundacja",
+    "statut",
+    "zasady-fundacji",
+    "finanse-i-jawnosc",
+    "wspolpracownicy",
+    "strona-role",
+    "komunikacja"
+   ]
+  },
+  {
+   "id": "dokumenty",
+   "pl": {
+    "tytul": "Manifest i whitepapery"
+   },
+   "en": {
+    "tytul": "Manifesto and white papers"
+   },
+   "sprawy": [
+    "manifest",
+    "manifest-uczciwy-przyklad",
+    "mapa-zobowiazan",
+    "uczciwy-przyklad",
+    "whitepaper-wrzesniowy",
+    "whitepapery",
+    "teksty-towarzyszace",
+    "wersje-dokumentow",
+    "redakcja",
+    "standard-redakcyjny"
+   ]
+  },
+  {
+   "id": "strona",
+   "pl": {
+    "tytul": "Strona i przekłady"
+   },
+   "en": {
+    "tytul": "Website and translations"
+   },
+   "sprawy": [
+    "strona",
+    "stara-strona",
+    "audyt",
+    "przeklady",
+    "wgrywanie",
+    "hosting-i-domeny"
+   ]
+  },
+  {
+   "id": "sposob-pracy",
+   "pl": {
+    "tytul": "Sposób pracy i agenci"
+   },
+   "en": {
+    "tytul": "How we work, and the agents"
+   },
+   "sprawy": [
+    "sposob-pracy",
+    "srodowisko-agentow",
+    "komputer-agentow",
+    "dziennik-claude",
+    "stol-rozmowy"
+   ]
+  },
+  {
+   "id": "poczatki",
+   "pl": {
+    "tytul": "Początki i idee (2025)"
+   },
+   "en": {
+    "tytul": "Beginnings and ideas (2025)"
+   },
+   "sprawy": [
+    "podcast-cyfrowa-inteligencja",
+    "cztery-zasady",
+    "drzewo-wartosci",
+    "droga-zmiany",
+    "kultura-rozmowy",
+    "nasiona-utopii",
+    "spolecznosc-wspolpracy",
+    "swiat-bez-przymusu-pracy",
+    "idea-fundacji",
+    "filary"
+   ]
+  }
+ ],
+ "sprawy": {
+  "suveria": {
+   "grupa": "suveria",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Prywatna praca z cyfrową inteligencją"
+   },
+   "en": {
+    "tytul": "Private work with digital intelligence"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "osobisty-asystent": {
+   "grupa": "suveria",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Osobisty, prywatny asystent cyfrowej inteligencji"
+   },
+   "en": {
+    "tytul": "A personal, private digital intelligence assistant"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "omniarca": {
+   "grupa": "suveria",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "OmniArca: konto w ekosystemie"
+   },
+   "en": {
+    "tytul": "OmniArca: the account in the ecosystem"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "mapa-ochrony": {
+   "grupa": "suveria",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Mapa ochrony Suverii"
+   },
+   "en": {
+    "tytul": "Suveria protection map"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "dostawcy": {
+   "grupa": "dostawcy",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Wybór i sprawdzanie dostawców"
+   },
+   "en": {
+    "tytul": "Choosing and checking providers"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "dostawca-confidential-ai": {
+   "grupa": "dostawcy",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Confidential AI"
+   },
+   "en": {
+    "tytul": "Confidential AI"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "dostawca-phala": {
+   "grupa": "dostawcy",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Phala"
+   },
+   "en": {
+    "tytul": "Phala"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   },
+   "pokaz_jako": "dostawcy",
+   "uwaga": "Bez tytułu i opisu do pisemnej zgody Phali (i04, D 7.11.2026); zdarzenia pod sprawą „dostawcy”."
+  },
+  "dostawca-privatemode": {
+   "grupa": "dostawcy",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Privatemode"
+   },
+   "en": {
+    "tytul": "Privatemode"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "dostawca-tinfoil": {
+   "grupa": "dostawcy",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Tinfoil",
+    "opis": "Odpowiedzi dostawcy i nasze sprawdzenie routera oraz enklaw modeli."
+   },
+   "en": {
+    "tytul": "Tinfoil",
+    "opis": "The provider's replies and our check of the router and the model enclaves."
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": "2026-11-09 (t25, sesja Dostawcy)"
+   }
+  },
+  "omniforum": {
+   "grupa": "omniforum",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Wspólne rozumienie, rozmowa i decyzje"
+   },
+   "en": {
+    "tytul": "Shared understanding, conversation and decisions"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "decyzje-wedlug-potrzeb": {
+   "grupa": "omniforum",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Decyzje według potrzeb"
+   },
+   "en": {
+    "tytul": "Decisions according to needs"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "nazwy-lacinskie": {
+   "grupa": "omniforum",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Nazwy łacińskie"
+   },
+   "en": {
+    "tytul": "Latin names"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "omniacta": {
+   "grupa": "omniacta",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Jawne akta fundacji"
+   },
+   "en": {
+    "tytul": "The foundation's open records"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "fundacja": {
+   "grupa": "fundacja",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Powstanie i rejestracja fundacji"
+   },
+   "en": {
+    "tytul": "The foundation's creation and registration"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "statut": {
+   "grupa": "fundacja",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Statut i rejestr zmian statutu"
+   },
+   "en": {
+    "tytul": "The statute and the register of statute changes"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "zasady-fundacji": {
+   "grupa": "fundacja",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Zasady fundacji: pieniądze, praca, zarząd i przekazywanie władzy"
+   },
+   "en": {
+    "tytul": "The foundation's principles: money, work, the board and handing over power"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "finanse-i-jawnosc": {
+   "grupa": "fundacja",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Finanse fundacji i ich jawność"
+   },
+   "en": {
+    "tytul": "The foundation's finances and their openness"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "wspolpracownicy": {
+   "grupa": "fundacja",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Szukanie współpracowników"
+   },
+   "en": {
+    "tytul": "Finding collaborators"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "strona-role": {
+   "grupa": "fundacja",
+   "stan": "wstrzymana",
+   "pl": {
+    "tytul": "Strona „Role: weź kartę”"
+   },
+   "en": {
+    "tytul": "The “Roles: take a card” page"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "komunikacja": {
+   "grupa": "fundacja",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Jak fundacja pisze do ludzi i firm"
+   },
+   "en": {
+    "tytul": "How the foundation writes to people and companies"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "manifest": {
+   "grupa": "dokumenty",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Manifest fundacji"
+   },
+   "en": {
+    "tytul": "The foundation's manifesto"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "manifest-uczciwy-przyklad": {
+   "grupa": "dokumenty",
+   "stan": "zamknieta",
+   "pl": {
+    "tytul": "Wychowanie przez uczciwy przykład w manifeście"
+   },
+   "en": {
+    "tytul": "Alignment by Honest Example in the manifesto"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "mapa-zobowiazan": {
+   "grupa": "dokumenty",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Mapa zobowiązań"
+   },
+   "en": {
+    "tytul": "The map of commitments"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "uczciwy-przyklad": {
+   "grupa": "dokumenty",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Uczciwy przykład i materiały do uczenia modeli"
+   },
+   "en": {
+    "tytul": "Honest example and materials for training models"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "whitepaper-wrzesniowy": {
+   "grupa": "dokumenty",
+   "stan": "rozdzielona",
+   "pl": {
+    "tytul": "Wrześniowy whitepaper Suverii i OmniForum"
+   },
+   "en": {
+    "tytul": "The September whitepaper of Suveria and OmniForum"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "whitepapery": {
+   "grupa": "dokumenty",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Whitepapery: układ i forma"
+   },
+   "en": {
+    "tytul": "The whitepapers: structure and form"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "teksty-towarzyszace": {
+   "grupa": "dokumenty",
+   "stan": "polaczona",
+   "pl": {
+    "tytul": "Teksty towarzyszące: „Wizja po udanym starcie”"
+   },
+   "en": {
+    "tytul": "Companion texts: “Vision after a successful start”"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "wersje-dokumentow": {
+   "grupa": "dokumenty",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Wersje dokumentów"
+   },
+   "en": {
+    "tytul": "Document versions"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "redakcja": {
+   "grupa": "dokumenty",
+   "stan": "zamknieta",
+   "pl": {
+    "tytul": "Redakcja dokumentów: od pracowni do folderu Treści"
+   },
+   "en": {
+    "tytul": "Editing the documents: from the workshop to the Treści folder"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "standard-redakcyjny": {
+   "grupa": "dokumenty",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Standard redakcyjny tekstów publicznych"
+   },
+   "en": {
+    "tytul": "The editorial standard for public texts"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "strona": {
+   "grupa": "strona",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Strona novusignis.org"
+   },
+   "en": {
+    "tytul": "The novusignis.org site"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "stara-strona": {
+   "grupa": "strona",
+   "stan": "zamknieta",
+   "pl": {
+    "tytul": "Strona z sierpnia i września"
+   },
+   "en": {
+    "tytul": "The site of August and September"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "audyt": {
+   "grupa": "strona",
+   "stan": "polaczona",
+   "pl": {
+    "tytul": "Audyt przed publikacją"
+   },
+   "en": {
+    "tytul": "The audit before publication"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "przeklady": {
+   "grupa": "strona",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Przekłady na 18 języków"
+   },
+   "en": {
+    "tytul": "Translations into 18 languages"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "wgrywanie": {
+   "grupa": "strona",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Wgrywanie strony"
+   },
+   "en": {
+    "tytul": "Deploying the site"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "hosting-i-domeny": {
+   "grupa": "strona",
+   "stan": "polaczona",
+   "pl": {
+    "tytul": "Domeny, hosting i poczta"
+   },
+   "en": {
+    "tytul": "Domains, hosting and mail"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "sposob-pracy": {
+   "grupa": "sposob-pracy",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Sposób pracy fundatora z modelami"
+   },
+   "en": {
+    "tytul": "How the founder works with the models"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "srodowisko-agentow": {
+   "grupa": "sposob-pracy",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Środowisko agentów fundacji"
+   },
+   "en": {
+    "tytul": "The foundation's agent environment"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "komputer-agentow": {
+   "grupa": "sposob-pracy",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Komputer agentów"
+   },
+   "en": {
+    "tytul": "The agents' computer"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "dziennik-claude": {
+   "grupa": "sposob-pracy",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Pamięć i dziennik pracy Claude'a"
+   },
+   "en": {
+    "tytul": "Claude's memory and work log"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "stol-rozmowy": {
+   "grupa": "sposob-pracy",
+   "stan": "wstrzymana",
+   "pl": {
+    "tytul": "Stół rozmowy"
+   },
+   "en": {
+    "tytul": "The Conversation Table"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "podcast-cyfrowa-inteligencja": {
+   "grupa": "poczatki",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Kanał i podcast „Cyfrowa Inteligencja” (2025)"
+   },
+   "en": {
+    "tytul": "The “Cyfrowa Inteligencja” (“Digital Intelligence”) channel and podcast (2025)"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "cztery-zasady": {
+   "grupa": "poczatki",
+   "stan": "polaczona",
+   "pl": {
+    "tytul": "Cztery zasady nowego świata"
+   },
+   "en": {
+    "tytul": "Four principles of a new world"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "drzewo-wartosci": {
+   "grupa": "poczatki",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Drzewo wartości z godnością na szczycie"
+   },
+   "en": {
+    "tytul": "The tree of values with dignity at the top"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "droga-zmiany": {
+   "grupa": "poczatki",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Droga zmiany: współpraca zamiast rywalizacji"
+   },
+   "en": {
+    "tytul": "The path of change: cooperation instead of competition"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "kultura-rozmowy": {
+   "grupa": "poczatki",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Kultura rozmowy"
+   },
+   "en": {
+    "tytul": "Culture of conversation"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "nasiona-utopii": {
+   "grupa": "poczatki",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Nasiona utopii"
+   },
+   "en": {
+    "tytul": "Seeds of utopia"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "spolecznosc-wspolpracy": {
+   "grupa": "poczatki",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Społeczność współpracy"
+   },
+   "en": {
+    "tytul": "A community of cooperation"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "swiat-bez-przymusu-pracy": {
+   "grupa": "poczatki",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Świat bez przymusu pracy"
+   },
+   "en": {
+    "tytul": "A world without compulsory work"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "idea-fundacji": {
+   "grupa": "poczatki",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Idea fundacji: internet oparty na godności człowieka"
+   },
+   "en": {
+    "tytul": "The foundation's idea: an internet based on human dignity"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  },
+  "filary": {
+   "grupa": "poczatki",
+   "stan": "otwarta",
+   "pl": {
+    "tytul": "Trzy filary i warunki dalszych filarów"
+   },
+   "en": {
+    "tytul": "Three pillars and the conditions for further pillars"
+   },
+   "zatwierdzone": {
+    "tytul": "2026-11-09 (w11)",
+    "opis": false
+   }
+  }
+ }
+}

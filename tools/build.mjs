@@ -20,6 +20,7 @@ import crypto from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import { stripComments, splitFrontMatter, normalizeNewlines, contentHash, diffSeq } from './lib/text.mjs';
 import { checkTranslation } from './i18n-sync.mjs';
+import { actaPage, actaMeta } from './lib/acta.mjs';
 import { omnivoxPage } from './lib/omnivox.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -553,6 +554,17 @@ if (slownikEntry) {
   siteData.pages[GLOSS_SLUG] = { path: slownikEntry.html, langs: glossLangs, titles: byLang(t => t.glossary.title), menu: byLang(t => (t.nav.shortcuts || {}).slownik || t.glossary.title), desc: byLang(t => t.glossary.intro), group: slownikEntry.group, order: slownikEntry.order, generated: true };
 }
 
+// Strona akt (generowana, PL i EN) w menu Fundacja, po „Jawności”, od zatwierdzenia tytułów spraw (D Marcina 9.11.2026, w11).
+// W pozostałych językach etykieta to nazwa własna OmniActa, a odnośnik prowadzi do wersji angielskiej (fallback).
+const ACTA_MENU = { pl: 'Akta', en: 'Records' };
+let actaPageEntry = null;
+if (cfg.acta && fs.existsSync(path.resolve(ROOT, cfg.acta))) {
+  const langs = ['pl', 'en'].filter(l => LANGS.includes(l));
+  actaPageEntry = { kind: 'page', slug: 'acta', html: 'acta.html', langs, group: 'fundacja', order: 5.5, fallback: 'en', generated: true };
+  siteData.pages.acta = { path: 'acta.html', langs, titles: Object.fromEntries(langs.map(l => [l, actaMeta(l).title])), menu: Object.fromEntries(LANGS.map(l => [l, ACTA_MENU[l] || 'OmniActa'])),
+    desc: Object.fromEntries(langs.map(l => [l, actaMeta(l).desc])), group: 'fundacja', order: 5.5, fallback: 'en', generated: true };
+}
+
 // ---------------------------------------------------------------- Renderowanie treści (dokumenty i podstrony)
 function makeCtx(entry, lang, pagePath) {
   return {
@@ -1036,12 +1048,12 @@ function sitemapBody(lang) {
   const section = (id, label, items) => '<h2 id="' + id + '">' + esc(label) + '</h2>\n' + (items.length ? '<ul class="sitemap-list">\n' + items.join('\n') + '\n</ul>' : '<p>' + esc(S.empty || '') + '</p>');
   const pageItems = list => list.slice().sort((a, b) => a.order - b.order || String(a.slug).localeCompare(String(b.slug))).map(p => {
     const d = siteData.pages[p.slug];
-    const l = p.langs.includes(lang) ? lang : (p.langs.includes(SRC) ? SRC : p.langs[0]);
+    const l = p.langs.includes(lang) ? lang : (p.fallback && lang !== SRC && p.langs.includes(p.fallback) ? p.fallback : (p.langs.includes(SRC) ? SRC : p.langs[0]));
     return li(NILayout.pageHref(siteData, p.slug, lang, base), d.titles[l] || p.slug, l, d.desc[l] || '');
   });
   const out = ['<h1 id="top">' + esc(S.title || '') + '</h1>', '<p class="doc-lead">' + esc(S.desc || '') + '</p>'];
   out.push(section('strona-glowna', S.home || '', [li(NILayout.homeHref(siteData, lang, base), t.meta.title, lang, '')]));
-  const all = [...pages, ...(slownikEntry ? [slownikEntry] : []), mapaEntry];
+  const all = [...pages, ...(slownikEntry ? [slownikEntry] : []), ...(actaPageEntry ? [actaPageEntry] : []), mapaEntry];
   for (const g of GROUPS) {
     const items = [];
     if (g === 'dokumenty') for (const id of NAV_DOCS) {
@@ -1086,6 +1098,25 @@ if (slownikEntry) for (const lang of glossLangs) {
   const pagePath = lang + '/' + slownikEntry.html;
   const r = { title: t.glossary.title, description: t.glossary.intro, body: glossaryBody(lang), toc: [] };
   writeFile(pagePath, pageDocument({ lang, pagePath, entry: slownikEntry, r, outdated: false, toc: false }));
+}
+
+// Strona <język>/acta.html (PL i EN): wszystkie zdarzenia akt od najnowszego z filtrami. Zdarzenia z kopii publicznych akt
+// (site.config.json → "acta": content/acta/zdarzenia.json, tools/acta-kopia.mjs), grupy, tytuły i opisy spraw
+// z content/acta/sprawy.json (D Marcina 4.11.2026 i 9.11.2026, sprawa w11). Bez pliku zdarzeń strony nie ma.
+let actaCount = 0;
+const ACTA_FILE = cfg.acta ? path.resolve(ROOT, cfg.acta) : null;
+const ACTA_SPRAWY = path.join(ROOT, 'content', 'acta', 'sprawy.json');
+if (ACTA_FILE && fs.existsSync(ACTA_FILE)) {
+  const dane = JSON.parse(fs.readFileSync(ACTA_FILE, 'utf8'));
+  const actaSprawy = fs.existsSync(ACTA_SPRAWY) ? JSON.parse(fs.readFileSync(ACTA_SPRAWY, 'utf8')) : {};
+  let actaWarned = false;
+  const actaEntry = { kind: 'page', id: 'acta', slug: 'acta', generated: true, noGloss: true, html: 'acta.html', langs: ['pl', 'en'].filter(l => LANGS.includes(l)) };
+  for (const lang of actaEntry.langs) {
+    const pagePath = lang + '/' + actaEntry.html;
+    const r = actaPage(dane, actaSprawy, lang, { esc, script: asset(baseFor(pagePath), 'js/acta.js'), warn: m => { if (!actaWarned) warn(m); actaWarned = true; } });
+    writeFile(pagePath, pageDocument({ lang, pagePath, entry: actaEntry, r, outdated: false, toc: false }));
+    actaCount++;
+  }
 }
 
 // Strona <język>/omnivox.html (PL i EN): formularz wpisu do OmniVox bez konta, wysyłany do api/omnivox.php (test od 4.11.2026).

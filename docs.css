@@ -128,6 +128,69 @@
 .ver-historical a { color: #FFB27A; text-underline-offset: 2px; }
 .ver-tag { display: inline-block; margin-bottom: 4px; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; }
 
+/* OmniActa: lista zdarzeń akt z filtrami (tools/lib/acta.mjs, js/acta.js) */
+.doc-layout--single:has(.acta-list) { grid-template-columns: minmax(0, 1fr); }
+.doc:has(.acta-list) { max-width: 1040px; }
+.acta-source { color: var(--ni-text-muted); font-size: 0.9rem; }
+.acta-filters { display: grid; gap: 14px; margin: 1.2em 0 1em; padding: 14px 16px; border: 1px solid var(--ni-border); border-radius: 12px; background: rgba(255, 255, 255, 0.02); }
+.doc .acta-h { font-size: 0.78rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--ni-flame-light); margin: 0 0 8px; border: 0; padding: 0; }
+.acta-chips, .acta-groups, .acta-sub { list-style: none; display: flex; flex-wrap: wrap; gap: 6px; margin: 0; padding: 0; }
+.acta-chips li, .acta-groups li, .acta-sub li { margin: 0; }
+.acta-group { display: contents; }
+.acta-sub { flex-basis: 100%; margin: 2px 0 6px; padding: 8px 10px; border-inline-start: 2px solid var(--ni-border); }
+.acta-chip { font: inherit; font-size: 0.82rem; line-height: 1.4; color: var(--ni-text); background: rgba(255, 255, 255, 0.04); border: 1px solid var(--ni-border); border-radius: 999px; padding: 4px 11px; cursor: pointer; }
+.acta-chip:hover { border-color: rgba(255, 255, 255, 0.3); }
+.acta-chip:focus-visible { outline: 2px solid var(--ni-flame-main); outline-offset: 2px; }
+.acta-chip[aria-pressed="true"] { border-color: var(--ni-flame-main); background: rgba(255, 107, 0, 0.18); color: #fff; }
+.acta-gbtn[aria-pressed="true"], .acta-gbtn[aria-expanded="true"] { border-color: var(--c); }
+.acta-gbtn[aria-pressed="true"] { background: color-mix(in srgb, var(--c) 22%, transparent); }
+.acta-chip--star { color: #FFD27A; }
+.acta-n { color: var(--ni-text-muted); font-size: 0.75rem; margin-inline-start: 2px; }
+.acta-dot { display: inline-block; width: 9px; height: 9px; border-radius: 50%; background: var(--c); margin-inline-end: 6px; vertical-align: 1px; }
+.acta-sdesc { flex-basis: 100%; margin: 6px 0 2px; font-size: 0.88rem; color: var(--ni-text-dim); }
+.acta-sub li:has(.acta-sdesc:not([hidden])) { flex-basis: 100%; }
+.acta-shown { margin: 0; font-size: 0.85rem; color: var(--ni-text-muted); display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.acta-list { list-style: none; margin: 0; padding: 0; }
+.doc .acta-list > li { margin: 0; }
+.acta-item { border-block-end: 1px solid rgba(255, 255, 255, 0.06); }
+.acta-item--archiwum { background: repeating-linear-gradient(135deg, rgba(255, 255, 255, 0.022) 0 6px, transparent 6px 12px); }
+.acta-item summary { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; padding: 9px 8px; cursor: pointer; list-style: none; }
+.acta-item summary::-webkit-details-marker { display: none; }
+.acta-item summary::before { content: "▸"; color: var(--ni-text-muted); flex: none; width: 0.8em; }
+.acta-item details[open] > summary::before { content: "▾"; }
+.acta-item summary:hover { background: rgba(255, 255, 255, 0.03); }
+.acta-item summary:focus-visible { outline: 2px solid var(--ni-flame-main); outline-offset: -2px; }
+.acta-item details[open] > summary { background: rgba(255, 107, 0, 0.08); }
+.acta-date { flex: none; font-size: 0.78rem; color: var(--ni-text-muted); font-variant-numeric: tabular-nums; min-width: 8.6em; }
+.acta-title { flex: 1 1 18em; min-width: 0; font-size: 0.98rem; font-weight: 600; color: var(--ni-text-bright, #fff); }
+.acta-star { flex: none; color: #FFD27A; }
+.acta-tags { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 4px; margin-inline-start: auto; }
+.acta-tag { font-size: 0.72rem; padding: 1px 8px; border-radius: 999px; border: 1px solid var(--c); color: var(--c); white-space: nowrap; }
+.acta-type { flex: none; font-size: 0.68rem; letter-spacing: 0.03em; text-transform: uppercase; padding: 1px 6px; border-radius: 4px; background: rgba(255, 255, 255, 0.07); color: #CFCFDA; }
+.acta-chip.acta-type--decyzja, .acta-chip.acta-type--blad, .acta-chip.acta-type--publikacja, .acta-chip.acta-type--proba, .acta-chip.acta-type--wynik, .acta-chip.acta-type--polaczenie, .acta-chip.acta-type--rozdzielenie { background: rgba(255, 255, 255, 0.04); }
+.acta-type--decyzja { background: rgba(255, 107, 0, 0.18); color: #FFB27A; }
+.acta-type--blad { background: rgba(255, 79, 123, 0.18); color: #FF9DB5; }
+.acta-type--publikacja { background: rgba(61, 220, 151, 0.16); color: #8FF0C4; }
+.acta-type--proba, .acta-type--wynik { background: rgba(0, 210, 255, 0.14); color: #9BE8FF; }
+.acta-type--polaczenie, .acta-type--rozdzielenie { background: rgba(160, 124, 255, 0.18); color: #CDBBFF; }
+.acta-body { padding: 4px 12px 14px calc(0.8em + 16px); font-size: 0.95rem; }
+.acta-meta { color: var(--ni-text-muted); font-size: 0.85rem; }
+.doc .acta-list li.acta-note { font-size: 0.82rem; color: var(--ni-text-muted); padding: 6px 8px; }
+.doc .acta-list li.acta-boundary { color: #8FF0C4; font-weight: 700; border-block: 1px solid rgba(61, 220, 151, 0.45); background: rgba(61, 220, 151, 0.06); }
+.acta-dl { margin: 1em 0 0; display: grid; grid-template-columns: max-content minmax(0, 1fr); gap: 4px 14px; }
+.acta-dl dt { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--ni-flame-light); padding-top: 0.2em; }
+.acta-dl dd { margin: 0; }
+.acta-dl ul { list-style: none; margin: 0; padding: 0; }
+.acta-dl li { margin: 0.1em 0; }
+.acta-hash { word-break: break-all; font-size: 0.72rem; }
+@media (max-width: 700px) {
+  .acta-tags { margin-inline-start: calc(0.8em + 8px); flex-basis: 100%; }
+  .acta-date { min-width: 0; }
+  .acta-body { padding-inline-start: 10px; }
+  .acta-dl { grid-template-columns: 1fr; }
+  .acta-dl dt { padding-top: 0.6em; }
+}
+
 /* OmniVox: formularz wpisu bez konta (strona omnivox.html) */
 .ov-form { display: grid; gap: 18px; margin: 1em 0 2em; max-width: 720px; }
 .ov-field { display: grid; gap: 6px; border: 0; padding: 0; margin: 0; min-width: 0; }

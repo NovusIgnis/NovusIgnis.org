@@ -27,11 +27,16 @@
   }
 
   // Podstrona (Markdown w content/<język>/strony/) w danym języku; gdy brak tłumaczenia, wersja źródłowa.
+  // Język, w którym czytelnik dostanie podstronę: jego własny, a gdy brak przekładu, wersja zapasowa strony
+  // (fallback, np. akta tylko po polsku i angielsku: en) albo źródłowa.
+  function pageLang(site, slug, lang) {
+    const p = site.pages[slug];
+    return p.langs.indexOf(lang) >= 0 ? lang : (p.fallback && lang !== site.sourceLang && p.langs.indexOf(p.fallback) >= 0 ? p.fallback : site.sourceLang);
+  }
   function pageHref(site, slug, lang, base) {
     const p = site && site.pages && site.pages[slug];
     if (!p) return homeHref(site, lang, base);
-    const l = p.langs.indexOf(lang) >= 0 ? lang : site.sourceLang;
-    return (base || '') + l + '/' + p.path;
+    return (base || '') + pageLang(site, slug, lang) + '/' + p.path;
   }
 
   function docAvailable(site, id, lang) {
@@ -68,7 +73,7 @@
     // Strona przeglądowa grupy też jest na liście (pierwsza), bo nie każdy zauważa, że pozycję główną można kliknąć.
     if (site && site.pages && site.pages[group]) {
       const label = ((t.overview || {})[group]) || pageLabel(site, group, lang);
-      items.push({ key: 'page:' + group, label: label, href: pageHref(site, group, lang, base), mark: pageAvailable(site, group, lang) ? '' : site.sourceLang });
+      items.push({ key: 'page:' + group, label: label, href: pageHref(site, group, lang, base), mark: pageAvailable(site, group, lang) ? '' : pageLang(site, group, lang) });
     }
     if (group === 'dokumenty') {
       NAV_DOCS.forEach(function (id) {
@@ -79,7 +84,7 @@
     const list = Object.keys((site && site.pages) || {}).filter(function (slug) { return slug !== group && site.pages[slug].group === group; });
     list.sort(function (a, b) { return (site.pages[a].order - site.pages[b].order) || (a < b ? -1 : 1); });
     list.forEach(function (slug) {
-      items.push({ key: 'page:' + slug, label: pageLabel(site, slug, lang), href: pageHref(site, slug, lang, base), mark: pageAvailable(site, slug, lang) ? '' : site.sourceLang });
+      items.push({ key: 'page:' + slug, label: pageLabel(site, slug, lang), href: pageHref(site, slug, lang, base), mark: pageAvailable(site, slug, lang) ? '' : pageLang(site, slug, lang) });
     });
     return items;
   }
