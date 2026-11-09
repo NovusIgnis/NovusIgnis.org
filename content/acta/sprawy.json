@@ -245,17 +245,18 @@
    "grupa": "dostawcy",
    "stan": "otwarta",
    "pl": {
-    "tytul": "Phala"
+    "tytul": "Phala",
+    "opis": "Brama Phala sprawdzona: 17 z 17"
    },
    "en": {
-    "tytul": "Phala"
+    "tytul": "Phala",
+    "opis": "The Phala gateway checked: 17 out of 17"
    },
    "zatwierdzone": {
     "tytul": "2026-11-09 (w11)",
-    "opis": false
+    "opis": "2026-11-09 (t25, zmiana między 15:21 a 15:22: opis to tytuł wpisu zatwierdzonego przez Phalę)"
    },
-   "pokaz_jako": "dostawcy",
-   "uwaga": "Bez tytułu i opisu do pisemnej zgody Phali (i04, D 7.11.2026); zdarzenia pod sprawą „dostawcy”."
+   "uwaga": "Opis to dosłownie tytuł wpisu 2026-11-02-phala-sprawdzona, który Phala zatwierdziła na piśmie; każde nowe brzmienie o Phali wymaga jej pisemnej zgody (i04, D 7.11.2026)."
   },
   "dostawca-privatemode": {
    "grupa": "dostawcy",
