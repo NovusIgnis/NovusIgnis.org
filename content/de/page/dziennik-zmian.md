@@ -9,6 +9,10 @@ menu: Änderungsprotokoll
 
 Wir entwickeln die Dokumente mit unserem Wissen und unserer Erfahrung weiter und bewahren die Änderungsgeschichte. Hier halten wir fest, was sich wann auf der Website und in den Dokumenten geändert hat, auch wenn die Änderung auf eine Anmerkung von Lesenden zurückgeht. Die Geschichte der Satzungsänderungen wird gesondert im [Register der Satzungsänderungen](../statut/rejestr-zmian.md) geführt.
 
+## 9. November 2026: erste Aktualisierung des Suveria-Whitepapers
+
+- Im Suveria-Whitepaper haben wir in Kapitel 6 die erste datierte Aktualisierung ergänzt, die in diesem Kapitel angekündigt war: Die Gewichte des Modells Kimi K3.1 Pro sind öffentlich; wir beschreiben ihre Größe, die Lizenz, die Rezepte der Engines und die Verfügbarkeit in vertraulichen APIs zum Stand vom 9. November 2026. Erster Kandidat für das Modell von Suveria bleibt DeepSeek-V4.1-Flash. Der bisherige Wortlaut des Dokuments bleibt in seiner Versionsgeschichte erhalten.
+
 ## 8. November 2026: Schreibweise des Namens OmniForum
 
 - Im Manifest, in den vier Whitepapers und auf der ganzen Website haben wir die Schreibweise des Namens Omniforum in OmniForum geändert, so wie bei den Namen OmniActa und OmniVox. Ansonsten hat sich der Inhalt der Dokumente nicht geändert. Der bisherige Wortlaut jedes Dokuments bleibt in seiner Versionsgeschichte erhalten.

@@ -6,8 +6,8 @@
    "t": "# Suveria: prywatna praca z cyfrową inteligencją"
   },
   {
-   "h": "9aa8292205dbfa0c240599379c1ae770cdbb1c8a",
-   "t": "Wersja z 8 listopada 2026 r. Dokument rozwija zasady manifestu dotyczące Suverii"
+   "h": "07a4d5dee53b691cc06300523d662ae1cb385764",
+   "t": "Wersja z 9 listopada 2026 r. Dokument rozwija zasady manifestu dotyczące Suverii"
   },
   {
    "h": "e43ebb1869789c4a772e39062de093ea9f63e516",
@@ -320,6 +320,10 @@
   {
    "h": "489da7ea7913184bb77ef9f7ea5023eb3d7a577d",
    "t": "Drugim kandydatem jest Kimi K3.1 Pro firmy Moonshot AI, udostępniony 23 paździer"
+  },
+  {
+   "h": "8d7495356fa72666b92b976c8b3ba97dfcbac265",
+   "t": "**Aktualizacja z 9 listopada 2026 r.** Wagi Kimi K3.1 Pro są publiczne i dostępn"
   },
   {
    "h": "9a76d741ad66c4a53f50a9d20fa30b955bb7e67d",
@@ -668,6 +672,26 @@
   {
    "h": "5a6027453ba760b92d5dfa401207f172093b6a36",
    "t": "[^aa]: [Artificial Analysis: Kimi K3.1 Pro i DeepSeek V4.1 Flash 1017](https://a"
+  },
+  {
+   "h": "18a77bcc1373db91a96d9bc267ae5cafdb265fe8",
+   "t": "[^kimi-k31-wagi]: [Moonshot AI: Kimi K3.1 Pro, repozytorium wag i karta modelu]("
+  },
+  {
+   "h": "70946da64d795c4fa3c62ad9c9478d3dc4ddf28a",
+   "t": "[^kimi-k31-licencja]: [Kimi K3.1-Pro License](https://huggingface.co/moonshotai/"
+  },
+  {
+   "h": "ac51dfaff6467016191df781afd3d4d951a1d762",
+   "t": "[^kimi-k31-silniki]: [vLLM: przepis dla Kimi K3.1 Pro](https://recipes.vllm.ai/m"
+  },
+  {
+   "h": "a987db5689815878230ee21dbd175087e0ca56d0",
+   "t": "[^kimi-k31-poufne]: Publiczne listy modeli dostawców poufnych API przejrzane 9.1"
+  },
+  {
+   "h": "fc70db5c8111979a3aeedda173bc32536490a10e",
+   "t": "[^aa-2026-11]: [Artificial Analysis: Kimi K3.1 Pro](https://artificialanalysis.a"
   },
   {
    "h": "dc5def298de2e11fdb6fcb7c95d458c6e7d27003",

@@ -9,6 +9,10 @@ menu: Histórico de alterações
 
 Desenvolvemos os documentos junto com o conhecimento e a experiência, preservando o histórico de alterações. Aqui registramos o que mudou no site e nos documentos, e quando, inclusive quando uma mudança resulta de uma observação de um leitor. O histórico de alterações do próprio estatuto está separado, no [registro de alterações do estatuto](../statut/rejestr-zmian.md).
 
+## 9 de novembro de 2026: primeira atualização do whitepaper da Suveria
+
+- No whitepaper da Suveria, no capítulo 6, acrescentamos a primeira atualização datada anunciada nesse capítulo: os pesos do modelo Kimi K3.1 Pro são públicos; descrevemos seu tamanho, a licença, as receitas dos mecanismos e a disponibilidade em APIs confidenciais em 9 de novembro de 2026. O DeepSeek-V4.1-Flash continua sendo o primeiro candidato para o modelo da Suveria. A redação anterior do documento fica guardada no seu histórico de versões.
+
 ## 8 de novembro de 2026: grafia do nome OmniForum
 
 - No manifesto, nos quatro whitepapers e em todo o site mudamos a grafia do nome Omniforum para OmniForum, assim como nos nomes OmniActa e OmniVox. Fora isso, o conteúdo dos documentos não mudou. A redação anterior de cada documento fica guardada no seu histórico de versões.

@@ -760,12 +760,31 @@ function wordDiff(a, b) {
 // Napis z dwukropkiem przed wartością; po pełnej szerokości dwukropku (chiński, japoński) bez spacji.
 const label = s => esc(s) + (/：$/.test(s) ? '' : ' ');
 // Tylko zmienione miejsca: każde pod nagłówkiem swojej części, reszta zwinięta do liczby akapitów bez zmian.
+// Odwołania do przypisów na stronie zmian: znacznik z etykietą, po porównaniu zamieniany na numer przypisu z dokumentu.
+const FN_BLOCK_RE = /^\[\^([^\]]+)\]:[ \t]?([\s\S]*)$/;
+const refMark = md => md.replace(/\[\^([^\]\s]+)\]/g, '\uE000$1\uE001');
+// Numery jak w renderDoc: kolejność pierwszego odwołania w tekście, potem przypisy bez odwołań.
+function fnNumbers(blocks) {
+  const defs = blocks.map(b => b.md.match(FN_BLOCK_RE)).filter(Boolean).map(f => f[1]), order = [];
+  for (const b of blocks) if (!FN_BLOCK_RE.test(b.md)) for (const m of b.md.matchAll(/\[\^([^\]\s]+)\]/g)) if (defs.includes(m[1]) && !order.includes(m[1])) order.push(m[1]);
+  for (const id of defs) if (!order.includes(id)) order.push(id);
+  return new Map(order.map((id, k) => [id, k + 1]));
+}
 function changesBody(d, lang, pagePath, oldMd, newMd, q) {
   const T = locales[lang].versions;
   const A = blocksOf(oldMd), B = blocksOf(newMd);
+  // przypisy: numer z dokumentu (usunięte z poprzedniej wersji), definicja jako jeden punkt listy z tym numerem
+  const numA = fnNumbers(A), numB = fnNumbers(B);
+  const refHtml = (html, num, alt) => html.replace(/\uE000([^\uE000\uE001<>]+)\uE001/g, (_, id) => { const n = num.get(id) || alt.get(id); return n ? '<sup class="fn-ref">' + n + '</sup>' : '[^' + id + ']'; }).replace(/[\uE000\uE001]/g, '');
   const ids = headingIds(B, q);
   const docHref = relPath(pagePath, lang + '/' + d.html);
-  const blockHtml = b => { const m = headingOf(b); return m ? '<p class="ver-heading">' + inline(m[2], q) + '</p>' : renderDoc(b.md, q).body; };
+  const blockHtml = (b, num, alt) => {
+    const m = headingOf(b), f = b.md.match(FN_BLOCK_RE);
+    const html = m ? '<p class="ver-heading">' + inline(refMark(m[2]), q) + '</p>'
+      : f ? '<ol class="footnotes ver-fn"><li' + (num.has(f[1]) ? ' value="' + num.get(f[1]) + '"' : '') + '>' + inline(refMark(f[2].replace(/\n[ \t]+/g, ' ')), q) + '</li></ol>'
+      : renderDoc(refMark(b.md), q).body;
+    return refHtml(html, num, alt);
+  };
   const out = [];
   let gap = 0, head = -1, hunk = null;
   const flushGap = () => { if (gap) out.push('<p class="ver-gap">' + label(T.unchanged) + gap + '</p>'); gap = 0; };
@@ -782,7 +801,7 @@ function changesBody(d, lang, pagePath, oldMd, newMd, q) {
     }
     // Akapit zmieniony = usunięty i dodany, które mają co najmniej 40% wspólnych słów; łączymy je w kolejności tekstu,
     // każdy usunięty z najbardziej podobnym dodanym, a resztę pokazujemy w całości jako usuniętą albo dodaną.
-    const words = b => plain(inline(b.md, q));
+    const words = b => plain(inline(refMark(b.md), q));
     const pairOf = new Map(); // indeks dodanego -> { r: indeks usuniętego, w: porównanie słów }
     let from = 0;
     rem.forEach((ri, r) => {
@@ -795,12 +814,12 @@ function changesBody(d, lang, pagePath, oldMd, newMd, q) {
       }
       if (best) { pairOf.set(best.k, { r, w: best.w }); from = best.k + 1; }
     });
-    const removed = r => parts.push('<del class="ver-block"><span class="ver-tag">' + esc(T.removed) + '</span>\n' + blockHtml(A[rem[r]]) + '</del>');
+    const removed = r => parts.push('<del class="ver-block"><span class="ver-tag">' + esc(T.removed) + '</span>\n' + blockHtml(A[rem[r]], numA, numB) + '</del>');
     let r = 0;
     add.forEach((bi, k) => {
       const p = pairOf.get(k);
-      if (p) { for (; r < p.r; r++) removed(r); r = p.r + 1; parts.push('<p class="ver-changed">' + p.w.html + '</p>'); }
-      else parts.push('<ins class="ver-block"><span class="ver-tag">' + esc(T.added) + '</span>\n' + blockHtml(B[bi]) + '</ins>');
+      if (p) { for (; r < p.r; r++) removed(r); r = p.r + 1; parts.push('<p class="ver-changed">' + refHtml(p.w.html, numB, numA) + '</p>'); }
+      else parts.push('<ins class="ver-block"><span class="ver-tag">' + esc(T.added) + '</span>\n' + blockHtml(B[bi], numB, numA) + '</ins>');
     });
     for (; r < rem.length; r++) removed(r);
     out.push('<section class="ver-hunk">\n' + parts.join('\n') + '\n</section>');

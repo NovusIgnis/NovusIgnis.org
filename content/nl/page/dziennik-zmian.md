@@ -9,6 +9,10 @@ menu: Wijzigingslogboek
 
 De documenten groeien mee met onze kennis en ervaring, met behoud van de wijzigingsgeschiedenis. Hier leggen we vast wat en wanneer op de website en in de documenten is veranderd, ook als een verandering voortkomt uit een opmerking van een lezer. De wijzigingsgeschiedenis van de statuten zelf staat afzonderlijk in het [register van statutenwijzigingen](../statut/rejestr-zmian.md).
 
+## 9 november 2026: eerste actualisering van de whitepaper over Suveria
+
+- In de whitepaper over Suveria hebben we in hoofdstuk 6 de eerste gedateerde actualisering toegevoegd die in dat hoofdstuk was aangekondigd: de gewichten van het model Kimi K3.1 Pro zijn openbaar; we beschrijven hun omvang, de licentie, de recepten van engines en de beschikbaarheid in vertrouwelijke API's op 9 november 2026. DeepSeek-V4.1-Flash blijft de eerste kandidaat voor het model van Suveria. De vorige tekst van het document blijft bewaard in zijn versiegeschiedenis.
+
 ## 8 november 2026: schrijfwijze van de naam OmniForum
 
 - In het manifest, in de vier whitepapers en op de hele site hebben we de schrijfwijze van de naam Omniforum gewijzigd in OmniForum, net als bij de namen OmniActa en OmniVox. Verder is de inhoud van de documenten niet veranderd. De vorige tekst van elk document blijft bewaard in zijn versiegeschiedenis.

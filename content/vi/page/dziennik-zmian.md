@@ -9,6 +9,10 @@ menu: Nhật ký thay đổi
 
 Chúng tôi phát triển tài liệu cùng kiến thức, kinh nghiệm, giữ lịch sử thay đổi. Ở đây ghi điều đổi trên trang, tài liệu và lúc nào, cả khi từ ý kiến người đọc. Lịch sử riêng điều lệ ở [sổ ghi thay đổi điều lệ](../statut/rejestr-zmian.md).
 
+## 9 tháng 11 năm 2026: bản cập nhật đầu tiên của sách trắng Suveria
+
+- Trong sách trắng Suveria, ở chương 6, chúng tôi bổ sung bản cập nhật có ngày đầu tiên đã báo trước trong chương này: trọng số của mô hình Kimi K3.1 Pro đã công khai; chúng tôi mô tả kích thước, giấy phép, công thức của các bộ máy và khả năng có sẵn trong API bảo vệ tính bí mật tính đến ngày 9 tháng 11 năm 2026. DeepSeek-V4.1-Flash vẫn là ứng viên thứ nhất cho mô hình của Suveria. Cách diễn đạt trước đây của tài liệu được lưu trong lịch sử phiên bản của nó.
+
 ## 8 tháng 11 năm 2026: cách viết tên OmniForum
 
 - Trong tuyên ngôn, bốn sách trắng và trên toàn bộ trang web, chúng tôi đã đổi cách viết tên Omniforum thành OmniForum, giống như trong các tên OmniActa và OmniVox. Ngoài ra, nội dung các tài liệu không thay đổi. Cách diễn đạt trước đây của mỗi tài liệu được lưu trong lịch sử phiên bản của nó.

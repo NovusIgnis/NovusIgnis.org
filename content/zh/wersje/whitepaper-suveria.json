@@ -2,6 +2,11 @@
  "dokument": "whitepaper-suveria.md",
  "wersje": [
   {
+   "data": "2026-11-09",
+   "poprzednia": "2026-11-08",
+   "opis": "我们在第 6 章补充了该章预告的首次注明日期的更新：Kimi K3.1 Pro 的权重已公开；我们介绍了截至 2026 年 11 月 9 日其规模、许可协议、引擎配置方案以及在机密 API 中的可用性。文件其余内容没有变化。版本：2026 年 11 月 9 日。"
+  },
+  {
    "data": "2026-11-08",
    "poprzednia": "2026-10-31",
    "opis": "我们将名称 Omniforum 的写法改为 OmniForum，与 OmniActa 和 OmniVox 的写法一致。除此之外，文件内容没有变化。版本：2026 年 11 月 8 日。"

@@ -9,6 +9,10 @@ menu: Catatan perubahan
 
 Kami mengembangkan dokumen seiring pengetahuan dan pengalaman, sambil mempertahankan riwayat perubahan. Di sini kami mencatat apa yang berubah pada situs serta dokumen dan kapan, juga ketika perubahan berasal dari masukan pembaca. Riwayat perubahan anggaran dasar itu sendiri tersedia terpisah dalam [daftar perubahan anggaran dasar](../statut/rejestr-zmian.md).
 
+## 9 November 2026: pembaruan pertama whitepaper Suveria
+
+- Di whitepaper Suveria, pada bab 6, kami menambahkan pembaruan bertanggal pertama yang telah diumumkan dalam bab tersebut: bobot model Kimi K3.1 Pro bersifat publik; kami menjelaskan ukurannya, lisensi, panduan mesin, dan ketersediaannya dalam API konfidensial per 9 November 2026. DeepSeek-V4.1-Flash tetap menjadi kandidat pertama untuk model Suveria. Rumusan sebelumnya dari dokumen ini tetap tersimpan dalam riwayat versinya.
+
 ## 8 November 2026: penulisan nama OmniForum
 
 - Dalam manifesto, empat whitepaper, dan di seluruh situs, kami mengubah penulisan nama Omniforum menjadi OmniForum, sama seperti pada nama OmniActa dan OmniVox. Selain itu, isi dokumen tidak berubah. Rumusan sebelumnya dari setiap dokumen tetap tersimpan dalam riwayat versinya.

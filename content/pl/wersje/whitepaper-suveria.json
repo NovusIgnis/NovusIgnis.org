@@ -2,6 +2,12 @@
  "dokument": "whitepaper-suveria.md",
  "wersje": [
   {
+   "data": "2026-11-09",
+   "poprzednia": "2026-11-08",
+   "opis": "W rozdziale 6 dopisaliśmy pierwszą datowaną aktualizację, zapowiedzianą w tym rozdziale: wagi Kimi K3.1 Pro są publiczne; opisujemy ich rozmiar, licencję, przepisy silników i dostępność w poufnych API na 9 listopada 2026 r. Pozostała treść dokumentu się nie zmieniła. Wersja: 9 listopada 2026 r.",
+   "skrot": "46a24811f7dff7f37bb6444297fb3faf665ef66f"
+  },
+  {
    "data": "2026-11-08",
    "poprzednia": "2026-10-31",
    "opis": "Zmieniliśmy zapis nazwy Omniforum na OmniForum, tak samo jak w nazwach OmniActa i OmniVox. Treść dokumentu poza tym się nie zmieniła. Wersja: 8 listopada 2026 r.",

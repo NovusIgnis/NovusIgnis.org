@@ -1,0 +1,733 @@
+{
+ "source": "content/pl/wersje/whitepaper-suveria/2026-11-08.md",
+ "paragraphs": [
+  {
+   "h": "f15681b841255320007d2e6cce4751e485dca042",
+   "t": "# Suveria: prywatna praca z cyfrową inteligencją"
+  },
+  {
+   "h": "9aa8292205dbfa0c240599379c1ae770cdbb1c8a",
+   "t": "Wersja z 8 listopada 2026 r. Dokument rozwija zasady manifestu dotyczące Suverii"
+  },
+  {
+   "h": "e43ebb1869789c4a772e39062de093ea9f63e516",
+   "t": "## 1. Czym jest Suveria i po co powstaje"
+  },
+  {
+   "h": "ceb09cc27d9021451fa3296f1c2bdafc63ba45ad",
+   "t": "Suveria ma być prywatną przestrzenią w internecie, w której człowiek rozmawia z "
+  },
+  {
+   "h": "a877881b61d9089ffe823dcaa3a62c3a2d7be095",
+   "t": "Suveria powstaje, bo rozmowom z cyfrową inteligencją powierzamy coraz więcej: py"
+  },
+  {
+   "h": "3c163f1eefabd5d3740c64a0d735cda0039a3566",
+   "t": "W Suverii chcemy, żeby można było:"
+  },
+  {
+   "h": "77bde5ab96b38e549c974d477edebd302b895503",
+   "t": "- rozmawiać z cyfrową inteligencją o sprawach osobistych i zawodowych, widząc, g"
+  },
+  {
+   "h": "6a933eaee0fda38308dce34edba594f333ce3971",
+   "t": "Pierwsze wydanie kierujemy do osób, dla których sprawdzalna prywatność jest powo"
+  },
+  {
+   "h": "00d083633c325f1e0999c9db3b2d7cf801084eaa",
+   "t": "Chcemy, aby już pierwszy dzień w Suverii dawał spokojne poczucie bycia u siebie,"
+  },
+  {
+   "h": "d280c4d0a4a6fb6f0f6044b86826a888d18473af",
+   "t": "Wartość usługi mierzymy tym, czy pomaga osiągnąć cel, zachować prywatność i samo"
+  },
+  {
+   "h": "b7a670c115db5108c934bbf0d6e50d53c15bafc2",
+   "t": "Pełna prywatność, także wobec nas jako osób obsługujących infrastrukturę, jest c"
+  },
+  {
+   "h": "253288d5d62c7e2d34a775104bae2da51eb87c59",
+   "t": "Punktem wyjścia jest rozmowa tekstowa z jednym modelem i praca z wybranym dokume"
+  },
+  {
+   "h": "88de9d8c4a7924c1bdb28ac8065dbbb679597954",
+   "t": "Z czego skorzysta pierwsze wydanie, zależy od tego, ile środków fundacja zbierze"
+  },
+  {
+   "h": "00dfb4fe6719a34fec1526ecc60903cf5bd2b125",
+   "t": "Korzystanie z Suverii nie jest zgodą na użycie rozmów do szkolenia modeli. Treśc"
+  },
+  {
+   "h": "5b756b99b449b57f667940dca0ce717794d56fc1",
+   "t": "Suveria uzupełnia OmniForum, wspólną przestrzeń rozmowy i decyzji: jedna daje pr"
+  },
+  {
+   "h": "62b666a9ab85b66ade2d0e6f37378d081f3175cf",
+   "t": "- co chronimy i przed czym, gdzie są dane i klucze (rozdział 2); - jak wiadomość"
+  },
+  {
+   "h": "406de0988f1fad5808f962dcb354550628427e33",
+   "t": "## 2. Co chronimy i przed czym"
+  },
+  {
+   "h": "f980d7051b464f041a5055aac53db3591b861e42",
+   "t": "Chronimy treść rozmów i plików, historię i pamięć, klucze, dane rozliczeniowe or"
+  },
+  {
+   "h": "0deee39518a0e4868eff587fcf3d748637f46417",
+   "t": "Przed kim chroni każdy z pięciu wariantów pracy opisanych w punkcie 2.3, pokazuj"
+  },
+  {
+   "h": "032b49ee20b22899d69193b726dabf6666d9cceb",
+   "t": "| Przed kim | Model lokalny na urządzeniu bez połączenia z siecią | Model lokaln"
+  },
+  {
+   "h": "0bb488551d49dba9f54d9cba5bd2555d38f206cf",
+   "t": "Poufne obliczenia zmieniają koszt ataku: zamiast zdalnego dostępu administratora"
+  },
+  {
+   "h": "64568788b662072069176b62362e5a8ae4ba1ba6",
+   "t": "Poniżej opisujemy, jak ma działać docelowy wariant z własnym poufnym środowiskie"
+  },
+  {
+   "h": "60039088f318e20b1ff2e1774fb9fb8026edfa22",
+   "t": "- **Na urządzeniu użytkownika** tekst jest czytelny, bo to on go pisze i czyta. "
+  },
+  {
+   "h": "2f257f8569b08b99769b7724d7e170b99e0ce273",
+   "t": "Poufne obliczenia nie naprawiają zainfekowanego komputera użytkownika. Nie chron"
+  },
+  {
+   "h": "d467bd315e3c518b186651f6d3a42f5084a182d3",
+   "t": "Dopóki korzystamy z cudzych serwerowni, fizyczny dostęp do sprzętu ma dostawca i"
+  },
+  {
+   "h": "eee063bae3c910bd1c9c3f452dc0aa1aed04e3ce",
+   "t": "- spis urządzeń; - kontrolę wejść; - plomby z losowym wzorem i czujniki otwarcia"
+  },
+  {
+   "h": "b5fc73ea67d91e2222d0233206be0d8fd17cccfc",
+   "t": "Serwis i wymiana części odbywają się jako zapowiedziane, jawne procedury. Widocz"
+  },
+  {
+   "h": "87d0226c820eac07c5761479f984eeff4be087c7",
+   "t": "### 2.1. Własne urządzenia i opcjonalne serwery"
+  },
+  {
+   "h": "a97bfe0391fb1ad904941c00001f37eb6bebcd50",
+   "t": "Podstawowym miejscem przechowywania prywatnych rozmów, plików i pamięci mają być"
+  },
+  {
+   "h": "7ac9c661694c49ecfd6919d6c1c772116042ba98",
+   "t": "Opcjonalny zapis na wybranych serwerach służy kopiom zapasowym i uzgadnianiu zmi"
+  },
+  {
+   "h": "2722db11b580c0d3aba35f769aa26b2537b56189",
+   "t": "### 2.2. Klucze i odzyskiwanie dostępu"
+  },
+  {
+   "h": "58e966ceae54bb1db054ad3d97aa09180415af37",
+   "t": "Klucze do prywatnych kontenerów pozostają pod kontrolą użytkownika. Procedura od"
+  },
+  {
+   "h": "6bd485c6989163a674072bf81dcc14b227f49701",
+   "t": "Rozważamy kilka sposobów odzyskiwania, które można łączyć: drugie urządzenie, kt"
+  },
+  {
+   "h": "f1eb6a4677233c595d32de97248b265910e4e4a8",
+   "t": "Na start zalecamy drugie urządzenie i klucz zapisany na papierze; podział klucza"
+  },
+  {
+   "h": "06f347055e97696a2b9eadd33af5da52d5fbbee8",
+   "t": "### 2.3. Warianty ochrony"
+  },
+  {
+   "h": "7e5fe0a8408ca7fca8176c43b5b72745bf7bd675",
+   "t": "Chcemy porównywać pięć wariantów pracy, bo każdy chroni przed czym innym:"
+  },
+  {
+   "h": "ee01d18a6a6c3c599c79badcb76955242b40dedd",
+   "t": "| Wariant | Gdzie odbywa się przetwarzanie | Co trzeba ocenić | | --- | --- | --"
+  },
+  {
+   "h": "c4e0eaf8af379efb4e016972cd1dd458fc98b63d",
+   "t": "Niezależne sprawdzenie serwera wymaga instalowanej aplikacji. W przeglądarce kod"
+  },
+  {
+   "h": "756add6fa852a7a5ed579e7fbc88922df5ecda54",
+   "t": "Urządzenie podłączone do sieci może mieć więcej punktów ataku niż wydzielone śro"
+  },
+  {
+   "h": "2e41310112475691ea171da39e5dfd860d912a95",
+   "t": "Analizujemy też kierunek, którego nie ma jeszcze w tym zestawieniu: zaufany rój."
+  },
+  {
+   "h": "9eb042b2858950f13f6bd7701a889aa5ba78d99f",
+   "t": "Bezpieczny serwer nie ochroni tekstu odczytanego z przejętego telefonu, a bezpie"
+  },
+  {
+   "h": "ec6078de62aee316084bddafdd36e69a1727a6d3",
+   "t": "Przy każdej rozmowie będziemy pokazywać kartę ochrony (*Charta Tutelae*): listę "
+  },
+  {
+   "h": "3d066a4730a9f8dfdb5cdc6f5c49ee4382465caa",
+   "t": "- **Sprawdzone przez nas:** zweryfikowaliśmy to sami, z datą, wersją i opisem, j"
+  },
+  {
+   "h": "d69c818de86652550e65754d8a90f8e8da9b5954",
+   "t": "Stan „sprawdzone przez nas” ma datę ostatniego sprawdzenia i wygasa: po ustalony"
+  },
+  {
+   "h": "d5409df1696481f8a0cefdc94ed8689d999df22b",
+   "t": "## 3. Droga od urządzenia do modelu"
+  },
+  {
+   "h": "c60de2e0fcff8ede877b0627f934bbb00b2ec55b",
+   "t": "Suveria ma składać się z kilku części:"
+  },
+  {
+   "h": "67da072e9936c7c959ca650393445cccb5e50455",
+   "t": "- aplikacji na urządzeniu użytkownika; - bramy, która rozlicza żądania i pilnuje"
+  },
+  {
+   "h": "4d01bcea0d7ddbe185b9f3e1927ab01899a35fbd",
+   "t": "Brama ma działać w poufnej maszynie. Przed pilotażem pokażemy w aplikacji, w któ"
+  },
+  {
+   "h": "d6ffb29db8d97a51a4c61065b73b79754ee8b852",
+   "t": "Zaszyfrowane przechowywanie i poufne przetwarzanie wymagają odrębnych zabezpiecz"
+  },
+  {
+   "h": "d355424c2bd11689f5fc60c7ec390047a481ed57",
+   "t": "Proponowany przebieg sesji:"
+  },
+  {
+   "h": "d143d5313ab92bca2ce62a5f01eb0c598afd6371",
+   "t": "1. Aplikacja pobiera opis zatwierdzonego wydania i sprawdza atestację, czyli kry"
+  },
+  {
+   "h": "88649eb40a2a4133d21cb3691af3daa03548b014",
+   "t": "Atestacja pomaga stwierdzić, co uruchomiono, ale sama nie dowodzi, że ten kod je"
+  },
+  {
+   "h": "1f56018ff5591b87314e9ffb8aa39e6fe44313f0",
+   "t": "Wydania chcemy zabezpieczyć tak, żeby zaufanie nie zależało od jednej osoby ani "
+  },
+  {
+   "h": "47b023484bfbda06c5a145348a4924f838e97626",
+   "t": "- każde wydanie ma dać się powtarzalnie zbudować z kodu źródłowego, a co najmnie"
+  },
+  {
+   "h": "b04d74cafd2936eeb79f184df53ea0e66c98d51b",
+   "t": "Pełny wariant ochrony projektujemy dla instalowanych aplikacji z podpisanymi, sp"
+  },
+  {
+   "h": "1f2f35aff18233b3411e69b675b025bfa1437436",
+   "t": "Żeby ograniczyć ujawnianie adresu użytkownika, można badać pośrednictwo oparte n"
+  },
+  {
+   "h": "79dffcb344571b8617bf0c207e259245c38438d2",
+   "t": "Szyfrowanie i poufne obliczenia nie ukrywają długości ani rytmu pakietów, w któr"
+  },
+  {
+   "h": "7c905776c12a1fa0b9ea0b611a1350de8b101ffd",
+   "t": "Infrastrukturę chronimy także przez ograniczanie możliwości działania poszczegól"
+  },
+  {
+   "h": "4924e8c6c30863cade7cc4e166289c08af9e0b59",
+   "t": "Szczególnie ostrożni jesteśmy wtedy, gdy użytkownik podłącza źródła z wiadomości"
+  },
+  {
+   "h": "39aa3a056cff870ff39d8533c4e9a70588a5e9e7",
+   "t": "Wszystko, co wiemy o działaniu Suverii, może wiedzieć każdy. Wraz z uruchomienie"
+  },
+  {
+   "h": "355e99870457c7c133e9ab39c6b066d6400087d3",
+   "t": "## 4. Ograniczanie nadużyć bez wglądu w prywatne treści"
+  },
+  {
+   "h": "1873c60e9b5c83581515337a597de37680f081f2",
+   "t": "Ochronę godności odnosimy także do ludzi, których mogą dotknąć skutki używania n"
+  },
+  {
+   "h": "cf9d70c5193cbe49b7c4de0f84b015becf85db30",
+   "t": "Konto będzie można założyć na kilka sposobów, od całkowicie prywatnego (klucz na"
+  },
+  {
+   "h": "d8eade10ade222cc3950de2a196e527aa3549b57",
+   "t": "Prywatność i ograniczanie nadużyć oceniamy osobno. Projektujemy Suverię tak, żeb"
+  },
+  {
+   "h": "aa2cd2a29aaf7648b3563f60b4b3d8f8cd071649",
+   "t": "Opiszemy też, jak przyjmujemy zgłoszenia od osób, które uważają się za poszkodow"
+  },
+  {
+   "h": "77360cd51c3956e6e686c1cc9311c556bfcf5777",
+   "t": "Te zabezpieczenia są celami i wariantami do testów, a żadne z nich nie wykryje w"
+  },
+  {
+   "h": "e1fd411e3c825236d41e34a65afaab9eb0597356",
+   "t": "Gdy rozmowa dotyczy zagrożenia życia lub zdrowia, asystent ma podać informację o"
+  },
+  {
+   "h": "e84c19a8dfae56a9c576270917d81e943fcc654a",
+   "t": "### 4.1. Jawne instrukcje asystenta i wspólna biblioteka"
+  },
+  {
+   "h": "5d388e4129832e9b3fd88e5fafb7e6907eab0e35",
+   "t": "O tym, jak zachowuje się asystent, decyduje też jego instrukcja główna i sposób "
+  },
+  {
+   "h": "ae5bdce983f0e9714603507cc089de9b7e1faede",
+   "t": "## 5. Obliczenia na wielu kartach graficznych"
+  },
+  {
+   "h": "213df39bb03a18eb44e1522b7384aecdf66ed7a7",
+   "t": "Model z rozdziału 6 nie mieści się na jednej karcie graficznej, więc ochronę trz"
+  },
+  {
+   "h": "0cb8a783d4135a8776a005f5dd21bc8ac56707c3",
+   "t": "Gdy model korzysta z kilku kart graficznych, dane przepływają także między nimi,"
+  },
+  {
+   "h": "14cb1d28dcfe9b58e20871799e36e7e04d8c262b",
+   "t": "W trybie Hopper Protected PCIe, opisanym w dokumentacji PPCIe v2, sieć NVLink i "
+  },
+  {
+   "h": "ed3a155e21b53270e85f6fec7eeb02bfc865db20",
+   "t": "Zapytanie do dostawcy obejmuje:"
+  },
+  {
+   "h": "b50ca7ecf03407aedb357f1d9d0cea343a724f9b",
+   "t": "- konkretny tryb ochrony i możliwość samodzielnej atestacji; - wyłączność wymaga"
+  },
+  {
+   "h": "a77c4c2af10c96630250eb91f4ec5d87f1766dd9",
+   "t": "Ofertę porównujemy dopiero po próbie z własną aplikacją. Oznaczenie handlowe „se"
+  },
+  {
+   "h": "b933f4443bb41fd715c094195cf938c04a328d92",
+   "t": "## 6. Model, pamięć i narzędzia"
+  },
+  {
+   "h": "7fb3a0e96f0bc591bba48b438fc9e16925a2dccb",
+   "t": "Podstawą projektu są otwarte modele, które można uruchomić samodzielnie. Suveria"
+  },
+  {
+   "h": "fa2bd4a55e87a25e673cf0ca7d37d32130b5029b",
+   "t": "Pierwszym kandydatem jest DeepSeek-V4.1-Flash, model na licencji MIT, która pozw"
+  },
+  {
+   "h": "489da7ea7913184bb77ef9f7ea5023eb3d7a577d",
+   "t": "Drugim kandydatem jest Kimi K3.1 Pro firmy Moonshot AI, udostępniony 23 paździer"
+  },
+  {
+   "h": "9a76d741ad66c4a53f50a9d20fa30b955bb7e67d",
+   "t": "Zmianę albo wycofanie modelu zapowiadamy z wyprzedzeniem. Historia rozmów zostaj"
+  },
+  {
+   "h": "47a1537cf8146c52ee6f72846a6f504ef81e4de6",
+   "t": "Zasady, według których asystent odpowiada, będziemy publikować w całości razem z"
+  },
+  {
+   "h": "a9063ccd5cbc0e21d73ac4d834ed7bc27657e7b0",
+   "t": "Pamięć wcześniejszych rozmów ma działać za zgodą użytkownika i być jawnie edytow"
+  },
+  {
+   "h": "f3fc15f9bcf684f9e47a83f993ea46293f6b5d80",
+   "t": "Wykonywanie czynności wymaga uprawnień nadawanych na określony cel i czas. Treść"
+  },
+  {
+   "h": "101693b94c42f516030c3de6e787e313be6bfa6c",
+   "t": "### 6.1. Teleskop Myśli i Osobisty Kanon"
+  },
+  {
+   "h": "cb8bd892b8efe965dc22cd083a37a8b99c01aa9b",
+   "t": "Pomysł Teleskopu Myśli (*Telescopium Mentis*) wyrósł z okna Overtona, czyli poję"
+  },
+  {
+   "h": "aea9cae53e454e20833c482c59cc9a252a58d520",
+   "t": "Teleskop Myśli ma służyć wracaniu do własnego rozumowania: co wtedy wiedziałem, "
+  },
+  {
+   "h": "2f845c4771c20367f188ccb9a53f6673a44e3e89",
+   "t": "Zauważone napięcie może dotyczyć samej zasady, konfliktu wartości, warunków otoc"
+  },
+  {
+   "h": "1503b1cdb4759486ed904a12ea553f7bf56016e0",
+   "t": "Zaczniemy ostrożnie. W pierwszej wersji Teleskop Myśli pracuje tylko na jednej s"
+  },
+  {
+   "h": "5f41ef9325e973d38f70d47a4dce3d81c34373dc",
+   "t": "### 6.2. Otwarte formaty, przenoszenie i współpraca narzędzi"
+  },
+  {
+   "h": "635bcda00a824b52614fc80a27b82f5b41623f54",
+   "t": "Suverię chcemy rozwijać jako cyfrowe dobro publiczne, z otwartym kodem i dokumen"
+  },
+  {
+   "h": "63602523291d665c8b8b71692031e8bf9f42b041",
+   "t": "Eksport obejmuje wybrane oryginały, historię, źródła i powiązania oraz rozróżnie"
+  },
+  {
+   "h": "c7af30c8a4d1310ad6667224c8ab8be0619d0139",
+   "t": "API, czyli udokumentowane sposoby komunikowania się programów, mają umożliwiać p"
+  },
+  {
+   "h": "2dbfb4a98451d34e1c512c775e274fd105239029",
+   "t": "Prywatna przestrzeń może służyć także pracy na rzecz wspólnych projektów. Użytko"
+  },
+  {
+   "h": "5d19336c5e458cf2b8392ec3b55a4237bc314c45",
+   "t": "## 7. Skala: od 30 osób do całej ludzkości"
+  },
+  {
+   "h": "7849c8c11136d5b9397377fa535f7dbc75b94b8a",
+   "t": "Liczba kont sama nie określa potrzebnej infrastruktury. Znaczenie mają aktywność"
+  },
+  {
+   "h": "d398a6a118ba052b7cd79b91790ca0413456f75a",
+   "t": "Założenia: każda z N osób jest aktywna codziennie i wykonuje 20 żądań dziennie, "
+  },
+  {
+   "h": "05250c34a2e9db3d0fd422a602701d96ac1f8f0a",
+   "t": "| Aktywne osoby | Żądania na miesiąc | Wejście na miesiąc | Wyjście na miesiąc |"
+  },
+  {
+   "h": "63053237ef6d562a32e1e722ddb550725e3d51b7",
+   "t": "Planujemy Suverię jako usługę ogólnoświatową, dostępną w wielu językach. Jak roz"
+  },
+  {
+   "h": "fe3dcd01fd91dd17eb30e6b2e105ded19a53584d",
+   "t": "Mnożnik szczytu porównuje najbardziej obciążoną godzinę ze średnią. Pochodzi z m"
+  },
+  {
+   "h": "958f771ded51b1edc2aeeac058fd449443d5da79",
+   "t": "Żeby zobaczyć, jak ten rachunek wygląda w skali świata, przeprowadźmy eksperymen"
+  },
+  {
+   "h": "8cbd327cfa7c4520e4c1cba10fd5c1bdd7359d19",
+   "t": "## 8. Koszty i datowany rachunek"
+  },
+  {
+   "h": "3669fec0451813004325e058276d41ff32466696",
+   "t": "Miesięczny koszt stałej rezerwacji można w pierwszym przybliżeniu zapisać tak: l"
+  },
+  {
+   "h": "683441dc7fd84ae0053a5df2f1f9495ab3d98790",
+   "t": "W rachunku porównujemy pięć wariantów kosztowych: model lokalny, własną instancj"
+  },
+  {
+   "h": "26d4a3097cadcaa155b4ca598cd4553fbc48504d",
+   "t": "### 8.1. Datowany rachunek: stan na 29 października 2026 r."
+  },
+  {
+   "h": "3b70e4f7b2f3c3c41f7141724355fd56de7057f8",
+   "t": "Manifest stawia hipotezę, że już przy stosunkowo niewielkiej liczbie regularnych"
+  },
+  {
+   "h": "ce3015cfc4234a70b46354a2d0334ffce58b443b",
+   "t": "Wagi modelu zajmują ok. 511 GB, a silnik vLLM zaleca ok. 614 GB pamięci kart. Cz"
+  },
+  {
+   "h": "3c75427513b65a871a565890478e732f370b990d",
+   "t": "| Wariant | Poufność | Koszt miesięczny | Osoby na maszynę | Koszt samych oblicz"
+  },
+  {
+   "h": "3aa90587af5124fd1b5e4b113d1a1805fa0fe8c8",
+   "t": "Skąd te liczby: ceny API z cenników DeepSeek, Moonshot, Confidential AI, Tinfoil"
+  },
+  {
+   "h": "3c4828f692d7d122c4c219f18d18d1d6048dd969",
+   "t": "Co z tego wynika:"
+  },
+  {
+   "h": "ab73ba12e2743f9c5d8066e97684ee616336eede",
+   "t": "- Dla przyjętego profilu ceny API z deklarowaną poufnością wynoszą ok. 0,70–1,25"
+  },
+  {
+   "h": "d5dc95cd715508ab00a4d828fcc310a8ba8d81f2",
+   "t": "Zakup własnego serwera: kompletny serwer Supermicro z ośmioma kartami B300 koszt"
+  },
+  {
+   "h": "89de7d3ab74c56a5fe02813b94a750d537b91b0b",
+   "t": "| Pozycja | Kwota miesięczna | | --- | ---: | | Amortyzacja serwera przez pięć l"
+  },
+  {
+   "h": "78a1a8d9770bfe10dfba87a4ce0d1825dc7e9180",
+   "t": "Na takim serwerze zmieszczą się dwie kopie DeepSeek, które w scenariuszu ogólnoś"
+  },
+  {
+   "h": "f4defc56dc7931c1f6bf5344204b599dabbca501",
+   "t": "- Poufne maszyny z wieloma kartami są dziś publicznie dostępne w USA. W Unii Eur"
+  },
+  {
+   "h": "f8ba6a6f930ffe41a03d7d34b306b9e838314fe4",
+   "t": "Stan hipotezy z manifestu na 29 października 2026 r.: rachunek zbliża nas do nie"
+  },
+  {
+   "h": "ca883e21254894b977dd29923815df1ce674d078",
+   "t": "### 8.2. Kroki infrastruktury i karty decyzji"
+  },
+  {
+   "h": "e6a6d361cd05cf80d00f40db061687f2ced8fc49",
+   "t": "Infrastrukturę rozwijamy krokami, z których każdy daje uczestnikom samodzielną w"
+  },
+  {
+   "h": "7f35b7083a3f2b1f80ecc7559fee6534eb62a103",
+   "t": "Każde przejście opisujemy kartą decyzji: co zyskujemy, pełny koszt, ryzyka, waru"
+  },
+  {
+   "h": "76ae77acf7b02e8ac3a188a909243b573cd3c2be",
+   "t": "Moc dopasowujemy do ruchu bez wymiarowania wszystkiego na najwyższy szczyt. Proj"
+  },
+  {
+   "h": "9808c1f9d06219ddd337cfe0f0a0f9785123443e",
+   "t": "### 8.3. Pomiar użycia bez treści rozmów"
+  },
+  {
+   "h": "409d98ff989ce7eadc84d3d4489f404e246641af",
+   "t": "Żeby rozliczać rzeczywiste użycie, mierzymy zasoby potrzebne do wykonania zadań "
+  },
+  {
+   "h": "2695b7ee73ffdc97527b4b3907cf4ad2c3db2a02",
+   "t": "Limit wydatków ustawiony przez uczestnika ma działać jak granica, a nie jak ostr"
+  },
+  {
+   "h": "af3dac6ceff484c680329888dafc688f594ea860",
+   "t": "## 9. Próby odbiorowe i dziennik wyników"
+  },
+  {
+   "h": "c3a72b23475a1f95c16a9b9e5090d781aad020b5",
+   "t": "Zanim nazwiemy jakiekolwiek wydanie poufnym, udokumentujemy co najmniej:"
+  },
+  {
+   "h": "5c8f3f42d5eef0155e36cfaf8be408e057228823",
+   "t": "- poprawną atestację; - odmowę wysłania danych po podmianie kodu lub klucza; - i"
+  },
+  {
+   "h": "9bf33aeab77d0886c79719fc5e0f56a807b1ae66",
+   "t": "Wynik obejmuje wersję konfiguracji i scenariusz, w którym próbowaliśmy naruszyć "
+  },
+  {
+   "h": "1635d2a05765524ba2f19942f21edeebca4eac88",
+   "t": "Chcemy, żeby każde wydanie Suverii przechodziło wszystkie bramki dowodowe co naj"
+  },
+  {
+   "h": "9b780c321af9a56e033be47d9fa7e8822f5c03e8",
+   "t": "Gdy uruchomimy własny wariant poufny, zgłosimy Suverię do każdego niezależnego k"
+  },
+  {
+   "h": "875a6a995991b13b3f66bfcd4bb8162172963794",
+   "t": "Próby przechowywania i przenoszenia obejmują:"
+  },
+  {
+   "h": "225cf09ebe83fd948f2ab35f7b754fde9daa39d7",
+   "t": "- odtworzenie zaszyfrowanej kopii na innym uprawnionym urządzeniu oraz odmowę od"
+  },
+  {
+   "h": "c785a14b4aef3c0ef81eb5133160991c7c14c4e3",
+   "t": "Etapy:"
+  },
+  {
+   "h": "8061086fb325c2556ace4dc5691396030c744e53",
+   "t": "1. test użyteczności na materiałach, które nie są wrażliwe; 2. techniczna próba "
+  },
+  {
+   "h": "0f6975fbcc50007049f6c2be43dbb94cb3d2b155",
+   "t": "Przed pilotażem ustalimy i opublikujemy progi: czas do pierwszego słowa odpowied"
+  },
+  {
+   "h": "738b648c487e7991ea7dedfe782ef4cee416edfb",
+   "t": "Zmiana modelu, firmware lub sposobu logowania może wymagać ponownej kwalifikacji"
+  },
+  {
+   "h": "69292a5711078172da4377fef393e7e70e4d8142",
+   "t": "- zakres działania; - dowody z prób; - znane ograniczenia; - odpowiedzialne osob"
+  },
+  {
+   "h": "ab34aa68a5483a87f5de2d605144ebc81f89f5ca",
+   "t": "Wykrycie luki prowadzi do ograniczenia narażenia, informacji dla dotkniętych osó"
+  },
+  {
+   "h": "eadd3de6ccf4136cc90f1f0f84c274067ede8da6",
+   "t": "Próby chcemy prowadzić otwarcie. Zapraszamy osoby zajmujące się bezpieczeństwem,"
+  },
+  {
+   "h": "3d9550e4cf07766d6cad29ec10525c8c747cc294",
+   "t": "Najważniejsza próba: zespół z uprawnieniami operatora poza poufnym środowiskiem "
+  },
+  {
+   "h": "6b2c49a0b22460eb99a9ac2c543305c9803fe1c8",
+   "t": "Pierwsze wydanie Suverii udostępnimy kilku osobom, które pomagają ją skonfigurow"
+  },
+  {
+   "h": "9696121af64a44ed72b2576bac2bbe215a83ecb4",
+   "t": "**Dziennik wyników.** Stan na 29 października 2026 r.: nie przeprowadziliśmy jes"
+  },
+  {
+   "h": "50f71b8a55c7034c5d1de2464d7a6f073408ea5a",
+   "t": "Do rozstrzygnięcia pozostają:"
+  },
+  {
+   "h": "2635e1d53bd515f2540a5079e1e19e1e8859ed03",
+   "t": "- pierwszy model i akceptowalny poziom jakości; - niezależna weryfikacja poufnyc"
+  },
+  {
+   "h": "82cca20e269ee5e1f888a0b5b7b14725d96ca47c",
+   "t": "[Whitepaper zasad fundacji](whitepaper-zasady-fundacji.md) opisuje budżet, rachu"
+  },
+  {
+   "h": "b40e3ba1db34f014478cb2446a01591f6c0534c4",
+   "t": "Fundacja Novus Ignis, Poznań, KRS 0001269575. Strona i manifest: novusignis.org."
+  },
+  {
+   "h": "70c39ac4a58893ce0e135d38630c5da483ddadf4",
+   "t": "## Przypisy"
+  },
+  {
+   "h": "a09f39dd96ddab03d997fc397dd160120fa8759b",
+   "t": "[^teefail]: [TEE.fail: Breaking Trusted Execution Environments via DDR5 Memory B"
+  },
+  {
+   "h": "2f36c15ea06fdb11aaa73d54cacb6addd7b48f5c",
+   "t": "[^local-first]: [Kleppmann, Wiggins, van Hardenberg i McGranaghan (2019): Local-"
+  },
+  {
+   "h": "31edc15180aa42ac98cc46a95196c53e70a69302",
+   "t": "[^apple-pcc]: [Apple: Private Cloud Compute](https://security.apple.com/blog/pri"
+  },
+  {
+   "h": "b3456e9d7ad2e021841bedd65d614e8cc071c2b6",
+   "t": "[^ohttp]: [RFC 9458: Oblivious HTTP](https://www.rfc-editor.org/rfc/rfc9458.html"
+  },
+  {
+   "h": "2103116737ae9cd7e6e8f2adf3fb38c782bb80dd",
+   "t": "[^weiss-keylogging]: [Weiss, Ayzenshteyn, Amit i Mirsky (2024): What Was Your Pr"
+  },
+  {
+   "h": "bb4080c47f76b03c1860990893a08bb4e18da2ca",
+   "t": "[^whisper-leak]: [McDonald i Bar Or (2025): Whisper Leak: a side-channel attack "
+  },
+  {
+   "h": "beda78f9d16263c997fe33dfda440f8cd3dcdf36",
+   "t": "[^nvidia-platformy]: [NVIDIA: obsługiwane platformy poufnych kontenerów](https:/"
+  },
+  {
+   "h": "46d734fb7993128d72536f65bd2c49492d149f00",
+   "t": "[^nvidia-ppcie-v2]: [NVIDIA: Protected PCIe v2, Introduction](https://docs.nvidi"
+  },
+  {
+   "h": "aaf3bb8a0d8ff3e5e7e7fbdde344aebf093b19e7",
+   "t": "[^nvidia-blackwell]: [NVIDIA: Trusted Computing Solutions 595](https://docs.nvid"
+  },
+  {
+   "h": "2fc92b6c178698397afdda7692c2446715bce65b",
+   "t": "[^osi]: [OSI: Open Source AI Definition](https://opensource.org/ai/open-source-a"
+  },
+  {
+   "h": "83765e3dffaefb3ded36bbf4428e99b600c0472f",
+   "t": "[^deepseek]: [DeepSeek-V4.1-Flash: karta modelu](https://huggingface.co/deepseek"
+  },
+  {
+   "h": "6b46d265e27cab0134259e499e1907464d8c737a",
+   "t": "[^dpga]: [Digital Public Goods Alliance: standard](https://www.digitalpublicgood"
+  },
+  {
+   "h": "3135ff37896599b8ecc77e7dba79e6816184f2f0",
+   "t": "[^lambda-cennik]: [Lambda: cennik instancji](https://lambda.ai/pricing). Cennik "
+  },
+  {
+   "h": "f5688074040c51e4c05ae6a5bf84286ea76358ac",
+   "t": "[^lambda-v41]: [Lambda: DeepSeek-V4.1-Flash, wyniki pomiaru wydajności](https://"
+  },
+  {
+   "h": "143358dcdb4c3fa450ed73741a6c789aa17f961a",
+   "t": "[^azure-ncc]: [Azure: cennik maszyny NCC40ads H100 v5](https://prices.azure.com/"
+  },
+  {
+   "h": "d38c5c2dd9ff82ee02c2c60bbd7f24113a961c24",
+   "t": "[^deepseek-cennik]: [DeepSeek: cennik API (wersja chińska)](https://api-docs.dee"
+  },
+  {
+   "h": "f29f4abf008cd6e45f3289f000e79abb362b31c6",
+   "t": "[^abonamenty]: Ceny abonamentów: [ChatGPT Plus](https://help.openai.com/en/artic"
+  },
+  {
+   "h": "6932828a2921d1edf64985f59f3880c2377d5da9",
+   "t": "[^kimi-k31]: [Moonshot: premiera Kimi K3.1 Pro](https://forum.moonshot.ai/t/kimi"
+  },
+  {
+   "h": "f4b58bf88d400ac82e92b1391edf8cd0b7294ecd",
+   "t": "[^kimi-k3]: [Kimi K3: karta modelu](https://huggingface.co/moonshotai/Kimi-K3). "
+  },
+  {
+   "h": "be85a316bea34b0db9d61ff0248dc803542e55d2",
+   "t": "[^spheron-kimi]: [Spheron: wdrożenie Kimi K3 (19.10.2026)](https://www.spheron.n"
+  },
+  {
+   "h": "5a6027453ba760b92d5dfa401207f172093b6a36",
+   "t": "[^aa]: [Artificial Analysis: Kimi K3.1 Pro i DeepSeek V4.1 Flash 1017](https://a"
+  },
+  {
+   "h": "dc5def298de2e11fdb6fcb7c95d458c6e7d27003",
+   "t": "[^tinfoil]: [Tinfoil: cennik](https://tinfoil.sh/pricing). Cennik dostawcy. Deep"
+  },
+  {
+   "h": "5612f064a148e6833de21c3149204d3cafa193b3",
+   "t": "[^phala-api]: [Phala: poufne modele](https://phala.com/confidential-ai-models). "
+  },
+  {
+   "h": "009a1c408faca3800fb02e69dfe013f9e1df7abb",
+   "t": "[^near]: [NEAR AI: cennik](https://near.ai/pricing). Cennik dostawcy. Kimi K3: 3"
+  },
+  {
+   "h": "e34f890cc1429f395b65fa9e6827f2bf29db1b76",
+   "t": "[^phala-gpu]: [Phala: poufne karty graficzne](https://phala.com/gpu-tee) i [cenn"
+  },
+  {
+   "h": "83ca8f65eb6daf846fd742026f0afbe4a4931473",
+   "t": "[^privatemode]: [Privatemode (Edgeless Systems)](https://www.privatemode.ai/). O"
+  },
+  {
+   "h": "230c24166020bb4ef629fffbf6fffd8403522b19",
+   "t": "[^katalog]: [Confidential Inference Directory: metodologia i obserwacje](https:/"
+  },
+  {
+   "h": "432e350d456cec78f9d30f83e27feb61c4d3a7cd",
+   "t": "[^supermicro]: [Supermicro: serwer AS-8126GS-NB3RT-01-G2](https://store.supermic"
+  },
+  {
+   "h": "737a150d9ca093e98d83939c70f105981804018b",
+   "t": "[^semianalysis]: [BigGo Finance o analizie SemiAnalysis (7.10.2026)](https://fin"
+  },
+  {
+   "h": "e6e15b879ac07484fadc9b9a6c0f59de3eb35780",
+   "t": "[^sglang-k3]: [SGLang: przepis dla Kimi K3](https://github.com/sgl-project/sglan"
+  },
+  {
+   "h": "93794eb64b66a6fcb0c526d27d1162b442d6933f",
+   "t": "[^phala-cvm]: [Phala: cennik maszyn poufnych](https://phala.com/pricing). Cennik"
+  },
+  {
+   "h": "20ca764e8812197825779dbf8e0060c2212a3c70",
+   "t": "[^itu]: [ITU: Facts and Figures 2025, korzystanie z internetu](https://www.itu.i"
+  },
+  {
+   "h": "abbb31456e25a47ab7e01cfd95027bed65acef8e",
+   "t": "[^cai]: [Confidential AI: cennik](https://confidential.ai/pricing). Cennik dosta"
+  },
+  {
+   "h": "0e4f0d3f01c4c6e041bc04b5e95cc7a3dd23400a",
+   "t": "[^voltage]: [VoltageGPU: cennik](https://voltagegpu.com/pricing) i [zakres dowod"
+  },
+  {
+   "h": "361ffc5fa5826370cf90e7f1092a8f502705c723",
+   "t": "[^epoch]: [The Decoder o danych Epoch AI (8.01.2026)](https://the-decoder.com/gl"
+  },
+  {
+   "h": "d9d7adcf01d37d39e94531f6c951eb532ad6b97b",
+   "t": "[^confidentialinference]: [confidentialinference.net](https://confidentialinfere"
+  }
+ ]
+}
