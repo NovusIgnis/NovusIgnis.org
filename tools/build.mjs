@@ -734,7 +734,8 @@ function wordDiff(a, b) {
   for (let k = segs.length - 2; k > 0; k--) {
     const s = segs[k], p = segs[k - 1], n = segs[k + 1];
     if (s.kind === 'eq' && !s.eq.trim() && p.kind === 'ch' && n.kind === 'ch') {
-      p.rem += (p.rem && n.rem ? s.eq : '') + n.rem; p.add += (p.add && n.add ? s.eq : '') + n.add;
+      // odstęp jest w obu tekstach, więc trafia do obu stron (mark() wynosi skrajne odstępy poza znaczniki)
+      p.rem += s.eq + n.rem; p.add += s.eq + n.add;
       segs.splice(k, 2);
     }
   }
