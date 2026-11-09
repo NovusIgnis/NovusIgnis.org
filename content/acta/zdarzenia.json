@@ -2,7 +2,7 @@
  "nazwa": "OmniActa",
  "licencja": "CC-BY-4.0",
  "publikacja_strony": "2026-10-31 23:40",
- "utworzono": "2026-11-09T13:46:03.876Z",
+ "utworzono": "2026-11-09T14:45:47.488Z",
  "podglad": false,
  "zdarzenia": [
   {
@@ -8904,15 +8904,48 @@
     "tytul": "The foundation's mail: drafts appear in the mailbox by themselves, and the direction of the move",
     "tekst": "**Goal:** so that the founder no longer has to download message files or tell the agents that he sent something or that someone replied, while the mailbox password stays out of reach of the digital intelligence models. A second question: where to keep the foundation's mail when there are more addresses and domains.\n\n**Options:** (1) as before: the agent saves a draft as a file, the founder downloads, opens and sends it, and passes replies on to the conversation; (2) a separate program, a gateway, with no digital intelligence model and with its own mailbox password. Chosen: the second. For the mail itself: (A) expanding with the current provider, Infomaniak, which charges for each mailbox or for each user with a bundle of five addresses; (B) Migadu, a Swiss company with one fee per account and with passwords that can have the right to send taken away. Chosen: direction B, under three conditions: the provider confirms in writing where the data is and who has access to it; our own mail filtering rules can be set up; a trial on the suveria.org domain succeeds.\n\n**Who it concerns:** the founder, Claude's sessions and the people the foundation corresponds with. The gateway copies for the agents only correspondence with addresses on the contact list, and only the founder changes that list.\n\n**Execution:** on the morning of 8 November a test message from the foundation's address passed the DKIM, SPF and DMARC checks at the recipient. At 12:25 the founder approved the gateway design, and since 18:46 the gateway has been running on the agents' computer as a separate system user. The password is encrypted with that computer's key; the account Claude's sessions work under cannot read it or change the program. The gateway has no code for sending mail, and the firewall lets it connect only to the mailbox server. In the mailbox it can only read and add drafts; any other command stops it. A draft saved by an agent is in the Drafts folder within a few seconds. The founder reads it in his mail program or on his phone and clicks \"Send\" himself. The gateway rejects a draft to an address that is not on the list. The first run copied the correspondence with contacts since 1 November: each of the 14 replies from providers that the founder had earlier passed on by hand has a copy.\n\n**Migadu's replies (9 November):** mailbox data, backups and server logs are kept only in the European Economic Area, in data centres in France, the Netherlands and Germany. OVH, the data-centre operator, is a subprocessor; apart from it, only payment providers are. Mailbox content is encrypted at rest, and connections to the servers are always encrypted. In practice Migadu keeps backups for up to 14 days, and the agreement allows up to 30. Our own filtering rules (Sieve) can be uploaded, and a password with sending disabled cannot send mail. Migadu does not offer read-only access, so the gateway itself still makes sure it changes nothing in the mailbox. With its first reply Migadu attached its data processing agreement (version 1.2 of 1 September 2026), and it sent additions the same day in answer to our questions. The gateway saved the first reply one second after it arrived. According to them, the first two conditions are met. The same day the founder also compared Infomaniak's kSuite Business package, which at the regular price costs more from the second mailbox onwards, and confirmed direction B. The third condition is the trial on suveria.org, from 16 November at the earliest.\n\n**Review:** after 30 runs, including 5 drafts, we will compare the gateway's measured effectiveness with the predicted one (92%). Still to be checked: whether a copy of a sent message comes back to the agents by itself. After the computer restarted on 9 November, the gateway started again by itself. The mail moves only after the trial and a separate decision by the founder."
    }
+  },
+  {
+   "plik": "events/2026/11/2026-11-09-pcss-piast-ai-zapytanie.md",
+   "id": "2026-11-09-pcss-piast-ai-zapytanie",
+   "typ": "dzialanie",
+   "data": "2026-11-09 15:38",
+   "sprawy": [
+    "dostawcy"
+   ],
+   "rodzice": [
+    "2026-11-02-zapytania-wyslane"
+   ],
+   "kto": [
+    "fundator",
+    "Claude (Opus 5.5)"
+   ],
+   "zrodla": [
+    "Research/granty/MOC-OBLICZENIOWA-NONPROFIT-2026-11-09.md",
+    "Research/granty/szkice/pcss-piast-ai-zapytanie.md"
+   ],
+   "dokladnosc": "dzien",
+   "publikacja": "2026-11-09",
+   "uprzedzic": [],
+   "skrot": "f395e71759baae3fbfb4d1e6b487138788193d59af14c14b35987b2214ae6032",
+   "archiwum": false,
+   "pl": {
+    "tytul": "Zapytanie do PCSS o pilotaż w PIAST-AI",
+    "tekst": "Fundator zapytał przez formularz kontaktowy Poznańskie Centrum Superkomputerowo-Sieciowe (PCSS), czy fundacja może skorzystać z PIAST-AI, polskiej fabryki cyfrowej inteligencji (AI Factory), w pilotażu: czy dostęp jest otwarty dla fundacji, czy są maszyny w trybie przetwarzania poufnego z atestacją i na jakich warunkach. Na początek chcemy porównać kilka otwartych modeli na danych publicznych i opublikować pomiary. Zapytanie przygotował Claude po przeglądzie programów darmowej mocy obliczeniowej; wysyła zawsze fundator."
+   },
+   "en": {
+    "tytul": "Enquiry to PCSS about a pilot in PIAST-AI",
+    "tekst": "Through a contact form, the founder asked the Poznań Supercomputing and Networking Center (PCSS) whether the foundation can use PIAST-AI, the Polish AI Factory, for a pilot: whether access is open to a foundation, whether machines in confidential computing mode with attestation are available, and on what terms. To start, we want to compare several open models on public data and publish the measurements. Claude prepared the enquiry after reviewing free computing programmes; the founder always does the sending."
+   }
   }
  ],
  "zrodlo": {
   "repozytorium": "https://github.com/NovusIgnis/OmniActa",
-  "commit": "d43967e8e31a2e38d17d933f89de0c0a94b38615",
-  "data_commita": "2026-11-09T14:37:45+01:00",
+  "commit": "5dbb7c4a11cd094e13cae8e0c58594430a580fb1",
+  "data_commita": "2026-11-09T15:45:05+01:00",
   "lancuch": {
-   "n": 889,
-   "ostatni_wpis": "2026-11-08-bramka-poczty"
+   "n": 890,
+   "ostatni_wpis": "2026-11-09-pcss-piast-ai-zapytanie"
   }
  }
 }
