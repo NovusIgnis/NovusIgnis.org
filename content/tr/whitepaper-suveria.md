@@ -1,6 +1,6 @@
 # Suveria: dijital zekâyla özel çalışma
 
-9 Kasım 2026 tarihli sürüm. Bu belge, manifestonun Suveria’ya ilişkin ilkelerini ayrıntılandırır: mahremiyeti nasıl korumak istediğimizi, dijital zekâyla çalışmanın nasıl işlemesinin amaçlandığını, neye mal olduğunu ve bunu nasıl sınayacağımızı. Açıklanan mimari bir tasarımdır. Mevcut bir teknolojiye veya sağlayıcının belgelerine işaret etmek, onu Suveria’da çalıştırdığımız anlamına gelmez. Denemelerimizin sonuçlarını 9. bölüme her zaman tarih, yapılandırma sürümü ve ölçüm kapsamıyla ekleriz.
+11 Kasım 2026 tarihli sürüm. Bu belge, manifestonun Suveria’ya ilişkin ilkelerini ayrıntılandırır: mahremiyeti nasıl korumak istediğimizi, dijital zekâyla çalışmanın nasıl işlemesinin amaçlandığını, neye mal olduğunu ve bunu nasıl sınayacağımızı. Açıklanan mimari bir tasarımdır. Mevcut bir teknolojiye veya sağlayıcının belgelerine işaret etmek, onu Suveria’da çalıştırdığımız anlamına gelmez. Denemelerimizin sonuçlarını 9. bölüme her zaman tarih, yapılandırma sürümü ve ölçüm kapsamıyla ekleriz.
 
 *Bu çeviri, 8 Kasım 2026 tarihli Lehçe asıl metin temel alınarak dijital zekâ tarafından hazırlanmıştır. Farklılık olması hâlinde Lehçe metin bağlayıcıdır.*
 

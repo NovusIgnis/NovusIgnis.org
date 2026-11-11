@@ -9,9 +9,10 @@ menu: Diario delle modifiche
 
 Sviluppiamo i documenti insieme alle conoscenze e all'esperienza, conservando la cronologia delle modifiche. Qui annotiamo che cosa è cambiato nel sito e nei documenti e quando, anche se una modifica nasce da un'osservazione di chi legge. La cronologia delle modifiche allo statuto è separata, nel [registro delle modifiche dello statuto](../statut/rejestr-zmian.md).
 
-## 9 novembre 2026: primo aggiornamento del whitepaper di Suveria
+## 11 novembre 2026: primo aggiornamento del whitepaper di Suveria
 
 - Nel whitepaper di Suveria, nel capitolo 6, abbiamo aggiunto il primo aggiornamento datato annunciato in quel capitolo: i pesi del modello Kimi K3.1 Pro sono pubblici; ne descriviamo la dimensione, la licenza, le ricette dei motori e la disponibilità nelle API confidenziali al 9 novembre 2026. DeepSeek-V4.1-Flash resta il primo candidato per il modello di Suveria. La formulazione precedente del documento resta nella sua cronologia delle versioni.
+- Nella pagina [Modelli di intelligenza digitale in Suveria](suveria-modele.md) la descrizione di Kimi K3.1 Pro ora corrisponde a questo aggiornamento.
 
 ## 8 novembre 2026: grafia del nome OmniForum
 

@@ -1,6 +1,6 @@
 # Suveria: kerja pribadi dengan kecerdasan digital
 
-Versi 9 November 2026. Dokumen ini mengembangkan prinsip-prinsip manifesto tentang Suveria: bagaimana kami ingin melindungi privasi, bagaimana kerja dengan kecerdasan digital direncanakan berlangsung, berapa biayanya, dan bagaimana kami akan memeriksanya. Arsitektur yang diuraikan merupakan rancangan. Menyebut teknologi yang sudah ada atau dokumentasi penyedia tidak berarti kami telah menjalankannya di Suveria. Hasil uji kami tambahkan dalam bab 9, selalu disertai tanggal, versi konfigurasi, dan cakupan pengukuran.
+Versi 11 November 2026. Dokumen ini mengembangkan prinsip-prinsip manifesto tentang Suveria: bagaimana kami ingin melindungi privasi, bagaimana kerja dengan kecerdasan digital direncanakan berlangsung, berapa biayanya, dan bagaimana kami akan memeriksanya. Arsitektur yang diuraikan merupakan rancangan. Menyebut teknologi yang sudah ada atau dokumentasi penyedia tidak berarti kami telah menjalankannya di Suveria. Hasil uji kami tambahkan dalam bab 9, selalu disertai tanggal, versi konfigurasi, dan cakupan pengukuran.
 
 *Terjemahan ini dibuat oleh kecerdasan digital berdasarkan naskah asli berbahasa Polandia tertanggal 8 November 2026. Jika terdapat perbedaan, naskah berbahasa Polandia yang berlaku.*
 

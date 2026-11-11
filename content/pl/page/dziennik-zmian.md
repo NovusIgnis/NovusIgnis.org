@@ -9,9 +9,10 @@ menu: Dziennik zmian
 
 Dokumenty rozwijamy wraz z wiedzą i doświadczeniem, zachowując historię zmian. Tu zapisujemy, co i kiedy zmieniło się na stronie i w dokumentach, także wtedy, gdy zmiana wynika z uwagi czytelnika. Historia zmian samego statutu jest osobno, w [rejestrze zmian statutu](../statut/rejestr-zmian.md).
 
-## 9 listopada 2026 r.: pierwsza aktualizacja whitepapera Suverii
+## 11 listopada 2026 r.: pierwsza aktualizacja whitepapera Suverii
 
 - W whitepaperze Suverii, w rozdziale 6, dopisaliśmy pierwszą datowaną aktualizację, zapowiedzianą w tym rozdziale: wagi modelu Kimi K3.1 Pro są publiczne; opisujemy ich rozmiar, licencję, przepisy silników i dostępność w poufnych API na 9 listopada 2026 r. Pierwszym kandydatem na model Suverii pozostaje DeepSeek-V4.1-Flash. Poprzednie brzmienie dokumentu jest zachowane w jego historii wersji.
+- Na podstronie [Modele cyfrowej inteligencji w Suverii](suveria-modele.md) opis Kimi K3.1 Pro odpowiada teraz tej aktualizacji.
 
 ## 8 listopada 2026 r.: zapis nazwy OmniForum
 

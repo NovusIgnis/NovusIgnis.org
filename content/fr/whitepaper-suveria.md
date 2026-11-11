@@ -1,6 +1,6 @@
 # Suveria : travail privé avec l’intelligence numérique
 
-Version du 9 novembre 2026. Ce document développe les principes du manifeste qui concernent Suveria : comment nous voulons protéger la vie privée, comment doit fonctionner le travail avec l’intelligence numérique, combien cela coûte et comment nous le vérifierons. L’architecture décrite est un projet. La mention d’une technologie existante ou de la documentation d’un fournisseur ne signifie pas que nous l’avons mise en service dans Suveria. Nous ajoutons les résultats de nos essais au chapitre 9, toujours avec la date, la version de la configuration et le périmètre de la mesure.
+Version du 11 novembre 2026. Ce document développe les principes du manifeste qui concernent Suveria : comment nous voulons protéger la vie privée, comment doit fonctionner le travail avec l’intelligence numérique, combien cela coûte et comment nous le vérifierons. L’architecture décrite est un projet. La mention d’une technologie existante ou de la documentation d’un fournisseur ne signifie pas que nous l’avons mise en service dans Suveria. Nous ajoutons les résultats de nos essais au chapitre 9, toujours avec la date, la version de la configuration et le périmètre de la mesure.
 
 *Traduction réalisée par une intelligence numérique à partir de l’original polonais du 8 novembre 2026. En cas de divergence entre les versions, le texte polonais fait foi.*
 

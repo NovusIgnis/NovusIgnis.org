@@ -1,6 +1,6 @@
 # Suveria: prywatna praca z cyfrową inteligencją
 
-Wersja z 9 listopada 2026 r. Dokument rozwija zasady manifestu dotyczące Suverii: jak chcemy chronić prywatność, jak ma działać praca z cyfrową inteligencją, ile to kosztuje i jak to sprawdzimy. Opisana architektura jest projektem. Wskazanie istniejącej technologii lub dokumentacji dostawcy nie oznacza, że uruchomiliśmy ją w Suverii. Wyniki naszych prób dopisujemy w rozdziale 9, zawsze z datą, wersją konfiguracji i zakresem pomiaru.
+Wersja z 11 listopada 2026 r. Dokument rozwija zasady manifestu dotyczące Suverii: jak chcemy chronić prywatność, jak ma działać praca z cyfrową inteligencją, ile to kosztuje i jak to sprawdzimy. Opisana architektura jest projektem. Wskazanie istniejącej technologii lub dokumentacji dostawcy nie oznacza, że uruchomiliśmy ją w Suverii. Wyniki naszych prób dopisujemy w rozdziale 9, zawsze z datą, wersją konfiguracji i zakresem pomiaru.
 
 ## 1. Czym jest Suveria i po co powstaje
 

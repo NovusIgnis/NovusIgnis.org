@@ -9,9 +9,10 @@ menu: Registro de cambios
 
 Desarrollamos los documentos a medida que crecen nuestros conocimientos y nuestra experiencia, conservando el historial de cambios. Aquí registramos qué ha cambiado en el sitio y en los documentos, y cuándo, también cuando el cambio se debe a un comentario de alguien que los lee. El historial de cambios de los propios estatutos está aparte, en el [registro de modificaciones de los estatutos](../statut/rejestr-zmian.md).
 
-## 9 de noviembre de 2026: primera actualización del whitepaper de Suveria
+## 11 de noviembre de 2026: primera actualización del whitepaper de Suveria
 
 - En el whitepaper de Suveria, en el capítulo 6, añadimos la primera actualización fechada anunciada en ese capítulo: los pesos del modelo Kimi K3.1 Pro son públicos; describimos su tamaño, la licencia, las recetas de los motores y la disponibilidad en API confidenciales a 9 de noviembre de 2026. DeepSeek-V4.1-Flash sigue siendo el primer candidato para el modelo de Suveria. La redacción anterior del documento se conserva en su historial de versiones.
+- En la página [Modelos de inteligencia digital en Suveria](suveria-modele.md), la descripción de Kimi K3.1 Pro corresponde ahora a esta actualización.
 
 ## 8 de noviembre de 2026: grafía del nombre OmniForum
 

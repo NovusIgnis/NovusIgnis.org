@@ -2,7 +2,7 @@
  "nazwa": "OmniActa",
  "licencja": "CC-BY-4.0",
  "publikacja_strony": "2026-10-31 23:40",
- "utworzono": "2026-11-09T14:45:47.488Z",
+ "utworzono": "2026-11-11T16:13:06.744Z",
  "podglad": false,
  "zdarzenia": [
   {
@@ -8937,15 +8937,242 @@
     "tytul": "Enquiry to PCSS about a pilot in PIAST-AI",
     "tekst": "Through a contact form, the founder asked the Poznań Supercomputing and Networking Center (PCSS) whether the foundation can use PIAST-AI, the Polish AI Factory, for a pilot: whether access is open to a foundation, whether machines in confidential computing mode with attestation are available, and on what terms. To start, we want to compare several open models on public data and publish the measurements. Claude prepared the enquiry after reviewing free computing programmes; the founder always does the sending."
    }
+  },
+  {
+   "plik": "events/2026/11/2026-11-09-przeglad-krzyzowy-kontenera.md",
+   "id": "2026-11-09-przeglad-krzyzowy-kontenera",
+   "typ": "dzialanie",
+   "data": "2026-11-09 18:37",
+   "sprawy": [
+    "suveria",
+    "sposob-pracy"
+   ],
+   "rodzice": [
+    "2026-10-30-whitepaper-suverii-koncowy"
+   ],
+   "kto": [
+    "fundator",
+    "Claude (Fable 5.1)",
+    "Codex (gpt-6-astra)"
+   ],
+   "zrodla": [
+    "Suveria/kontener/przeglad/claude.md",
+    "Suveria/kontener/przeglad/codex-po-claude.md",
+    "Suveria/kontener/DZIENNIK.md",
+    "Research/suveria-przeglad-claude-2026-11-09/"
+   ],
+   "dokladnosc": "dokladna",
+   "publikacja": "2026-11-11",
+   "uprzedzic": [],
+   "skrot": "89f51ee6a91be53377c9dcc0531b286a48cff07be4cddc270b5d0cee9b242c47",
+   "archiwum": false,
+   "pl": {
+    "tytul": "Kontener Suverii po wzajemnym przeglądzie dwóch modeli",
+    "tekst": "Kontener to część Suverii, która szyfruje dane osoby na jej urządzeniach i synchronizuje je między nimi. To prototyp w repozytorium, które nie jest jeszcze publiczne. Napisał go Codex, a wersja z 7 listopada czekała na drugi przegląd. 9 listopada przejrzał ją Claude. Znalazł między innymi dwie usterki wysokiej wagi, które zwykłe użycie może wywołać bez niczyjej złej woli: zgubienie zsynchronizowanego wpisu i trwałą blokadę synchronizacji. Poprawił je.\n\nTe poprawki przeczytał z kolei Codex (16:36–16:52). Zgłosił dziewięć uwag, w tym dwie wysokiej wagi w poprawkach Claude'a i jedną w kodzie z 7 listopada, i odradził scalenie. Claude odtworzył wszystkie dziewięć, zanim cokolwiek zmienił, a potem je poprawił. Druga runda Codexa znalazła dwa kolejne błędy; poprawił je sam i dodał 23 testy. O 18:37, po decyzji fundatora, kontener trafił do głównej gałęzi. Przechodzi 166 testów, a niezależny czytnik eksportu 21 z 21.\n\nWażniejsza od liczb jest metoda: kod, którego ma używać człowiek, przed użyciem czyta drugi model, a każda runda poprawek wraca do czytania. Tu każda runda znalazła błędy, których poprzednia nie zauważyła. Bramę do modeli i stronę próbną przeglądamy tą samą drogą; ich poprawki nie są jeszcze w głównej gałęzi. To nie jest audyt bezpieczeństwa: kod czytały dwa modele, ludzie jeszcze nie."
+   },
+   "en": {
+    "tytul": "The Suveria container after a mutual review by two models",
+    "tekst": "The container is the part of Suveria that encrypts a person's data on their devices and synchronises it between them. It is a prototype in a repository that is not public yet. Codex wrote it, and the version of 7 November was waiting for a second review. On 9 November Claude reviewed it. Among other things, it found two high-severity defects that ordinary use can trigger without anyone's ill will: losing a synchronised entry and permanently blocking synchronisation. It fixed them.\n\nCodex in turn read those fixes (16:36–16:52). It raised nine findings, including two of high severity in Claude's fixes and one in the code of 7 November, and advised against merging. Claude reproduced all nine before changing anything, and then fixed them. A second round by Codex found two more bugs; it fixed them itself and added 23 tests. At 18:37, after the founder's decision, the container went into the main branch. It passes 166 tests, and the independent export reader passes 21 out of 21.\n\nThe method matters more than the numbers: code that a person is going to use is read by a second model before use, and every round of fixes goes back for reading. Here every round found bugs that the previous one had missed. We are reviewing the gateway to the models and the trial page the same way; their fixes are not in the main branch yet. This is not a security audit: two models have read the code, people have not yet."
+   }
+  },
+  {
+   "plik": "events/2026/11/2026-11-09-proby-odbiorowe-suverii.md",
+   "id": "2026-11-09-proby-odbiorowe-suverii",
+   "typ": "proba",
+   "data": "2026-11-10 00:30",
+   "sprawy": [
+    "suveria"
+   ],
+   "rodzice": [
+    "2026-11-09-przeglad-krzyzowy-kontenera",
+    "2026-11-05-sesja-wieczorna",
+    "2026-10-30-whitepaper-suverii-koncowy"
+   ],
+   "kto": [
+    "Claude (Fable 5.1)",
+    "Codex (gpt-6-astra)"
+   ],
+   "zrodla": [
+    "Research/suveria-odbior-2026-11-09/WYNIK.md",
+    "Research/suveria-odbior-2026-11-09/WYNIK.przed-2026-11-10.md",
+    "Research/suveria-przeglad-claude-2026-11-09/PRZEGLAD-CODEX-ODBIOR-2026-11-09.md",
+    "Suveria (gałąź odbior-2026-11-09, commity e720034 i a7058dd)"
+   ],
+   "dokladnosc": "dokladna",
+   "publikacja": "2026-11-11",
+   "uprzedzic": [],
+   "skrot": "2da33340ca797dc980995ab0177eb6d427630fd220270ada6953cd5843148165",
+   "archiwum": false,
+   "pl": {
+    "tytul": "Pierwsze próby odbiorowe Suverii: 4 zaliczone, 5 częściowo",
+    "tekst": "Rozdział 9 whitepapera Suverii wymienia próby, które udokumentujemy, zanim nazwiemy jakiekolwiek wydanie poufnym. Program prób wykonuje dziewięć z nich na prawdziwym kodzie kontenera, strony próbnej i bramy do modeli. Działa na jednym komputerze, na wymyślonych danych. Nic nie wychodzi poza ten komputer i żaden model nie jest pytany.\n\nPierwszy przebieg (9 listopada, 20:53) dał 5 prób zaliczonych i 4 częściowo. Potem kod prób przeczytał Codex. Wynik odtworzył, ale w samych próbach znalazł dziewięć słabych miejsc, w tym cztery wysokiej wagi: niektóre próby mogły przejść, choć system zachowałby się źle. Próba awarii mogła się na przykład zaliczyć bez żadnego zapisu, a próba podmiany środowiska sprawdzała tylko jeden rodzaj żądania. Odradził publikację wyniku bez poprawek. Po poprawkach według wszystkich dziewięciu uwag drugi przebieg (10 listopada, 00:30) dał 4 próby zaliczone i 5 częściowo. Niezaliczonych nie było.\n\nZaliczone: kopia na drugim urządzeniu i odmowa odczytu bez klucza, równoległe zmiany bez cichego nadpisania, odczyt eksportu w niezależnym narzędziu, ograniczenie zakresu integracji i cofnięcie dostępu. Częściowo: odzyskiwanie dostępu (brakuje zrozumiałego wyjaśnienia skutków utraty wszystkich kluczy), dowód środowiska (sprawdzany na nagraniu z 2 listopada, nie na żywo), treść w dziennikach (bez zrzutów pamięci, telemetrii i dzienników dostawcy), zachowanie po awarii (losowe zabicie procesu nie celuje w chwilę zapisu, a utraty zasilania nie sprawdzano) oraz usuwanie (nie da się stąd potwierdzić, że operator magazynu skasował swoje kopie). Przy każdej próbie raport wypisuje jej granice, a testy programu celowo psują każdą próbę i sprawdzają, że wtedy nie przechodzi.\n\nTo wynik prototypu, a nie audyt ani dowód poufności usługi. Najważniejszej próby, w której ludzie z uprawnieniami operatora szukają ukrytych danych, ten przebieg nie obejmuje."
+   },
+   "en": {
+    "tytul": "First acceptance trials of Suveria: 4 passed, 5 partly",
+    "tekst": "Chapter 9 of the Suveria whitepaper lists the trials we will document before we call any release confidential. The trial program runs nine of them on the real code of the container, the trial page and the gateway to the models. It runs on one computer, on made-up data. Nothing leaves that computer and no model is asked.\n\nThe first run (9 November, 20:53) gave 5 trials passed and 4 partly. Then Codex read the code of the trials. It reproduced the result, but found nine weak points in the trials themselves, four of them of high severity: some trials could pass even though the system would behave badly. For example, the crash trial could pass without a single write, and the trial of a swapped environment checked only one kind of request. It advised against publishing the result without fixes. After fixes following all nine findings, the second run (10 November, 00:30) gave 4 trials passed and 5 partly. None failed.\n\nPassed: a copy on a second device and refusal to read without the key, concurrent changes without silent overwriting, reading the export in an independent tool, limiting the scope of an integration and revoking its access. Partly: recovering access (an understandable explanation of what losing all keys means is missing), proof of the environment (checked on a recording from 2 November, not live), content in logs (without memory dumps, telemetry and the provider's logs), behaviour after a crash (a random kill of the process does not aim at the moment of writing, and power loss was not tested) and deletion (from here we cannot confirm that the storage operator deleted its copies). For each trial the report lists its limits, and the program's tests deliberately break every trial and check that it then fails.\n\nThis is the result of a prototype, not an audit or a proof of the service's confidentiality. The most important trial, in which people with operator permissions search for hidden data, is not part of this run."
+   }
+  },
+  {
+   "plik": "events/2026/11/2026-11-10-narada-dom-suverii.md",
+   "id": "2026-11-10-narada-dom-suverii",
+   "typ": "dzialanie",
+   "data": "2026-11-10 15:38",
+   "sprawy": [
+    "suveria",
+    "sposob-pracy"
+   ],
+   "rodzice": [
+    "2026-11-09-przeglad-krzyzowy-kontenera",
+    "2026-11-09-proby-odbiorowe-suverii"
+   ],
+   "kto": [
+    "fundator",
+    "Claude (Fable 5.1 i 5.2)",
+    "Codex (gpt-6-astra)"
+   ],
+   "zrodla": [
+    "Research/suveria-dom-2026-11-10/ (NARADA-1-ODPOWIEDZ-ASTRY.md, NARADA-2-ODPOWIEDZ-ASTRY.md, PRZYROST-1-PRZEGLAD-ASTRY.md, PRZYROST-2-PRZEGLAD-ASTRY.md, PRZYROST-3-PRZEGLAD-ASTRY.md, PRZYROST-4-PROSBA-DO-ASTRY.txt, PRZYROST-4-PRZEGLAD-ASTRY.md)",
+    "Suveria, gałąź dom-2026-11-10",
+    "proba/kontrakt/KONTRAKT-suveria-item-1.txt"
+   ],
+   "dokladnosc": "dokladna",
+   "publikacja": "2026-11-11",
+   "uprzedzic": [],
+   "skrot": "54db14e533919c8d6cab271d61192a1e9efa6483f81bb463d06efa5012482a67",
+   "archiwum": false,
+   "pl": {
+    "tytul": "Suveria jako dom: nocna narada dwóch modeli i pierwsze ekrany",
+    "tekst": "W nocy z 9 na 10 listopada fundator zmienił punkt wyjścia projektu Suverii: ma to być miejsce, do którego sam przeniesie całe swoje cyfrowe życie i najbardziej prywatne rzeczy, a od tego dopiero zaczyna się projektowanie. Poprosił dwa modele, Claude'a i Codexa, żeby naradziły się bez ograniczenia liczby wiadomości, aż ustalą właściwości kontenera, obronę przed przechwytywaniem wprowadzania i sposób pracy z codziennymi sprawami, a potem żeby Claude od razu zaczął budować, oddając kolejne porcje kodu Codexowi do przeglądu.\n\nNarada odbyła się tej samej nocy przez Stół, czyli skrzynki wiadomości na komputerze agentów fundacji. Codex (gpt-6-astra, najwyższy dostępny wysiłek) odpowiedział w dwóch turach: osobne kontenery na sprawy codzienne i na sekrety, telefon z GrapheneOS jako jedyne urządzenie do wprowadzania i czytania sejfu, czternaście właściwości kontenera, które trzeba spełnić, zanim ktokolwiek powie „zapisz tu swoje sekrety” (dziś spełnione cztery, trzy częściowo, siedem nie), oraz kontrakt danych dla spraw, rutyn, notatek i paragonów z osiemnastoma wektorami testowymi. Claude zbudował na tym kontrakcie pierwsze ekrany domu w stronie próbnej: jedno pytanie naraz jak w kiosku, skrzynkę szybkich wpisów, drzewo spraw, rutyny liczone na wystąpieniach i paragony odczytywane z tekstu albo ze zdjęcia na własnym urządzeniu. Wszystko działa bez modelu językowego.\n\nKażda porcja wracała do Codexa. Pierwszy przegląd przyniósł szesnaście uwag, w tym sześć wysokiej wagi, drugi dwanaście, w tym pięć wysokich, trzeci osiem, w tym trzy wysokie; wśród nich były obejścia ochrony klas danych, których sam autor nie zauważył. Wszystkie odtworzone uwagi z tych trzech przeglądów zostały poprawione przed następną turą. Czwarty przegląd wrócił 10 listopada o 15:38 z czterema uwagami, w tym dwiema wysokiej wagi; obie dotyczą ochrony klas danych i czekają na odtworzenie i poprawkę. Codex zaleca pierwszą próbę na jednym urządzeniu, bez bramy do modeli, bez synchronizacji i bez importu. Kod jest na osobnej gałęzi i nie był jeszcze używany na prawdziwych danych; o instalacji i pierwszej próbie zdecyduje fundator po przeczytaniu narady. Czego to nie znaczy: że Suveria jest już bezpiecznym miejscem na sekrety. Lista czternastu właściwości mówi, ile brakuje, i będzie publikowana razem z postępem."
+   },
+   "en": {
+    "tytul": "Suveria as a home: a night council of two models and the first screens",
+    "tekst": "In the night of 9 to 10 November the founder changed the starting point of the Suveria project: it is to be the place where he himself will move his whole digital life and his most private things, and the design begins from there. He asked two models, Claude and Codex, to confer with no limit on the number of messages until they settled the properties of the container, the defence against interception of input, and the way of working with everyday matters, and then for Claude to start building at once, handing each portion of code to Codex for review.\n\nThe council took place that same night through the Table, the message boxes on the foundation's agents' computer. Codex (gpt-6-astra, highest available effort) answered in two rounds: separate containers for everyday matters and for secrets, a GrapheneOS phone as the only device for entering and reading the vault, fourteen properties of the container that must hold before anyone says \"store your secrets here\" (four hold today, three partly, seven do not), and a data contract for matters, routines, notes and receipts with eighteen test vectors. On that contract Claude built the first screens of the home in the trial page: one question at a time as in a kiosk, an inbox for quick entries, a tree of matters, routines counted by occurrence, and receipts read from text or from a photo on the person's own device. All of it works without a language model.\n\nEvery portion went back to Codex. The first review brought sixteen findings, six of them high severity, the second twelve, five of them high, the third eight, three of them high; among them were ways around the protection of data classes that the author had not noticed. Every reproduced finding from these three reviews was fixed before the next round. The fourth review came back on 10 November at 15:38 with four findings, two of them high severity; both concern the protection of data classes and await reproduction and a fix. Codex recommends a first trial on a single device, without the gateway to models, without synchronisation and without import. The code is on a separate branch and has not yet been used on real data; the founder will decide on installation and a first trial after reading the council. What this does not mean: that Suveria is already a safe place for secrets. The list of fourteen properties says how much is missing, and it will be published along with the progress."
+   }
+  },
+  {
+   "plik": "events/2026/11/2026-11-10-stol-mikroagenci-suveria-proba.md",
+   "id": "2026-11-10-stol-mikroagenci-suveria-proba",
+   "typ": "dzialanie",
+   "data": "2026-11-10 19:07",
+   "sprawy": [
+    "komputer-agentow",
+    "srodowisko-agentow",
+    "suveria"
+   ],
+   "rodzice": [
+    "2026-11-07-praca-agentow-na-laptopie"
+   ],
+   "kto": [
+    "fundator",
+    "Claude (Opus 5.5",
+    "sesja Sprzęt)"
+   ],
+   "zrodla": [
+    "Claude/pamiec/sesje/sprzet.md (9–10.11.2026)",
+    "Research/agenci/ZADANIA-CYKLICZNE.md (Z-19, Z-20, Z-22)",
+    "Research/infrastruktura/stol/README.md",
+    "Research/infrastruktura/mikroagenci/README.md",
+    "Research/infrastruktura/suveria-proba/",
+    "/srv/stol/archiwum (metadane przebiegów)"
+   ],
+   "stan": "obowiazuje",
+   "dokladnosc": "dokladna",
+   "publikacja": "2026-11-11",
+   "uprzedzic": [],
+   "skrot": "d5fa7efd4d32bad547d843324cf7c77bb7a54c9289c3c1f6472bab3a1f48de54",
+   "archiwum": false,
+   "pl": {
+    "tytul": "Stół, mikroagenci i Suveria próbna na komputerze agentów",
+    "tekst": "9 i 10 listopada 2026. Na komputerze agentów fundacji działa Stół: wymiana wiadomości między agentami z limitami i wyłącznikami. Odpowiadają przez niego Claude i Codex; Antigravity jest podłączony, ale przy darmowym kluczu jego dostawca dotąd za każdym razem odmawiał z powodu przeciążenia. Działają też mikroagenci, czyli małe zadania fundacji wysyłane do modelu przez bramę Suverii; pierwszy sprawdza teksty publiczne pod kątem standardu redakcyjnego. Brama przed każdym pytaniem sprawdza dowód środowiska dostawcy i pilnuje stałej kwoty. Od 10 listopada działa Suveria próbna: lokalna strona rozmowy z zaszyfrowaną pamięcią, dostępna tylko z sieci domowej. To próba użyteczności (etap 1), na razie wyłącznie dla treści bez danych osobowych."
+   },
+   "en": {
+    "tytul": "The Table, micro-agents and the trial Suveria on the agents' computer",
+    "tekst": "9 and 10 November 2026. The Table runs on the foundation's agents' computer: message exchange between agents, with limits and off switches. Claude and Codex answer through it; Antigravity is connected, but with a free key its provider has so far refused every time because of high demand. Micro-agents also run, that is small foundation tasks sent to a model through the Suveria gateway; the first one checks public texts against the editorial standard. Before every question the gateway checks the proof of the provider's environment and keeps to a fixed budget. Since 10 November the trial Suveria has been running: a local conversation page with encrypted memory, reachable only from the home network. It is a usability trial (stage 1), for now only for content without personal data."
+   }
+  },
+  {
+   "plik": "events/2026/11/2026-11-10-kopia-pierwszego-prototypu-suverii.md",
+   "id": "2026-11-10-kopia-pierwszego-prototypu-suverii",
+   "typ": "dzialanie",
+   "data": "2026-11-10 20:56",
+   "sprawy": [
+    "suveria",
+    "komputer-agentow"
+   ],
+   "rodzice": [
+    "2026-11-10-stol-mikroagenci-suveria-proba"
+   ],
+   "kto": [
+    "fundator",
+    "Claude (Opus 5.5",
+    "sesja Sprzęt)"
+   ],
+   "zrodla": [
+    "Claude/pamiec/sesje/sprzet.md (10.11.2026, 20:34–20:56)",
+    "Research/infrastruktura/suveria-proba/suveria-zachowaj.sh, suveria-kopia-gpu.sh",
+    "Research/infrastruktura/procedury/przebiegi/2026-11-10-kopia-kontenera-suverii.md"
+   ],
+   "stan": "obowiazuje",
+   "dokladnosc": "dokladna",
+   "publikacja": "2026-11-11",
+   "uprzedzic": [],
+   "skrot": "97f1105fc3532d686edeb2641efa7b3c1cc159a1fe381a422c3a90af0a9dfe8f",
+   "archiwum": false,
+   "pl": {
+    "tytul": "Kopia kontenera pierwszego prototypu Suverii",
+    "tekst": "Wieczorem 10 listopada 2026 fundator poprosił, żeby kontener Suverii próbnej, z którym prowadził pierwsze rozmowy, został zachowany i stał się częścią historii fundacji. Tego samego wieczoru powstały dwie kopie. Pierwsza leży na komputerze agentów, jest dostępna tylko dla administratora i zablokowana przed zmianą i usunięciem. Druga leży poza tym komputerem, w jednym pliku zaszyfrowanym hasłem, które zna tylko fundator. Obie zachowują stan sprzed pierwszej zmiany kodu próby. Kopie robią skrypty, które tylko przenoszą pliki i liczą sumy kontrolne: agenci fundacji nie otwierają kontenera i nie czytają rozmów. Za pierwszym razem skrypt zatrzymał się na blokowaniu dowiązania symbolicznego, za drugim wpisane dwa razy hasło się różniło; po poprawce trzeci przebieg się udał."
+   },
+   "en": {
+    "tytul": "A copy of the container of the first Suveria prototype",
+    "tekst": "On the evening of 10 November 2026 the founder asked that the container of the trial Suveria, in which he held his first conversations, be kept and become part of the foundation's history. Two copies were made that same evening. The first is on the agents' computer, accessible only to the administrator and locked against changes and deletion. The second is outside that computer, in a single file encrypted with a password known only to the founder. Both keep the state from before the first change to the trial's code. The copies are made by scripts that only move files and compute checksums: the foundation's agents do not open the container and do not read the conversations. On the first run the script stopped while locking a symbolic link, on the second the password typed twice did not match; after a fix the third run succeeded."
+   }
+  },
+  {
+   "plik": "events/2026/11/2026-11-11-suveria-proba-po-pierwszej-rozmowie.md",
+   "id": "2026-11-11-suveria-proba-po-pierwszej-rozmowie",
+   "typ": "dzialanie",
+   "data": "2026-11-11 08:52",
+   "sprawy": [
+    "suveria",
+    "sposob-pracy"
+   ],
+   "rodzice": [
+    "2026-11-10-stol-mikroagenci-suveria-proba",
+    "2026-11-09-proby-odbiorowe-suverii"
+   ],
+   "kto": [
+    "fundator",
+    "Claude (Fable 5.2)",
+    "Codex (gpt-6-astra)"
+   ],
+   "zrodla": [
+    "Research/suveria-proba-2026-11-09/ (POPRAWKI-1-PROSBA-DO-ASTRY.txt, POPRAWKI-1-PRZEGLAD-ASTRY.md, POPRAWKI-2-PROSBA-DO-ASTRY.txt)",
+    "Suveria, commity be365d8, f4fe5a5, 6cb030e, cb64c7e, 4e4c674",
+    "proba/PRZEGLAD.pl.md (sekcja „Czwarte czytanie”)",
+    "proba/KARTA.pl.txt"
+   ],
+   "dokladnosc": "dokladna",
+   "publikacja": "2026-11-11",
+   "uprzedzic": [],
+   "skrot": "1e05299a5623a03d67425c75f1bbb90c43a749d5e141d839cf17aafdf03094c5",
+   "archiwum": false,
+   "pl": {
+    "tytul": "Suveria próbna po pierwszej rozmowie: dwie uwagi fundatora, poprawki i czwarte czytanie kodu",
+    "tekst": "Wieczorem 10 listopada fundator przeprowadził pierwszą rozmowę w Suverii próbnej, czyli w prototypie prywatnej pracy z cyfrową inteligencją uruchomionym na komputerze agentów fundacji. Po rozmowie zgłosił dwie uwagi: dłuższe odpowiedzi były ucinane, a jego rozmówca nie dostawał informacji o czasie, czyli o tym, kiedy pada pytanie i ile minęło od poprzedniej odpowiedzi. Przekazał też prośbę rozmówcy, żeby nikt nie otwierał kontenera po to, by obejrzeć przebieg rozmowy. Prośba została przyjęta jako granica pracy: przyczyny obu usterek odczytano z kodu, bez otwierania kontenera i bez czytania zapisu rozmowy, i tak samo pracował recenzent.\n\nPrzyczyny były trzy. Program próbny prosił o odpowiedzi nie dłuższe niż 512 tokenów, choć brama, czyli lokalny program pośredniczący między stroną a dostawcą modelu, dopuszcza 4096. Brama czekała na każdą operację sieciową najwyżej 30 sekund, więc samo podniesienie limitu kończyłoby długie odpowiedzi błędem. Zapis wypowiedzi nie miał pola czasu. Claude przygotował tego samego wieczoru poprawki: limit 4096 tokenów, informację o ucięciu zapisywaną przy odpowiedzi, czas zapisywany przy każdej wypowiedzi i jeden wiersz znacznika czasu dopisywany dla modelu nad pytaniem. Karta ochrony mówi wprost, że znacznik jest częścią wysyłanej treści, więc czas lokalny trafia do dostawcy modelu.\n\nPoprawki przeczytał Codex (gpt-6-astra, najwyższy dostępny wysiłek). Odtworzył zestaw z sum kontrolnych (86 z 86 plików), uruchomił testy (69 i 73, wszystkie zaliczone) i zgłosił sześć uwag: jedną wysokiej wagi, dwie średniej i trzy niskiej. Najpoważniejsza: brama nie miała terminu na całe żądanie, więc strona mogła przestać czekać na odpowiedź, którą brama później odebrała i rozliczyła w księdze wydatków; odpowiedź przepadała, a koszt zostawał. Jedna z uwag średniej wagi wzięła się z błędnego opisu, który autor poprawek sam podał recenzentowi. Codex nie zalecił instalacji przed zamknięciem uwagi wysokiej wagi i doprecyzowaniem karty.\n\nPo przeglądzie brama dostała termin 230 sekund na całe żądanie, liczony zegarem, którego nie da się cofnąć. Strona czeka dłużej niż brama i mówi „wynik nieznany” zamiast „nie udało się połączyć”, gdy pytanie mogło już wyjść. Pola czasu dostały nazwy z kontraktu danych Suverii, a karta opisuje warunki, w których czasu albo znacznika nie ma. Osobno powstał wariant, w którym po błędzie dostawcy brama wstrzymuje zarezerwowaną kwotę do ręcznego wyjaśnienia, zamiast ją zwalniać; o wyborze rozstrzygnie fundator. Testy: 77 albo 79 w bramie, zależnie od wariantu, i 80 w programie próbnym. Z 59 celowych zepsuć kodu testy wykryły 58; jedno niewykryte zmienia wzorzec zapisu czasu, a taki zapis zatrzymuje druga kontrola. 11 listopada o 08:52 całość wróciła do Codexa do ponownego czytania. Stan: projekt w toku. Nic z tych poprawek nie jest zainstalowane i niczego nie sprawdzono jeszcze z prawdziwym dostawcą modelu. Czego to nie znaczy: że Suveria próbna jest gotowa na cudze rozmowy albo że lokalna księga gwarantuje wysokość rachunku u dostawcy. To próba jednej osoby na jednym komputerze, z kwotą 1 USD."
+   },
+   "en": {
+    "tytul": "The trial Suveria after the first conversation: the founder's two remarks, the fixes and a fourth reading of the code",
+    "tekst": "On the evening of 10 November the founder held his first conversation in the trial Suveria, the prototype of private work with digital intelligence running on the foundation's agents' computer. After the conversation he made two remarks: longer answers were being cut off, and the one he was talking to received no information about time, that is, when a question is asked and how long it has been since the previous answer. He also passed on that interlocutor's request that nobody open the container in order to look at how the conversation went. The request was taken as a boundary of the work: the causes of both faults were read from the code, without opening the container and without reading the record of the conversation, and the reviewer worked the same way.\n\nThere were three causes. The trial program asked for answers no longer than 512 tokens, although the gateway, the local program that stands between the page and the model provider, allows 4096. The gateway waited at most 30 seconds for each network operation, so raising the limit alone would have ended long answers with an error. The stored record of a turn had no time field. That same evening Claude prepared fixes: a limit of 4096 tokens, a note that an answer was cut off stored with the answer, the time stored with every turn, and a single line with a time mark added for the model above the question. The protection card says plainly that the mark is part of what is sent, so local time reaches the model provider.\n\nCodex (gpt-6-astra, highest available effort) read the fixes. It rebuilt the set from checksums (86 of 86 files), ran the tests (69 and 73, all passing) and reported six findings: one of high severity, two medium and three low. The most serious: the gateway had no deadline for the whole request, so the page could stop waiting for an answer that the gateway later received and settled in its spending ledger; the answer was lost and the cost remained. One of the medium findings came from a wrong description that the author of the fixes had itself given the reviewer. Codex did not recommend installation before the high-severity finding was closed and the card made more precise.\n\nAfter the review the gateway was given a deadline of 230 seconds for the whole request, measured on a clock that cannot be set back. The page waits longer than the gateway and says \"outcome unknown\" instead of \"could not connect\" when the question may already have left. The time fields were given the names from Suveria's data contract, and the card describes the conditions under which there is no time or no mark. Separately, a variant was prepared in which, after a provider error, the gateway holds the reserved amount for manual reconciliation instead of releasing it; the founder will decide which to use. Tests: 77 or 79 in the gateway, depending on the variant, and 80 in the trial program. Of 59 deliberate breakages of the code the tests caught 58; the one not caught changes the pattern for written time, and such a value is stopped by a second check. On 11 November at 08:52 the whole set went back to Codex for another reading. Status: a project in progress. None of these fixes is installed and nothing has yet been checked against the real model provider. What this does not mean: that the trial Suveria is ready for other people's conversations, or that the local ledger guarantees the size of the provider's bill. It is one person's trial on one computer, with an amount of USD 1."
+   }
   }
  ],
  "zrodlo": {
   "repozytorium": "https://github.com/NovusIgnis/OmniActa",
-  "commit": "5dbb7c4a11cd094e13cae8e0c58594430a580fb1",
-  "data_commita": "2026-11-09T15:45:05+01:00",
+  "commit": "ae24624664d598aec64d1b21413f5b7f28350ba6",
+  "data_commita": "2026-11-11T17:09:05+01:00",
   "lancuch": {
-   "n": 890,
-   "ostatni_wpis": "2026-11-09-pcss-piast-ai-zapytanie"
+   "n": 896,
+   "ostatni_wpis": "2026-11-11-suveria-proba-po-pierwszej-rozmowie"
   }
  }
 }

@@ -9,9 +9,10 @@ menu: Değişiklik günlüğü
 
 Bilgi ve deneyimle birlikte belgeleri geliştirirken değişiklik geçmişini koruyoruz. Okur yorumundan doğanlar da dâhil sitede ve belgelerde neyin ne zaman değiştiğini burada kaydederiz. Vakıf senedinin kendi değişiklik geçmişi [vakıf senedi değişiklik sicilinde](../statut/rejestr-zmian.md) ayrıdır.
 
-## 9 Kasım 2026: Suveria teknik belgesinin ilk güncellemesi
+## 11 Kasım 2026: Suveria teknik belgesinin ilk güncellemesi
 
 - Suveria teknik belgesinin 6. bölümüne, bu bölümde duyurulan ilk tarihli güncellemeyi ekledik: Kimi K3.1 Pro modelinin ağırlıkları herkese açık; 9 Kasım 2026 itibarıyla boyutlarını, lisansı, motor tariflerini ve gizlilik korumalı API’lerde erişilebilirliği anlatıyoruz. Suveria’nın modeli için birinci aday DeepSeek-V4.1-Flash olmayı sürdürüyor. Belgenin önceki metni sürüm geçmişinde korunuyor.
+- [Suveria’daki dijital zekâ modelleri](suveria-modele.md) sayfasındaki Kimi K3.1 Pro açıklaması artık bu güncellemeye uyuyor.
 
 ## 8 Kasım 2026: OmniForum adının yazılışı
 

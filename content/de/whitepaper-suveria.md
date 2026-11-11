@@ -1,6 +1,6 @@
 # Suveria: private Arbeit mit digitaler Intelligenz
 
-Fassung vom 9. November 2026. Das Dokument entwickelt die Grundsätze des Manifests weiter, die Suveria betreffen: wie wir die Privatsphäre schützen wollen, wie die Arbeit mit digitaler Intelligenz funktionieren soll, was das kostet und wie wir es überprüfen werden. Die beschriebene Architektur ist ein Entwurf. Der Verweis auf eine bestehende Technologie oder auf die Dokumentation eines Anbieters bedeutet nicht, dass wir sie in Suveria in Betrieb genommen haben. Die Ergebnisse unserer Versuche tragen wir in Kapitel 9 nach, immer mit Datum, Konfigurationsversion und Umfang der Messung.
+Fassung vom 11. November 2026. Das Dokument entwickelt die Grundsätze des Manifests weiter, die Suveria betreffen: wie wir die Privatsphäre schützen wollen, wie die Arbeit mit digitaler Intelligenz funktionieren soll, was das kostet und wie wir es überprüfen werden. Die beschriebene Architektur ist ein Entwurf. Der Verweis auf eine bestehende Technologie oder auf die Dokumentation eines Anbieters bedeutet nicht, dass wir sie in Suveria in Betrieb genommen haben. Die Ergebnisse unserer Versuche tragen wir in Kapitel 9 nach, immer mit Datum, Konfigurationsversion und Umfang der Messung.
 
 *Diese Übersetzung wurde von digitaler Intelligenz auf Grundlage des polnischen Originals vom 8. November 2026 erstellt. Bei Abweichungen ist der polnische Text maßgeblich.*
 

@@ -1,6 +1,6 @@
 # Suveria: privé werken met digitale intelligentie
 
-Versie van 9 november 2026. Dit document werkt de beginselen uit het manifest voor Suveria verder uit: hoe we de privacy willen beschermen, hoe werken met digitale intelligentie moet verlopen, hoeveel het kost en hoe we dat zullen toetsen. De beschreven architectuur is een ontwerp. Verwijzen naar bestaande technologie of documentatie van een aanbieder betekent niet dat we die in Suveria hebben ingevoerd. De resultaten van onze proeven voegen we toe in hoofdstuk 9, altijd met datum, configuratieversie en meetbereik.
+Versie van 11 november 2026. Dit document werkt de beginselen uit het manifest voor Suveria verder uit: hoe we de privacy willen beschermen, hoe werken met digitale intelligentie moet verlopen, hoeveel het kost en hoe we dat zullen toetsen. De beschreven architectuur is een ontwerp. Verwijzen naar bestaande technologie of documentatie van een aanbieder betekent niet dat we die in Suveria hebben ingevoerd. De resultaten van onze proeven voegen we toe in hoofdstuk 9, altijd met datum, configuratieversie en meetbereik.
 
 *Nederlandse vertaling door digitale intelligentie van het Poolse origineel van 8 november 2026. Bij verschillen tussen de versies is de Poolse tekst doorslaggevend.*
 

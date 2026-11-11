@@ -1,6 +1,6 @@
 # Suveria: làm việc riêng tư với trí tuệ số
 
-Phiên bản ngày 9 tháng 11 năm 2026. Tài liệu phát triển các nguyên tắc của tuyên ngôn về Suveria: cách chúng tôi muốn bảo vệ quyền riêng tư, cách làm việc với trí tuệ số được dự kiến vận hành, chi phí và cách kiểm tra. Kiến trúc được mô tả là bản thiết kế. Việc chỉ ra công nghệ hiện có hoặc tài liệu nhà cung cấp không có nghĩa là chúng tôi đã vận hành chúng trong Suveria. Kết quả thử nghiệm được bổ sung ở chương 9, luôn có ngày, phiên bản cấu hình và phạm vi đo.
+Phiên bản ngày 11 tháng 11 năm 2026. Tài liệu phát triển các nguyên tắc của tuyên ngôn về Suveria: cách chúng tôi muốn bảo vệ quyền riêng tư, cách làm việc với trí tuệ số được dự kiến vận hành, chi phí và cách kiểm tra. Kiến trúc được mô tả là bản thiết kế. Việc chỉ ra công nghệ hiện có hoặc tài liệu nhà cung cấp không có nghĩa là chúng tôi đã vận hành chúng trong Suveria. Kết quả thử nghiệm được bổ sung ở chương 9, luôn có ngày, phiên bản cấu hình và phạm vi đo.
 
 *Bản dịch do trí tuệ số thực hiện dựa trên bản gốc tiếng Ba Lan ngày 8 tháng 11 năm 2026. Khi có khác biệt, văn bản tiếng Ba Lan có giá trị quyết định.*
 

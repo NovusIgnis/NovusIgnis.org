@@ -1,6 +1,6 @@
 # Suveria: private work with digital intelligence
 
-Version of 9 November 2026. This document develops the principles of the manifesto that concern Suveria: how we want to protect privacy, how work with digital intelligence is to function, how much it costs and how we will verify it. The architecture described here is a design. Referring to an existing technology or to a provider's documentation does not mean that we have launched it in Suveria. We add the results of our trials in chapter 9, always with the date, the configuration version and the scope of the measurement.
+Version of 11 November 2026. This document develops the principles of the manifesto that concern Suveria: how we want to protect privacy, how work with digital intelligence is to function, how much it costs and how we will verify it. The architecture described here is a design. Referring to an existing technology or to a provider's documentation does not mean that we have launched it in Suveria. We add the results of our trials in chapter 9, always with the date, the configuration version and the scope of the measurement.
 
 *Translated into English by digital intelligence from the Polish original of 8 November 2026. Where the versions differ, the Polish text prevails.*
 

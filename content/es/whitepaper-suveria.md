@@ -1,6 +1,6 @@
 # Suveria: trabajo privado con la inteligencia digital
 
-Versión del 9 de noviembre de 2026. Este documento desarrolla los principios del manifiesto relativos a Suveria: cómo queremos proteger la privacidad, cómo ha de funcionar el trabajo con la inteligencia digital, cuánto cuesta y cómo lo comprobaremos. La arquitectura descrita es un proyecto. Mencionar una tecnología existente o la documentación de un proveedor no significa que la hayamos puesto en marcha en Suveria. Añadimos los resultados de nuestras pruebas en el capítulo 9, siempre con la fecha, la versión de la configuración y el alcance de la medición.
+Versión del 11 de noviembre de 2026. Este documento desarrolla los principios del manifiesto relativos a Suveria: cómo queremos proteger la privacidad, cómo ha de funcionar el trabajo con la inteligencia digital, cuánto cuesta y cómo lo comprobaremos. La arquitectura descrita es un proyecto. Mencionar una tecnología existente o la documentación de un proveedor no significa que la hayamos puesto en marcha en Suveria. Añadimos los resultados de nuestras pruebas en el capítulo 9, siempre con la fecha, la versión de la configuración y el alcance de la medición.
 
 *Traducción realizada por inteligencia digital a partir del original polaco del 8 de noviembre de 2026. Si las versiones difieren, prevalece el texto polaco.*
 
